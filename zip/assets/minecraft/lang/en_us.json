@@ -1,0 +1,12 @@
+{
+  "argument.special.block_tag.failed": "無法將方塊標籤 '%s' 放置在 '%s'",
+  "argument.special.block_tag.invalid": "未知的方塊標籤 '%s'",
+  "argument.special.block_tag.placed": "已放置方塊標籤 '%s'",
+  "argument.special.entity_tag.invalid": "未知的實體標籤 '%s'",
+  "argument.special.entity_tag.summoned": "已召喚實體標籤 '%s'",
+  "argument.special.item_tag.given": "已給予物品標籤 '%s'",
+  "argument.special.item_tag.invalid": "未知的物品標籤 '%s'",
+  "argument.special.invalid_category": "未知的分類 '%s'",
+  "commands.hide.value_change": "已將自己的隱形狀態切換為 '%s'",
+  "subtitles.creativity_core.prohibit_placement": "這個材質不允許放置"
+}
