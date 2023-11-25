@@ -44,12 +44,17 @@
   "book.land_system.land_config.do_explodes": "允許生物破壞",
   "book.land_system.land_config.safe_bound": "允許爆炸",
   "book.land_system.land_config.trample_farmland": "允許踩踏耕地",
-  "book.monetary_system.currency_status.edit": "編輯中",
-  "book.monetary_system.currency_status.wait": "等待中",
-  "book.monetary_system.currency_status.accept": "已接受",
-  "book.monetary_system.currency_status.reject": "已拒絕",
-  "book.monetary_system.currency_status.remove": "已移除",
+  "book.monetary_system.menu.wallet": "錢包",
+  "book.monetary_system.menu.wallet_title": "   《    錢包    》",
+  "book.monetary_system.currency_audit.edit": "編輯中",
+  "book.monetary_system.currency_audit.wait": "等待中",
+  "book.monetary_system.currency_audit.accept": "已接受",
+  "book.monetary_system.currency_audit.reject": "已拒絕",
   "book.monetary_system.currency_lock.none": "無上鎖",
   "book.monetary_system.currency_lock.admin_only": "上鎖中（不含管理者）",
-  "book.monetary_system.currency_lock.all": "上鎖中"
+  "book.monetary_system.currency_lock.all": "上鎖中",
+  "book.monetary_system.currency_lock.prohibit": "禁止中",
+  "book.monetary_system.currency_level.junior": "初級",
+  "book.monetary_system.currency_level.normal": "普通",
+  "book.monetary_system.currency_level.senior": "高級"
 }
