@@ -112,6 +112,8 @@
   "book.monetary_system.menu.reject": "拒絕",
   "book.monetary_system.menu.reedit": "重新編輯",
   "book.monetary_system.menu.transfer": "轉帳",
+  "book.monetary_system.menu.amount_format_error": "金額格式錯誤",
+  "book.monetary_system.menu.destroy_within": "內銷毀",
   "book.monetary_system.menu.destroy": "銷毀",
   "book.monetary_system.menu.generate": "生成",
   "book.monetary_system.menu.amount": "金額",
@@ -126,6 +128,7 @@
   "book.monetary_system.currency_level.junior": "初級",
   "book.monetary_system.currency_level.normal": "普通",
   "book.monetary_system.currency_level.senior": "高級",
+  "commands.monetary_system.wallet.senior": "高級",
   "book.player_register.menu.player_failure": "玩家失效",
   "book.player_register.menu.incorrect_player_name": "玩家名稱不正確",
   "book.player_register.menu.unable_find_player": "無法找到該玩家"
