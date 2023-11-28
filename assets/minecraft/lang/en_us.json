@@ -128,7 +128,6 @@
   "book.monetary_system.currency_level.junior": "初級",
   "book.monetary_system.currency_level.normal": "普通",
   "book.monetary_system.currency_level.senior": "高級",
-  "commands.monetary_system.wallet.senior": "高級",
   "book.player_register.menu.player_failure": "玩家失效",
   "book.player_register.menu.incorrect_player_name": "玩家名稱不正確",
   "book.player_register.menu.unable_find_player": "無法找到該玩家"
