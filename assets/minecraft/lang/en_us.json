@@ -84,7 +84,7 @@
   "book.monetary_system.menu.create": "創建",
   "book.monetary_system.menu.create_currency": "創建貨幣",
   "book.monetary_system.menu.currency": "貨幣",
-  "book.monetary_system.menu.currency_audit": "貨幣（審查）",
+  "book.monetary_system.menu.currency_audit": "貨幣審查",
   "book.monetary_system.menu.currency_code_repeat": "貨幣代號重複",
   "book.monetary_system.menu.currency_edit_failure": "貨幣編輯失效",
   "book.monetary_system.menu.currency_failure": "貨幣失效",
