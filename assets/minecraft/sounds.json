@@ -1,2 +1,3 @@
 {
+  "item.land_system.land_book_spawn": {"subtitle": "subtitles.land_system.land_book_spawn", "sounds": ["item/book/page_turn"]}
 }
