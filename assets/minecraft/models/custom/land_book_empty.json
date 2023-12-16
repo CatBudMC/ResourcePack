@@ -2,6 +2,6 @@
   "credit": "xuancat",
   "parent": "item/generated",
   "textures": {
-  "layer0": "item/custom/land_book_empty"
+    "layer0": "item/custom/land_book_empty"
   }
 }
