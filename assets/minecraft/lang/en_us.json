@@ -1,4 +1,5 @@
 {
+  "argument.player_register.player_first_joined": "%s 首次加入了遊戲",
   "argument.special.block_tag.failed": "無法將方塊標籤 '%s' 放置在 '%s'",
   "argument.special.block_tag.invalid": "未知的方塊標籤 '%s'",
   "argument.special.block_tag.placed": "已放置方塊標籤 '%s'",
@@ -101,7 +102,7 @@
   "book.monetary_system.menu.editor": "編輯者",
   "book.monetary_system.menu.founder_is": "創始人 %s",
   "book.monetary_system.menu.from_balance": "從餘額",
-  "book.monetary_system.menu.future_transfer_fee": "轉讓時需支付費用",
+  "book.monetary_system.menu.future_transfer_fee": "轉讓管理者額外收費",
   "book.monetary_system.menu.generate": "生成",
   "book.monetary_system.menu.history_empty": "      沒有任何歷史...",
   "book.monetary_system.menu.history_total": "歷史（%s 筆）",
@@ -145,6 +146,8 @@
   "book.more_utilities.menu.root_title": "     《    補助    》",
   "book.more_utilities.mod.auto_replenishment.lore": "手中物品使用完畢會自動從背包內取出",
   "book.more_utilities.mod.auto_replenishment.name": "自動補貨",
+  "book.more_utilities.mod.display_health.lore": "生物頭上會顯示剩餘的生命值",
+  "book.more_utilities.mod.display_health.name": "顯示生物血量",
   "book.more_utilities.mod.forever_night_vision.name": "永久夜視",
   "book.more_utilities.mod.organize_backpack.lore": "庫存內按下 %s + %s 排序全部內容物",
   "book.more_utilities.mod.organize_backpack.name": "整理背包",
@@ -162,5 +165,10 @@
   "subtitles.creativity_core.prohibit_placement": "這個材質不允許放置",
   "subtitles.land_system.land_book_spawn": "領地書誕生",
   "subtitles.more_utilities.prevented_pick_item": "補助功能已阻止撿起物品",
-  "subtitles.more_utilities.prevented_throw_item": "補助功能已阻止丟出物品"
+  "subtitles.more_utilities.prevented_throw_item": "補助功能已阻止丟出物品",
+  "tab.tab_information.location": "座標 %s",
+  "tab.tab_information.ping": "延遲 %s",
+  "tab.tab_information.players": "人數 %s",
+  "tab.tab_information.tps": "性能 %s",
+  "tab.tab_information.version": "版本 %s"
 }

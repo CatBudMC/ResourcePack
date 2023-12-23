@@ -1,3 +1,4 @@
 {
-  "item.land_system.land_book_spawn": {"subtitle": "subtitles.land_system.land_book_spawn", "sounds": ["item/book/page_turn"]}
+  "item.land_system.land_book_spawn": {"subtitle": "subtitles.land_system.land_book_spawn", "sounds": ["item/book/open_flip1"]},
+  "action.more_utilities.prevented_throw_item": {"subtitle": "subtitles.more_utilities.prevented_throw_item", "sounds": ["block/bell/bell_use01"]}
 }
