@@ -79,6 +79,7 @@
   "book.land_system.menu.land_failure": "      領地資料丟失...",
   "book.land_system.menu.land_id": "領地編號",
   "book.land_system.menu.member_and_identity": "成員與身份組",
+  "book.land_system.menu.member_full": "成員已滿",
   "book.land_system.menu.no_repetition": "不能有重複",
   "book.land_system.menu.remaining_days": "剩餘 %s 天",
   "book.land_system.menu.role_empty": "     沒有任何身分組...",
