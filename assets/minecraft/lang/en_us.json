@@ -39,6 +39,7 @@
   "book.book_framework.menu.title": "     《    選單    》",
   "book.land_system.land_config.do_explodes": "爆炸",
   "book.land_system.land_config.do_insomnia": "夜魅在夜晚生成",
+  "book.land_system.land_config.do_snowpack": "積雪",
   "book.land_system.land_config.fire_tick": "火蔓延",
   "book.land_system.land_config.mob_build": "生物建造",
   "book.land_system.land_config.mob_destroy": "生物破壞",
