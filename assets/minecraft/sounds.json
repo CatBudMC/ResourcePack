@@ -1,5 +1,26 @@
 {
-  "item.land_system.land_book_spawn": {"subtitle": "subtitles.land_system.land_book_spawn", "sounds": ["item/book/open_flip1"]},
-  "action.more_utilities.prevented_throw_item": {"subtitle": "subtitles.more_utilities.prevented_throw_item", "sounds": ["block/bell/bell_use01"]},
-  "action.land_system.land_denied": {"subtitle": "subtitles.land_system.land_denied", "sounds": ["block/bell/bell_use01"]}
+  "action.land_system.land_denied": {
+    "subtitle": "subtitles.land_system.land_denied",
+    "sounds": [
+      "block/bell/bell_use01"
+    ]
+  },
+  "action.land_system.land_remove_entity": {
+    "subtitle": "subtitles.land_system.land_remove_entity",
+    "sounds": [
+      "block/respawn_anchor/deplete1"
+    ]
+  },
+  "action.more_utilities.prevented_throw_item": {
+    "subtitle": "subtitles.more_utilities.prevented_throw_item",
+    "sounds": [
+      "block/bell/bell_use01"
+    ]
+  },
+  "item.land_system.land_book_spawn": {
+    "subtitle": "subtitles.land_system.land_book_spawn",
+    "sounds": [
+      "item/book/open_flip1"
+    ]
+  }
 }
