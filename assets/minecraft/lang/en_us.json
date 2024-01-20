@@ -288,6 +288,7 @@
   "item.land_system.land_book": "領地書",
   "item.land_system.land_book_empty": "空白的領地書",
   "lore.land_system.land_book.id": "ID #%s",
+  "message.discord_system.click_to_join_discord": "你還沒有加入 Discord… 點擊此處立即加入 Discord 群組！",
   "message.monetary_system.transfer_received": "<%s> 轉帳 %s %s 給了你",
   "message.monetary_system.transfer_send": "<%s> 轉帳 %s %s 給了 %s",
   "message.player_register.accept": "接受",
