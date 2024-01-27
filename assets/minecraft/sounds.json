@@ -22,5 +22,12 @@
     "sounds": [
       "item/book/open_flip1"
     ]
+  },
+  "action.beacon_provider.player_move_location": {
+    "subtitle": "subtitles.beacon_provider.player_move_location",
+    "sounds": [
+      "mob/endermen/portal",
+      "mob/endermen/portal2"
+    ]
   }
 }
