@@ -4,5 +4,8 @@
     "layer0": "item/barrier"
   },
   "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "block/red_mushroom_block_inventory"},
+    {"predicate": {"custom_model_data": 2}, "model": "block/brown_mushroom_block_inventory"},
+    {"predicate": {"custom_model_data": 3}, "model": "block/mushroom_stem_inventory"}
   ]
 }
