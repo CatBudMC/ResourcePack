@@ -389,6 +389,7 @@
   "message.player_register.players_request_join_friends": "<%s> 向你提交了好友申請，%s 或無視。",
   "message.task_config.task_completion": "%s任務 %s 完成！",
   "message.task_config.task_progress": "%s任務 %s 進度 %s / %s",
+  "subtitles.auto_regenerate.unsafe_placement": "此區域會每天重製、請不要在此處蓋家！",
   "subtitles.beacon_provider.player_move_location": "玩家移動座標",
   "subtitles.creativity_core.prohibit_placement": "這個材質不允許放置",
   "subtitles.land_system.create_land_cooling": "創建領地冷卻中",
