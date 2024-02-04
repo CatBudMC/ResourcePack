@@ -115,6 +115,7 @@
   "book.land_system.menu.declare": "宣告",
   "book.land_system.menu.delete": "刪除",
   "book.land_system.menu.delete_declare": "刪除宣告",
+  "book.land_system.menu.everyone": "所有人",
   "book.land_system.menu.global_setup": "全局設置",
   "book.land_system.menu.history_empty": "      沒有任何歷史...",
   "book.land_system.menu.history_total": "歷史（%s 筆）",
