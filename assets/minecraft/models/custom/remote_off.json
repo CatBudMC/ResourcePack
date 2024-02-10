@@ -1,0 +1,7 @@
+{
+  "credit": "xuancat0208",
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "block/custom/remote_off"
+  }
+}

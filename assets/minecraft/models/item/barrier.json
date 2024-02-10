@@ -6,6 +6,8 @@
   "overrides": [
     {"predicate": {"custom_model_data": 1}, "model": "block/red_mushroom_block_inventory"},
     {"predicate": {"custom_model_data": 2}, "model": "block/brown_mushroom_block_inventory"},
-    {"predicate": {"custom_model_data": 3}, "model": "block/mushroom_stem_inventory"}
+    {"predicate": {"custom_model_data": 3}, "model": "block/mushroom_stem_inventory"},
+    {"predicate": {"custom_model_data": 4}, "model": "custom/notify_off"},
+    {"predicate": {"custom_model_data": 5}, "model": "custom/remote_off"}
   ]
 }
