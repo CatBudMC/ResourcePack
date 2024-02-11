@@ -429,6 +429,8 @@
   "message.channel_control.menu.member_join": "%s 加入了頻道 %s",
   "message.channel_control.menu.member_quit": "%s 退出了頻道 %s",
   "message.discord_system.click_to_join_discord": "你還沒有加入 Discord… 點擊此處立即加入 Discord 群組！",
+  "message.message_manager.private.receive_message": "<%s> → <你> %s",
+  "message.message_manager.private.send_message": "<你> → <%s> %s",
   "message.monetary_system.transfer_received": "<%s> 轉帳 %s %s 給了你",
   "message.monetary_system.transfer_send": "<%s> 轉帳 %s %s 給了 %s",
   "message.player_register.accept": "接受",
