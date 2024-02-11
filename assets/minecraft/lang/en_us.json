@@ -421,7 +421,7 @@
   "commands.code.use_card": "成功使用卡片獲得 %s %s",
   "commands.hide.value_change": "已將自己的隱形狀態切換為 '%s'",
   "commands.token.token_capacity_full": "令牌容量已滿",
-  "commands.token.token_created": "令牌已創鍵：%s",
+  "commands.token.token_created": "令牌已創建：%s",
   "item.land_system.land_book": "領地書",
   "item.land_system.land_book_empty": "空白的領地書",
   "lore.land_system.land_book.id": "ID #%s",
