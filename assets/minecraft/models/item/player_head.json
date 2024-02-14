@@ -1,5 +1,5 @@
 {
-  "parent": "builtin/entity",
+  "parent": "item/template_skull",
   "textures": {
     "particle": "block/soul_sand"
   },
