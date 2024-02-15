@@ -540,6 +540,7 @@
   "title.chunk_loader.chunk_loading": "%s, %s 載入中",
   "title.chunk_loader.effective_remainder": "剩餘 %s 天 %s 時 %s 分 %s 秒",
   "tokenLicense.friend_list.name": "朋友列表",
+  "tokenLicense.land_adjust.name": "領地調整",
   "tokenLicense.obstruct_list.name": "封鎖列表",
   "tokenLicense.own_metadata.name": "自身數據",
   "tokenLicense.own_position.name": "自身位置",
