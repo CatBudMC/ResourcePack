@@ -1,0 +1,7 @@
+{
+  "credit": "xuancat",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/custom/sound_bell"
+  }
+}
