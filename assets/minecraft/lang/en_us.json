@@ -296,6 +296,8 @@
   "book.more_utilities.util.distance_view.lore.0": "最遠可以看到 %s 區塊",
   "book.more_utilities.util.distance_view.lore.1": "剩餘 %s 天 %s 時 %s 分 %s 秒",
   "book.more_utilities.util.distance_view.name": "增加視野距離",
+  "book.more_utilities.util.drop_perspective.lore": "穿牆看到掉落物的材質",
+  "book.more_utilities.util.drop_perspective.name": "掉落物透視",
   "book.more_utilities.util.entity_perspective.lore": "穿牆看到生物的類型",
   "book.more_utilities.util.entity_perspective.name": "生物透視",
   "book.more_utilities.util.forever_night_vision.name": "永久夜視",
