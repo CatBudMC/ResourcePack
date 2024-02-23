@@ -319,6 +319,8 @@
   "book.more_utilities.util.record_death_location.name": "紀錄死亡位置",
   "book.more_utilities.util.soul_sighting.lore": "按下 %s + %s 變換為觀察者模式",
   "book.more_utilities.util.soul_sighting.name": "靈魂出竅",
+  "book.more_utilities.util.view_friend_backpack.lore": "對著朋友按下 %s + %s 查看他的背包",
+  "book.more_utilities.util.view_friend_backpack.name": "查看好友背包",
   "book.player_register.menu.already_friend": "已經是朋友了",
   "book.player_register.menu.already_obstruct": "已經被封鎖了",
   "book.player_register.menu.can_not_myself": "不能是自己",
