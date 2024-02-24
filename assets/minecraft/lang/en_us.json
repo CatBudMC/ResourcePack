@@ -35,7 +35,7 @@
   "book.auto_regenerate.util.refresh_prompt.name": "提示等待刷新",
   "book.beacon_provider.menu.beacon": "信標",
   "book.beacon_provider.menu.beacon_distance": "距離 %s 格遠",
-  "book.beacon_provider.menu.beacon_exceeds_capacity_limit": "信標超過容量限制",
+  "book.beacon_provider.menu.beacon_capacity_limit": "信標超過容量限制",
   "book.beacon_provider.menu.beacon_lore": "畫面中新增、編輯信號標誌",
   "book.beacon_provider.menu.beacon_lore_date": "建立於 %s",
   "book.beacon_provider.menu.beacon_lore_distance": "距離 %s 格遠",
@@ -328,7 +328,7 @@
   "book.player_register.menu.confirm_delete_obstruct": "確定刪除封鎖？",
   "book.player_register.menu.cooling": "冷卻中",
   "book.player_register.menu.friend": "朋友",
-  "book.player_register.menu.friend_exceeds_capacity_limit": "朋友超過容量限制",
+  "book.player_register.menu.friend_capacity_limit": "朋友超過容量限制",
   "book.player_register.menu.friend_lore": "新增、編輯朋友清單",
   "book.player_register.menu.friend_request_submit_finish": "已提交（等待對方接受）",
   "book.player_register.menu.friend_title": "     《    朋友    》",
@@ -337,7 +337,7 @@
   "book.player_register.menu.join_time": "加入時間 %s",
   "book.player_register.menu.last_online": "最後上線 %s",
   "book.player_register.menu.obstruct": "封鎖",
-  "book.player_register.menu.obstruct_exceeds_capacity_limit": "封鎖超過容量限制",
+  "book.player_register.menu.obstruct_capacity_limit": "封鎖超過容量限制",
   "book.player_register.menu.obstruct_lore": "不會顯示對方的訊息、好友申請",
   "book.player_register.menu.obstruct_title": "     《    封鎖    》",
   "book.player_register.menu.online": "線上中",
@@ -665,5 +665,10 @@
   "worldEnvironment.custom": "自定義世界",
   "worldEnvironment.nether": "地獄",
   "worldEnvironment.normal": "主世界",
-  "worldEnvironment.the_end": "終界"
+  "worldEnvironment.the_end": "終界",
+  "book.script_control.menu.root": "腳本",
+  "book.script_control.menu.root_lore": "新增、更改、使用已保存的腳本",
+  "book.script_control.menu.root_title": "     《    腳本    》",
+  "book.script_control.menu.create_script": "創建腳本",
+  "book.script_control.menu.script_capacity_limit": "腳本超過容量限制"
 }
