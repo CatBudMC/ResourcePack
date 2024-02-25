@@ -379,7 +379,6 @@
   "book.script_control.menu.confirm_delete_script": "確定刪除腳本？",
   "book.script_control.menu.create_script": "創建腳本",
   "book.script_control.menu.join_action": "加入動作",
-  "book.script_control.menu.no_change_provided": "      沒有可改變的...",
   "book.script_control.menu.none_hotkey": "沒有熱鍵",
   "book.script_control.menu.root": "腳本",
   "book.script_control.menu.root_lore": "新增、更改、使用已保存的腳本",
