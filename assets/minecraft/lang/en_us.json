@@ -694,5 +694,10 @@
   "worldEnvironment.custom": "自定義世界",
   "worldEnvironment.nether": "地獄",
   "worldEnvironment.normal": "主世界",
-  "worldEnvironment.the_end": "終界"
+  "worldEnvironment.the_end": "終界",
+  "book.script_control.action.destroy.lore": "挖掘",
+  "book.script_control.action.destroy.name": "挖掘前方",
+  "book.script_control.action.hold.lore": "持有 %s",
+  "book.script_control.action.hold.name": "改變持有快捷欄位",
+  "book.script_control.action.hold.change": "第 %s 快欄位"
 }
