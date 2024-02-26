@@ -376,7 +376,7 @@
   "book.script_control.action.head_pitch.name": "更改頭俯仰角度",
   "book.script_control.action.head_yaw.lore": "頭轉向 %s",
   "book.script_control.action.head_yaw.name": "更改頭偏航角度",
-  "book.script_control.action.hold.change": "第 %s 快欄位",
+  "book.script_control.action.hold.change": "第 %s 快捷欄位",
   "book.script_control.action.hold.lore": "持有 %s",
   "book.script_control.action.hold.name": "改變持有快捷欄位",
   "book.script_control.action.use.lore": "使用 %s",
