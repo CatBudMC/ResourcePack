@@ -73,6 +73,18 @@
       "countdown_alert/60_second"
     ]
   },
+  "action.shutdown_alert.end": {
+    "subtitle": "subtitles.shutdown_alert.end",
+    "sounds": [
+      "countdown_alert/end"
+    ]
+  },
+  "action.shutdown_alert.start": {
+    "subtitle": "subtitles.shutdown_alert.start",
+    "sounds": [
+      "countdown_alert/start"
+    ]
+  },
   "action.sound_bell.kizuna_akari.attack_big": {
     "subtitle": "subtitles.sound_bell.kizuna_akari.attack_big",
     "sounds": [
