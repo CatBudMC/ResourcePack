@@ -458,7 +458,7 @@
   "book.task_config.refresh_daily.login": "登入簽到",
   "book.task_config.refresh_daily.netherite": "奉獻獄髓",
   "book.task_config.refresh_daily.pickaxe": "輕鬆挖掘",
-  "book.task_config.refresh_daily.verified": "有認證的每天完成",
+  "book.task_config.refresh_daily.verified": "有認證的登入簽到",
   "book.task_config.refresh_daily.zombie": "殭屍獵手",
   "book.task_config.refresh_monthly.daily": "月簽到表",
   "book.task_config.refresh_monthly.diamond": "血鑽石",
