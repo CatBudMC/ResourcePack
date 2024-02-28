@@ -109,7 +109,7 @@
   "book.chunk_loader.util.loader_prompt.name": "提示載入中",
   "book.discord_system.refresh_weekly.forum": "活躍論壇",
   "book.discord_system.refresh_weekly.forum_lore": "在 Discord 群組內貼文、聊天",
-  "book.invitation_letter.menu.have_verifier": "有驗證",
+  "book.invitation_letter.menu.have_verifier": "已認證",
   "book.invitation_letter.menu.none": "無",
   "book.invitation_letter.menu.root": "邀請",
   "book.invitation_letter.menu.root_lore.0": "邀請其他玩家來獲得獎勵！",
