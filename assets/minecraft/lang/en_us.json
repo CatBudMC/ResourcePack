@@ -287,6 +287,8 @@
   "book.more_utilities.menu.root_title": "     《    輔助    》",
   "book.more_utilities.util.afk_protection.lore": "未移動超過 10 分鐘時受到傷害將自動斷線",
   "book.more_utilities.util.afk_protection.name": "掛機保護",
+  "book.more_utilities.util.auto_elytra.lore": "穿著盔甲時在空中或手持煙火會自動裝備鞘翅",
+  "book.more_utilities.util.auto_elytra.name": "自動鞘翅",
   "book.more_utilities.util.auto_fishing.lore": "魚咬住鉤時自動釣起、拋竿",
   "book.more_utilities.util.auto_fishing.name": "自動釣魚",
   "book.more_utilities.util.auto_replenishment.lore": "手中物品使用完畢會自動從背包內取出",
