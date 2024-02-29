@@ -103,7 +103,7 @@
   "book.chunk_loader.menu.keep_lore_location": "位於 %s / %d / ~ / %d",
   "book.chunk_loader.menu.now_join_keep": "從當前位置加入",
   "book.chunk_loader.menu.root": "加載",
-  "book.chunk_loader.menu.root_lore": "附近無玩家時方塊依然會運作",
+  "book.chunk_loader.menu.root_lore": "附近無玩家時區塊依然會運作",
   "book.chunk_loader.menu.root_title": "     《    加載    》",
   "book.chunk_loader.util.loader_prompt.lore": "顯示哪些區塊正在載入中",
   "book.chunk_loader.util.loader_prompt.name": "提示載入中",
