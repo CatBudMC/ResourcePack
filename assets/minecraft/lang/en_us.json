@@ -530,6 +530,7 @@
   "item.minecraft.tipped_arrow.effect.night_vision": "運氣之箭",
   "item.sound_bell.sound_bell": "聲音鈴鐺",
   "lore.land_system.land_book.id": "ID #%s",
+  "lore.stop_copy.locked": "上鎖",
   "message.channel_control.channel_is": "頻道：%s",
   "message.channel_control.member_join": "%s 加入了頻道 %s",
   "message.channel_control.member_quit": "%s 退出了頻道 %s",
