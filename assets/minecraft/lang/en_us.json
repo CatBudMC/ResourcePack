@@ -744,6 +744,7 @@
   "title.chunk_loader.chunk_loading": "%s, %s 載入中",
   "title.chunk_loader.effective_remainder": "剩餘 %s 天 %s 時 %s 分 %s 秒",
   "title.more_utilities.item_damage_alarm": "%s 即將損壞",
+  "title.more_utilities.self_location": "自身所在位置",
   "tokenLicense.friend_list.name": "朋友列表",
   "tokenLicense.land_adjust.name": "領地調整",
   "tokenLicense.land_notify.name": "領地通知器",
