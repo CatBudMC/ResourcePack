@@ -115,6 +115,7 @@
   "book.currency_store.menu.bank_code": "銀行コード",
   "book.currency_store.menu.copy_to_clipboard": "クリップボードにコピー",
   "book.currency_store.menu.create_payment_cooling": "支払い冷却の作成",
+  "book.currency_store.menu.create_payment_failure": "支払いの作成に失敗しました",
   "book.currency_store.menu.fami_payment_code": "ファミ支払いコード",
   "book.currency_store.menu.ibon_payment_code": "Ibon 支払いコード",
   "book.currency_store.menu.log_empty": "  記録が見つかりません...",

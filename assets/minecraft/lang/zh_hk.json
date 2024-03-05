@@ -115,6 +115,7 @@
   "book.currency_store.menu.bank_code": "銀行代號",
   "book.currency_store.menu.copy_to_clipboard": "複製到剪貼簿",
   "book.currency_store.menu.create_payment_cooling": "創建付款冷卻中",
+  "book.currency_store.menu.create_payment_failure": "創建付款失敗",
   "book.currency_store.menu.fami_payment_code": "全家繳費代碼",
   "book.currency_store.menu.ibon_payment_code": "Ibon 繳費代碼",
   "book.currency_store.menu.log_empty": "      沒有任何紀錄...",

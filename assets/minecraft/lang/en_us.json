@@ -115,6 +115,7 @@
   "book.currency_store.menu.bank_code": "Bank Code",
   "book.currency_store.menu.copy_to_clipboard": "Copy to Clipboard",
   "book.currency_store.menu.create_payment_cooling": "Creating Payment Cooling",
+  "book.currency_store.menu.create_payment_failure": "Failed to create payment",
   "book.currency_store.menu.fami_payment_code": "Fami Payment Code",
   "book.currency_store.menu.ibon_payment_code": "Ibon Payment Code",
   "book.currency_store.menu.log_empty": "     No Records Found...",
