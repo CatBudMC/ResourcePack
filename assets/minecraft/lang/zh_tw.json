@@ -779,5 +779,8 @@
   "worldEnvironment.custom": "自定義世界",
   "worldEnvironment.nether": "地獄",
   "worldEnvironment.normal": "主世界",
-  "worldEnvironment.the_end": "終界"
+  "worldEnvironment.the_end": "終界",
+  "_": "下方為還未更新",
+  "argument.land.book.given": "已給予編號 '%s' 的領地書",
+  "commands.hide.used.change": "已將編號 '%s' 的領地使用量更改為 '%s'"
 }
