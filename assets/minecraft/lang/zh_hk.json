@@ -1,4 +1,5 @@
 {
+  "argument.land.book.given": "已給予編號 '%s' 的領地書",
   "argument.special.block_tag.failed": "無法將方塊標籤 '%s' 放置在 '%s'",
   "argument.special.block_tag.invalid": "未知的方塊標籤 '%s'",
   "argument.special.block_tag.placed": "已放置方塊標籤 '%s'",
@@ -325,6 +326,8 @@
   "book.more_utilities.util.distance_view.lore.0": "最遠可以看到 %s 區塊",
   "book.more_utilities.util.distance_view.lore.1": "剩餘 %s 天 %s 時 %s 分 %s 秒",
   "book.more_utilities.util.distance_view.name": "增加視野距離",
+  "book.more_utilities.util.do_insomnia.lore": "允許夜魅在夜晚生成",
+  "book.more_utilities.util.do_insomnia.name": "生成夜魅",
   "book.more_utilities.util.drop_perspective.lore": "穿牆看到掉落物的材質",
   "book.more_utilities.util.drop_perspective.name": "掉落物透視",
   "book.more_utilities.util.entity_perspective.lore": "穿牆看到生物的類型",
@@ -537,6 +540,7 @@
   "commands.code.invalid_card": "無效的卡片",
   "commands.code.use_card": "成功使用卡片獲得 %s %s",
   "commands.hide.value_change": "已將自己的隱形狀態切換為 '%s'",
+  "commands.land.used.change": "已將編號 '%s' 的領地使用量更改為 '%s'",
   "commands.token.token_capacity_full": "令牌容量已滿",
   "commands.token.token_created": "令牌已創建：%s",
   "effect.minecraft.night_vision": "?",

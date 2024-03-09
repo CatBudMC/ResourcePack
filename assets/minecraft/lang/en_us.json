@@ -1,4 +1,5 @@
 {
+  "argument.land.book.given": "Granted land book with ID '%s'",
   "argument.special.block_tag.failed": "Failed to place block tag '%s' at '%s'",
   "argument.special.block_tag.invalid": "Unknown block tag '%s'",
   "argument.special.block_tag.placed": "Placed block tag '%s'",
@@ -325,6 +326,8 @@
   "book.more_utilities.util.distance_view.lore.0": "Able to see up to %s blocks away",
   "book.more_utilities.util.distance_view.lore.1": "Remaining %s days %s hours %s minutes %s seconds",
   "book.more_utilities.util.distance_view.name": "Increase Viewing Distance",
+  "book.more_utilities.util.do_insomnia.lore": "Allows Nocturnals to spawn during the night",
+  "book.more_utilities.util.do_insomnia.name": "Summon Nocturnal",
   "book.more_utilities.util.drop_perspective.lore": "See through walls to view dropped items' material",
   "book.more_utilities.util.drop_perspective.name": "Item Drop Perspective",
   "book.more_utilities.util.entity_perspective.lore": "See through walls to view types of mobs",
@@ -537,6 +540,7 @@
   "commands.code.invalid_card": "Invalid card",
   "commands.code.use_card": "Successfully used card to obtain %s %s",
   "commands.hide.value_change": "Switched own invisibility state to '%s'",
+  "commands.land.used.change": "Changed land usage of ID '%s' to '%s'",
   "commands.token.token_capacity_full": "Token capacity full",
   "commands.token.token_created": "Token created: %s",
   "effect.minecraft.night_vision": "?",

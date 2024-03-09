@@ -1,4 +1,5 @@
 {
+  "argument.land.book.given": "ID '%s' の土地ブックを付与しました",
   "argument.special.block_tag.failed": "ブロックタグ '%s' を '%s' に配置できませんでした",
   "argument.special.block_tag.invalid": "不明なブロックタグ '%s'",
   "argument.special.block_tag.placed": "ブロックタグ '%s' を配置しました",
@@ -325,6 +326,8 @@
   "book.more_utilities.util.distance_view.lore.0": "最も遠く %s ブロックまで見えます",
   "book.more_utilities.util.distance_view.lore.1": "残り %s 日 %s 時間 %s 分 %s 秒",
   "book.more_utilities.util.distance_view.name": "視界距離を増やす",
+  "book.more_utilities.util.do_insomnia.lore": "夜間に夜魔の生成を許可します",
+  "book.more_utilities.util.do_insomnia.name": "夜魔の召喚",
   "book.more_utilities.util.drop_perspective.lore": "壁を通して落ち物の材質が見えます",
   "book.more_utilities.util.drop_perspective.name": "落ち物透視",
   "book.more_utilities.util.entity_perspective.lore": "壁を通して生物の種類が見えます",
@@ -537,6 +540,7 @@
   "commands.code.invalid_card": "無効なカード",
   "commands.code.use_card": "カードを使用して %s %s を獲得しました",
   "commands.hide.value_change": "自分の透明状態を '%s' に切り替えました",
+  "commands.land.used.change": "ID '%s' の土地の使用量を '%s' に変更しました",
   "commands.token.token_capacity_full": "トークン容量がいっぱいです",
   "commands.token.token_created": "トークンが作成されました：%s",
   "effect.minecraft.night_vision": "?",
