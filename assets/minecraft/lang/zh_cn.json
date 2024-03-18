@@ -508,6 +508,7 @@
   "book.task_config.refresh_daily.login": "登入签到",
   "book.task_config.refresh_daily.netherite": "奉献狱髓",
   "book.task_config.refresh_daily.pickaxe": "轻松挖掘",
+  "book.task_config.refresh_daily.time": "玩一下",
   "book.task_config.refresh_daily.verified": "有认证的登入签到",
   "book.task_config.refresh_daily.zombie": "殭尸猎手",
   "book.task_config.refresh_monthly.daily": "月签到表",

@@ -508,6 +508,7 @@
   "book.task_config.refresh_daily.login": "Log in check-in",
   "book.task_config.refresh_daily.netherite": "Donate netherite",
   "book.task_config.refresh_daily.pickaxe": "Easy mining",
+  "book.task_config.refresh_daily.time": "Play a little",
   "book.task_config.refresh_daily.verified": "Verified log-in check-in",
   "book.task_config.refresh_daily.zombie": "Zombie hunter",
   "book.task_config.refresh_monthly.daily": "Monthly sign-in sheet",

@@ -508,6 +508,7 @@
   "book.task_config.refresh_daily.login": "ログインボーナス",
   "book.task_config.refresh_daily.netherite": "ネザライトを寄付",
   "book.task_config.refresh_daily.pickaxe": "簡単な採掘",
+  "book.task_config.refresh_daily.time": "ちょっと遊ぶ",
   "book.task_config.refresh_daily.verified": "認証済みログインボーナス",
   "book.task_config.refresh_daily.zombie": "ゾンビハンター",
   "book.task_config.refresh_monthly.daily": "月間ログイン",
