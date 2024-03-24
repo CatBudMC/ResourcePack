@@ -572,6 +572,7 @@
   "equipmentSlot.head": "ヘルメット",
   "equipmentSlot.legs": "脚部",
   "equipmentSlot.off_hand": "副手",
+  "item.dynamic_map.mobile_map": "ダイナミックマップ",
   "item.land_system.land_book": "領地の書",
   "item.land_system.land_book_empty": "空の領地の書",
   "item.minecraft.lingering_potion.effect.night_vision": "残留 ナイトビジョンポーション",

@@ -572,6 +572,7 @@
   "equipmentSlot.head": "Helmet",
   "equipmentSlot.legs": "Leggings",
   "equipmentSlot.off_hand": "Off-hand",
+  "item.dynamic_map.mobile_map": "Dynamic Map",
   "item.land_system.land_book": "Land book",
   "item.land_system.land_book_empty": "Empty land book",
   "item.minecraft.lingering_potion.effect.night_vision": "Lingering Luck Potion",
