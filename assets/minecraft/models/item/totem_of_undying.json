@@ -19,6 +19,9 @@
     {"predicate": {"custom_model_data": 13}, "model": "custom/cat_hat/cat_hat_siamese"},
     {"predicate": {"custom_model_data": 14}, "model": "custom/cat_hat/cat_hat_tabby"},
     {"predicate": {"custom_model_data": 15}, "model": "custom/cat_hat/cat_hat_tuxedo"},
-    {"predicate": {"custom_model_data": 16}, "model": "custom/cat_hat/cat_hat_white"}
+    {"predicate": {"custom_model_data": 16}, "model": "custom/cat_hat/cat_hat_white"},
+    {"predicate": {"custom_model_data": 17}, "model": "custom/test_packs/magnet"},
+    {"predicate": {"custom_model_data": 18}, "model": "custom/test_packs/wand_place"},
+    {"predicate": {"custom_model_data": 19}, "model": "custom/test_packs/wand_broken"}
   ]
 }

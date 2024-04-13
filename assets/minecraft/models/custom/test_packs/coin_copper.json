@@ -2,6 +2,6 @@
   "credit": "xuancat0208@gmail.com",
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/custom/land_book"
+    "layer0": "item/custom/test_packs/coin_copper"
   }
 }

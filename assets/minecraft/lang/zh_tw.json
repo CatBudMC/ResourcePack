@@ -836,5 +836,12 @@
   "worldEnvironment.custom": "自定義世界",
   "worldEnvironment.nether": "地獄",
   "worldEnvironment.normal": "主世界",
-  "worldEnvironment.the_end": "終界"
+  "worldEnvironment.the_end": "終界",
+  "item.test_packs.coin_copper": "銅幣",
+  "item.test_packs.coin_iron": "鐵幣",
+  "item.test_packs.coin_gold": "金幣",
+  "item.test_packs.coin_diamond": "鑽石幣",
+  "item.test_packs.magnet": "磁鐵",
+  "item.test_packs.wand_broken": "破壞魔杖",
+  "item.test_packs.wand_place": "放置魔杖"
 }
