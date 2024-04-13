@@ -1,0 +1,7 @@
+{
+  "parent": "custom/cat_hat/cat_hat",
+  "textures": {
+    "0": "item/custom/cat_hat/cat_hat_ragdoll",
+    "particle": "item/custom/cat_hat/cat_hat_ragdoll"
+  }
+}

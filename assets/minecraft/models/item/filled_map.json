@@ -5,6 +5,7 @@
     "layer1": "item/filled_map_markings"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "custom/mobile_map"}
+    {"predicate": {"custom_model_data": 1}, "model": "custom/mobile_map"},
+    {"predicate": {"custom_model_data": 2}, "model": "custom/image_map"}
   ]
 }

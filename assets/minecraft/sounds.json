@@ -870,6 +870,14 @@
       "sound_bell/yuzuki_yukari/upgrade_success_1"
     ]
   },
+  "block.block_activity.crush": {
+    "subtitle": "subtitles.block_activity.crush",
+    "sounds": [
+      "random/glass1",
+      "random/glass2",
+      "random/glass3"
+    ]
+  },
   "item.land_system.land_book_spawn": {
     "subtitle": "subtitles.land_system.land_book_spawn",
     "sounds": [
