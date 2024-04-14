@@ -1,7 +1,6 @@
 {
   "parent": "custom/cat_hat/cat_hat",
   "textures": {
-    "0": "item/custom/cat_hat/cat_hat_tuxedo",
-    "particle": "item/custom/cat_hat/cat_hat_tuxedo"
+    "0": "item/custom/cat_hat/cat_hat_tuxedo"
   }
 }

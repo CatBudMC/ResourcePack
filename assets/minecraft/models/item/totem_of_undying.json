@@ -22,6 +22,13 @@
     {"predicate": {"custom_model_data": 16}, "model": "custom/cat_hat/cat_hat_white"},
     {"predicate": {"custom_model_data": 17}, "model": "custom/test_packs/magnet"},
     {"predicate": {"custom_model_data": 18}, "model": "custom/test_packs/wand_place"},
-    {"predicate": {"custom_model_data": 19}, "model": "custom/test_packs/wand_broken"}
+    {"predicate": {"custom_model_data": 19}, "model": "custom/test_packs/wand_broken"},
+    {"predicate": {"custom_model_data": 20}, "model": "custom/test_packs/curd"},
+    {"predicate": {"custom_model_data": 21}, "model": "custom/test_packs/cheese"},
+    {"predicate": {"custom_model_data": 22}, "model": "custom/test_packs/beef_cheese_sandwich"},
+    {"predicate": {"custom_model_data": 23}, "model": "custom/test_packs/fermenting_cocoa_beans"},
+    {"predicate": {"custom_model_data": 24}, "model": "custom/test_packs/chocolate"},
+    {"predicate": {"custom_model_data": 25}, "model": "custom/test_packs/chocolate_bread"},
+    {"predicate": {"custom_model_data": 26}, "model": "custom/test_packs/chocolate_bone"}
   ]
 }

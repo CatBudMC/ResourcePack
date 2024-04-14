@@ -843,5 +843,12 @@
   "item.test_packs.coin_diamond": "鑽石幣",
   "item.test_packs.magnet": "磁鐵",
   "item.test_packs.wand_broken": "破壞魔杖",
-  "item.test_packs.wand_place": "放置魔杖"
+  "item.test_packs.wand_place": "放置魔杖",
+  "item.test_packs.curd": "凝固乳",
+  "item.test_packs.cheese": "起司",
+  "item.test_packs.beef_cheese_sandwich": "牛肉起司三明治",
+  "item.test_packs.fermenting_cocoa_beans": "發酵中可可豆",
+  "item.test_packs.chocolate": "巧克力",
+  "item.test_packs.chocolate_bread": "巧克力麵包",
+  "item.test_packs.chocolate_bone": "巧克力骨頭"
 }

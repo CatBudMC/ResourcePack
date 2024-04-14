@@ -1,5 +1,4 @@
 {
-  "credit": "xuancat0208@gmail.com",
   "parent": "item/handheld",
   "textures": {
     "layer0": "item/custom/test_packs/wand_broken"

@@ -1,8 +1,7 @@
 {
   "textures": {
     "f": "block/mushroom_block_inside",
-    "t": "block/mushroom_stem",
-    "particle": "block/mushroom_stem"
+    "t": "block/mushroom_stem"
   },
   "elements": [
     {
