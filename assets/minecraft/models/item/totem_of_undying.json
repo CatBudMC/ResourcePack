@@ -29,6 +29,9 @@
     {"predicate": {"custom_model_data": 23}, "model": "custom/test_packs/fermenting_cocoa_beans"},
     {"predicate": {"custom_model_data": 24}, "model": "custom/test_packs/chocolate"},
     {"predicate": {"custom_model_data": 25}, "model": "custom/test_packs/chocolate_bread"},
-    {"predicate": {"custom_model_data": 26}, "model": "custom/test_packs/chocolate_bone"}
+    {"predicate": {"custom_model_data": 26}, "model": "custom/test_packs/chocolate_bone"},
+    {"predicate": {"custom_model_data": 27}, "model": "custom/test_packs/recorder_empty"},
+    {"predicate": {"custom_model_data": 28}, "model": "custom/test_packs/recorder_off"},
+    {"predicate": {"custom_model_data": 29}, "model": "custom/test_packs/recorder_on"}
   ]
 }
