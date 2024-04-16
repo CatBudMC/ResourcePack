@@ -633,6 +633,7 @@
   "item.test_packs.magnet": "磁石",
   "item.test_packs.pitch_stick": "ピッチスティック",
   "item.test_packs.recorder": "録音機",
+  "item.test_packs.star": "ほし",
   "item.test_packs.wand_broken": "壊れた杖",
   "item.test_packs.wand_place": "杖を置く",
   "lore.land_system.land_book.id": "ID：%s",
