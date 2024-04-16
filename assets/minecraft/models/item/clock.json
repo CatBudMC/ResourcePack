@@ -68,6 +68,11 @@
     {"predicate": {"time": 0.9453125}, "model": "item/clock_61"},
     {"predicate": {"time": 0.9609375}, "model": "item/clock_62"},
     {"predicate": {"time": 0.9765625}, "model": "item/clock_63"},
-    {"predicate": {"time": 0.9921875}, "model": "item/clock"}
+    {"predicate": {"time": 0.9921875}, "model": "item/clock"},
+    {"predicate": {"custom_model_data": 1}, "model": "custom/test_packs/coin_copper"},
+    {"predicate": {"custom_model_data": 2}, "model": "custom/test_packs/coin_iron"},
+    {"predicate": {"custom_model_data": 3}, "model": "custom/test_packs/coin_gold"},
+    {"predicate": {"custom_model_data": 4}, "model": "custom/test_packs/coin_diamond"},
+    {"predicate": {"custom_model_data": 5}, "model": "custom/test_packs/star"}
   ]
 }

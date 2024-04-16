@@ -25,10 +25,6 @@
       "block/respawn_anchor/deplete1"
     ]
   },
-  "item.land_system.land_book_spawn": {
-    "subtitle": "subtitles.land_system.land_book_spawn",
-    "sounds": ["item/book/open_flip1"]
-  },
   "action.more_utilities.prevented_throw_item": {
     "subtitle": "action.more_utilities.prevented_throw_item",
     "sounds": [
@@ -88,6 +84,62 @@
     "sounds": [
       "countdown_alert/start"
     ]
+  },
+  "block.block_activity.crush": {
+    "subtitle": "subtitles.block_activity.crush",
+    "sounds": [
+      "random/glass1",
+      "random/glass2",
+      "random/glass3"
+    ]
+  },
+  "item.coin.launch": {
+    "sounds": [
+      "random/anvil_land"
+    ],
+    "subtitle": "subtitles.coin.launch"
+  },
+  "item.land_system.land_book_spawn": {
+    "subtitle": "subtitles.land_system.land_book_spawn",
+    "sounds": [
+      "item/book/open_flip1"
+    ]
+  },
+  "item.laser_crystal.off": {
+    "sounds": [
+      "random/click"
+    ],
+    "subtitle": "subtitles.laser_crystal.off"
+  },
+  "item.laser_crystal.on": {
+    "sounds": [
+      "random/click"
+    ],
+    "subtitle": "subtitles.laser_crystal.on"
+  },
+  "item.magnet.ambient": {
+    "sounds": [
+      "block/beacon/ambient"
+    ],
+    "subtitle": "subtitles.magnet.ambient"
+  },
+  "item.recorder_empty.saved": {
+    "sounds": [
+      "item/spyglass/use"
+    ],
+    "subtitle": "title.recorder_empty.record_saved"
+  },
+  "item.recorder_playable.start_play": {
+    "sounds": [
+      "random/click"
+    ],
+    "subtitle": "subtitles.recorder_playable.start_play"
+  },
+  "item.recorder_playable.stop_play": {
+    "sounds": [
+      "random/click"
+    ],
+    "subtitle": "subtitles.recorder_playable.stop_play"
   },
   "item.sound_bell.kizuna_akari.attack_big": {
     "subtitle": "subtitles.sound_bell.kizuna_akari.attack_big",
@@ -788,76 +840,96 @@
   },
   "item.sound_bell.yuzuki_yukari.item_damage": {
     "subtitle": "subtitles.sound_bell.yuzuki_yukari.item_damage",
-    "sounds": ["sound_bell/yuzuki_yukari/item_damage_0", "sound_bell/yuzuki_yukari/item_damage_1", "sound_bell/yuzuki_yukari/item_damage_2"]
+    "sounds": [
+      "sound_bell/yuzuki_yukari/item_damage_0",
+      "sound_bell/yuzuki_yukari/item_damage_1",
+      "sound_bell/yuzuki_yukari/item_damage_2"
+    ]
   },
   "item.sound_bell.yuzuki_yukari.item_drop": {
     "subtitle": "subtitles.sound_bell.yuzuki_yukari.item_drop",
-    "sounds": ["sound_bell/yuzuki_yukari/item_drop_0"]
+    "sounds": [
+      "sound_bell/yuzuki_yukari/item_drop_0"
+    ]
   },
   "item.sound_bell.yuzuki_yukari.item_nausea": {
     "subtitle": "subtitles.sound_bell.yuzuki_yukari.item_nausea",
-    "sounds": ["sound_bell/yuzuki_yukari/item_nausea_0", "sound_bell/yuzuki_yukari/item_nausea_1", "sound_bell/yuzuki_yukari/item_nausea_2"]
+    "sounds": [
+      "sound_bell/yuzuki_yukari/item_nausea_0",
+      "sound_bell/yuzuki_yukari/item_nausea_1",
+      "sound_bell/yuzuki_yukari/item_nausea_2"
+    ]
   },
   "item.sound_bell.yuzuki_yukari.item_pickup": {
     "subtitle": "subtitles.sound_bell.yuzuki_yukari.item_pickup",
-    "sounds": ["sound_bell/yuzuki_yukari/item_pickup_0"]
+    "sounds": [
+      "sound_bell/yuzuki_yukari/item_pickup_0"
+    ]
   },
   "item.sound_bell.yuzuki_yukari.item_place": {
     "subtitle": "subtitles.sound_bell.yuzuki_yukari.item_place",
-    "sounds": ["sound_bell/yuzuki_yukari/item_place_0", "sound_bell/yuzuki_yukari/item_place_1", "sound_bell/yuzuki_yukari/item_place_2"]
+    "sounds": [
+      "sound_bell/yuzuki_yukari/item_place_0",
+      "sound_bell/yuzuki_yukari/item_place_1",
+      "sound_bell/yuzuki_yukari/item_place_2"
+    ]
   },
   "item.sound_bell.yuzuki_yukari.item_saturation": {
     "subtitle": "subtitles.sound_bell.yuzuki_yukari.item_saturation",
-    "sounds": ["sound_bell/yuzuki_yukari/item_saturation_0", "sound_bell/yuzuki_yukari/item_saturation_1", "sound_bell/yuzuki_yukari/item_saturation_2"]
+    "sounds": [
+      "sound_bell/yuzuki_yukari/item_saturation_0",
+      "sound_bell/yuzuki_yukari/item_saturation_1",
+      "sound_bell/yuzuki_yukari/item_saturation_2"
+    ]
   },
   "item.sound_bell.yuzuki_yukari.jump": {
     "subtitle": "subtitles.sound_bell.yuzuki_yukari.jump",
-    "sounds": ["sound_bell/yuzuki_yukari/jump_0", "sound_bell/yuzuki_yukari/jump_1", "sound_bell/yuzuki_yukari/jump_2"]
+    "sounds": [
+      "sound_bell/yuzuki_yukari/jump_0",
+      "sound_bell/yuzuki_yukari/jump_1",
+      "sound_bell/yuzuki_yukari/jump_2"
+    ]
   },
   "item.sound_bell.yuzuki_yukari.standby": {
     "subtitle": "subtitles.sound_bell.yuzuki_yukari.standby",
-    "sounds": ["sound_bell/yuzuki_yukari/standby_0", "sound_bell/yuzuki_yukari/standby_1", "sound_bell/yuzuki_yukari/standby_2", "sound_bell/yuzuki_yukari/standby_3", "sound_bell/yuzuki_yukari/standby_4", "sound_bell/yuzuki_yukari/standby_5", "sound_bell/yuzuki_yukari/standby_6", "sound_bell/yuzuki_yukari/standby_7", "sound_bell/yuzuki_yukari/standby_8"]
+    "sounds": [
+      "sound_bell/yuzuki_yukari/standby_0",
+      "sound_bell/yuzuki_yukari/standby_1",
+      "sound_bell/yuzuki_yukari/standby_2",
+      "sound_bell/yuzuki_yukari/standby_3",
+      "sound_bell/yuzuki_yukari/standby_4",
+      "sound_bell/yuzuki_yukari/standby_5",
+      "sound_bell/yuzuki_yukari/standby_6",
+      "sound_bell/yuzuki_yukari/standby_7",
+      "sound_bell/yuzuki_yukari/standby_8"
+    ]
   },
   "item.sound_bell.yuzuki_yukari.transfer": {
     "subtitle": "subtitles.sound_bell.yuzuki_yukari.transfer",
-    "sounds": ["sound_bell/yuzuki_yukari/transfer_0", "sound_bell/yuzuki_yukari/transfer_1", "sound_bell/yuzuki_yukari/transfer_2"]
+    "sounds": [
+      "sound_bell/yuzuki_yukari/transfer_0",
+      "sound_bell/yuzuki_yukari/transfer_1",
+      "sound_bell/yuzuki_yukari/transfer_2"
+    ]
   },
   "item.sound_bell.yuzuki_yukari.upgrade_failure": {
     "subtitle": "subtitles.sound_bell.yuzuki_yukari.upgrade_failure",
-    "sounds": ["sound_bell/yuzuki_yukari/upgrade_failure_0", "sound_bell/yuzuki_yukari/upgrade_failure_1"]
+    "sounds": [
+      "sound_bell/yuzuki_yukari/upgrade_failure_0",
+      "sound_bell/yuzuki_yukari/upgrade_failure_1"
+    ]
   },
   "item.sound_bell.yuzuki_yukari.upgrade_success": {
     "subtitle": "subtitles.sound_bell.yuzuki_yukari.upgrade_success",
-    "sounds": ["sound_bell/yuzuki_yukari/upgrade_success_0", "sound_bell/yuzuki_yukari/upgrade_success_1"]
-  },
-  "block.block_activity.crush": {
-    "subtitle": "subtitles.block_activity.crush",
-    "sounds": ["random/glass1", "random/glass2", "random/glass3"]
-  },
-  "item.recorder_empty.saved": {
-    "sounds": ["item/spyglass/use"],
-    "subtitle": "title.recorder_empty.record_saved"
-  },
-  "item.recorder_playable.start_play": {
-    "sounds": ["random/click"],
-    "subtitle": "subtitles.recorder_playable.start_play"
-  },
-  "item.recorder_playable.stop_play": {
-    "sounds": ["random/click"],
-    "subtitle": "subtitles.recorder_playable.stop_play"
-  },
-  "item.magnet.ambient": {
     "sounds": [
-      "block/beacon/ambient"
+      "sound_bell/yuzuki_yukari/upgrade_success_0",
+      "sound_bell/yuzuki_yukari/upgrade_success_1"
+    ]
+  },
+  "item.star.launch": {
+    "sounds": [
+      "block/lantern/place6"
     ],
-    "subtitle": "subtitles.magnet.ambient"
-  },
-  "item.laser_crystal.on": {
-    "sounds": ["random/click"],
-    "subtitle": "subtitles.laser_crystal.on"
-  },
-  "item.laser_crystal.off": {
-    "sounds": ["random/click"],
-    "subtitle": "subtitles.laser_crystal.off"
+    "subtitle": "subtitles.star.launch"
   }
 }
