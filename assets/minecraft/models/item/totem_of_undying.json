@@ -32,6 +32,9 @@
     {"predicate": {"custom_model_data": 26}, "model": "custom/test_packs/chocolate_bone"},
     {"predicate": {"custom_model_data": 27}, "model": "custom/test_packs/recorder_empty"},
     {"predicate": {"custom_model_data": 28}, "model": "custom/test_packs/recorder_off"},
-    {"predicate": {"custom_model_data": 29}, "model": "custom/test_packs/recorder_on"}
+    {"predicate": {"custom_model_data": 29}, "model": "custom/test_packs/recorder_on"},
+    {"predicate": {"custom_model_data": 30}, "model": "custom/test_packs/pitch_stick"},
+    {"predicate": {"custom_model_data": 31}, "model": "custom/test_packs/laser_crystal_off"},
+    {"predicate": {"custom_model_data": 32}, "model": "custom/test_packs/laser_crystal_on"}
   ]
 }
