@@ -14,7 +14,7 @@ jobs:
     - name: 壓縮成 zip
       run: zip -r resource.zip assets/* license.md pack.mcmeta
     - name: 計算 SHA1
-      run: sha1sum resource.zip | awk '{print $1}' > resource.zip.sha1
+      run: echo -n "resource_sha1=" && sha1sum resource.zip | awk '{print $1}' >> "$GITHUB_ENV"
     - name: 創建發佈
       id: create_release
       uses: actions/create-release@v1
@@ -25,6 +25,7 @@ jobs:
         release_name: 版本 ${{ github.run_number }}
         draft: false
         prerelease: false
+        body: $resource_sha1
     - name: 上傳 zip
       id: upload_zip
       uses: actions/upload-release-asset@v1
@@ -35,13 +36,3 @@ jobs:
         asset_path: ./resource.zip
         asset_name: resource.zip
         asset_content_type: application/zip
-    - name: 上傳 zip.sha1
-      id: upload_zip_sha1
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.create_release.outputs.upload_url }}
-        asset_path: ./resource.zip.sha1
-        asset_name: resource.zip.sha1
-        asset_content_type: application/plain
