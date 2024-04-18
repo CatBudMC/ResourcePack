@@ -21,8 +21,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        tag_name: ${{ github.ref }}
-        release_name: Release ${{ github.ref }}
+        tag_name: ${{ github.run_number }}
+        release_name: Release ${{ github.run_number }}
         draft: false
         prerelease: false
     - name: 上傳 zip
@@ -35,7 +35,7 @@ jobs:
         asset_path: ./resource.zip
         asset_name: resource.zip
         asset_content_type: application/zip
-    - name: 上傳 zip
+    - name: 上傳 zip.sha1
       id: upload_zip_sha1
       uses: actions/upload-release-asset@v1
       env:
