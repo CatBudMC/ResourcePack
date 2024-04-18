@@ -95,7 +95,7 @@
   },
   "item.coin.launch": {
     "sounds": [
-      "random/anvil_land"
+      "block/chain/break1"
     ],
     "subtitle": "subtitles.coin.launch"
   },
