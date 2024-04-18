@@ -15,7 +15,7 @@ jobs:
       run: zip -r resource.zip assets/* license.md pack.mcmeta
     - name: 計算 SHA1
       id: calculate_sha1
-      run: echo -n "resource_sha1=" && sha1sum resource.zip | awk '{print $1}' >> "$GITHUB_OUTPUT"
+      run: echo "RESOURCE_SHA1=$(sha1sum resource.zip | awk '{print $1}')" >> $GITHUB_OUTPUT
     - name: 創建發佈
       id: create_release
       uses: actions/create-release@v1
@@ -26,7 +26,7 @@ jobs:
         release_name: 版本 ${{ github.run_number }}
         draft: false
         prerelease: false
-        body: ${{ steps.calculate_sha1.outputs.resource_sha1 }}
+        body: ${{ steps.calculate_sha1.outputs.RESOURCE_SHA1 }}
     - name: 上傳 zip
       id: upload_zip
       uses: actions/upload-release-asset@v1
