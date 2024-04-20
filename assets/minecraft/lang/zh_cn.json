@@ -488,6 +488,8 @@
   "book.script_control.action.delay.name": "延迟游戏刻度",
   "book.script_control.action.destroy.lore": "挖掘",
   "book.script_control.action.destroy.name": "挖掘前方",
+  "book.script_control.action.head_nearest.lore": "最近实体",
+  "book.script_control.action.head_nearest.name": "看向距离最近的实体",
   "book.script_control.action.head_pitch.lore": "头抬向 %s",
   "book.script_control.action.head_pitch.name": "更改头俯仰角度",
   "book.script_control.action.head_yaw.lore": "头转向 %s",

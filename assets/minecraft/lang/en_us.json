@@ -488,6 +488,8 @@
   "book.script_control.action.delay.name": "Delay game ticks",
   "book.script_control.action.destroy.lore": "Destroy",
   "book.script_control.action.destroy.name": "Destroy forward",
+  "book.script_control.action.head_nearest.lore": "Nearest Entity",
+  "book.script_control.action.head_nearest.name": "Head Nearest Entity",
   "book.script_control.action.head_pitch.lore": "Pitch head %s",
   "book.script_control.action.head_pitch.name": "Change head pitch angle",
   "book.script_control.action.head_yaw.lore": "Yaw head %s",

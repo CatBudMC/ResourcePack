@@ -488,6 +488,8 @@
   "book.script_control.action.delay.name": "ゲームティックの遅延",
   "book.script_control.action.destroy.lore": "採掘",
   "book.script_control.action.destroy.name": "前方を採掘",
+  "book.script_control.action.head_nearest.lore": "最近のエンティティ",
+  "book.script_control.action.head_nearest.name": "最も近くのエンティティを見る",
   "book.script_control.action.head_pitch.lore": "頭を%s度上げる",
   "book.script_control.action.head_pitch.name": "頭のピッチを変更",
   "book.script_control.action.head_yaw.lore": "頭を%s度回す",
