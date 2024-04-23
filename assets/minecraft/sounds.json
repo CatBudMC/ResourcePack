@@ -99,6 +99,12 @@
     ],
     "subtitle": "subtitles.coin.launch"
   },
+  "item.ender_star.launch": {
+    "sounds": [
+      "block/lantern/place6"
+    ],
+    "subtitle": "subtitles.ender_star.launch"
+  },
   "item.land_system.land_book_spawn": {
     "subtitle": "subtitles.land_system.land_book_spawn",
     "sounds": [
