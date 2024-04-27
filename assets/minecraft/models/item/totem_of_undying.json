@@ -1,4 +1,5 @@
 {
+  "__": "遺產",
   "parent": "item/generated",
   "textures": {
     "layer0": "item/totem_of_undying"
