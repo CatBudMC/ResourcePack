@@ -678,7 +678,7 @@
   "item.test_packs.coin_diamond": "鑽石幣",
   "item.test_packs.coin_gold": "金幣",
   "item.test_packs.coin_iron": "鐵幣",
-  "item.test_packs.coin_slingshot": "硬幣弹弓",
+  "item.test_packs.coin_slingshot": "硬幣彈弓",
   "item.test_packs.curd": "凝固乳",
   "item.test_packs.ender_star": "終界星星",
   "item.test_packs.fermenting_cocoa_beans": "發酵中可可豆",
@@ -919,5 +919,9 @@
   "worldEnvironment.custom": "自定義世界",
   "worldEnvironment.nether": "地獄",
   "worldEnvironment.normal": "主世界",
-  "worldEnvironment.the_end": "終界"
+  "worldEnvironment.the_end": "終界",
+  "____________": "遺產",
+  "book.currency_store.menu.root": "商店",
+  "book.currency_store.menu.root_lore": "購買 C 幣",
+  "book.currency_store.menu.root_title": "     《    商店    》"
 }
