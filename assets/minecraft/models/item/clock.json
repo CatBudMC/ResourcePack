@@ -107,6 +107,9 @@
     {"predicate": {"custom_model_data": 36}, "model": "custom/test_packs/pitch_stick"},
     {"predicate": {"custom_model_data": 37}, "model": "custom/test_packs/laser_crystal_off"},
     {"predicate": {"custom_model_data": 38}, "model": "custom/test_packs/laser_crystal_on"},
-    {"predicate": {"custom_model_data": 39}, "model": "custom/test_packs/coin_slingshot"}
+    {"predicate": {"custom_model_data": 39}, "model": "custom/test_packs/coin_slingshot"},
+    {"predicate": {"custom_model_data": 40}, "model": "custom/blueprint_empty"},
+    {"predicate": {"custom_model_data": 41}, "model": "custom/blueprint"},
+    {"predicate": {"custom_model_data": 42}, "model": "custom/blueprint_range"}
   ]
 }

@@ -937,5 +937,11 @@
       "block/lantern/place6"
     ],
     "subtitle": "subtitles.star.launch"
+  },
+  "item.blueprint.blueprint_save": {
+    "subtitle": "subtitles.blueprint.blueprint_save",
+    "sounds": [
+      "item/book/open_flip1"
+    ]
   }
 }

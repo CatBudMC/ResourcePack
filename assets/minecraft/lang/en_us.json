@@ -898,6 +898,7 @@
   "title.chunk_loader.chunk_loading": "%s, %s Loading",
   "title.chunk_loader.effective_remainder": "Remaining %s days %s hours %s minutes %s seconds",
   "title.more_utilities.item_damage_alarm": "%s About to Break",
+  "title.more_utilities.preview_inventory": "Preview Inventory",
   "title.more_utilities.self_location": "Your Current Location",
   "title.recorder_empty.record_ended": "Recording Ended",
   "title.recorder_empty.record_filled": "Cannot Record Anymore",
