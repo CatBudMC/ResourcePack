@@ -941,8 +941,8 @@
   "book.easy_blueprint.menu.lost_blueprint": "      藍圖資料丟失...",
   "book.easy_blueprint.menu.quick_place": "快速放置",
   "title.more_utilities.preview_inventory": "預覽庫存",
-  "____________": "遺產",
-  "book.currency_store.menu.root": "商店",
-  "book.currency_store.menu.root_lore": "購買 C 幣",
-  "book.currency_store.menu.root_title": "     《    商店    》"
+  "item.music_recorder.disc_player": "撥放機",
+  "item.music_recorder.disc_amplifier": "擴音器",
+  "subtitles.disc_amplifier.add_item": "擴音器放入物品",
+  "subtitles.disc_amplifier.remove_item": "擴音器移除物品"
 }
