@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "up": "block/custom/disc_amplifier_on_up",
+    "down": "block/custom/disc_amplifier_on_side",
+    "south": "block/custom/disc_amplifier_on_side",
+    "west": "block/custom/disc_amplifier_on_side",
+    "north": "block/custom/disc_amplifier_on_side",
+    "east": "block/custom/disc_amplifier_on_side"
+  }
+}

@@ -129,23 +129,23 @@
     ],
     "subtitle": "subtitles.magnet.ambient"
   },
-  "item.recorder_empty.saved": {
+  "item.music_recorder.saved": {
     "sounds": [
       "item/spyglass/use"
     ],
-    "subtitle": "title.recorder_empty.record_saved"
+    "subtitle": "title.music_recorder.record_saved"
   },
-  "item.recorder_playable.start_play": {
+  "item.disc_player.start_play": {
     "sounds": [
       "random/click"
     ],
-    "subtitle": "subtitles.recorder_playable.start_play"
+    "subtitle": "subtitles.disc_player.start_play"
   },
-  "item.recorder_playable.stop_play": {
+  "item.disc_player.stop_play": {
     "sounds": [
       "random/click"
     ],
-    "subtitle": "subtitles.recorder_playable.stop_play"
+    "subtitle": "subtitles.disc_player.stop_play"
   },
   "item.sound_bell.kizuna_akari.attack_big": {
     "subtitle": "subtitles.sound_bell.kizuna_akari.attack_big",
@@ -943,5 +943,17 @@
     "sounds": [
       "item/book/open_flip1"
     ]
+  },
+  "block.disc_amplifier.add_item": {
+    "sounds": [
+      "entity/itemframe/add_item1"
+    ],
+    "subtitle": "subtitles.disc_amplifier.add_item"
+  },
+  "block.disc_amplifier.remove_item": {
+    "sounds": [
+      "entity/itemframe/remove_item1"
+    ],
+    "subtitle": "subtitles.disc_amplifier.remove_item"
   }
 }
