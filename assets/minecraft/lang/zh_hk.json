@@ -946,6 +946,6 @@
   "worldEnvironment.normal": "主世界",
   "worldEnvironment.the_end": "終界",
   "book.admin_control.control.unpledge": "解除宣示",
-  "book.admin_control.control.confirm_unpledge_player": "確定解除宣示玩家？",
-  "book.admin_control.control.sure_unpledge": "確定解除宣示"
+  "book.admin_control.menu.confirm_unpledge_player": "確定解除宣示玩家？",
+  "book.admin_control.menu.sure_unpledge": "確定解除宣示"
 }

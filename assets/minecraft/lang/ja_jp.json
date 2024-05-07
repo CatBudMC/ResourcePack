@@ -946,6 +946,6 @@
   "worldEnvironment.normal": "ノーマルワールド",
   "worldEnvironment.the_end": "エンド",
   "book.admin_control.control.unpledge": "宣言を解除する",
-  "book.admin_control.control.confirm_unpledge_player": "プレーヤーの宣言を解除しますか？",
-  "book.admin_control.control.sure_unpledge": "宣言を解除しますか？"
+  "book.admin_control.menu.confirm_unpledge_player": "プレーヤーの宣言を解除しますか？",
+  "book.admin_control.menu.sure_unpledge": "宣言を解除しますか？"
 }
