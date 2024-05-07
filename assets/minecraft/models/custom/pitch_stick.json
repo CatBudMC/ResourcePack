@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "item/custom/test_packs/pitch_stick"
+    "layer0": "item/custom/pitch_stick"
   }
 }
