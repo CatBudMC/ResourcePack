@@ -944,5 +944,8 @@
   "worldEnvironment.custom": "Custom World",
   "worldEnvironment.nether": "Nether",
   "worldEnvironment.normal": "Overworld",
-  "worldEnvironment.the_end": "The End"
+  "worldEnvironment.the_end": "The End",
+  "book.admin_control.control.unpledge": "Revoke Declaration",
+  "book.admin_control.control.confirm_unpledge_player": "Confirm revoking player's declaration?",
+  "book.admin_control.control.sure_unpledge": "Are you sure you want to revoke the declaration?"
 }

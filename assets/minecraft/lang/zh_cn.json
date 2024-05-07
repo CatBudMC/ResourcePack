@@ -944,5 +944,8 @@
   "worldEnvironment.custom": "自定义世界",
   "worldEnvironment.nether": "地狱",
   "worldEnvironment.normal": "主世界",
-  "worldEnvironment.the_end": "终界"
+  "worldEnvironment.the_end": "终界",
+  "book.admin_control.control.unpledge": "解除宣示",
+  "book.admin_control.control.confirm_unpledge_player": "确定解除宣示玩家？",
+  "book.admin_control.control.sure_unpledge": "确定解除宣示"
 }
