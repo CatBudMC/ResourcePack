@@ -711,7 +711,7 @@
   "lore.easy_blueprint.size_is": "尺寸：%s / %s / %s",
   "lore.easy_blueprint.start_is": "开始：%s / %s / %s / %s",
   "lore.land_system.land_book.id": "ID #%s",
-  "lore.stop_copy.locked": "上锁",
+  "lore.creativity_core.locked": "上锁",
   "message.channel_control.channel_is": "频道：%s",
   "message.channel_control.member_join": "%s 加入了频道 %s",
   "message.channel_control.member_quit": "%s 退出了频道 %s",

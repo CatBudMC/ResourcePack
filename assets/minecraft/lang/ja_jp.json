@@ -711,7 +711,7 @@
   "lore.easy_blueprint.size_is": "サイズ：%s / %s / %s",
   "lore.easy_blueprint.start_is": "開始：%s / %s / %s / %s",
   "lore.land_system.land_book.id": "ID：%s",
-  "lore.stop_copy.locked": "ロックされました",
+  "lore.creativity_core.locked": "ロックされました",
   "message.channel_control.channel_is": "チャンネル：%s",
   "message.channel_control.member_join": "%s がチャンネル %s に参加しました",
   "message.channel_control.member_quit": "%s がチャンネル %s を退出しました",

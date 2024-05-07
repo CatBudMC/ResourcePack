@@ -711,7 +711,7 @@
   "lore.easy_blueprint.size_is": "Size: %s / %s / %s",
   "lore.easy_blueprint.start_is": "Start: %s / %s / %s / %s",
   "lore.land_system.land_book.id": "ID #%s",
-  "lore.stop_copy.locked": "Locked",
+  "lore.creativity_core.locked": "Locked",
   "message.channel_control.channel_is": "Channel: %s",
   "message.channel_control.member_join": "%s joined channel %s",
   "message.channel_control.member_quit": "%s quit channel %s",
