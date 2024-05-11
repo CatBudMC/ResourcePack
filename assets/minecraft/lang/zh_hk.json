@@ -954,5 +954,5 @@
   "lore.easy_blueprint.all": "全部",
   "lore.easy_blueprint.layer_is": "第 % 層",
   "message.message_manager.system": "系統",
-  "book.channel_control.menu.mandatory_player": "強制加入"
+  "book.channel_control.menu.mandatory_invitation": "強制邀請"
 }
