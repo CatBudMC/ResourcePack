@@ -715,7 +715,6 @@
   "lore.disc_player.id": "ID #%s",
   "lore.easy_blueprint.end_is": "End: %s / %s / %s / %s",
   "lore.easy_blueprint.place_is": "Place: %s / %s / %s / %s",
-  "lore.easy_blueprint.preview_layer_is": "Preview: %s layer(s)",
   "lore.easy_blueprint.rotation_is": "Rotation: %s",
   "lore.easy_blueprint.size_is": "Size: %s / %s / %s",
   "lore.easy_blueprint.start_is": "Start: %s / %s / %s / %s",

@@ -715,7 +715,6 @@
   "lore.disc_player.id": "ID #%s",
   "lore.easy_blueprint.end_is": "結束：%s / %s / %s / %s",
   "lore.easy_blueprint.place_is": "放置：%s / %s / %s / %s",
-  "lore.easy_blueprint.preview_layer_is": "預覽：%s 層",
   "lore.easy_blueprint.rotation_is": "旋轉：%s",
   "lore.easy_blueprint.size_is": "尺寸：%s / %s / %s",
   "lore.easy_blueprint.start_is": "開始：%s / %s / %s / %s",

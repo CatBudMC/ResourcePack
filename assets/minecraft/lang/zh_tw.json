@@ -715,7 +715,6 @@
   "lore.disc_player.id": "ID #%s",
   "lore.easy_blueprint.end_is": "結束：%s / %s / %s / %s",
   "lore.easy_blueprint.place_is": "放置：%s / %s / %s / %s",
-  "lore.easy_blueprint.preview_layer_is": "預覽：%s 層",
   "lore.easy_blueprint.rotation_is": "旋轉：%s",
   "lore.easy_blueprint.size_is": "尺寸：%s / %s / %s",
   "lore.easy_blueprint.start_is": "開始：%s / %s / %s / %s",
@@ -953,5 +952,8 @@
   "worldEnvironment.custom": "自定義世界",
   "worldEnvironment.nether": "地獄",
   "worldEnvironment.normal": "主世界",
-  "worldEnvironment.the_end": "終界"
+  "worldEnvironment.the_end": "終界",
+  "book.easy_blueprint.menu.easy_placement": "輕鬆放置",
+  "book.easy_blueprint.menu.easy_placement_is": "輕鬆放置：%s 層",
+  "book.easy_blueprint.menu.restore_placement": "還原放置"
 }
