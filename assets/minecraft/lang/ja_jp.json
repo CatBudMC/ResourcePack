@@ -227,7 +227,7 @@
   "book.discord_system.refresh_weekly.forum_lore": "Discordグループ内で投稿、チャット",
   "book.easy_blueprint.menu.download_schematic": "スキーマをダウンロード",
   "book.easy_blueprint.menu.lost_blueprint": "設計図データが見つかりません...",
-  "book.easy_blueprint.menu.quick_place": "クイック配置",
+  "book.easy_blueprint.menu.quick_placement": "クイック配置",
   "book.invitation_letter.menu.none": "なし",
   "book.invitation_letter.menu.root": "招待",
   "book.invitation_letter.menu.root_lore.0": "報酬を得るために他のプレイヤーを招待しよう！",
