@@ -4,7 +4,6 @@
   "action.death_respawn.different_dimension": "不同维度",
   "action.death_respawn.not_dead": "没有死亡过",
   "action.death_respawn.too_far": "距离太远",
-  "action.easy_blueprint.contains_unloaded": "包含未加载的区块",
   "action.easy_blueprint.different_dimension": "不同维度",
   "action.easy_blueprint.oversize": "尺寸过大",
   "action.easy_blueprint.remove_end": "移除结束位置",
