@@ -232,6 +232,7 @@
   "book.easy_blueprint.menu.download_schematic": "スキーマをダウンロード",
   "book.easy_blueprint.menu.easy_placement": "簡単配置",
   "book.easy_blueprint.menu.easy_placement_is": "簡単配置：%s 層",
+  "book.easy_blueprint.menu.empty_materials": "    材料がありません...",
   "book.easy_blueprint.menu.groups_is": "%d 組 + %s",
   "book.easy_blueprint.menu.lost_blueprint": "設計図データが見つかりません...",
   "book.easy_blueprint.menu.materials_list": "材料リスト",

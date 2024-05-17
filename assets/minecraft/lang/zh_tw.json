@@ -232,6 +232,7 @@
   "book.easy_blueprint.menu.download_schematic": "下載投影",
   "book.easy_blueprint.menu.easy_placement": "輕鬆放置",
   "book.easy_blueprint.menu.easy_placement_is": "輕鬆放置：%s 層",
+  "book.easy_blueprint.menu.empty_materials": "      沒有任何材料...",
   "book.easy_blueprint.menu.groups_is": "%d 組 + %s",
   "book.easy_blueprint.menu.lost_blueprint": "      藍圖資料丟失...",
   "book.easy_blueprint.menu.materials_list": "材料清單",

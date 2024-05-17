@@ -232,6 +232,7 @@
   "book.easy_blueprint.menu.download_schematic": "Download Schematic",
   "book.easy_blueprint.menu.easy_placement": "Easy Placement",
   "book.easy_blueprint.menu.easy_placement_is": "Easy Placement: %s Layer",
+  "book.easy_blueprint.menu.empty_materials": "       No materials...",
   "book.easy_blueprint.menu.groups_is": "%d Groups + %s",
   "book.easy_blueprint.menu.lost_blueprint": "    Blueprint Data Lost...",
   "book.easy_blueprint.menu.materials_list": "Materials List",
