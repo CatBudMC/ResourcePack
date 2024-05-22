@@ -948,7 +948,7 @@
   "title.auto_regenerate.next_refresh": "%s 刷新",
   "title.auto_regenerate.next_refresh_blocked": "%s 刷新（已阻止）",
   "title.auto_regenerate.refresh_remainder": "剩馀 %s 天 %s 时 %s 分 %s 秒",
-  "title.auto_regenerate.unsafe_placement": "此区域会每天重製、请不要在此处盖家！",
+  "title.auto_regenerate.unsafe_placement": "此区域会定期重製、请不要在此处盖家！",
   "title.chunk_loader.chunk_loading": "%s, %s 载入中",
   "title.chunk_loader.effective_remainder": "剩馀 %s 天 %s 时 %s 分 %s 秒",
   "title.more_utilities.item_damage_alarm": "%s 即将损坏",

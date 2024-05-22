@@ -948,7 +948,7 @@
   "title.auto_regenerate.next_refresh": "%s 更新",
   "title.auto_regenerate.next_refresh_blocked": "%s 更新（ブロック済み）",
   "title.auto_regenerate.refresh_remainder": "残り %s 日 %s 時間 %s 分 %s 秒",
-  "title.auto_regenerate.unsafe_placement": "このエリアは毎日リセットされますので、家を建てないでください！",
+  "title.auto_regenerate.unsafe_placement": "このエリアは定期的に再生成されます。ここに家を建てないでください！",
   "title.chunk_loader.chunk_loading": "%s, %s 読み込み中",
   "title.chunk_loader.effective_remainder": "残り %s 日 %s 時間 %s 分 %s 秒",
   "title.more_utilities.item_damage_alarm": "%s が壊れそうです",
