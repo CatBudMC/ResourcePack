@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "north": "block/custom/movable_dispenser_side",
+    "east": "block/custom/movable_dispenser_front",
+    "south": "block/custom/movable_dispenser_side",
+    "west": "block/custom/movable_dispenser_side",
+    "up": "block/custom/movable_dispenser_vertical",
+    "down": "block/custom/movable_dispenser_vertical"
+  }
+}

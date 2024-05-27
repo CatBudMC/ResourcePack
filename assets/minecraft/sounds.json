@@ -93,11 +93,53 @@
       "random/glass3"
     ]
   },
+  "block.disc_amplifier.add_item": {
+    "sounds": [
+      "entity/itemframe/add_item1"
+    ],
+    "subtitle": "subtitles.disc_amplifier.add_item"
+  },
+  "block.disc_amplifier.remove_item": {
+    "sounds": [
+      "entity/itemframe/remove_item1"
+    ],
+    "subtitle": "subtitles.disc_amplifier.remove_item"
+  },
+  "block.movable_dispenser.add_item": {
+    "sounds": [
+      "entity/itemframe/add_item1"
+    ],
+    "subtitle": "subtitles.movable_dispenser.add_item"
+  },
+  "block.movable_dispenser.remove_item": {
+    "sounds": [
+      "entity/itemframe/remove_item1"
+    ],
+    "subtitle": "subtitles.movable_dispenser.remove_item"
+  },
+  "item.blueprint_empty.save": {
+    "subtitle": "subtitles.blueprint_empty.save",
+    "sounds": [
+      "item/book/open_flip1"
+    ]
+  },
   "item.coin.launch": {
     "sounds": [
       "block/chain/break1"
     ],
     "subtitle": "subtitles.coin.launch"
+  },
+  "item.disc_player.start_play": {
+    "sounds": [
+      "random/click"
+    ],
+    "subtitle": "subtitles.disc_player.start_play"
+  },
+  "item.disc_player.stop_play": {
+    "sounds": [
+      "random/click"
+    ],
+    "subtitle": "subtitles.disc_player.stop_play"
   },
   "item.ender_star.launch": {
     "sounds": [
@@ -134,18 +176,6 @@
       "item/spyglass/use"
     ],
     "subtitle": "title.music_recorder.record_saved"
-  },
-  "item.disc_player.start_play": {
-    "sounds": [
-      "random/click"
-    ],
-    "subtitle": "subtitles.disc_player.start_play"
-  },
-  "item.disc_player.stop_play": {
-    "sounds": [
-      "random/click"
-    ],
-    "subtitle": "subtitles.disc_player.stop_play"
   },
   "item.sound_bell.kizuna_akari.attack_big": {
     "subtitle": "subtitles.sound_bell.kizuna_akari.attack_big",
@@ -937,23 +967,5 @@
       "block/lantern/place6"
     ],
     "subtitle": "subtitles.star.launch"
-  },
-  "item.blueprint_empty.save": {
-    "subtitle": "subtitles.blueprint_empty.save",
-    "sounds": [
-      "item/book/open_flip1"
-    ]
-  },
-  "block.disc_amplifier.add_item": {
-    "sounds": [
-      "entity/itemframe/add_item1"
-    ],
-    "subtitle": "subtitles.disc_amplifier.add_item"
-  },
-  "block.disc_amplifier.remove_item": {
-    "sounds": [
-      "entity/itemframe/remove_item1"
-    ],
-    "subtitle": "subtitles.disc_amplifier.remove_item"
   }
 }
