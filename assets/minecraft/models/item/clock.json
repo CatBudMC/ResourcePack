@@ -110,6 +110,7 @@
     {"predicate": {"custom_model_data": 39}, "model": "custom/test_packs/coin_slingshot"},
     {"predicate": {"custom_model_data": 40}, "model": "custom/blueprint_empty"},
     {"predicate": {"custom_model_data": 41}, "model": "custom/blueprint"},
-    {"predicate": {"custom_model_data": 42}, "model": "custom/blueprint_range"}
+    {"predicate": {"custom_model_data": 42}, "model": "custom/blueprint_range"},
+    {"predicate": {"custom_model_data": 43}, "model": "custom/token_of_death_exemption"}
   ]
 }
