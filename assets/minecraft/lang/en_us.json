@@ -973,6 +973,7 @@
   "title.auto_regenerate.next_refresh_blocked": "Next Refresh %s (Blocked)",
   "title.auto_regenerate.refresh_remainder": "Remaining %s days %s hours %s minutes %s seconds",
   "title.auto_regenerate.unsafe_placement": "This area regenerates periodically, please do not build a house here!",
+  "title.book_framework.open_menu": "Press /menu or %s + %s to open menu",
   "title.chunk_loader.chunk_loading": "%s, %s Loading",
   "title.chunk_loader.effective_remainder": "Remaining %s days %s hours %s minutes %s seconds",
   "title.death_respawn.canceled": "Respawn canceled",

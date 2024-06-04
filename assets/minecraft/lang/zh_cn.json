@@ -973,6 +973,7 @@
   "title.auto_regenerate.next_refresh_blocked": "%s 刷新（已阻止）",
   "title.auto_regenerate.refresh_remainder": "剩馀 %s 天 %s 时 %s 分 %s 秒",
   "title.auto_regenerate.unsafe_placement": "此区域会定期重製、请不要在此处盖家！",
+  "title.book_framework.open_menu": "输入 /menu 或按下 %s + %s 打开选单",
   "title.chunk_loader.chunk_loading": "%s, %s 载入中",
   "title.chunk_loader.effective_remainder": "剩馀 %s 天 %s 时 %s 分 %s 秒",
   "title.death_respawn.canceled": "已取消死亡重生",

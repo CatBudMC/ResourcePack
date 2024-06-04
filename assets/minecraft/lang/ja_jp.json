@@ -973,6 +973,7 @@
   "title.auto_regenerate.next_refresh_blocked": "%s 更新（ブロック済み）",
   "title.auto_regenerate.refresh_remainder": "残り %s 日 %s 時間 %s 分 %s 秒",
   "title.auto_regenerate.unsafe_placement": "このエリアは定期的に再生成されます。ここに家を建てないでください！",
+  "title.book_framework.open_menu": "/menu を入力するか、%s + %s を押してメニューを開きます",
   "title.chunk_loader.chunk_loading": "%s, %s 読み込み中",
   "title.chunk_loader.effective_remainder": "残り %s 日 %s 時間 %s 分 %s 秒",
   "title.death_respawn.canceled": "リスポーンがキャンセルされました",
