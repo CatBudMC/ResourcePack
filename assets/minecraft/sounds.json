@@ -13,6 +13,15 @@
       "mob/endermen/portal2"
     ]
   },
+  "action.friendly_learn.pop_message": {
+    "sounds": [
+      "entity/itemframe/remove_item1",
+      "entity/itemframe/remove_item2",
+      "entity/itemframe/remove_item3",
+      "entity/itemframe/remove_item4"
+    ],
+    "subtitle": "subtitles.friendly_learn.pop_message"
+  },
   "action.land_system.land_denied": {
     "subtitle": "subtitles.land_system.land_denied",
     "sounds": [
@@ -967,14 +976,5 @@
       "block/lantern/place6"
     ],
     "subtitle": "subtitles.star.launch"
-  },
-  "action.friendly_learn.pop_message": {
-    "sounds": [
-      "entity/itemframe/remove_item1",
-      "entity/itemframe/remove_item2",
-      "entity/itemframe/remove_item3",
-      "entity/itemframe/remove_item4"
-    ],
-    "subtitle": "subtitles.friendly_learn.pop_message"
   }
 }
