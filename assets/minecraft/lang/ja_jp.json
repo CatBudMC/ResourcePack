@@ -267,6 +267,7 @@
   "book.land_system.land_license.build": "ブロックの建設",
   "book.land_system.land_license.container": "コンテナの変更",
   "book.land_system.land_license.destroy": "ブロックの破壊",
+  "book.land_system.land_license.drop": "アイテムを捨てる",
   "book.land_system.land_license.fly": "自由飛行",
   "book.land_system.land_license.interact": "エンティティの使用",
   "book.land_system.land_license.pvp": "プレイヤー対プレイヤーの戦闘",

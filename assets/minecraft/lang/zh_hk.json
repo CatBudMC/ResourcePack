@@ -267,6 +267,7 @@
   "book.land_system.land_license.build": "建造方塊",
   "book.land_system.land_license.container": "改變容器",
   "book.land_system.land_license.destroy": "破壞方塊",
+  "book.land_system.land_license.drop": "丟出物品",
   "book.land_system.land_license.fly": "自由飛行",
   "book.land_system.land_license.interact": "使用實體",
   "book.land_system.land_license.pvp": "玩家攻擊玩家",

@@ -267,6 +267,7 @@
   "book.land_system.land_license.build": "Build Blocks",
   "book.land_system.land_license.container": "Modify Containers",
   "book.land_system.land_license.destroy": "Destroy Blocks",
+  "book.land_system.land_license.drop": "Drop Item",
   "book.land_system.land_license.fly": "Fly Freely",
   "book.land_system.land_license.interact": "Interact with Entities",
   "book.land_system.land_license.pvp": "Player vs Player Combat",
