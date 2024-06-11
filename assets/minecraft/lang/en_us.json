@@ -4,6 +4,7 @@
   "action.death_respawn.different_dimension": "Different dimension",
   "action.death_respawn.not_dead": "Not dead",
   "action.death_respawn.too_far": "Too far away",
+  "action.easy_blueprint.contain_unloaded": "Contains unloaded areas",
   "action.easy_blueprint.different_dimension": "Different Dimension",
   "action.easy_blueprint.oversize": "Oversize",
   "action.easy_blueprint.remove_end": "Remove End Position",

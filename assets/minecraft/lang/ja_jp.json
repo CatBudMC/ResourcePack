@@ -4,6 +4,7 @@
   "action.death_respawn.different_dimension": "異なる次元",
   "action.death_respawn.not_dead": "まだ死んでいない",
   "action.death_respawn.too_far": "距離が遠すぎます",
+  "action.easy_blueprint.contain_unloaded": "未ロードのエリアを含む",
   "action.easy_blueprint.different_dimension": "異なる次元",
   "action.easy_blueprint.oversize": "サイズが大きすぎます",
   "action.easy_blueprint.remove_end": "終了位置を削除する",
