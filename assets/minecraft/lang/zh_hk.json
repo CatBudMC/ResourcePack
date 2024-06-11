@@ -27,6 +27,7 @@
   "action.more_utilities.quit_soul_sighting": "離開靈魂出竅",
   "action.more_utilities.unable_record_bed_location": "無法紀錄床位置（信標容量已滿）",
   "action.more_utilities.unable_record_death_location": "無法紀錄死亡位置（信標容量已滿）",
+  "action.player_hide.in_hiding": "正在隱身中",
   "action.rate_limiter.send_chat_cooling": "聊天冷卻中",
   "argument.land.book.given": "已給予編號 '%s' 的領地書",
   "argument.special.block_tag.failed": "無法將方塊標籤 '%s' 放置在 '%s'",

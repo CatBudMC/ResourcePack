@@ -27,6 +27,7 @@
   "action.more_utilities.quit_soul_sighting": "离开灵魂出窍",
   "action.more_utilities.unable_record_bed_location": "无法纪录床位置（信标容量已满）",
   "action.more_utilities.unable_record_death_location": "无法纪录死亡位置（信标容量已满）",
+  "action.player_hide.in_hiding": "正在隐身中",
   "action.rate_limiter.send_chat_cooling": "聊天冷却中",
   "argument.land.book.given": "已给予编号 '%s' 的领地书",
   "argument.special.block_tag.failed": "无法将方块标籤 '%s' 放置在 '%s'",

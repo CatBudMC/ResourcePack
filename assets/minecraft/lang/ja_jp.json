@@ -27,6 +27,7 @@
   "action.more_utilities.quit_soul_sighting": "魂の視点をやめる",
   "action.more_utilities.unable_record_bed_location": "ベッドの位置を記録できません（ビーコンの容量がいっぱいです）",
   "action.more_utilities.unable_record_death_location": "死亡位置を記録できません（ビーコン容量がいっぱいです）",
+  "action.player_hide.in_hiding": "隠れている",
   "action.rate_limiter.send_chat_cooling": "チャットの冷却中",
   "argument.land.book.given": "ID '%s' の土地ブックを付与しました",
   "argument.special.block_tag.failed": "ブロックタグ '%s' を '%s' に配置できませんでした",

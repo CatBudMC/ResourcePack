@@ -27,6 +27,7 @@
   "action.more_utilities.quit_soul_sighting": "Quit soul sighting",
   "action.more_utilities.unable_record_bed_location": "Unable to record bed location (beacon capacity full)",
   "action.more_utilities.unable_record_death_location": "Unable to record death location (beacon capacity full)",
+  "action.player_hide.in_hiding": "In hiding",
   "action.rate_limiter.send_chat_cooling": "Sending chat cooling",
   "argument.land.book.given": "Granted land book with ID '%s'",
   "argument.special.block_tag.failed": "Failed to place block tag '%s' at '%s'",
