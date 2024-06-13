@@ -73,8 +73,8 @@
     {"predicate": {"custom_model_data": 2}, "model": "custom/test_packs/coin_iron"},
     {"predicate": {"custom_model_data": 3}, "model": "custom/test_packs/coin_gold"},
     {"predicate": {"custom_model_data": 4}, "model": "custom/test_packs/coin_diamond"},
-    {"predicate": {"custom_model_data": 5}, "model": "custom/test_packs/star"},
-    {"predicate": {"custom_model_data": 6}, "model": "custom/test_packs/ender_star"},
+    {"predicate": {"custom_model_data": 5}, "model": "custom/star"},
+    {"predicate": {"custom_model_data": 6}, "model": "custom/ender_star"},
     {"predicate": {"custom_model_data": 7}, "model": "custom/sound_bell"},
     {"predicate": {"custom_model_data": 8}, "model": "custom/land_book_empty"},
     {"predicate": {"custom_model_data": 9}, "model": "custom/land_book"},
@@ -111,6 +111,7 @@
     {"predicate": {"custom_model_data": 40}, "model": "custom/blueprint_empty"},
     {"predicate": {"custom_model_data": 41}, "model": "custom/blueprint"},
     {"predicate": {"custom_model_data": 42}, "model": "custom/blueprint_range"},
-    {"predicate": {"custom_model_data": 43}, "model": "custom/token_of_death_exemption"}
+    {"predicate": {"custom_model_data": 43}, "model": "custom/token_of_death_exemption"},
+    {"predicate": {"custom_model_data": 44}, "model": "custom/regen_star"}
   ]
 }

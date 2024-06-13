@@ -186,6 +186,12 @@
     ],
     "subtitle": "title.music_recorder.record_saved"
   },
+  "item.regen_star.use": {
+    "sounds": [
+      "block/bell/bell_use01"
+    ],
+    "subtitle": "subtitles.regen_star.use"
+  },
   "item.sound_bell.kizuna_akari.attack_big": {
     "subtitle": "subtitles.sound_bell.kizuna_akari.attack_big",
     "sounds": [
