@@ -773,6 +773,8 @@
   "lore.easy_blueprint.slice_is": "Slice: %s / %s / %s",
   "lore.easy_blueprint.start_is": "Start: %s / %s / %s / %s",
   "lore.land_book.id": "ID #%s",
+  "message.auto_regenerate.finish_regen_spawn": "Spawn regeneration complete",
+  "message.auto_regenerate.start_regen_spawn": "Start regenerating spawn",
   "message.channel_control.channel_is": "Channel: %s",
   "message.channel_control.member_join": "%s joined channel %s",
   "message.channel_control.member_quit": "%s quit channel %s",

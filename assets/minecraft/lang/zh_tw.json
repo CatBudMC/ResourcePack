@@ -773,6 +773,8 @@
   "lore.easy_blueprint.slice_is": "片段：%s / %s / %s",
   "lore.easy_blueprint.start_is": "開始：%s / %s / %s / %s",
   "lore.land_book.id": "ID #%s",
+  "message.auto_regenerate.finish_regen_spawn": "重置出生地完畢",
+  "message.auto_regenerate.start_regen_spawn": "開始重置出生地",
   "message.channel_control.channel_is": "頻道：%s",
   "message.channel_control.member_join": "%s 加入了頻道 %s",
   "message.channel_control.member_quit": "%s 退出了頻道 %s",

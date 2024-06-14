@@ -773,6 +773,8 @@
   "lore.easy_blueprint.slice_is": "スライス：%s / %s / %s",
   "lore.easy_blueprint.start_is": "開始：%s / %s / %s / %s",
   "lore.land_book.id": "ID：%s",
+  "message.auto_regenerate.finish_regen_spawn": "スポーン地点の再生成が完了",
+  "message.auto_regenerate.start_regen_spawn": "スポーン地点の再生成を開始",
   "message.channel_control.channel_is": "チャンネル：%s",
   "message.channel_control.member_join": "%s がチャンネル %s に参加しました",
   "message.channel_control.member_quit": "%s がチャンネル %s を退出しました",
