@@ -420,6 +420,8 @@
   "book.monetary_system.menu.wallet": "钱包",
   "book.monetary_system.menu.wallet_lore": "查看馀额、转帐给其它玩家",
   "book.monetary_system.menu.wallet_title": "     《    钱包    》",
+  "book.more_description.util.more_description.lore": "物品会显示更多的帮助信息",
+  "book.more_description.util.more_description.name": "更多说明",
   "book.more_utilities.menu.amount_format_error": "金额格式错误",
   "book.more_utilities.menu.currency_conversion": "货币转换",
   "book.more_utilities.menu.root": "辅助",

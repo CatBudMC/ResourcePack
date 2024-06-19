@@ -420,6 +420,8 @@
   "book.monetary_system.menu.wallet": "ウォレット",
   "book.monetary_system.menu.wallet_lore": "残高を表示し、他のプレーヤーに転送します",
   "book.monetary_system.menu.wallet_title": "     《 ウォレット 》",
+  "book.more_description.util.more_description.lore": "アイテムはより多くの役立つ情報を表示します",
+  "book.more_description.util.more_description.name": "さらに詳しく",
   "book.more_utilities.menu.amount_format_error": "金額の形式が間違っています",
   "book.more_utilities.menu.currency_conversion": "通貨変換",
   "book.more_utilities.menu.root": "ルート",

@@ -420,6 +420,8 @@
   "book.monetary_system.menu.wallet": "Wallet",
   "book.monetary_system.menu.wallet_lore": "View balance, transfer to other players",
   "book.monetary_system.menu.wallet_title": "     《    Wallet    》",
+  "book.more_description.util.more_description.lore": "The item will show more helpful information",
+  "book.more_description.util.more_description.name": "More Description",
   "book.more_utilities.menu.amount_format_error": "Incorrect amount format",
   "book.more_utilities.menu.currency_conversion": "Currency conversion",
   "book.more_utilities.menu.root": "Utilities",
