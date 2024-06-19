@@ -13,6 +13,13 @@
       "mob/endermen/portal2"
     ]
   },
+  "action.earth_command.player_move_location": {
+    "subtitle": "subtitles.earth_command.player_move_location",
+    "sounds": [
+      "mob/endermen/portal",
+      "mob/endermen/portal2"
+    ]
+  },
   "action.friendly_learn.pop_message": {
     "sounds": [
       "entity/itemframe/remove_item1",
