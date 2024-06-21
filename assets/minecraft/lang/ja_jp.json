@@ -783,6 +783,7 @@
   "message.discord_system.click_to_join_discord": "Discord グループに参加するにはここをクリック！",
   "message.earth_command.dimension_not_available": "この次元は使用できません",
   "message.earth_command.newbie_protection_over": "初心者保護期間が終了しました",
+  "message.friendly_learn.action_bar_notice": "（しゃがむことで会話が速くなります）",
   "message.friendly_learn.no_message_required": "現在の学習内容は返信を必要としません！",
   "message.message_manager.image": "プレビュー可能な画像",
   "message.message_manager.message_author_is": "投稿者：%s",
