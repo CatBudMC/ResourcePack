@@ -1036,6 +1036,8 @@
   "title.regen_star.start_regen": "Start Regenerating Surrounding Chunks",
   "title.script_control.script_running": "Script running",
   "title.script_control.script_stop": "Script stopped",
+  "title.velocity_queue.in_queue": "In queue",
+  "title.velocity_queue.other_players_besides_you": "There are %s other players besides you",
   "tokenLicense.friend_list.name": "Friend List",
   "tokenLicense.land_adjust.name": "Land Adjustment",
   "tokenLicense.land_notify.name": "Land Notifier",

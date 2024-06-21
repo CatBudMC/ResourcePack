@@ -1036,6 +1036,8 @@
   "title.regen_star.start_regen": "周囲のチャンクの再生成を開始",
   "title.script_control.script_running": "スクリプトが実行中です",
   "title.script_control.script_stop": "スクリプトが停止しました",
+  "title.velocity_queue.in_queue": "キューに並んでいます",
+  "title.velocity_queue.other_players_besides_you": "あなた以外に他の %s 人のプレイヤーがいます",
   "tokenLicense.friend_list.name": "友達リスト",
   "tokenLicense.land_adjust.name": "土地調整",
   "tokenLicense.land_notify.name": "土地通知器",

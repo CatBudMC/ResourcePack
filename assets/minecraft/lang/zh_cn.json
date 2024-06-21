@@ -1036,6 +1036,8 @@
   "title.regen_star.start_regen": "开始重新生成周围区块",
   "title.script_control.script_running": "脚本正在运行中",
   "title.script_control.script_stop": "脚本已停止",
+  "title.velocity_queue.in_queue": "正在排队中",
+  "title.velocity_queue.other_players_besides_you": "除了你之外，还有其他 %s 个玩家",
   "tokenLicense.friend_list.name": "朋友列表",
   "tokenLicense.land_adjust.name": "领地调整",
   "tokenLicense.land_notify.name": "领地通知器",
