@@ -1086,5 +1086,9 @@
   "worldEnvironment.custom": "自定義世界",
   "worldEnvironment.nether": "地獄",
   "worldEnvironment.normal": "主世界",
-  "worldEnvironment.the_end": "終界"
+  "worldEnvironment.the_end": "終界",
+  "trophy.own.fortune_cat.name": "招財貓",
+  "trophy.own.fortune_cat.lore": "抽獎中貨幣獎超過 1 次",
+  "book.skull_lottery.menu.lottery_lore.0": "池內有 %s 種不一樣的頭顱！",
+  "book.skull_lottery.menu.lottery_lore.1": "低機率中貨幣獎"
 }
