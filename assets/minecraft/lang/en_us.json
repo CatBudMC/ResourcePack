@@ -1010,6 +1010,7 @@
   "title.death_respawn.canceled": "Respawn canceled",
   "title.death_respawn.press_cancel": "Press %s to cancel",
   "title.death_respawn.respawn_countdown": "Respawn Countdown (%s seconds)",
+  "title.discord_system.link_here": "↙ Discord invitation link is in the chat",
   "title.earth_command.canceled": "Teleportation has been canceled",
   "title.earth_command.move_can_cancel": "Move position can be canceled",
   "title.earth_command.teleport_countdown": "Teleport %s / %s / %s Countdown (%s seconds)",

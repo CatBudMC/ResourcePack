@@ -1010,6 +1010,7 @@
   "title.death_respawn.canceled": "已取消死亡重生",
   "title.death_respawn.press_cancel": "按下 %s 取消",
   "title.death_respawn.respawn_countdown": "死亡重生倒数（%s 秒）",
+  "title.discord_system.link_here": "↙ Discord 邀请网址在聊天栏",
   "title.earth_command.canceled": "已取消传送",
   "title.earth_command.move_can_cancel": "移动位置可取消",
   "title.earth_command.teleport_countdown": "传送 %s / %s / %s 倒数（%s 秒）",

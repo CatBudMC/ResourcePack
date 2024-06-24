@@ -1010,6 +1010,7 @@
   "title.death_respawn.canceled": "リスポーンがキャンセルされました",
   "title.death_respawn.press_cancel": "%s を押してキャンセル",
   "title.death_respawn.respawn_countdown": "リスポーンカウントダウン（%s 秒）",
+  "title.discord_system.link_here": "↙ Discord 招待リンクはチャット欄にあります",
   "title.earth_command.canceled": "テレポートがキャンセルされました",
   "title.earth_command.move_can_cancel": "移動位置をキャンセル可能",
   "title.earth_command.teleport_countdown": "テレポート %s / %s / %s カウントダウン（%s 秒）",
