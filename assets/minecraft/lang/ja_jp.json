@@ -724,6 +724,7 @@
   "book.website_resource.menu.root_title": "     《  リソース  》",
   "book.website_resource.url.expand.name": "拡張プログラム",
   "book.website_resource.url.seed.name": "ワールドシード",
+  "book.website_resource.url.shop.name": "もっとショップ",
   "book.website_resource.url.wikipedia.name": "ウィキペディア",
   "command.blueprint.cooling": "クールダウン中",
   "command.blueprint.disallowed_url": "許可されていないURL",
