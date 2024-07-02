@@ -804,7 +804,7 @@
   "message.discord_system.click_to_join_discord": "點擊此處加入 Discord 群組！",
   "message.earth_command.dimension_not_available": "此維度不可使用",
   "message.earth_command.newbie_protection_over": "新手保護期已結束",
-  "message.friendly_learn.action_bar_notice": "（蹲下可以加速對話）",
+  "message.friendly_learn.action_bar_notice": "（ 蹲下 - 對話速度增加 | /skip - 跳過新手教學 ）",
   "message.friendly_learn.no_message_required": "當前學習內容不用回話！",
   "message.message_manager.image": "可預覽圖片",
   "message.message_manager.message_author_is": "來自：%s",
