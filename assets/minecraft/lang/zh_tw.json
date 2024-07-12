@@ -127,6 +127,7 @@
   "book.broadcast_message.frequency.every_4_hours": "每 4 小時",
   "book.broadcast_message.frequency.every_5_minutes": "每 5 分鐘",
   "book.broadcast_message.frequency.every_8_hours": "每 8 小時",
+  "book.broadcast_message.frequency.only_used_organizing_event": "僅能在舉辦活動中使用",
   "book.broadcast_message.menu.broadcast_content": "廣播內容",
   "book.broadcast_message.menu.broadcast_empty": "      沒有任何廣播...",
   "book.broadcast_message.menu.confirm_delete_broadcast": "確定刪除廣播？",

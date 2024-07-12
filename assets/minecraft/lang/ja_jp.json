@@ -127,6 +127,7 @@
   "book.broadcast_message.frequency.every_4_hours": "4時間ごと",
   "book.broadcast_message.frequency.every_5_minutes": "5分ごと",
   "book.broadcast_message.frequency.every_8_hours": "8時間ごと",
+  "book.broadcast_message.frequency.only_used_organizing_event": "イベント開催中のみ使用可能",
   "book.broadcast_message.menu.broadcast_content": "放送内容",
   "book.broadcast_message.menu.broadcast_empty": "    放送がありません...",
   "book.broadcast_message.menu.confirm_delete_broadcast": "この放送を削除してもよろしいですか？",
