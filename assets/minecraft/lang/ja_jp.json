@@ -1,4 +1,5 @@
 {
+  "action.architect_toolkit.insufficient_material": "材料が不足しています",
   "action.creativity_core.prohibit_placement": "この素材は配置できません",
   "action.death_respawn.already_expired": "すでに期限切れ",
   "action.death_respawn.different_dimension": "異なる次元",
@@ -759,6 +760,7 @@
   "equipmentSlot.head": "ヘルメット",
   "equipmentSlot.legs": "脚部",
   "equipmentSlot.off_hand": "副手",
+  "item.architect_toolkit.palette": "パレット",
   "item.architect_toolkit.wrench": "レンチ",
   "item.death_respawn.token_of_death_exemption": "死免金牌",
   "item.dynamic_map.mobile_map": "ダイナミックマップ",
@@ -1031,6 +1033,7 @@
   "task.achievement.trade.3": "取引 ⛦⛦⛦⛦",
   "task.residency.restart": "サーバーを再起動しています。ご迷惑をおかけして申し訳ありません",
   "task.residency.starter": "初心者用ギフト",
+  "title.architect_toolkit.replaceable_block": "置き換え可能なブロック",
   "title.auto_regenerate.next_refresh": "%s 更新",
   "title.auto_regenerate.next_refresh_blocked": "%s 更新（ブロック済み）",
   "title.auto_regenerate.refresh_remainder": "残り %s 日 %s 時間 %s 分 %s 秒",

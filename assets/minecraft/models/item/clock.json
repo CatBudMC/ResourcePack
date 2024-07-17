@@ -113,6 +113,7 @@
     {"predicate": {"custom_model_data": 42}, "model": "custom/blueprint_range"},
     {"predicate": {"custom_model_data": 43}, "model": "custom/token_of_death_exemption"},
     {"predicate": {"custom_model_data": 44}, "model": "custom/regen_star"},
-    {"predicate": {"custom_model_data": 45}, "model": "custom/wrench"}
+    {"predicate": {"custom_model_data": 45}, "model": "custom/wrench"},
+    {"predicate": {"custom_model_data": 46}, "model": "custom/palette"}
   ]
 }

@@ -1,4 +1,5 @@
 {
+  "action.architect_toolkit.insufficient_material": "材料不足够",
   "action.creativity_core.prohibit_placement": "这个材质不允许放置",
   "action.death_respawn.already_expired": "已经过期",
   "action.death_respawn.different_dimension": "不同维度",
@@ -759,6 +760,7 @@
   "equipmentSlot.head": "头盔",
   "equipmentSlot.legs": "护腿",
   "equipmentSlot.off_hand": "副手",
+  "item.architect_toolkit.palette": "调色板",
   "item.architect_toolkit.wrench": "板手",
   "item.death_respawn.token_of_death_exemption": "免死金牌",
   "item.dynamic_map.mobile_map": "动态地图",
@@ -1031,6 +1033,7 @@
   "task.achievement.trade.3": "交易 ⛦⛦⛦⛦",
   "task.residency.restart": "重启伺服器致歉",
   "task.residency.starter": "新手起始礼盒",
+  "title.architect_toolkit.replaceable_block": "可替换方块",
   "title.auto_regenerate.next_refresh": "%s 刷新",
   "title.auto_regenerate.next_refresh_blocked": "%s 刷新（已阻止）",
   "title.auto_regenerate.refresh_remainder": "剩馀 %s 天 %s 时 %s 分 %s 秒",

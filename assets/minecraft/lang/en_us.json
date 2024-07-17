@@ -1,4 +1,5 @@
 {
+  "action.architect_toolkit.insufficient_material": "Insufficient Materials",
   "action.creativity_core.prohibit_placement": "This material cannot be placed",
   "action.death_respawn.already_expired": "Already expired",
   "action.death_respawn.different_dimension": "Different dimension",
@@ -759,6 +760,7 @@
   "equipmentSlot.head": "Helmet",
   "equipmentSlot.legs": "Leggings",
   "equipmentSlot.off_hand": "Off-hand",
+  "item.architect_toolkit.palette": "Palette",
   "item.architect_toolkit.wrench": "Wrench",
   "item.death_respawn.token_of_death_exemption": "Token of Death Exemption",
   "item.dynamic_map.mobile_map": "Dynamic Map",
@@ -1031,6 +1033,7 @@
   "task.achievement.trade.3": "Trading ⛦⛦⛦⛦",
   "task.residency.restart": "Restarting server, we apologize for the inconvenience",
   "task.residency.starter": "Newbie Starter Pack",
+  "title.architect_toolkit.replaceable_block": "Replaceable Block",
   "title.auto_regenerate.next_refresh": "Next Refresh %s",
   "title.auto_regenerate.next_refresh_blocked": "Next Refresh %s (Blocked)",
   "title.auto_regenerate.refresh_remainder": "Remaining %s days %s hours %s minutes %s seconds",
