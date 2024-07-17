@@ -989,5 +989,11 @@
       "block/lantern/place6"
     ],
     "subtitle": "subtitles.star.launch"
+  },
+  "item.wrench.use": {
+    "sounds": [
+      "item/spyglass/use"
+    ],
+    "subtitle": "subtitles.wrench.use"
   }
 }
