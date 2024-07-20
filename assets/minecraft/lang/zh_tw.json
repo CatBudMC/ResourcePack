@@ -832,7 +832,7 @@
   "message.earth_command.newbie_protection_over": "新手保護期已結束",
   "message.friendly_learn.action_bar_notice": "（ 蹲下 - 對話速度增加 | /skip - 跳過新手教學 ）",
   "message.friendly_learn.no_message_required": "當前學習內容不用回話！",
-  "message.individual_save.switch_save": "切換存檔為　%s",
+  "message.individual_save.switch_save": "切換存檔為 '%s'",
   "message.message_manager.image": "可預覽圖片",
   "message.message_manager.message_author_is": "來自：%s",
   "message.message_manager.private.receive_message": "<%s> → <你> %s",
