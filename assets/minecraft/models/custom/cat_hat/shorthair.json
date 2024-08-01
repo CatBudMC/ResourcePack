@@ -1,6 +1,0 @@
-{
-  "parent": "custom/cat_hat/_",
-  "textures": {
-    "0": "item/custom/cat_hat/cat_hat_british_shorthair"
-  }
-}
