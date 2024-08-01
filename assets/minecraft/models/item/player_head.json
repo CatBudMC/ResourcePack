@@ -10,5 +10,12 @@
       "translation": [0, 7.5, 0],
       "scale": [1.8, 1.8, 1.8]
     }
-  }
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "custom/skull_rotation/back"},
+    {"predicate": {"custom_model_data": 2}, "model": "custom/skull_rotation/bottom"},
+    {"predicate": {"custom_model_data": 3}, "model": "custom/skull_rotation/left"},
+    {"predicate": {"custom_model_data": 4}, "model": "custom/skull_rotation/right"},
+    {"predicate": {"custom_model_data": 5}, "model": "custom/skull_rotation/top"}
+  ]
 }

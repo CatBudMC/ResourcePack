@@ -990,6 +990,15 @@
     ],
     "subtitle": "subtitles.star.launch"
   },
+  "item.wishing_star.use": {
+    "sounds": [
+      "block/amethyst/break1",
+      "block/amethyst/break2",
+      "block/amethyst/break3",
+      "block/amethyst/break4"
+    ],
+    "subtitle": "subtitles.wishing_star.use"
+  },
   "item.wrench.use": {
     "sounds": [
       "item/spyglass/use"
