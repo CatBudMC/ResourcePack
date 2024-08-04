@@ -763,7 +763,7 @@
   "command.cause.other_full": "对方名额已满",
   "command.channel.unsolicited_invitation": "无效的邀请",
   "command.code.invalid_card": "无效的卡片",
-  "command.code.use_card": "成功使用卡片获得 %s %s",
+  "command.code.use_card": "成功使用卡片获得 %s",
   "command.hide.value_change": "已将自己的隐形状态切换为 '%s'",
   "command.token.token_capacity_full": "令牌容量已满",
   "command.token.token_created": "令牌已创建：%s",
