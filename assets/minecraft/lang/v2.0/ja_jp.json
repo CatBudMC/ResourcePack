@@ -95,6 +95,7 @@
   "book.beacon_provider.menu.haven_not_been_dimension": "そのディメンションにまだ行ったことがありません",
   "book.beacon_provider.menu.incorrect_location_format": "場所の形式が正しくありません",
   "book.beacon_provider.menu.move": "移動",
+  "book.beacon_provider.menu.move_friend_last_location": "友達の現在または最後にオンラインだった場所に移動",
   "book.beacon_provider.menu.move_lore": "希望の場所に高速移動",
   "book.beacon_provider.menu.move_title": "     《    移動    》",
   "book.beacon_provider.menu.not_outside_world": "ワールド外には出られません",

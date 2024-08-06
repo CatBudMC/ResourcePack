@@ -2393,5 +2393,6 @@
   "worldEnvironment.custom": "自定义世界",
   "worldEnvironment.nether": "地狱",
   "worldEnvironment.normal": "主世界",
-  "worldEnvironment.the_end": "终界"
+  "worldEnvironment.the_end": "终界",
+  "book.beacon_provider.menu.move_friend_last_location": "移动到朋友当前或最后上线位置"
 }

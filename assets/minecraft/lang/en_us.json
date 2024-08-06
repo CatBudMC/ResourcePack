@@ -2393,5 +2393,6 @@
   "worldEnvironment.custom": "Custom World",
   "worldEnvironment.nether": "Nether",
   "worldEnvironment.normal": "Overworld",
-  "worldEnvironment.the_end": "The End"
+  "worldEnvironment.the_end": "The End",
+  "book.beacon_provider.menu.move_friend_last_location": "Move to the friend's current or last online location"
 }

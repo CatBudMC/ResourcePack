@@ -2393,5 +2393,6 @@
   "worldEnvironment.custom": "カスタムワールド",
   "worldEnvironment.nether": "ネザー",
   "worldEnvironment.normal": "ノーマルワールド",
-  "worldEnvironment.the_end": "エンド"
+  "worldEnvironment.the_end": "エンド",
+  "book.beacon_provider.menu.move_friend_last_location": "友達の現在または最後にオンラインだった場所に移動"
 }

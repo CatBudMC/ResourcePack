@@ -95,6 +95,7 @@
   "book.beacon_provider.menu.haven_not_been_dimension": "还没有去过该维度",
   "book.beacon_provider.menu.incorrect_location_format": "座标格式错误",
   "book.beacon_provider.menu.move": "移动",
+  "book.beacon_provider.menu.move_friend_last_location": "移动到朋友当前或最后上线位置",
   "book.beacon_provider.menu.move_lore": "付费快速前往想去的位置",
   "book.beacon_provider.menu.move_title": "     《    移动    》",
   "book.beacon_provider.menu.not_outside_world": "不能在世界之外",
