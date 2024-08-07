@@ -133,6 +133,15 @@
     ],
     "subtitle": "subtitles.movable_dispenser.remove_item"
   },
+  "item.armor_stand_arm.install": {
+    "sounds": [
+      "entity/armorstand/break1",
+      "entity/armorstand/break2",
+      "entity/armorstand/break3",
+      "entity/armorstand/break4"
+    ],
+    "subtitle": "subtitles.armor_stand_arm.install"
+  },
   "item.blueprint_empty.save": {
     "subtitle": "subtitles.blueprint_empty.save",
     "sounds": [
@@ -1004,14 +1013,5 @@
       "item/spyglass/use"
     ],
     "subtitle": "subtitles.wrench.use"
-  },
-  "item.armor_stand_arm.install": {
-    "sounds": [
-      "entity/armorstand/break1",
-      "entity/armorstand/break2",
-      "entity/armorstand/break3",
-      "entity/armorstand/break4"
-    ],
-    "subtitle": "subtitles.armor_stand_arm.install"
   }
 }

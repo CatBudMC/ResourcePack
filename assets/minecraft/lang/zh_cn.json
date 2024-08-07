@@ -2394,5 +2394,7 @@
   "worldEnvironment.nether": "地狱",
   "worldEnvironment.normal": "主世界",
   "worldEnvironment.the_end": "终界",
-  "book.beacon_provider.menu.move_friend_last_location": "移动到朋友当前或最后上线位置"
+  "book.beacon_provider.menu.move_friend_last_location": "移动到朋友当前或最后上线位置",
+  "item.architect_toolkit.armor_stand_arm": "盔甲座手臂",
+  "subtitles.armor_stand_arm.install": "为盔甲座安装手臂"
 }
