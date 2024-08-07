@@ -195,6 +195,7 @@
     {"predicate": {"custom_model_data": 124}, "model": "style/rabbit_ear/blue"},
     {"predicate": {"custom_model_data": 125}, "model": "style/rabbit_ear/purple"},
     {"predicate": {"custom_model_data": 126}, "model": "style/rabbit_ear/magenta"},
-    {"predicate": {"custom_model_data": 127}, "model": "style/rabbit_ear/pink"}
+    {"predicate": {"custom_model_data": 127}, "model": "style/rabbit_ear/pink"},
+    {"predicate": {"custom_model_data": 128}, "model": "custom/armor_stand_arm"}
   ]
 }
