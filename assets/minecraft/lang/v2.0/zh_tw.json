@@ -711,7 +711,7 @@
   "book.task_config.menu.switch_group_cooling": "切換群組（冷卻中）",
   "book.task_config.menu.task": "任務",
   "book.task_config.menu.task_empty": "      沒有任何任務...",
-  "book.task_config.menu.task_lore": "透過任務賺取 T 幣",
+  "book.task_config.menu.task_lore": " 將指定物品丟入岩漿獲得 T 幣",
   "book.task_config.menu.task_title": "     《    任務    》",
   "book.task_config.task_folder.achievement": "成就",
   "book.task_config.task_folder.daily": "每日",

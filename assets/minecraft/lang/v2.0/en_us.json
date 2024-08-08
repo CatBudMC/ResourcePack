@@ -711,7 +711,7 @@
   "book.task_config.menu.switch_group_cooling": "Switch Group (cooling down)",
   "book.task_config.menu.task": "Task",
   "book.task_config.menu.task_empty": "     No tasks available...",
-  "book.task_config.menu.task_lore": "Earn T coins through tasks",
+  "book.task_config.menu.task_lore": "Throw the specified item into lava to get T coins",
   "book.task_config.menu.task_title": "     《    Task    》",
   "book.task_config.task_folder.achievement": "Achievement",
   "book.task_config.task_folder.daily": "Daily",

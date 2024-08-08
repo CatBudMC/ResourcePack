@@ -711,7 +711,7 @@
   "book.task_config.menu.switch_group_cooling": "グループの切り替え（冷却中）",
   "book.task_config.menu.task": "タスク",
   "book.task_config.menu.task_empty": "   まだ何もありません...",
-  "book.task_config.menu.task_lore": "タスクを通じて T コインを稼ぐ",
+  "book.task_config.menu.task_lore": "指定されたアイテムを溶岩に投げ込んでTコインを獲得する",
   "book.task_config.menu.task_title": "     《   タスク   》",
   "book.task_config.task_folder.achievement": "実績",
   "book.task_config.task_folder.daily": "デイリー",
