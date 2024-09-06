@@ -1,0 +1,39 @@
+name: 壓縮 zip、計算 SHA-1 並發佈到 Tag
+on:
+  push:
+    branches:
+      - master
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 簽出儲存庫
+        uses: actions/checkout@v2
+      - name: 壓縮成 zip
+        run: zip -r resource.zip assets/* license.md pack.mcmeta pack.png
+      - name: 計算 SHA1
+        id: calculate_sha1
+        run: echo "RESOURCE_SHA1=$(sha1sum resource.zip | awk '{print $1}')" >> $GITHUB_OUTPUT
+      - name: 創建發佈
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.run_number }}
+          release_name: 版本 ${{ github.run_number }}
+          draft: false
+          prerelease: false
+          body: ${{ steps.calculate_sha1.outputs.RESOURCE_SHA1 }}
+      - name: 上傳 zip
+        id: upload_zip
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./resource.zip
+          asset_name: resource.zip
+          asset_content_type: application/zip
