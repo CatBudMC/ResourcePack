@@ -1,0 +1,20 @@
+{
+  "textures": {
+    "f": "block/mushroom_block_inside",
+    "t": "block/red_mushroom_block"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "up": {"texture": "#f", "cullface": "up"},
+        "down": {"texture": "#t", "cullface": "down"},
+        "south": {"texture": "#f", "cullface": "south"},
+        "west": {"texture": "#t", "cullface": "west"},
+        "north": {"texture": "#f", "cullface": "north"},
+        "east": {"texture": "#f", "cullface": "east"}
+      }
+    }
+  ]
+}

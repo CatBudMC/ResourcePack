@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type":"bitmap",
+      "file":"gui/empty.png",
+      "ascent":-2000,
+      "height":-3,
+      "chars":["\u0001"]
+    }
+  ]
+}
