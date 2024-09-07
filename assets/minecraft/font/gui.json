@@ -1,11 +1,6 @@
 {
   "providers": [
-    {
-      "type":"bitmap",
-      "file":"gui/empty.png",
-      "ascent":-2000,
-      "height":-3,
-      "chars":["\u0001"]
-    }
+    {"type": "bitmap", "chars": ["\u0001"], "file": "gui/empty.png", "ascent": -2000, "height": -3},
+    {"type": "bitmap", "chars": ["\u0002"], "file": "gui/buff.png", "ascent": 19, "height": 72}
   ]
 }

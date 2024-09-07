@@ -1,0 +1,25 @@
+{
+  "providers": [
+    {"type": "bitmap", "chars":["\u0001"], "file": "emoji/off.png", "height": 7, "ascent": 6},
+    {"type": "bitmap", "chars":["\u0002"], "file": "emoji/on.png", "height": 7, "ascent": 6},
+    {"type": "bitmap", "chars":["\u0003"], "file": "emoji/close.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0004"], "file": "emoji/check.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0005"], "file": "emoji/mouse_left.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0006"], "file": "emoji/mouse_left_shift.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0007"], "file": "emoji/mouse_right.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0008"], "file": "emoji/mouse_right_shift.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0009"], "file": "emoji/keyboard_f3_n.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0010"], "file": "emoji/keyboard_0.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0011"], "file": "emoji/keyboard_1.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0012"], "file": "emoji/keyboard_2.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0013"], "file": "emoji/keyboard_3.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0014"], "file": "emoji/keyboard_4.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0015"], "file": "emoji/keyboard_5.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0016"], "file": "emoji/keyboard_6.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0017"], "file": "emoji/keyboard_7.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0018"], "file": "emoji/keyboard_8.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0019"], "file": "emoji/keyboard_9.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0020"], "file": "emoji/keyboard_q.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0021"], "file": "emoji/keyboard_f.png", "height": 8, "ascent": 7}
+  ]
+}
