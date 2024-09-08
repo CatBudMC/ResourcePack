@@ -91,6 +91,8 @@
     {"type": "bitmap", "chars":["\u0090"], "file": "emoji/mob/blaze.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0091"], "file": "emoji/mob/zombie_villager.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0092"], "file": "emoji/mob/zombified_piglin.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars":["\u0093"], "file": "emoji/mob/hoglin.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars":["\u0093"], "file": "emoji/mob/hoglin.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0094"], "file": "emoji/symbol/currency.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0095"], "file": "emoji/symbol/command.png", "height": 6, "ascent": 6}
   ]
 }

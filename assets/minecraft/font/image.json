@@ -1,7 +1,7 @@
 {
   "providers": [
-    {"type": "bitmap", "chars":["\u0001"], "file": "image/assistive_features/health_left.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars":["\u0002"], "file": "image/assistive_features/health_right.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0001"], "file": "image/assistive_features/health_left_are.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0002"], "file": "image/assistive_features/health_right_are.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0003"], "file": "image/assistive_features/health_self_are.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0004"], "file": "image/assistive_features/health_self_no.png", "height": 8, "ascent": 7},
     {"type": "space", "advances": {"\u0005": -1}},
@@ -21,6 +21,8 @@
     {"type": "bitmap", "chars":["\u0019"], "file": "image/assistive_features/food_saturation_1.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0020"], "file": "image/assistive_features/food_saturation_2.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0021"], "file": "image/assistive_features/food_saturation_3.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars":["\u0022"], "file": "image/assistive_features/food_saturation_4.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars":["\u0022"], "file": "image/assistive_features/food_saturation_4.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0023"], "file": "image/assistive_features/health_left_no.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0024"], "file": "image/assistive_features/health_right_no.png", "height": 8, "ascent": 7}
   ]
 }
