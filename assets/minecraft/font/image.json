@@ -23,6 +23,11 @@
     {"type": "bitmap", "chars":["\u0021"], "file": "image/assistive_features/food_saturation_3.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0022"], "file": "image/assistive_features/food_saturation_4.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0023"], "file": "image/assistive_features/health_left_no.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars":["\u0024"], "file": "image/assistive_features/health_right_no.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars":["\u0024"], "file": "image/assistive_features/health_right_no.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0025"], "file": "item/menu/mail/entry_attach_read.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0026"], "file": "item/menu/mail/entry_attach_read_received.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0028"], "file": "item/menu/mail/entry_attach_unread.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0029"], "file": "item/menu/mail/entry_read.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0030"], "file": "item/menu/mail/entry_unread.png", "height": 8, "ascent": 7}
   ]
 }
