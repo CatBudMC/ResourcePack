@@ -130,6 +130,8 @@
     {"predicate": {"custom_model_data": 59}, "model": "item/menu/mail/selected_entry_attach_unread"},
     {"predicate": {"custom_model_data": 60}, "model": "item/menu/mail/selected_entry_read"},
     {"predicate": {"custom_model_data": 61}, "model": "item/menu/mail/selected_entry_unread"},
-    {"predicate": {"custom_model_data": 62}, "model": "item/menu/empty"}
+    {"predicate": {"custom_model_data": 62}, "model": "item/menu/empty"},
+    {"predicate": {"custom_model_data": 63}, "model": "item/menu/search_off"},
+    {"predicate": {"custom_model_data": 64}, "model": "item/menu/search_on"}
   ]
 }

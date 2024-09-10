@@ -1,2 +1,8 @@
 {
+  "plugins.player_database.mail_alert": {
+    "subtitle": "plugins.player_database.mail_alert",
+    "sounds": [
+      "mail_alert"
+    ]
+  }
 }
