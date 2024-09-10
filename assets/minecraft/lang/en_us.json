@@ -136,5 +136,6 @@
   "plugins.player_database.received_new_mail_from": "收到了由 %s 發送來的新郵件 %s",
   "plugins.player_database.selected_all": "選取全部",
   "plugins.player_database.selected_clear": "取消選取全部",
-  "commands.mail.been_deleted": "郵件已被刪除"
+  "commands.mail.been_deleted": "郵件已被刪除",
+  "plugins.player_database.attach_also_deleted": "未領取的附件也將被銷毀"
 }

@@ -97,6 +97,8 @@
     {"type": "bitmap", "chars":["\u0096"], "file": "emoji/symbol/paperclip.png", "height": 7, "ascent": 6},
     {"type": "bitmap", "chars":["\u0097"], "file": "emoji/symbol/clock.png", "height": 7, "ascent": 6},
     {"type": "bitmap", "chars":["\u0098"], "file": "emoji/symbol/online.png", "height": 7, "ascent": 6},
-    {"type": "bitmap", "chars":["\u0099"], "file": "emoji/symbol/offline.png", "height": 7, "ascent": 6}
+    {"type": "bitmap", "chars":["\u0099"], "file": "emoji/symbol/offline.png", "height": 7, "ascent": 6},
+    {"type": "bitmap", "chars":["\u0100"], "file": "emoji/symbol/prohibit.png", "height": 7, "ascent": 6},
+    {"type": "bitmap", "chars":["\u0101"], "file": "emoji/symbol/warning.png", "height": 7, "ascent": 6}
   ]
 }
