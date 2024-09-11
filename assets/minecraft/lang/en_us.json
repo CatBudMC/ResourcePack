@@ -135,7 +135,7 @@
   "plugins.player_database.cancel_send_mail": "取消發送郵件",
   "plugins.player_database.mail_send_completed": "發送完成",
   "plugins.player_database.received_new_mail": "收到了新郵件 %s",
-  "plugins.player_database.received_new_mail_from": "收到了由 %s 發送來的新郵件 %s",
+  "plugins.player_database.received_new_mail_from": "收到了由 '%s' 發送來的新郵件 %s",
   "plugins.player_database.selected_all": "選取全部",
   "plugins.player_database.selected_clear": "取消選取全部",
   "commands.mail.been_deleted": "郵件已被刪除",
