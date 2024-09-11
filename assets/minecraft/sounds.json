@@ -4,5 +4,17 @@
     "sounds": [
       "mail_alert"
     ]
+  },
+  "plugins.player_database.friend_offline": {
+    "subtitle": "plugins.player_database.friend_offline",
+    "sounds": [
+      "friend_offline"
+    ]
+  },
+  "plugins.player_database.friend_online": {
+    "subtitle": "plugins.player_database.friend_online",
+    "sounds": [
+      "friend_online"
+    ]
   }
 }

@@ -6,6 +6,7 @@
     {"type": "bitmap", "chars": ["\u0004"], "file": "gui/mail_new.png", "ascent": 19, "height": 144},
     {"type": "bitmap", "chars": ["\u0005"], "file": "gui/mail_show.png", "ascent": 19, "height": 108},
     {"type": "bitmap", "chars": ["\u0006"], "file": "gui/mail_show_attach.png", "ascent": 19, "height": 144},
-    {"type": "bitmap", "chars": ["\u0007"], "file": "gui/player_select.png", "ascent": 19, "height": 144}
+    {"type": "bitmap", "chars": ["\u0007"], "file": "gui/player_select.png", "ascent": 19, "height": 144},
+    {"type": "bitmap", "chars": ["\u0008"], "file": "gui/friend.png", "ascent": 19, "height": 144}
   ]
 }

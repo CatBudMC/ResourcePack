@@ -132,6 +132,11 @@
     {"predicate": {"custom_model_data": 61}, "model": "item/menu/mail/selected_entry_unread"},
     {"predicate": {"custom_model_data": 62}, "model": "item/menu/empty"},
     {"predicate": {"custom_model_data": 63}, "model": "item/menu/search_off"},
-    {"predicate": {"custom_model_data": 64}, "model": "item/menu/search_on"}
+    {"predicate": {"custom_model_data": 64}, "model": "item/menu/search_on"},
+    {"predicate": {"custom_model_data": 65}, "model": "item/menu/friend_off"},
+    {"predicate": {"custom_model_data": 66}, "model": "item/menu/friend_on"},
+    {"predicate": {"custom_model_data": 67}, "model": "item/menu/unavailable"},
+    {"predicate": {"custom_model_data": 68}, "model": "item/menu/friend/friend_online_and_offline_alert_off"},
+    {"predicate": {"custom_model_data": 69}, "model": "item/menu/friend/friend_online_and_offline_alert_on"}
   ]
 }
