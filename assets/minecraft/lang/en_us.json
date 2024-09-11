@@ -177,5 +177,7 @@
   "plugins.player_database.current_player_not_allow_selected": "玩家 %s 當前不允許被選擇。",
   "commands.friend.agree_request": "已同意與玩家 '%s' 成為朋友",
   "commands.friend.not_friend": "玩家 '%s' 不是你的朋友",
-  "commands.friend.successful_delete": "成功解除和玩家 '%s' 的朋友關係"
+  "commands.friend.successful_delete": "成功解除和玩家 '%s' 的朋友關係",
+  "plugins.velocity_queue.in_queue": "正在排隊中",
+  "plugins.velocity_queue.other_players_besides_you": "還有 %s 個玩家也在等待中"
 }
