@@ -227,5 +227,6 @@
   "commands.shield.not_joined": "玩家 '%s' 沒有被屏蔽",
   "commands.shield.successful_delete": "成功將玩家 '%s' 解除屏蔽",
   "commands.shield.cannot_type": "未知的屏蔽操作類型 '%s'",
-  "plugins.player_database.already_shield": "已被屏蔽"
+  "plugins.player_database.already_shield": "已被屏蔽",
+  "commands.shield.capacity_full": "屏蔽容量已滿"
 }
