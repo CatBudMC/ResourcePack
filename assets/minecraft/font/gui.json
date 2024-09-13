@@ -8,6 +8,7 @@
     {"type": "bitmap", "chars": ["\u0006"], "file": "gui/mail_show_attach.png", "ascent": 19, "height": 144},
     {"type": "bitmap", "chars": ["\u0007"], "file": "gui/player_select.png", "ascent": 19, "height": 144},
     {"type": "bitmap", "chars": ["\u0008"], "file": "gui/friend.png", "ascent": 19, "height": 144},
-    {"type": "bitmap", "chars": ["\u0009"], "file": "gui/player_show.png", "ascent": 13, "height": 84}
+    {"type": "bitmap", "chars": ["\u0009"], "file": "gui/player_show.png", "ascent": 13, "height": 84},
+    {"type": "bitmap", "chars": ["\u0010"], "file": "gui/shield.png", "ascent": 19, "height": 144}
   ]
 }
