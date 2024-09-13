@@ -231,6 +231,7 @@
   "commands.shield.capacity_full": "屏蔽容量已滿",
   "plugins.player_database.launch_teleporting": "啟動傳送過程中不要移動...",
   "plugins.player_database.canceled_teleport": "已取消傳送",
+  "plugins.player_database.player_teleport": "玩家傳送",
   "commands.go.miss_player_arg": "缺少目標玩家參數",
   "commands.go.player_not_exist": "玩家 '%s' 不存在",
   "commands.go.can_not_myself": "不能是自己",

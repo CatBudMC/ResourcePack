@@ -16,5 +16,11 @@
     "sounds": [
       "friend_online"
     ]
+  },
+  "plugins.player_database.player_teleport": {
+    "subtitle": "plugins.player_database.player_teleport",
+    "sounds": [
+      "player_teleport"
+    ]
   }
 }
