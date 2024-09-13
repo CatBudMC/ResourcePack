@@ -34,6 +34,13 @@
     {"type": "bitmap", "chars":["\u0033"], "file": "image/line_yes_off.png", "height": 14, "ascent": 10},
     {"type": "bitmap", "chars":["\u0034"], "file": "image/line_yes_on.png", "height": 14, "ascent": 10},
     {"type": "bitmap", "chars":["\u0035"], "file": "image/line_error.png", "height": 20, "ascent": 6},
-    {"type": "bitmap", "chars":["\u0036"], "file": "image/line_successes.png", "height": 20, "ascent": 6}
+    {"type": "bitmap", "chars":["\u0036"], "file": "image/line_successes.png", "height": 20, "ascent": 6},
+    {"type": "bitmap", "chars":["\u0037"], "file": "item/menu/rank/copper_rank.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0038"], "file": "item/menu/rank/iron_rank.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0039"], "file": "item/menu/rank/gold_rank.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0040"], "file": "item/menu/rank/emerald_rank.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0041"], "file": "item/menu/rank/diamond_rank.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0042"], "file": "item/menu/rank/master_rank.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0043"], "file": "item/menu/rank/king_rank.png", "height": 8, "ascent": 7}
   ]
 }

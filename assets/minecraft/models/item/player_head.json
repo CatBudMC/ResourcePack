@@ -12,5 +12,11 @@
     }
   },
   "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/menu/skull/back"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/menu/skull/bottom"},
+    {"predicate": {"custom_model_data": 3}, "model": "item/menu/skull/left"},
+    {"predicate": {"custom_model_data": 4}, "model": "item/menu/skull/right"},
+    {"predicate": {"custom_model_data": 5}, "model": "item/menu/skull/top"},
+    {"predicate": {"custom_model_data": 6}, "model": "item/menu/skull/enlarge"}
   ]
 }

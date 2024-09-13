@@ -136,7 +136,20 @@
     {"predicate": {"custom_model_data": 65}, "model": "item/menu/friend_off"},
     {"predicate": {"custom_model_data": 66}, "model": "item/menu/friend_on"},
     {"predicate": {"custom_model_data": 67}, "model": "item/menu/unavailable"},
-    {"predicate": {"custom_model_data": 68}, "model": "item/menu/friend/friend_online_and_offline_alert_off"},
-    {"predicate": {"custom_model_data": 69}, "model": "item/menu/friend/friend_online_and_offline_alert_on"}
+    {"predicate": {"custom_model_data": 68}, "model": "item/menu/friend/online_and_offline_alert_off"},
+    {"predicate": {"custom_model_data": 69}, "model": "item/menu/friend/online_and_offline_alert_on"},
+    {"predicate": {"custom_model_data": 70}, "model": "item/menu/rank/copper_rank"},
+    {"predicate": {"custom_model_data": 71}, "model": "item/menu/rank/iron_rank"},
+    {"predicate": {"custom_model_data": 72}, "model": "item/menu/rank/gold_rank"},
+    {"predicate": {"custom_model_data": 73}, "model": "item/menu/rank/emerald_rank"},
+    {"predicate": {"custom_model_data": 74}, "model": "item/menu/rank/diamond_rank"},
+    {"predicate": {"custom_model_data": 75}, "model": "item/menu/rank/master_rank"},
+    {"predicate": {"custom_model_data": 76}, "model": "item/menu/rank/king_rank"},
+    {"predicate": {"custom_model_data": 77}, "model": "item/menu/blacklist_off"},
+    {"predicate": {"custom_model_data": 78}, "model": "item/menu/blacklist_on"},
+    {"predicate": {"custom_model_data": 79}, "model": "item/menu/teleport_off"},
+    {"predicate": {"custom_model_data": 80}, "model": "item/menu/teleport_on"},
+    {"predicate": {"custom_model_data": 81}, "model": "item/menu/friend/ask"},
+    {"predicate": {"custom_model_data": 82}, "model": "item/menu/shield/add"}
   ]
 }

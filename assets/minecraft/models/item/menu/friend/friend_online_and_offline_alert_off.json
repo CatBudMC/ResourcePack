@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "item/menu/friend/friend_online_and_offline_alert_off"
-  }
-}
