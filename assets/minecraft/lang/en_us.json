@@ -247,5 +247,8 @@
   "commands.friend.balance_insufficient": "餘額不足 %s 因此無法購買朋友容量",
   "commands.friend.successful_buy": "成功購買朋友容量，當前容量 %s 個",
   "commands.shield.maximum_capacity": "容量已達到極限 %s 個因此無法購買屏蔽容量",
-  "commands.friend.maximum_capacity": "容量已達到極限 %s 個因此無法購買朋友容量"
+  "commands.friend.maximum_capacity": "容量已達到極限 %s 個因此無法購買朋友容量",
+  "commands.mail.clearance_alert": "確定要清除當前擁有的全部 %s 封郵件？無法反悔且所有附件將被銷毀，如果依然確定則輸入 '%s' 開始清除。",
+  "commands.mail.incorrect_clearance_key": "不正確的清除解除安全鎖 '%s'",
+  "commands.shield.successful_clear": "成功清除共 %s 封郵件"
 }
