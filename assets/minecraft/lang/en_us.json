@@ -239,5 +239,13 @@
   "commands.go.player_not_online": "玩家 '%s' 沒有在線上",
   "commands.go.own_not_allowed": "自身當前狀態不允許使用傳送",
   "commands.go.other_not_allowed": "玩家 '%s' 當前狀態不允許被傳送",
-  "commands.friend.will_accept_execute_mail_attach": "如果你願意接受此申請，請執行此郵件附帶的指令。"
+  "commands.friend.will_accept_execute_mail_attach": "如果你願意接受此申請，請執行此郵件附帶的指令。",
+  "commands.shield.current_capacity": "當前屏蔽容量 %s 個",
+  "commands.shield.balance_insufficient": "餘額不足 %s 因此無法購買屏蔽容量",
+  "commands.shield.successful_buy": "成功購買屏蔽容量",
+  "commands.friend.current_capacity": "當前朋友容量 %s 個",
+  "commands.friend.balance_insufficient": "餘額不足 %s 因此無法購買朋友容量",
+  "commands.friend.successful_buy": "成功購買朋友容量",
+  "commands.shield.maximum_capacity": "容量已達到極限 %s 個因此無法購買屏蔽容量",
+  "commands.friend.maximum_capacity": "容量已達到極限 %s 個因此無法購買朋友容量"
 }
