@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/menu/friend_off"
+    "layer0": "item/menu/player/teleport_off"
   }
 }
