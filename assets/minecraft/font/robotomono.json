@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "robotomono.ttf",
+      "shift": [0, 0],
+      "size": 7.5,
+      "oversample": 10.0
+    }
+  ]
+}
