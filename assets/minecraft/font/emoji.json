@@ -99,6 +99,7 @@
     {"type": "bitmap", "chars":["\u0098"], "file": "emoji/symbol/online.png", "height": 7, "ascent": 6},
     {"type": "bitmap", "chars":["\u0099"], "file": "emoji/symbol/offline.png", "height": 7, "ascent": 6},
     {"type": "bitmap", "chars":["\u0100"], "file": "emoji/symbol/prohibit.png", "height": 7, "ascent": 6},
-    {"type": "bitmap", "chars":["\u0101"], "file": "emoji/symbol/warning.png", "height": 7, "ascent": 6}
+    {"type": "bitmap", "chars":["\u0101"], "file": "emoji/symbol/warning.png", "height": 7, "ascent": 6},
+    {"type": "bitmap", "chars":["\u0102"], "file": "emoji/symbol/shutdown.png", "height": 7, "ascent": 6}
   ]
 }
