@@ -17,6 +17,14 @@
     {"predicate": {"custom_model_data": 3}, "model": "item/menu/skull/left"},
     {"predicate": {"custom_model_data": 4}, "model": "item/menu/skull/right"},
     {"predicate": {"custom_model_data": 5}, "model": "item/menu/skull/top"},
-    {"predicate": {"custom_model_data": 6}, "model": "item/menu/skull/enlarge"}
+    {"predicate": {"custom_model_data": 6}, "model": "item/menu/skull/big"},
+    {"predicate": {"custom_model_data": 7}, "model": "item/menu/skull/small"},
+    {"predicate": {"custom_model_data": 8}, "model": "item/menu/player/skull_rotation_45"},
+    {"predicate": {"custom_model_data": 9}, "model": "item/menu/player/skull_rotation_90"},
+    {"predicate": {"custom_model_data": 10}, "model": "item/menu/player/skull_rotation_135"},
+    {"predicate": {"custom_model_data": 11}, "model": "item/menu/player/skull_rotation_180"},
+    {"predicate": {"custom_model_data": 12}, "model": "item/menu/player/skull_rotation_225"},
+    {"predicate": {"custom_model_data": 13}, "model": "item/menu/player/skull_rotation_270"},
+    {"predicate": {"custom_model_data": 14}, "model": "item/menu/player/skull_rotation_315"}
   ]
 }

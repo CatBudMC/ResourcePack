@@ -1,0 +1,14 @@
+{
+  "parent": "item/template_skull",
+  "textures": {
+    "particle": "block/soul_sand"
+  },
+  "gui_light": "front",
+  "display": {
+    "gui": {
+      "rotation": [0, 270, 0],
+      "translation": [0, 15, 0],
+      "scale": [3.6, 3.6, 3.6]
+    }
+  }
+}
