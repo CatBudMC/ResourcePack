@@ -22,5 +22,17 @@
     "sounds": [
       "player_teleport"
     ]
+  },
+  "plugins.territorial_director.land_remove_entity": {
+    "subtitle": "plugins.territorial_director.land_remove_entity",
+    "sounds": [
+      "land_remove_entity"
+    ]
+  },
+  "plugins.territorial_director.land_denied": {
+    "subtitle": "plugins.territorial_director.land_denied",
+    "sounds": [
+      "land_denied"
+    ]
   }
 }

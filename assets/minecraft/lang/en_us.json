@@ -374,5 +374,10 @@
   "plugins.territorial_director.random_refresh_icon": "隨機刷新圖示",
   "commands.land.miss_group_index": "缺少群組索引編號",
   "commands.land.incorrect_group_index": "不正確的群組索引編號 '%s'",
-  "commands.land.successful_change_group_index": "成功將領地 '%s' 的群組編號更改為 '%s'"
+  "commands.land.successful_change_group_index": "成功將領地 '%s' 的群組編號更改為 '%s'",
+  "plugins.territorial_director.land_remove_entity": "領地消滅實體",
+  "plugins.territorial_director.land_denied": "領地無許可",
+  "plugins.territorial_director.tracking_distance": "距離 %s 格遠",
+  "plugins.territorial_director.own_license_denied": "領地「%s」自身沒有「%s」許可",
+  "plugins.territorial_director.other_license_denied": "領地「%s」對方沒有「%s」許可"
 }
