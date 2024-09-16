@@ -381,5 +381,6 @@
   "plugins.territorial_director.own_license_denied": "領地「%s」自身沒有「%s」許可",
   "plugins.territorial_director.other_license_denied": "領地「%s」對方沒有「%s」許可",
   "plugins.territorial_director.land_owner_is": "領地擁有者為 '%s'",
-  "commands.land.current_count": "當前領地總數 %s 個"
+  "commands.land.current_count": "當前領地總數 %s 個",
+  "plugins.territorial_director.select_this_land": "選擇此領地"
 }
