@@ -192,8 +192,9 @@
     {"predicate": {"custom_model_data": 121}, "model": "item/menu/land/config/trample_farmland_off"},
     {"predicate": {"custom_model_data": 122}, "model": "item/menu/land/config/trample_farmland_on"},
     {"predicate": {"custom_model_data": 123}, "model": "item/menu/land/buy_on"},
-    {"predicate": {"custom_model_data": 124}, "model": "item/menu/land/everyone"},
+    {"predicate": {"custom_model_data": 124}, "model": "item/menu/everyone_on"},
     {"predicate": {"custom_model_data": 125}, "model": "item/menu/land/join_player"},
-    {"predicate": {"custom_model_data": 126}, "model": "item/menu/land/buy_off"}
+    {"predicate": {"custom_model_data": 126}, "model": "item/menu/land/buy_off"},
+    {"predicate": {"custom_model_data": 127}, "model": "item/menu/everyone_off"}
   ]
 }
