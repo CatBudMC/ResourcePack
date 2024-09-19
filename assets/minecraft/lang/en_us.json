@@ -388,7 +388,7 @@
   "plugins.venue_manager.player_leave_room": "玩家 '%s' 離開了房間 %s / %s",
   "plugins.venue_manager.player_join_room": "玩家 '%s' 加入了房間 %s / %s",
   "plugins.venue_manager.room_queuing": "房間正在列隊中...",
-  "plugins.venue_manager.room_queuing_distance": "房間正在列隊中... %s",
+  "plugins.venue_manager.room_queuing_distance": "房間 %s 列隊中... %s",
   "commands.room.miss_invite_key": "缺少房間邀請碼",
   "commands.room.room_not_exist": "房間不存在",
   "commands.room.already_in_room": "已經在房間內了",
@@ -417,5 +417,18 @@
   "commands.room.end_queuing": "房間結束列隊",
   "commands.room.cannot_type": "未知的房間操作類型 '%s'",
   "commands.room.miss_type": "缺少房間參數",
-  "commands.room.successful_invite": "成功寄送邀請給玩家 '%s'"
+  "commands.room.successful_invite": "成功寄送邀請給玩家 '%s'",
+  "plugins.castle_warfare.castle_war.practice": "城堡戰爭-練習賽",
+  "plugins.castle_warfare.castle_war.rank": "城堡戰爭-積分賽",
+  "plugins.castle_warfare.no_selected_land": "沒有先選擇領地",
+  "plugins.castle_warfare.selected_land_not_admin": "已選擇的領地房主沒有管理員權限",
+  "commands.room.already_mode": "房間的模式已經是 '%s'",
+  "plugins.venue_manager.no_configurable_option": "沒有任何可配置的選項",
+  "commands.room.config.castle_warfare.miss_type": "缺少城堡戰爭配置參數",
+  "commands.room.config.castle_warfare.miss_pos_arg": "缺少目標座標參數",
+  "commands.room.config.castle_warfare.incorrect_pos": "不正確的座標 '%s'",
+  "commands.room.config.castle_warfare.pos_outside_world": "座標 '%s' 位於世界之外",
+  "commands.room.config.castle_warfare.land_not_admin": "座標 '%s' 沒有領地管理員權限",
+  "commands.room.config.castle_warfare.complete_land_selected": "成功將城堡戰爭設置為領地 '%s'",
+  "commands.room.config.castle_warfare.cannot_type": "未知的城堡戰爭配置類型 '%s'"
 }
