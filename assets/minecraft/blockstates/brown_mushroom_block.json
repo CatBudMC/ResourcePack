@@ -1,6 +1,6 @@
 {
   "multipart": [
-    {"apply": {"model": "custom/empty"}},
+    {"apply": {"model": "block/custom/empty"}},
     {"when": {"up": false, "down": false, "south": false, "west": false, "north": false, "east": false}, "apply": {"model": "block/sequence/use/46"}},
     {"when": {"up": true , "down": false, "south": false, "west": false, "north": false, "east": false}, "apply": {"model": "block/sequence/keep/brown_mushroom_block__tfffff"}},
     {"when": {"up": false, "down": true , "south": false, "west": false, "north": false, "east": false}, "apply": {"model": "block/sequence/use/47"}},
