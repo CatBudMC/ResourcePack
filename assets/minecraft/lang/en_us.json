@@ -447,6 +447,6 @@
   "plugins.castle_warfare.win_with": "%s 勝利",
   "plugins.castle_warfare.are_tied": "雙方平手",
   "plugins.castle_warfare.own_side_is": "自己是 %s",
-  "plugins.castle_warfare.rank_add_is": "牌位增加 %s 分",
-  "plugins.castle_warfare.rank_sub_is": "牌位減少 %s 分"
+  "plugins.castle_warfare.rank_add_is": "增加 %s 牌位點",
+  "plugins.castle_warfare.rank_sub_is": "減少 %s 牌位點"
 }
