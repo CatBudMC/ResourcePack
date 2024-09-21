@@ -443,7 +443,7 @@
   "plugins.castle_warfare.ready_end_countdown": "%s 後解散...",
   "plugins.castle_warfare.hiding_castle_core_countdown": "埋藏城堡核心中... %s / %s 倒數 %s",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
-  "plugins.castle_warfare.castle_core_placed_at": "已將城堡核心放置於 %s / %s / %s / %s",
+  "plugins.castle_warfare.castle_core_placed_at": "已將城堡核心放置",
   "plugins.castle_warfare.win_with": "%s 勝利",
   "plugins.castle_warfare.are_tied": "雙方平手",
   "plugins.castle_warfare.own_side_is": "自己是 %s",
