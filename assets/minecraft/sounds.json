@@ -40,5 +40,11 @@
     "sounds": [
       "room_ready"
     ]
+  },
+  "plugins.castle_warfare.time_coming": {
+    "subtitle": "plugins.castle_warfare.time_coming",
+    "sounds": [
+      "time_coming"
+    ]
   }
 }
