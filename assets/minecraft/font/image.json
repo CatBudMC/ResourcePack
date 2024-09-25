@@ -42,7 +42,6 @@
     {"type": "bitmap", "chars":["\u0041"], "file": "item/menu/rank/diamond_rank.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0042"], "file": "item/menu/rank/master_rank.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0043"], "file": "item/menu/rank/king_rank.png", "height": 8, "ascent": 7},
-
     {"type": "bitmap", "chars":["\u0044"], "file": "item/menu/land/config/do_explodes_off.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0045"], "file": "item/menu/land/config/do_explodes_on.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0046"], "file": "item/menu/land/config/do_insomnia_off.png", "height": 8, "ascent": 7},
@@ -61,7 +60,6 @@
     {"type": "bitmap", "chars":["\u0059"], "file": "item/menu/land/config/safe_bound_on.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0060"], "file": "item/menu/land/config/trample_farmland_off.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0061"], "file": "item/menu/land/config/trample_farmland_on.png", "height": 8, "ascent": 7},
-
     {"type": "bitmap", "chars":["\u0062"], "file": "item/menu/land/license/admin_off.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0063"], "file": "item/menu/land/license/admin_on.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0064"], "file": "item/menu/land/license/attack_off.png", "height": 8, "ascent": 7},
@@ -83,6 +81,11 @@
     {"type": "bitmap", "chars":["\u0080"], "file": "item/menu/land/license/spawn_off.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0081"], "file": "item/menu/land/license/spawn_on.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0082"], "file": "item/menu/land/license/use_off.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars":["\u0083"], "file": "item/menu/land/license/use_on.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars":["\u0083"], "file": "item/menu/land/license/use_on.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0084"], "file": "image/chat_scope/global.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0085"], "file": "image/chat_scope/discord.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0086"], "file": "image/chat_scope/private.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0087"], "file": "image/chat_scope/radius.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0088"], "file": "image/chat_scope/room.png", "height": 8, "ascent": 7}
   ]
 }

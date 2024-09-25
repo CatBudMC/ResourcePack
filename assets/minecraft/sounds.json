@@ -1,8 +1,8 @@
 {
-  "plugins.player_database.mail_alert": {
-    "subtitle": "plugins.player_database.mail_alert",
+  "plugins.castle_warfare.time_coming": {
+    "subtitle": "plugins.castle_warfare.time_coming",
     "sounds": [
-      "mail_alert"
+      "time_coming"
     ]
   },
   "plugins.player_database.friend_offline": {
@@ -17,16 +17,16 @@
       "friend_online"
     ]
   },
+  "plugins.player_database.mail_alert": {
+    "subtitle": "plugins.player_database.mail_alert",
+    "sounds": [
+      "mail_alert"
+    ]
+  },
   "plugins.player_database.player_teleport": {
     "subtitle": "plugins.player_database.player_teleport",
     "sounds": [
       "player_teleport"
-    ]
-  },
-  "plugins.territorial_director.land_remove_entity": {
-    "subtitle": "plugins.territorial_director.land_remove_entity",
-    "sounds": [
-      "land_remove_entity"
     ]
   },
   "plugins.territorial_director.land_denied": {
@@ -35,16 +35,16 @@
       "land_denied"
     ]
   },
+  "plugins.territorial_director.land_remove_entity": {
+    "subtitle": "plugins.territorial_director.land_remove_entity",
+    "sounds": [
+      "land_remove_entity"
+    ]
+  },
   "plugins.venue_manager.room_ready": {
     "subtitle": "plugins.venue_manager.room_ready",
     "sounds": [
       "room_ready"
-    ]
-  },
-  "plugins.castle_warfare.time_coming": {
-    "subtitle": "plugins.castle_warfare.time_coming",
-    "sounds": [
-      "time_coming"
     ]
   }
 }

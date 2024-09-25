@@ -2,5 +2,11 @@
   "parent": "item/generated",
   "textures": {
     "layer0": "item/menu/root/mode/next_page_on"
+  },
+  "display": {
+    "gui": {
+      "translation": [0, -9, 0],
+      "scale":[1.0, 2.125, 1.0]
+    }
   }
 }

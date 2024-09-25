@@ -236,6 +236,9 @@
     {"predicate": {"custom_model_data": 165}, "model": "item/menu/root/mode/monster_wave_big_1"},
     {"predicate": {"custom_model_data": 166}, "model": "item/menu/root/mode/monster_wave_big_2"},
     {"predicate": {"custom_model_data": 167}, "model": "item/menu/root/mode/monster_wave_small_0"},
-    {"predicate": {"custom_model_data": 168}, "model": "item/menu/root/mode/monster_wave_small_1"}
+    {"predicate": {"custom_model_data": 168}, "model": "item/menu/root/mode/monster_wave_small_1"},
+    {"predicate": {"custom_model_data": 169}, "model": "item/menu/root/shield"},
+    {"predicate": {"custom_model_data": 170}, "model": "item/menu/root/wallet"},
+    {"predicate": {"custom_model_data": 171}, "model": "item/menu/root/pass"}
   ]
 }
