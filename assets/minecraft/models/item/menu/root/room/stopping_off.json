@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/menu/root/room/stopping_off"
+  },
+  "display": {
+    "gui": {
+      "translation": [9, -9, 0],
+      "scale":[2.125, 2.125, 1.0]
+    }
+  }
+}

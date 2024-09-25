@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/menu/root/room/queuing"
+  },
+  "display": {
+    "gui": {
+      "translation": [9, -3.5, 0],
+      "scale":[2.125, 2.8125, 1.0]
+    }
+  }
+}

@@ -15,6 +15,8 @@
     {"type": "bitmap", "chars": ["\u0013"], "file": "gui/land_license.png", "ascent": 19, "height": 90},
     {"type": "bitmap", "chars": ["\u0014"], "file": "gui/land_license_everyone.png", "ascent": 19, "height": 90},
     {"type": "bitmap", "chars": ["\u0015"], "file": "gui/land_players.png", "ascent": 19, "height": 144},
-    {"type": "bitmap", "chars": ["\u0016"], "file": "gui/land_icons.png", "ascent": 19, "height": 144}
+    {"type": "bitmap", "chars": ["\u0016"], "file": "gui/land_icons.png", "ascent": 19, "height": 144},
+    {"type": "bitmap", "chars": ["\u0017"], "file": "gui/root.png", "ascent": 13, "height": 84},
+    {"type": "bitmap", "chars": ["\u0018"], "file": "gui/castle_custom.png", "ascent": 19, "height": 144}
   ]
 }
