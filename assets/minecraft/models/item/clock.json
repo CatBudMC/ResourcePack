@@ -117,7 +117,7 @@
     {"predicate": {"custom_model_data": 46}, "model": "item/menu/send_on"},
     {"predicate": {"custom_model_data": 47}, "model": "item/menu/mail/alert_off"},
     {"predicate": {"custom_model_data": 48}, "model": "item/menu/mail/alert_on"},
-    {"predicate": {"custom_model_data": 49}, "model": "item/menu/mail/create"},
+
     {"predicate": {"custom_model_data": 50}, "model": "item/menu/mail/entry_attach_read"},
     {"predicate": {"custom_model_data": 51}, "model": "item/menu/mail/entry_attach_read_received"},
     {"predicate": {"custom_model_data": 52}, "model": "item/menu/mail/entry_attach_unread"},
@@ -135,7 +135,7 @@
     {"predicate": {"custom_model_data": 64}, "model": "item/menu/search_on"},
     {"predicate": {"custom_model_data": 65}, "model": "item/menu/player/friend_off"},
     {"predicate": {"custom_model_data": 66}, "model": "item/menu/player/friend_on"},
-    {"predicate": {"custom_model_data": 67}, "model": "item/menu/unavailable"},
+    {"predicate": {"custom_model_data": 67}, "model": "item/menu/locked"},
     {"predicate": {"custom_model_data": 68}, "model": "item/menu/friend/online_and_offline_alert_off"},
     {"predicate": {"custom_model_data": 69}, "model": "item/menu/friend/online_and_offline_alert_on"},
     {"predicate": {"custom_model_data": 70}, "model": "item/menu/rank/copper_rank"},
@@ -149,8 +149,8 @@
     {"predicate": {"custom_model_data": 78}, "model": "item/menu/player/shield_on"},
     {"predicate": {"custom_model_data": 79}, "model": "item/menu/player/teleport_off"},
     {"predicate": {"custom_model_data": 80}, "model": "item/menu/player/teleport_on"},
-    {"predicate": {"custom_model_data": 81}, "model": "item/menu/friend/ask"},
-    {"predicate": {"custom_model_data": 82}, "model": "item/menu/shield/add"},
+    {"predicate": {"custom_model_data": 81}, "model": "item/menu/add_off"},
+    {"predicate": {"custom_model_data": 82}, "model": "item/menu/add_on"},
     {"predicate": {"custom_model_data": 83}, "model": "item/menu/land/license/admin_off"},
     {"predicate": {"custom_model_data": 84}, "model": "item/menu/land/license/admin_on"},
     {"predicate": {"custom_model_data": 85}, "model": "item/menu/land/license/attack_off"},
@@ -191,10 +191,10 @@
     {"predicate": {"custom_model_data": 120}, "model": "item/menu/land/config/safe_bound_on"},
     {"predicate": {"custom_model_data": 121}, "model": "item/menu/land/config/trample_farmland_off"},
     {"predicate": {"custom_model_data": 122}, "model": "item/menu/land/config/trample_farmland_on"},
-    {"predicate": {"custom_model_data": 123}, "model": "item/menu/land/buy_on"},
+
     {"predicate": {"custom_model_data": 124}, "model": "item/menu/everyone_on"},
-    {"predicate": {"custom_model_data": 125}, "model": "item/menu/land/join_player"},
-    {"predicate": {"custom_model_data": 126}, "model": "item/menu/land/buy_off"},
+
+
     {"predicate": {"custom_model_data": 127}, "model": "item/menu/everyone_off"},
     {"predicate": {"custom_model_data": 128}, "model": "item/menu/root/mode/castle_war_custom_big_0"},
     {"predicate": {"custom_model_data": 129}, "model": "item/menu/root/mode/castle_war_custom_big_1"},

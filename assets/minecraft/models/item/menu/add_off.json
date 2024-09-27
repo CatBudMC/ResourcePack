@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/menu/land/buy_off"
+    "layer0": "item/menu/add_off"
   }
 }
