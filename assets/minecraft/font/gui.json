@@ -19,6 +19,10 @@
     {"type": "bitmap", "chars": ["\u0017"], "file": "gui/root.png", "ascent": 13, "height": 84},
     {"type": "bitmap", "chars": ["\u0018"], "file": "gui/castle_custom.png", "ascent": 19, "height": 144},
     {"type": "bitmap", "chars": ["\u0019"], "file": "gui/root_mode.png", "ascent": 19, "height": 144},
-    {"type": "bitmap", "chars": ["\u0020"], "file": "gui/root_more.png", "ascent": 19, "height": 90}
+    {"type": "bitmap", "chars": ["\u0020"], "file": "gui/root_more.png", "ascent": 19, "height": 90},
+    {"type": "bitmap", "chars": ["\u0021"], "file": "gui/beacon.png", "ascent": 19, "height": 144},
+    {"type": "bitmap", "chars": ["\u0022"], "file": "gui/beacon_icons.png", "ascent": 19, "height": 144},
+    {"type": "bitmap", "chars": ["\u0023"], "file": "gui/coin.png", "ascent": 19, "height": 72},
+    {"type": "bitmap", "chars": ["\u0024"], "file": "gui/pass.png", "ascent": 19, "height": 72}
   ]
 }

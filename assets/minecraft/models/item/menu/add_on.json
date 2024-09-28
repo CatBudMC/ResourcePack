@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/menu/mail/create"
+    "layer0": "item/menu/add_on"
   }
 }
