@@ -86,6 +86,7 @@
     {"type": "bitmap", "chars":["\u0085"], "file": "image/chat_scope/discord.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0086"], "file": "image/chat_scope/private.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0087"], "file": "image/chat_scope/radius.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars":["\u0088"], "file": "image/chat_scope/room.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars":["\u0088"], "file": "image/chat_scope/room.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0089"], "file": "image/tab_information/logo.png", "height": 11, "ascent": 9}
   ]
 }
