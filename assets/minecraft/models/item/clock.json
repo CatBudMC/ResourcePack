@@ -117,7 +117,7 @@
     {"predicate": {"custom_model_data": 46}, "model": "item/menu/send_on"},
     {"predicate": {"custom_model_data": 47}, "model": "item/menu/mail/alert_off"},
     {"predicate": {"custom_model_data": 48}, "model": "item/menu/mail/alert_on"},
-
+    {"predicate": {"custom_model_data": 49}, "model": "item/menu/root/pass"},
     {"predicate": {"custom_model_data": 50}, "model": "item/menu/mail/entry_attach_read"},
     {"predicate": {"custom_model_data": 51}, "model": "item/menu/mail/entry_attach_read_received"},
     {"predicate": {"custom_model_data": 52}, "model": "item/menu/mail/entry_attach_unread"},
@@ -238,7 +238,6 @@
     {"predicate": {"custom_model_data": 167}, "model": "item/menu/root/mode/monster_wave_small_0"},
     {"predicate": {"custom_model_data": 168}, "model": "item/menu/root/mode/monster_wave_small_1"},
     {"predicate": {"custom_model_data": 169}, "model": "item/menu/root/shield"},
-    {"predicate": {"custom_model_data": 170}, "model": "item/menu/root/wallet"},
-    {"predicate": {"custom_model_data": 171}, "model": "item/menu/root/pass"}
+    {"predicate": {"custom_model_data": 170}, "model": "item/menu/root/wallet"}
   ]
 }
