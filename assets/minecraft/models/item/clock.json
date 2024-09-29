@@ -320,6 +320,7 @@
     {"predicate": {"custom_model_data": 249}, "model": "item/style/rabbit_ear/magenta"},
     {"predicate": {"custom_model_data": 250}, "model": "item/style/rabbit_ear/pink"},
     {"predicate": {"custom_model_data": 251}, "model": "item/menu/ticket_off"},
-    {"predicate": {"custom_model_data": 252}, "model": "item/menu/ticket_on"}
+    {"predicate": {"custom_model_data": 252}, "model": "item/menu/ticket_on"},
+    {"predicate": {"custom_model_data": 253}, "model": "item/menu/award/secrecy"}
   ]
 }

@@ -844,5 +844,13 @@
   "plugins.paid_store.cancel_exchange_prize": "取消交換獎品",
   "plugins.primary_menu.raffle": "抽獎",
   "plugins.primary_menu.raffle.lore.0": "抽出有造型的裝備／工具／武器",
-  "plugins.primary_menu.raffle.lore.1": "每累積 %s 抽送保底卷一張"
+  "plugins.primary_menu.raffle.lore.1": "每累積 %s 抽送保底卷一張",
+  "plugins.paid_store.season_over_your_reward": "賽季 %s 已結束，這是作為您達到 %s 的獎勵！",
+  "plugins.paid_store.keep_good_work_next_season": "下個賽季也請繼續努力，貓貓會祝福您的！",
+  "commands.award.incorrect_season": "賽季編號不正確 '%s'",
+  "plugins.paid_store.secrecy": "秘密",
+  "plugins.paid_store.season_reach_award": "積分賽季 %s 達到 %s 的獎勵",
+  "plugins.paid_store.last_season": "上個賽季",
+  "plugins.paid_store.next_season": "下個賽季",
+  "plugins.primary_menu.view_season_award": "查看賽季獎勵"
 }
