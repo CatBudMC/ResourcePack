@@ -1,0 +1,7 @@
+{
+  "parent": "item/style/cat_ear/_",
+  "textures": {
+    "0": "item/style/cat_ear/pink",
+    "particle": "item/style/cat_ear/pink"
+  }
+}

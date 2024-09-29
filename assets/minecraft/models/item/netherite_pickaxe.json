@@ -4,5 +4,9 @@
     "layer0": "item/netherite_pickaxe"
   },
   "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/style/cat_digging/cherry"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/style/cat_digging/firecracker"},
+    {"predicate": {"custom_model_data": 3}, "model": "item/style/cat_digging/pudding"},
+    {"predicate": {"custom_model_data": 4}, "model": "item/style/cat_digging/strawberry"}
   ]
 }

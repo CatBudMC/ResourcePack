@@ -4,5 +4,9 @@
     "layer0": "item/netherite_axe"
   },
   "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/style/cat_palm_glove/white"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/style/cat_palm_glove/light_gray"},
+    {"predicate": {"custom_model_data": 3}, "model": "item/style/cat_palm_glove/gray"},
+    {"predicate": {"custom_model_data": 4}, "model": "item/style/cat_palm_glove/black"}
   ]
 }

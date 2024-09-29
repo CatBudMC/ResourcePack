@@ -46,5 +46,17 @@
     "sounds": [
       "room_ready"
     ]
+  },
+  "plugins.paid_store.raffle_tick": {
+    "subtitle": "plugins.paid_store.raffle_tick",
+    "sounds": [
+      "raffle_tick"
+    ]
+  },
+  "plugins.paid_store.raffle_result": {
+    "subtitle": "plugins.paid_store.raffle_result",
+    "sounds": [
+      "raffle_result"
+    ]
   }
 }

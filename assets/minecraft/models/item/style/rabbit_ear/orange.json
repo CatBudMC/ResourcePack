@@ -1,0 +1,7 @@
+{
+  "parent": "item/style/rabbit_ear/_",
+  "textures": {
+    "0": "item/style/rabbit_ear/orange",
+    "particle": "item/style/rabbit_ear/orange"
+  }
+}

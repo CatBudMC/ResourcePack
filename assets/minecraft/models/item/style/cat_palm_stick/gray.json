@@ -1,0 +1,7 @@
+{
+  "credit": "xuancat0208",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/style/cat_palm_stick/gray"
+  }
+}

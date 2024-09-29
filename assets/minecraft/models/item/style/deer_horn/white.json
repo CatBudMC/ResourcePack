@@ -1,0 +1,7 @@
+{
+  "parent": "item/style/deer_horn/_",
+  "textures": {
+    "0": "item/style/deer_horn/white",
+    "particle": "item/style/deer_horn/white"
+  }
+}
