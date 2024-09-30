@@ -26,6 +26,10 @@
     {"type": "bitmap", "chars": ["\u0024"], "file": "gui/pass.png", "ascent": 19, "height": 72},
     {"type": "bitmap", "chars": ["\u0025"], "file": "gui/raffle.png", "ascent": 19, "height": 72},
     {"type": "bitmap", "chars": ["\u0026"], "file": "gui/raffle_prizes.png", "ascent": 19, "height": 144},
-    {"type": "bitmap", "chars": ["\u0028"], "file": "gui/award.png", "ascent": 19, "height": 72}
+    {"type": "bitmap", "chars": ["\u0028"], "file": "gui/award.png", "ascent": 19, "height": 72},
+    {"type": "bitmap", "chars": ["\u0029"], "file": "gui/sign/newbie.png", "ascent": 19, "height": 144},
+    {"type": "bitmap", "chars": ["\u0030"], "file": "gui/sign/normal.png", "ascent": 19, "height": 144},
+    {"type": "bitmap", "chars": ["\u0031"], "file": "gui/sign.png", "ascent": 19, "height": 126},
+    {"type": "bitmap", "chars": ["\u0032"], "file": "gui/sign/early.png", "ascent": 19, "height": 144}
   ]
 }

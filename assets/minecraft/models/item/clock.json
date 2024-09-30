@@ -321,6 +321,21 @@
     {"predicate": {"custom_model_data": 250}, "model": "item/style/rabbit_ear/pink"},
     {"predicate": {"custom_model_data": 251}, "model": "item/menu/ticket_off"},
     {"predicate": {"custom_model_data": 252}, "model": "item/menu/ticket_on"},
-    {"predicate": {"custom_model_data": 253}, "model": "item/menu/award/secrecy"}
+    {"predicate": {"custom_model_data": 253}, "model": "item/menu/award/secrecy"},
+    {"predicate": {"custom_model_data": 254}, "model": "item/menu/sign/do_off"},
+    {"predicate": {"custom_model_data": 255}, "model": "item/menu/sign/do_on"},
+    {"predicate": {"custom_model_data": 256}, "model": "item/menu/sign/gift_big_off"},
+    {"predicate": {"custom_model_data": 257}, "model": "item/menu/sign/gift_big_on"},
+    {"predicate": {"custom_model_data": 258}, "model": "item/menu/sign/gift_small_off"},
+    {"predicate": {"custom_model_data": 259}, "model": "item/menu/sign/gift_small_on"},
+    {"predicate": {"custom_model_data": 260}, "model": "item/menu/sign/sheet/normal_0"},
+    {"predicate": {"custom_model_data": 261}, "model": "item/menu/sign/sheet/normal_1"},
+    {"predicate": {"custom_model_data": 262}, "model": "item/menu/sign/sheet/normal_2"},
+    {"predicate": {"custom_model_data": 263}, "model": "item/menu/sign/sheet/newbie_0"},
+    {"predicate": {"custom_model_data": 264}, "model": "item/menu/sign/sheet/newbie_1"},
+    {"predicate": {"custom_model_data": 265}, "model": "item/menu/sign/sheet/newbie_2"},
+    {"predicate": {"custom_model_data": 266}, "model": "item/menu/sign/sheet/early_0"},
+    {"predicate": {"custom_model_data": 267}, "model": "item/menu/sign/sheet/early_1"},
+    {"predicate": {"custom_model_data": 268}, "model": "item/menu/sign/sheet/early_2"}
   ]
 }
