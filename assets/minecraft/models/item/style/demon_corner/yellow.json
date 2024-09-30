@@ -1,0 +1,7 @@
+{
+  "parent": "item/style/demon_corner/_",
+  "textures": {
+    "0": "item/style/demon_corner/yellow",
+    "particle": "item/style/demon_corner/yellow"
+  }
+}

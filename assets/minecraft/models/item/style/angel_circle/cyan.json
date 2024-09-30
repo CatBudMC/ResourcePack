@@ -1,0 +1,7 @@
+{
+  "parent": "item/style/angel_circle/_",
+  "textures": {
+    "0": "item/style/angel_circle/cyan",
+    "particle": "item/style/angel_circle/cyan"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/style/cat_palm_glove/_",
+  "textures": {
+    "0": "item/style/cat_palm_glove/gray",
+    "particle": "item/style/cat_palm_glove/gray"
+  }
+}

@@ -23,6 +23,15 @@
     {"type": "bitmap", "chars": ["\u0021"], "file": "gui/beacon.png", "ascent": 19, "height": 144},
     {"type": "bitmap", "chars": ["\u0022"], "file": "gui/beacon_icons.png", "ascent": 19, "height": 144},
     {"type": "bitmap", "chars": ["\u0023"], "file": "gui/coin.png", "ascent": 19, "height": 72},
-    {"type": "bitmap", "chars": ["\u0024"], "file": "gui/pass.png", "ascent": 19, "height": 72}
+    {"type": "bitmap", "chars": ["\u0024"], "file": "gui/pass.png", "ascent": 19, "height": 72},
+    {"type": "bitmap", "chars": ["\u0025"], "file": "gui/raffle.png", "ascent": 19, "height": 72},
+    {"type": "bitmap", "chars": ["\u0026"], "file": "gui/raffle_prizes.png", "ascent": 19, "height": 144},
+    {"type": "bitmap", "chars": ["\u0028"], "file": "gui/award.png", "ascent": 19, "height": 72},
+    {"type": "bitmap", "chars": ["\u0029"], "file": "gui/sign/newbie.png", "ascent": 19, "height": 144},
+    {"type": "bitmap", "chars": ["\u0030"], "file": "gui/sign/normal.png", "ascent": 19, "height": 144},
+    {"type": "bitmap", "chars": ["\u0031"], "file": "gui/sign.png", "ascent": 19, "height": 126},
+    {"type": "bitmap", "chars": ["\u0032"], "file": "gui/sign/early.png", "ascent": 19, "height": 144},
+    {"type": "bitmap", "chars": ["\u0033"], "file": "gui/task.png", "ascent": 19, "height": 72},
+    {"type": "bitmap", "chars": ["\u0034"], "file": "gui/log.png", "ascent": 19, "height": 144}
   ]
 }

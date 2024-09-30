@@ -1,0 +1,7 @@
+{
+  "parent": "item/style/cat_digging/_",
+  "textures": {
+    "0": "item/style/cat_digging/firecracker",
+    "particle": "item/style/cat_digging/firecracker"
+  }
+}

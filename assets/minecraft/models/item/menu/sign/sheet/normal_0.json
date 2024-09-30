@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/menu/sign/sheet/normal_0"
+  },
+  "display": {
+    "gui": {
+      "translation": [19, 0, 0],
+      "scale":[3.375, 1.0, 1.0]
+    }
+  }
+}
