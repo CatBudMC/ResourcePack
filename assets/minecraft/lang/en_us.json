@@ -633,7 +633,7 @@
   "plugins.translation_helper.world_environment.normal": "主世界",
   "plugins.translation_helper.world_environment.the_end": "終界",
   "plugins.velocity_queue.in_queue": "等待進入伺服器中",
-  "plugins.velocity_queue.other_players": "有 %s 個玩家正在列隊",
+  "plugins.velocity_queue.other_players": "共 %s 個玩家正在列隊",
   "plugins.venue_manager.currently_not_allow_create_map": "目前不允許創建地圖",
   "plugins.venue_manager.no_configurable_option": "沒有任何可配置的選項",
   "plugins.venue_manager.player_join_room": "玩家 '%s' 加入了房間 %s / %s",
