@@ -878,5 +878,7 @@
   "plugins.task_distribution.sign_sheet.newbie.gift.beacon_capacity": "信標容量增加 %s",
   "plugins.task_distribution.effective_until": "有效剩餘 %s",
   "plugins.task_distribution.sign_sheet.early": "開服感謝季",
-  "plugins.task_distribution.sign_sheet.normal.early.0": "每天 %s"
+  "plugins.task_distribution.sign_sheet.normal.early.0": "每天 %s",
+  "plugins.primary_menu.sign": "簽到",
+  "plugins.primary_menu.sign.lore.0": "每天簽到獲得獎勵"
 }

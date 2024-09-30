@@ -336,6 +336,7 @@
     {"predicate": {"custom_model_data": 265}, "model": "item/menu/sign/sheet/newbie_2"},
     {"predicate": {"custom_model_data": 266}, "model": "item/menu/sign/sheet/early_0"},
     {"predicate": {"custom_model_data": 267}, "model": "item/menu/sign/sheet/early_1"},
-    {"predicate": {"custom_model_data": 268}, "model": "item/menu/sign/sheet/early_2"}
+    {"predicate": {"custom_model_data": 268}, "model": "item/menu/sign/sheet/early_2"},
+    {"predicate": {"custom_model_data": 269}, "model": "item/menu/root/sign"}
   ]
 }
