@@ -337,6 +337,9 @@
     {"predicate": {"custom_model_data": 266}, "model": "item/menu/sign/sheet/early_0"},
     {"predicate": {"custom_model_data": 267}, "model": "item/menu/sign/sheet/early_1"},
     {"predicate": {"custom_model_data": 268}, "model": "item/menu/sign/sheet/early_2"},
-    {"predicate": {"custom_model_data": 269}, "model": "item/menu/root/sign"}
+    {"predicate": {"custom_model_data": 269}, "model": "item/menu/root/sign"},
+    {"predicate": {"custom_model_data": 270}, "model": "item/menu/task/entry_off"},
+    {"predicate": {"custom_model_data": 271}, "model": "item/menu/task/entry_on"},
+    {"predicate": {"custom_model_data": 272}, "model": "item/menu/root/task"}
   ]
 }

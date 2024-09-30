@@ -880,5 +880,20 @@
   "plugins.task_distribution.sign_sheet.early": "開服感謝季",
   "plugins.task_distribution.sign_sheet.normal.early.0": "每天 %s",
   "plugins.primary_menu.sign": "簽到",
-  "plugins.primary_menu.sign.lore.0": "每天簽到獲得獎勵"
+  "plugins.primary_menu.sign.lore.0": "每天簽到獲得獎勵",
+  "plugins.task_distribution.task_rewards_issued": "已放發完成 '%s' 任務獎勵 %s",
+  "plugins.task_distribution.refresh_countdown": "刷新倒數 %s",
+  "plugins.task_distribution.task_require.castle_war_victory": "遊玩城堡戰爭並取得勝利",
+  "plugins.task_distribution.task_require.castle_war_victory.lore.0": "練習賽或積分賽",
+  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 場",
+  "plugins.task_distribution.task_require.castle_war_play": "遊玩城堡戰爭",
+  "plugins.task_distribution.task_require.castle_war_play.lore.0": "練習賽或積分賽",
+  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 場",
+  "plugins.task_distribution.task_require.online_accrual": "線上累計時長",
+  "plugins.task_distribution.task_require.online_accrual.progress": "還須 %s",
+  "commands.raffle.buy_not_allowed": "當前狀態不允許進行抽獎",
+  "commands.raffle.exchange_not_allowed": "當前狀態不允許進行兌換",
+  "plugins.primary_menu.task": "任務",
+  "plugins.primary_menu.sign.task.0": "完成任務獲得獎勵",
+  "plugins.task_distribution.reward_is": "獎勵 %s"
 }
