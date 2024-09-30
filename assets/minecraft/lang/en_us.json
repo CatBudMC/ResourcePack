@@ -895,5 +895,13 @@
   "commands.raffle.exchange_not_allowed": "當前狀態不允許進行兌換",
   "plugins.primary_menu.task": "任務",
   "plugins.primary_menu.sign.task.0": "完成任務獲得獎勵",
-  "plugins.task_distribution.reward_is": "獎勵 %s"
+  "plugins.task_distribution.reward_is": "獎勵 %s",
+  "plugins.style_register.season_restricted_by": "賽季 %s 限定",
+  "season.0.fiery_crossbow": "熾熱弩（賽季 0）",
+  "season.0.fiery_hoe": "熾熱鋤（賽季 0）",
+  "season.0.fiery_pickaxe": "熾熱鎬（賽季 0）",
+  "season.0.fiery_shovel": "熾熱鏟（賽季 0）",
+  "season.1.fiery_axe": "熾熱斧（賽季 1）",
+  "season.1.fiery_bow": "熾熱弓（賽季 1）",
+  "season.1.fiery_sword": "熾熱劍（賽季 1）"
 }

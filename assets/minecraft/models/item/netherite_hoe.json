@@ -4,5 +4,6 @@
     "layer0": "item/netherite_hoe"
   },
   "overrides": [
+    {"predicate": {"custom_model_data": 1}, "model": "item/season/0/fiery_hoe"}
   ]
 }
