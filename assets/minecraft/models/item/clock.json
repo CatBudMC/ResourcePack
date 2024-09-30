@@ -340,6 +340,8 @@
     {"predicate": {"custom_model_data": 269}, "model": "item/menu/root/sign"},
     {"predicate": {"custom_model_data": 270}, "model": "item/menu/task/entry_off"},
     {"predicate": {"custom_model_data": 271}, "model": "item/menu/task/entry_on"},
-    {"predicate": {"custom_model_data": 272}, "model": "item/menu/root/task"}
+    {"predicate": {"custom_model_data": 272}, "model": "item/menu/root/task"},
+    {"predicate": {"custom_model_data": 273}, "model": "item/menu/log/loading"},
+    {"predicate": {"custom_model_data": 274}, "model": "item/menu/root/log"}
   ]
 }
