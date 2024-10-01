@@ -5,6 +5,18 @@
       "time_coming"
     ]
   },
+  "plugins.paid_store.raffle_result": {
+    "subtitle": "plugins.paid_store.raffle_result",
+    "sounds": [
+      "raffle_result"
+    ]
+  },
+  "plugins.paid_store.raffle_tick": {
+    "subtitle": "plugins.paid_store.raffle_tick",
+    "sounds": [
+      "raffle_tick"
+    ]
+  },
   "plugins.player_database.friend_offline": {
     "subtitle": "plugins.player_database.friend_offline",
     "sounds": [
@@ -45,18 +57,6 @@
     "subtitle": "plugins.venue_manager.room_ready",
     "sounds": [
       "room_ready"
-    ]
-  },
-  "plugins.paid_store.raffle_tick": {
-    "subtitle": "plugins.paid_store.raffle_tick",
-    "sounds": [
-      "raffle_tick"
-    ]
-  },
-  "plugins.paid_store.raffle_result": {
-    "subtitle": "plugins.paid_store.raffle_result",
-    "sounds": [
-      "raffle_result"
     ]
   }
 }

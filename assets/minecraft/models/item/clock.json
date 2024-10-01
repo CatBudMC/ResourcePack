@@ -342,6 +342,7 @@
     {"predicate": {"custom_model_data": 271}, "model": "item/menu/task/entry_on"},
     {"predicate": {"custom_model_data": 272}, "model": "item/menu/root/task"},
     {"predicate": {"custom_model_data": 273}, "model": "item/menu/log/loading"},
-    {"predicate": {"custom_model_data": 274}, "model": "item/menu/root/log"}
+    {"predicate": {"custom_model_data": 274}, "model": "item/menu/root/log"},
+    {"predicate": {"custom_model_data": 275}, "model": "item/menu/log/regen"}
   ]
 }
