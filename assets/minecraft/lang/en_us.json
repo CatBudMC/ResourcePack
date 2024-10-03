@@ -168,7 +168,6 @@
   "commands.raffle.unknown_prize": "未知的獎品類型 '%s'",
   "commands.regen.world_unavailable": "不能在這個世界使用",
   "commands.renewbie.miss_player_arg": "缺少目標玩家參數",
-  "commands.renewbie.miss_sale_arg": "缺少目標份量參數",
   "commands.renewbie.player_not_exist": "玩家 '%s' 不存在",
   "commands.renewbie.reinitialized": "已將玩家 '%s' 重新新手初始化",
   "commands.room.already_in_room": "已經在房間內了",
