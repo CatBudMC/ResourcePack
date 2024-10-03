@@ -1004,5 +1004,6 @@
   "styles.rabbit_ear.purple": "兔耳（紫色）",
   "styles.rabbit_ear.red": "兔耳（紅色）",
   "styles.rabbit_ear.white": "兔耳（白色）",
-  "styles.rabbit_ear.yellow": "兔耳（黃色）"
+  "styles.rabbit_ear.yellow": "兔耳（黃色）",
+  "commands.regen.world_unavailable": "不能在這個世界使用"
 }
