@@ -355,6 +355,7 @@
   "plugins.beacon_placer.modify_beacon_note": "修改信標備註",
   "plugins.beacon_placer.new_beacon_name": "新的信標名稱",
   "plugins.beacon_placer.random_refresh_icon": "隨機刷新圖示",
+  "plugins.beacon_placer.record_death_failure_capacity_full": "信標容量已滿，因此無法記錄新的死亡位置",
   "plugins.beacon_placer.remove_beacon": "移除信標",
   "plugins.beacon_placer.start_track_beacon": "開始追蹤信標",
   "plugins.beacon_placer.sure_remove_beacon": "確定移除信標",

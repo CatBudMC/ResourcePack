@@ -345,6 +345,7 @@
     {"predicate": {"custom_model_data": 274}, "model": "item/menu/root/log"},
     {"predicate": {"custom_model_data": 275}, "model": "item/menu/log/regen"},
     {"predicate": {"custom_model_data": 276}, "model": "item/menu/root/rule"},
-    {"predicate": {"custom_model_data": 277}, "model": "item/menu/root/tester"}
+    {"predicate": {"custom_model_data": 277}, "model": "item/menu/root/tester"},
+    {"predicate": {"custom_model_data": 278}, "model": "item/menu/beacon/death"}
   ]
 }
