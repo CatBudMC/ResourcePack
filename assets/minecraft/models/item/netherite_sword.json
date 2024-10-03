@@ -8,6 +8,7 @@
     {"predicate": {"custom_model_data": 2}, "model": "item/style/cat_palm_stick/light_gray"},
     {"predicate": {"custom_model_data": 3}, "model": "item/style/cat_palm_stick/gray"},
     {"predicate": {"custom_model_data": 4}, "model": "item/style/cat_palm_stick/black"},
-    {"predicate": {"custom_model_data": 5}, "model": "item/season/1/fiery_sword"}
+    {"predicate": {"custom_model_data": 5}, "model": "item/season/0/sword"},
+    {"predicate": {"custom_model_data": 6}, "model": "item/season/1/sword"}
   ]
 }

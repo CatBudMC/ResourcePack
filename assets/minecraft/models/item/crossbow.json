@@ -31,11 +31,11 @@
     {"predicate": {"pulling": 1, "pull": 1.0}, "model": "item/crossbow_pulling_2"},
     {"predicate": {"charged": 1}, "model": "item/crossbow_arrow"},
     {"predicate": {"charged": 1, "firework": 1}, "model": "item/crossbow_firework"},
-    {"predicate": {"custom_model_data": 1}, "model": "item/season/0/fiery_crossbow"},
-    {"predicate": {"custom_model_data": 1, "pulling": 1}, "model": "item/season/0/fiery_crossbow_pulling_0"},
-    {"predicate": {"custom_model_data": 1, "pulling": 1, "pull": 0.58}, "model": "item/season/0/fiery_crossbow_pulling_1"},
-    {"predicate": {"custom_model_data": 1, "pulling": 1, "pull": 1.0}, "model": "item/season/0/fiery_crossbow_pulling_2"},
-    {"predicate": {"custom_model_data": 1, "charged": 1}, "model": "item/season/0/fiery_crossbow_arrow"},
-    {"predicate": {"custom_model_data": 1, "charged": 1, "firework": 1}, "model": "item/season/0/fiery_crossbow_firework"}
+    {"predicate": {"custom_model_data": 1}, "model": "item/season/0/crossbow"},
+    {"predicate": {"custom_model_data": 1, "pulling": 1}, "model": "item/season/0/crossbow_pulling_0"},
+    {"predicate": {"custom_model_data": 1, "pulling": 1, "pull": 0.58}, "model": "item/season/0/crossbow_pulling_1"},
+    {"predicate": {"custom_model_data": 1, "pulling": 1, "pull": 1.0}, "model": "item/season/0/crossbow_pulling_2"},
+    {"predicate": {"custom_model_data": 1, "charged": 1}, "model": "item/season/0/crossbow_arrow"},
+    {"predicate": {"custom_model_data": 1, "charged": 1, "firework": 1}, "model": "item/season/0/crossbow_firework"}
   ]
 }

@@ -8,6 +8,7 @@
     {"predicate": {"custom_model_data": 2}, "model": "item/style/cat_palm_glove/light_gray"},
     {"predicate": {"custom_model_data": 3}, "model": "item/style/cat_palm_glove/gray"},
     {"predicate": {"custom_model_data": 4}, "model": "item/style/cat_palm_glove/black"},
-    {"predicate": {"custom_model_data": 5}, "model": "item/season/1/fiery_axe"}
+    {"predicate": {"custom_model_data": 5}, "model": "item/season/0/axe"},
+    {"predicate": {"custom_model_data": 6}, "model": "item/season/1/axe"}
   ]
 }

@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "item/season/0/fiery_hoe"
+    "layer0": "item/season/0/hoe"
   }
 }

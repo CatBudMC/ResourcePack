@@ -1,6 +1,0 @@
-{
-  "parent": "item/bow",
-  "textures": {
-    "layer0": "item/season/1/fiery_bow_pulling_2"
-  }
-}

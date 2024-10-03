@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "item/season/0/fiery_pickaxe"
+    "layer0": "item/season/0/shovel"
   }
 }
