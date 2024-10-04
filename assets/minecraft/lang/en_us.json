@@ -388,6 +388,7 @@
   "plugins.castle_warfare.castle_war.rank.lore.3": "不死圖騰使用後有 60 秒冷卻",
   "plugins.castle_warfare.castle_war.rank.lore.4": "最多 4 vs 4 同時對抗",
   "plugins.castle_warfare.castle_war.rank.lore.5": "配對時房間人數等於對戰敵人人數",
+  "plugins.castle_warfare.color_center_is": "%s 中心",
   "plugins.castle_warfare.colors_land_cannot_same": "'%s' 和 '%s' 不能是相同的領地",
   "plugins.castle_warfare.custom_room_end_queue": "自訂房間結束列隊",
   "plugins.castle_warfare.custom_room_start_queue": "自訂房間開始列隊",
