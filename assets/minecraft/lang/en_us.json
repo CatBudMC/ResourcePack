@@ -657,6 +657,7 @@
   "plugins.primary_menu.current_rank_season": "當前第 %s 積分賽季",
   "plugins.primary_menu.edit_room_config": "編輯房間配置",
   "plugins.primary_menu.end_days_left": "距離結束還剩 %s 天",
+  "plugins.primary_menu.enter_open_menu_by": "輸入指令 %s 或 %s 來開啟選單",
   "plugins.primary_menu.enter_or_exit_test": "進入／離開測試",
   "plugins.primary_menu.exit_room": "退出房間",
   "plugins.primary_menu.friend": "朋友",
