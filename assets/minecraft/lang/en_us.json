@@ -485,7 +485,7 @@
   "plugins.paid_store.guaranteed_have": "保底卷 %s 張",
   "plugins.paid_store.history_empty": "沒有任何紀錄...",
   "plugins.paid_store.inquiry_sure_exchange_prize": "確定要花費一張保底卷交換獎品 '%s' ?",
-  "plugins.paid_store.jump_route_failure": "切換路由失敗，需要版本 1.20.5 以上",
+  "plugins.paid_store.jump_route_failure": "切換路由失敗",
   "plugins.paid_store.keep_good_work_next_season": "下個賽季也請繼續努力，貓貓會祝福您的！",
   "plugins.paid_store.last_season": "上個賽季",
   "plugins.paid_store.new_taiwan_dollar": "新台幣",
