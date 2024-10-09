@@ -5,6 +5,791 @@
       "time_coming"
     ]
   },
+  "plugins.enchant_addons.action_sound.kizuna_akari.attack_big": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.attack_big",
+    "sounds": [
+      "action_sound/kizuna_akari/attack_big_0",
+      "action_sound/kizuna_akari/attack_big_1",
+      "action_sound/kizuna_akari/attack_big_2",
+      "action_sound/kizuna_akari/attack_big_3",
+      "action_sound/kizuna_akari/attack_big_4",
+      "action_sound/kizuna_akari/attack_big_5",
+      "action_sound/kizuna_akari/attack_big_6",
+      "action_sound/kizuna_akari/attack_big_7",
+      "action_sound/kizuna_akari/attack_big_8",
+      "action_sound/kizuna_akari/attack_big_9",
+      "action_sound/kizuna_akari/attack_big_10",
+      "action_sound/kizuna_akari/attack_big_11"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.attack_general": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.attack_general",
+    "sounds": [
+      "action_sound/kizuna_akari/attack_general_0",
+      "action_sound/kizuna_akari/attack_general_1",
+      "action_sound/kizuna_akari/attack_general_2",
+      "action_sound/kizuna_akari/attack_general_3",
+      "action_sound/kizuna_akari/attack_general_4",
+      "action_sound/kizuna_akari/attack_general_5",
+      "action_sound/kizuna_akari/attack_general_6",
+      "action_sound/kizuna_akari/attack_general_7",
+      "action_sound/kizuna_akari/attack_general_8",
+      "action_sound/kizuna_akari/attack_general_9",
+      "action_sound/kizuna_akari/attack_general_10",
+      "action_sound/kizuna_akari/attack_general_11",
+      "action_sound/kizuna_akari/attack_general_12",
+      "action_sound/kizuna_akari/attack_general_13",
+      "action_sound/kizuna_akari/attack_general_14",
+      "action_sound/kizuna_akari/attack_general_15",
+      "action_sound/kizuna_akari/attack_general_16",
+      "action_sound/kizuna_akari/attack_general_17",
+      "action_sound/kizuna_akari/attack_general_18",
+      "action_sound/kizuna_akari/attack_general_19",
+      "action_sound/kizuna_akari/attack_general_20",
+      "action_sound/kizuna_akari/attack_general_21",
+      "action_sound/kizuna_akari/attack_general_22",
+      "action_sound/kizuna_akari/attack_general_23",
+      "action_sound/kizuna_akari/attack_general_24",
+      "action_sound/kizuna_akari/attack_general_25",
+      "action_sound/kizuna_akari/attack_general_26",
+      "action_sound/kizuna_akari/attack_general_27",
+      "action_sound/kizuna_akari/attack_general_28"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.attack_small": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.attack_small",
+    "sounds": [
+      "action_sound/kizuna_akari/attack_small_0",
+      "action_sound/kizuna_akari/attack_small_1",
+      "action_sound/kizuna_akari/attack_small_2",
+      "action_sound/kizuna_akari/attack_small_3",
+      "action_sound/kizuna_akari/attack_small_4",
+      "action_sound/kizuna_akari/attack_small_5",
+      "action_sound/kizuna_akari/attack_small_6",
+      "action_sound/kizuna_akari/attack_small_7",
+      "action_sound/kizuna_akari/attack_small_8",
+      "action_sound/kizuna_akari/attack_small_9"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.bell": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.bell",
+    "sounds": [
+      "action_sound/kizuna_akari/bell_0",
+      "action_sound/kizuna_akari/bell_1",
+      "action_sound/kizuna_akari/bell_2",
+      "action_sound/kizuna_akari/bell_3",
+      "action_sound/kizuna_akari/bell_4",
+      "action_sound/kizuna_akari/bell_5"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.injured_big": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.injured_big",
+    "sounds": [
+      "action_sound/kizuna_akari/injured_big_0",
+      "action_sound/kizuna_akari/injured_big_1",
+      "action_sound/kizuna_akari/injured_big_2",
+      "action_sound/kizuna_akari/injured_big_3",
+      "action_sound/kizuna_akari/injured_big_4"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.injured_general": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.injured_general",
+    "sounds": [
+      "action_sound/kizuna_akari/injured_general_0",
+      "action_sound/kizuna_akari/injured_general_1",
+      "action_sound/kizuna_akari/injured_general_2",
+      "action_sound/kizuna_akari/injured_general_3",
+      "action_sound/kizuna_akari/injured_general_4",
+      "action_sound/kizuna_akari/injured_general_5",
+      "action_sound/kizuna_akari/injured_general_6",
+      "action_sound/kizuna_akari/injured_general_7",
+      "action_sound/kizuna_akari/injured_general_8",
+      "action_sound/kizuna_akari/injured_general_9",
+      "action_sound/kizuna_akari/injured_general_10",
+      "action_sound/kizuna_akari/injured_general_11",
+      "action_sound/kizuna_akari/injured_general_12",
+      "action_sound/kizuna_akari/injured_general_13",
+      "action_sound/kizuna_akari/injured_general_14",
+      "action_sound/kizuna_akari/injured_general_15",
+      "action_sound/kizuna_akari/injured_general_16"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.injured_small": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.injured_small",
+    "sounds": [
+      "action_sound/kizuna_akari/injured_small_0",
+      "action_sound/kizuna_akari/injured_small_1",
+      "action_sound/kizuna_akari/injured_small_2",
+      "action_sound/kizuna_akari/injured_small_3",
+      "action_sound/kizuna_akari/injured_small_4",
+      "action_sound/kizuna_akari/injured_small_5",
+      "action_sound/kizuna_akari/injured_small_6",
+      "action_sound/kizuna_akari/injured_small_7",
+      "action_sound/kizuna_akari/injured_small_8",
+      "action_sound/kizuna_akari/injured_small_9",
+      "action_sound/kizuna_akari/injured_small_10",
+      "action_sound/kizuna_akari/injured_small_11",
+      "action_sound/kizuna_akari/injured_small_12",
+      "action_sound/kizuna_akari/injured_small_13",
+      "action_sound/kizuna_akari/injured_small_14"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.item_break": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.item_break",
+    "sounds": [
+      "action_sound/kizuna_akari/item_break_0",
+      "action_sound/kizuna_akari/item_break_1",
+      "action_sound/kizuna_akari/item_break_2",
+      "action_sound/kizuna_akari/item_break_3",
+      "action_sound/kizuna_akari/item_break_4",
+      "action_sound/kizuna_akari/item_break_5",
+      "action_sound/kizuna_akari/item_break_6",
+      "action_sound/kizuna_akari/item_break_7",
+      "action_sound/kizuna_akari/item_break_8"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.item_damage": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.item_damage",
+    "sounds": [
+      "action_sound/kizuna_akari/item_damage_0",
+      "action_sound/kizuna_akari/item_damage_1",
+      "action_sound/kizuna_akari/item_damage_2",
+      "action_sound/kizuna_akari/item_damage_3",
+      "action_sound/kizuna_akari/item_damage_4",
+      "action_sound/kizuna_akari/item_damage_5",
+      "action_sound/kizuna_akari/item_damage_6",
+      "action_sound/kizuna_akari/item_damage_7",
+      "action_sound/kizuna_akari/item_damage_8",
+      "action_sound/kizuna_akari/item_damage_9"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.item_drop": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.item_drop",
+    "sounds": [
+      "action_sound/kizuna_akari/item_drop_0",
+      "action_sound/kizuna_akari/item_drop_1",
+      "action_sound/kizuna_akari/item_drop_2",
+      "action_sound/kizuna_akari/item_drop_3"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.item_nausea": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.item_nausea",
+    "sounds": [
+      "action_sound/kizuna_akari/item_nausea_0",
+      "action_sound/kizuna_akari/item_nausea_1",
+      "action_sound/kizuna_akari/item_nausea_2",
+      "action_sound/kizuna_akari/item_nausea_3"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.item_pickup": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.item_pickup",
+    "sounds": [
+      "action_sound/kizuna_akari/item_pickup_0",
+      "action_sound/kizuna_akari/item_pickup_1",
+      "action_sound/kizuna_akari/item_pickup_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.item_place": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.item_place",
+    "sounds": [
+      "action_sound/kizuna_akari/item_place_0",
+      "action_sound/kizuna_akari/item_place_1",
+      "action_sound/kizuna_akari/item_place_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.item_saturation": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.item_saturation",
+    "sounds": [
+      "action_sound/kizuna_akari/item_saturation_0",
+      "action_sound/kizuna_akari/item_saturation_1",
+      "action_sound/kizuna_akari/item_saturation_2",
+      "action_sound/kizuna_akari/item_saturation_3",
+      "action_sound/kizuna_akari/item_saturation_4",
+      "action_sound/kizuna_akari/item_saturation_5",
+      "action_sound/kizuna_akari/item_saturation_6",
+      "action_sound/kizuna_akari/item_saturation_7",
+      "action_sound/kizuna_akari/item_saturation_8",
+      "action_sound/kizuna_akari/item_saturation_9",
+      "action_sound/kizuna_akari/item_saturation_10",
+      "action_sound/kizuna_akari/item_saturation_11"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.jump": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.jump",
+    "sounds": [
+      "action_sound/kizuna_akari/jump_0",
+      "action_sound/kizuna_akari/jump_1",
+      "action_sound/kizuna_akari/jump_2",
+      "action_sound/kizuna_akari/jump_3",
+      "action_sound/kizuna_akari/jump_4",
+      "action_sound/kizuna_akari/jump_5"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.standby": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.standby",
+    "sounds": [
+      "action_sound/kizuna_akari/standby_0",
+      "action_sound/kizuna_akari/standby_1",
+      "action_sound/kizuna_akari/standby_2",
+      "action_sound/kizuna_akari/standby_3",
+      "action_sound/kizuna_akari/standby_4",
+      "action_sound/kizuna_akari/standby_5"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.transfer": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.transfer",
+    "sounds": [
+      "action_sound/kizuna_akari/transfer_0",
+      "action_sound/kizuna_akari/transfer_1",
+      "action_sound/kizuna_akari/transfer_2",
+      "action_sound/kizuna_akari/transfer_3",
+      "action_sound/kizuna_akari/transfer_4",
+      "action_sound/kizuna_akari/transfer_5",
+      "action_sound/kizuna_akari/transfer_6",
+      "action_sound/kizuna_akari/transfer_7",
+      "action_sound/kizuna_akari/transfer_8",
+      "action_sound/kizuna_akari/transfer_9",
+      "action_sound/kizuna_akari/transfer_10",
+      "action_sound/kizuna_akari/transfer_11",
+      "action_sound/kizuna_akari/transfer_12",
+      "action_sound/kizuna_akari/transfer_13",
+      "action_sound/kizuna_akari/transfer_14"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.upgrade_failure": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.upgrade_failure",
+    "sounds": [
+      "action_sound/kizuna_akari/upgrade_failure_0",
+      "action_sound/kizuna_akari/upgrade_failure_1",
+      "action_sound/kizuna_akari/upgrade_failure_2",
+      "action_sound/kizuna_akari/upgrade_failure_3",
+      "action_sound/kizuna_akari/upgrade_failure_4",
+      "action_sound/kizuna_akari/upgrade_failure_5",
+      "action_sound/kizuna_akari/upgrade_failure_6",
+      "action_sound/kizuna_akari/upgrade_failure_7"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kizuna_akari.upgrade_success": {
+    "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.upgrade_success",
+    "sounds": [
+      "action_sound/kizuna_akari/upgrade_success_0",
+      "action_sound/kizuna_akari/upgrade_success_1",
+      "action_sound/kizuna_akari/upgrade_success_2",
+      "action_sound/kizuna_akari/upgrade_success_3",
+      "action_sound/kizuna_akari/upgrade_success_4",
+      "action_sound/kizuna_akari/upgrade_success_5",
+      "action_sound/kizuna_akari/upgrade_success_6",
+      "action_sound/kizuna_akari/upgrade_success_7",
+      "action_sound/kizuna_akari/upgrade_success_8",
+      "action_sound/kizuna_akari/upgrade_success_9",
+      "action_sound/kizuna_akari/upgrade_success_10"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.attack_big": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.attack_big",
+    "sounds": [
+      "action_sound/kotonoha_akane/attack_big_0",
+      "action_sound/kotonoha_akane/attack_big_1",
+      "action_sound/kotonoha_akane/attack_big_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.attack_general": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.attack_general",
+    "sounds": [
+      "action_sound/kotonoha_akane/attack_general_0",
+      "action_sound/kotonoha_akane/attack_general_1",
+      "action_sound/kotonoha_akane/attack_general_2",
+      "action_sound/kotonoha_akane/attack_general_3",
+      "action_sound/kotonoha_akane/attack_general_4",
+      "action_sound/kotonoha_akane/attack_general_5",
+      "action_sound/kotonoha_akane/attack_general_6",
+      "action_sound/kotonoha_akane/attack_general_7",
+      "action_sound/kotonoha_akane/attack_general_8"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.attack_small": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.attack_small",
+    "sounds": [
+      "action_sound/kotonoha_akane/attack_small_0",
+      "action_sound/kotonoha_akane/attack_small_1",
+      "action_sound/kotonoha_akane/attack_small_2",
+      "action_sound/kotonoha_akane/attack_small_3"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.bell": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.bell",
+    "sounds": [
+      "action_sound/kotonoha_akane/bell_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.injured_big": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.injured_big",
+    "sounds": [
+      "action_sound/kotonoha_akane/injured_big_0",
+      "action_sound/kotonoha_akane/injured_big_1",
+      "action_sound/kotonoha_akane/injured_big_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.injured_general": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.injured_general",
+    "sounds": [
+      "action_sound/kotonoha_akane/injured_general_0",
+      "action_sound/kotonoha_akane/injured_general_1",
+      "action_sound/kotonoha_akane/injured_general_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.injured_small": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.injured_small",
+    "sounds": [
+      "action_sound/kotonoha_akane/injured_small_0",
+      "action_sound/kotonoha_akane/injured_small_1"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.item_break": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.item_break",
+    "sounds": [
+      "action_sound/kotonoha_akane/item_break_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.item_damage": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.item_damage",
+    "sounds": [
+      "action_sound/kotonoha_akane/item_damage_0",
+      "action_sound/kotonoha_akane/item_damage_1",
+      "action_sound/kotonoha_akane/item_damage_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.item_drop": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.item_drop",
+    "sounds": [
+      "action_sound/kotonoha_akane/item_drop_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.item_nausea": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.item_nausea",
+    "sounds": [
+      "action_sound/kotonoha_akane/item_nausea_0",
+      "action_sound/kotonoha_akane/item_nausea_1",
+      "action_sound/kotonoha_akane/item_nausea_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.item_pickup": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.item_pickup",
+    "sounds": [
+      "action_sound/kotonoha_akane/item_pickup_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.item_place": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.item_place",
+    "sounds": [
+      "action_sound/kotonoha_akane/item_place_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.item_saturation": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.item_saturation",
+    "sounds": [
+      "action_sound/kotonoha_akane/item_saturation_0",
+      "action_sound/kotonoha_akane/item_saturation_1",
+      "action_sound/kotonoha_akane/item_saturation_2",
+      "action_sound/kotonoha_akane/item_saturation_3",
+      "action_sound/kotonoha_akane/item_saturation_4",
+      "action_sound/kotonoha_akane/item_saturation_5"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.jump": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.jump",
+    "sounds": [
+      "action_sound/kotonoha_akane/jump_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.standby": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.standby",
+    "sounds": [
+      "action_sound/kotonoha_akane/standby_0",
+      "action_sound/kotonoha_akane/standby_1",
+      "action_sound/kotonoha_akane/standby_2",
+      "action_sound/kotonoha_akane/standby_3",
+      "action_sound/kotonoha_akane/standby_4",
+      "action_sound/kotonoha_akane/standby_5"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.transfer": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.transfer",
+    "sounds": [
+      "action_sound/kotonoha_akane/transfer_0",
+      "action_sound/kotonoha_akane/transfer_1",
+      "action_sound/kotonoha_akane/transfer_2",
+      "action_sound/kotonoha_akane/transfer_3"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.upgrade_failure": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.upgrade_failure",
+    "sounds": [
+      "action_sound/kotonoha_akane/upgrade_failure_0",
+      "action_sound/kotonoha_akane/upgrade_failure_1",
+      "action_sound/kotonoha_akane/upgrade_failure_2",
+      "action_sound/kotonoha_akane/upgrade_failure_3",
+      "action_sound/kotonoha_akane/upgrade_failure_4"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_akane.upgrade_success": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_akane.upgrade_success",
+    "sounds": [
+      "action_sound/kotonoha_akane/upgrade_success_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.attack_big": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.attack_big",
+    "sounds": [
+      "action_sound/kotonoha_aoi/attack_big_0",
+      "action_sound/kotonoha_aoi/attack_big_1",
+      "action_sound/kotonoha_aoi/attack_big_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.attack_general": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.attack_general",
+    "sounds": [
+      "action_sound/kotonoha_aoi/attack_general_0",
+      "action_sound/kotonoha_aoi/attack_general_1",
+      "action_sound/kotonoha_aoi/attack_general_2",
+      "action_sound/kotonoha_aoi/attack_general_3",
+      "action_sound/kotonoha_aoi/attack_general_4",
+      "action_sound/kotonoha_aoi/attack_general_5",
+      "action_sound/kotonoha_aoi/attack_general_6",
+      "action_sound/kotonoha_aoi/attack_general_7",
+      "action_sound/kotonoha_aoi/attack_general_8"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.attack_small": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.attack_small",
+    "sounds": [
+      "action_sound/kotonoha_aoi/attack_small_0",
+      "action_sound/kotonoha_aoi/attack_small_1",
+      "action_sound/kotonoha_aoi/attack_small_2",
+      "action_sound/kotonoha_aoi/attack_small_3"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.bell": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.bell",
+    "sounds": [
+      "action_sound/kotonoha_aoi/bell_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.injured_big": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.injured_big",
+    "sounds": [
+      "action_sound/kotonoha_aoi/injured_big_0",
+      "action_sound/kotonoha_aoi/injured_big_1",
+      "action_sound/kotonoha_aoi/injured_big_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.injured_general": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.injured_general",
+    "sounds": [
+      "action_sound/kotonoha_aoi/injured_general_0",
+      "action_sound/kotonoha_aoi/injured_general_1",
+      "action_sound/kotonoha_aoi/injured_general_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.injured_small": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.injured_small",
+    "sounds": [
+      "action_sound/kotonoha_aoi/injured_small_0",
+      "action_sound/kotonoha_aoi/injured_small_1"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.item_break": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.item_break",
+    "sounds": [
+      "action_sound/kotonoha_aoi/item_break_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.item_damage": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.item_damage",
+    "sounds": [
+      "action_sound/kotonoha_aoi/item_damage_0",
+      "action_sound/kotonoha_aoi/item_damage_1",
+      "action_sound/kotonoha_aoi/item_damage_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.item_drop": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.item_drop",
+    "sounds": [
+      "action_sound/kotonoha_aoi/item_drop_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.item_nausea": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.item_nausea",
+    "sounds": [
+      "action_sound/kotonoha_aoi/item_nausea_0",
+      "action_sound/kotonoha_aoi/item_nausea_1",
+      "action_sound/kotonoha_aoi/item_nausea_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.item_pickup": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.item_pickup",
+    "sounds": [
+      "action_sound/kotonoha_aoi/item_pickup_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.item_place": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.item_place",
+    "sounds": [
+      "action_sound/kotonoha_aoi/item_place_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.item_saturation": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.item_saturation",
+    "sounds": [
+      "action_sound/kotonoha_aoi/item_saturation_0",
+      "action_sound/kotonoha_aoi/item_saturation_1",
+      "action_sound/kotonoha_aoi/item_saturation_2",
+      "action_sound/kotonoha_aoi/item_saturation_3",
+      "action_sound/kotonoha_aoi/item_saturation_4",
+      "action_sound/kotonoha_aoi/item_saturation_5"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.jump": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.jump",
+    "sounds": [
+      "action_sound/kotonoha_aoi/jump_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.standby": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.standby",
+    "sounds": [
+      "action_sound/kotonoha_aoi/standby_0",
+      "action_sound/kotonoha_aoi/standby_1",
+      "action_sound/kotonoha_aoi/standby_2",
+      "action_sound/kotonoha_aoi/standby_3",
+      "action_sound/kotonoha_aoi/standby_4",
+      "action_sound/kotonoha_aoi/standby_5"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.transfer": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.transfer",
+    "sounds": [
+      "action_sound/kotonoha_aoi/transfer_0",
+      "action_sound/kotonoha_aoi/transfer_1",
+      "action_sound/kotonoha_aoi/transfer_2",
+      "action_sound/kotonoha_aoi/transfer_3"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.upgrade_failure": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.upgrade_failure",
+    "sounds": [
+      "action_sound/kotonoha_aoi/upgrade_failure_0",
+      "action_sound/kotonoha_aoi/upgrade_failure_1",
+      "action_sound/kotonoha_aoi/upgrade_failure_2",
+      "action_sound/kotonoha_aoi/upgrade_failure_3",
+      "action_sound/kotonoha_aoi/upgrade_failure_4"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.kotonoha_aoi.upgrade_success": {
+    "subtitle": "plugins.enchant_addons.action_sound.kotonoha_aoi.upgrade_success",
+    "sounds": [
+      "action_sound/kotonoha_aoi/upgrade_success_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.attack_big": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.attack_big",
+    "sounds": [
+      "action_sound/yuzuki_yukari/attack_big_0",
+      "action_sound/yuzuki_yukari/attack_big_1",
+      "action_sound/yuzuki_yukari/attack_big_2",
+      "action_sound/yuzuki_yukari/attack_big_3",
+      "action_sound/yuzuki_yukari/attack_big_4",
+      "action_sound/yuzuki_yukari/attack_big_5"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.attack_general": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.attack_general",
+    "sounds": [
+      "action_sound/yuzuki_yukari/attack_general_0",
+      "action_sound/yuzuki_yukari/attack_general_1",
+      "action_sound/yuzuki_yukari/attack_general_2",
+      "action_sound/yuzuki_yukari/attack_general_3",
+      "action_sound/yuzuki_yukari/attack_general_4",
+      "action_sound/yuzuki_yukari/attack_general_5",
+      "action_sound/yuzuki_yukari/attack_general_6",
+      "action_sound/yuzuki_yukari/attack_general_7",
+      "action_sound/yuzuki_yukari/attack_general_8",
+      "action_sound/yuzuki_yukari/attack_general_9",
+      "action_sound/yuzuki_yukari/attack_general_10",
+      "action_sound/yuzuki_yukari/attack_general_11",
+      "action_sound/yuzuki_yukari/attack_general_12",
+      "action_sound/yuzuki_yukari/attack_general_13",
+      "action_sound/yuzuki_yukari/attack_general_14",
+      "action_sound/yuzuki_yukari/attack_general_15",
+      "action_sound/yuzuki_yukari/attack_general_16",
+      "action_sound/yuzuki_yukari/attack_general_17",
+      "action_sound/yuzuki_yukari/attack_general_18",
+      "action_sound/yuzuki_yukari/attack_general_19"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.attack_small": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.attack_small",
+    "sounds": [
+      "action_sound/yuzuki_yukari/attack_small_0",
+      "action_sound/yuzuki_yukari/attack_small_1",
+      "action_sound/yuzuki_yukari/attack_small_2",
+      "action_sound/yuzuki_yukari/attack_small_3",
+      "action_sound/yuzuki_yukari/attack_small_4",
+      "action_sound/yuzuki_yukari/attack_small_5",
+      "action_sound/yuzuki_yukari/attack_small_6",
+      "action_sound/yuzuki_yukari/attack_small_7",
+      "action_sound/yuzuki_yukari/attack_small_8",
+      "action_sound/yuzuki_yukari/attack_small_9",
+      "action_sound/yuzuki_yukari/attack_small_10",
+      "action_sound/yuzuki_yukari/attack_small_11"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.bell": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.bell",
+    "sounds": [
+      "action_sound/yuzuki_yukari/bell_0",
+      "action_sound/yuzuki_yukari/bell_1",
+      "action_sound/yuzuki_yukari/bell_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.injured_big": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.injured_big",
+    "sounds": [
+      "action_sound/yuzuki_yukari/injured_big_0",
+      "action_sound/yuzuki_yukari/injured_big_1",
+      "action_sound/yuzuki_yukari/injured_big_2",
+      "action_sound/yuzuki_yukari/injured_big_3"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.injured_general": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.injured_general",
+    "sounds": [
+      "action_sound/yuzuki_yukari/injured_general_0",
+      "action_sound/yuzuki_yukari/injured_general_1",
+      "action_sound/yuzuki_yukari/injured_general_2",
+      "action_sound/yuzuki_yukari/injured_general_3",
+      "action_sound/yuzuki_yukari/injured_general_4",
+      "action_sound/yuzuki_yukari/injured_general_5",
+      "action_sound/yuzuki_yukari/injured_general_6",
+      "action_sound/yuzuki_yukari/injured_general_7",
+      "action_sound/yuzuki_yukari/injured_general_8",
+      "action_sound/yuzuki_yukari/injured_general_9",
+      "action_sound/yuzuki_yukari/injured_general_10"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.injured_small": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.injured_small",
+    "sounds": [
+      "action_sound/yuzuki_yukari/injured_small_0",
+      "action_sound/yuzuki_yukari/injured_small_1",
+      "action_sound/yuzuki_yukari/injured_small_2",
+      "action_sound/yuzuki_yukari/injured_small_3",
+      "action_sound/yuzuki_yukari/injured_small_4",
+      "action_sound/yuzuki_yukari/injured_small_5",
+      "action_sound/yuzuki_yukari/injured_small_6"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.item_break": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.item_break",
+    "sounds": [
+      "action_sound/yuzuki_yukari/item_break_0",
+      "action_sound/yuzuki_yukari/item_break_1",
+      "action_sound/yuzuki_yukari/item_break_2",
+      "action_sound/yuzuki_yukari/item_break_3",
+      "action_sound/yuzuki_yukari/item_break_4",
+      "action_sound/yuzuki_yukari/item_break_5",
+      "action_sound/yuzuki_yukari/item_break_6",
+      "action_sound/yuzuki_yukari/item_break_7"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.item_damage": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.item_damage",
+    "sounds": [
+      "action_sound/yuzuki_yukari/item_damage_0",
+      "action_sound/yuzuki_yukari/item_damage_1",
+      "action_sound/yuzuki_yukari/item_damage_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.item_drop": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.item_drop",
+    "sounds": [
+      "action_sound/yuzuki_yukari/item_drop_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.item_nausea": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.item_nausea",
+    "sounds": [
+      "action_sound/yuzuki_yukari/item_nausea_0",
+      "action_sound/yuzuki_yukari/item_nausea_1",
+      "action_sound/yuzuki_yukari/item_nausea_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.item_pickup": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.item_pickup",
+    "sounds": [
+      "action_sound/yuzuki_yukari/item_pickup_0"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.item_place": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.item_place",
+    "sounds": [
+      "action_sound/yuzuki_yukari/item_place_0",
+      "action_sound/yuzuki_yukari/item_place_1",
+      "action_sound/yuzuki_yukari/item_place_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.item_saturation": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.item_saturation",
+    "sounds": [
+      "action_sound/yuzuki_yukari/item_saturation_0",
+      "action_sound/yuzuki_yukari/item_saturation_1",
+      "action_sound/yuzuki_yukari/item_saturation_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.jump": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.jump",
+    "sounds": [
+      "action_sound/yuzuki_yukari/jump_0",
+      "action_sound/yuzuki_yukari/jump_1",
+      "action_sound/yuzuki_yukari/jump_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.standby": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.standby",
+    "sounds": [
+      "action_sound/yuzuki_yukari/standby_0",
+      "action_sound/yuzuki_yukari/standby_1",
+      "action_sound/yuzuki_yukari/standby_2",
+      "action_sound/yuzuki_yukari/standby_3",
+      "action_sound/yuzuki_yukari/standby_4",
+      "action_sound/yuzuki_yukari/standby_5",
+      "action_sound/yuzuki_yukari/standby_6",
+      "action_sound/yuzuki_yukari/standby_7",
+      "action_sound/yuzuki_yukari/standby_8"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.transfer": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.transfer",
+    "sounds": [
+      "action_sound/yuzuki_yukari/transfer_0",
+      "action_sound/yuzuki_yukari/transfer_1",
+      "action_sound/yuzuki_yukari/transfer_2"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.upgrade_failure": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.upgrade_failure",
+    "sounds": [
+      "action_sound/yuzuki_yukari/upgrade_failure_0",
+      "action_sound/yuzuki_yukari/upgrade_failure_1"
+    ]
+  },
+  "plugins.enchant_addons.action_sound.yuzuki_yukari.upgrade_success": {
+    "subtitle": "plugins.enchant_addons.action_sound.yuzuki_yukari.upgrade_success",
+    "sounds": [
+      "action_sound/yuzuki_yukari/upgrade_success_0",
+      "action_sound/yuzuki_yukari/upgrade_success_1"
+    ]
+  },
   "plugins.paid_store.raffle_result": {
     "subtitle": "plugins.paid_store.raffle_result",
     "sounds": [
