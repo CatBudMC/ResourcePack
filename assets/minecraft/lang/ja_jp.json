@@ -95,7 +95,7 @@
   "commands.land.declared_by_own": "座標 '%s' はすでに自分の領地です",
   "commands.land.end_track": "領地 '%s' の位置の追跡を終了します",
   "commands.land.go_not_allowed": "現在の状態ではテレポートが許可されていません",
-  "commands.land.incorrect_group_index": "不正なグループインデックス番号 '%s'"
+  "commands.land.incorrect_group_index": "不正なグループインデックス番号 '%s'",
   "commands.land.incorrect_material": "不正な素材 '%s'",
   "commands.land.incorrect_page": "領地ページ番号が不正です '%s'",
   "commands.land.incorrect_pos": "不正な座標 '%s'",
@@ -192,7 +192,7 @@
   "commands.room.config.castle_warfare.observer_capacity_fulled": "観察者の人数が満員です",
   "commands.room.config.castle_warfare.player_already_color": "メンバー '%s' は既に '%s' です",
   "commands.room.config.castle_warfare.player_already_observer": "メンバー '%s' は既に観察者です",
-  "commands.room.config.castle_warfare.player_list_is": "部屋内の全メンバーチーム： %s"
+  "commands.room.config.castle_warfare.player_list_is": "部屋内の全メンバーチーム： %s",
   "commands.room.config.castle_warfare.player_not_exist": "プレイヤー '%s' は存在しません",
   "commands.room.config.castle_warfare.player_not_member": "プレイヤー '%s' は部屋にいません",
   "commands.room.config.castle_warfare.pos_outside_world": "座標 '%s' は世界の外にあります",
@@ -290,7 +290,7 @@
   "plugins.action_recorder.log.entity_spawn": "エンティティの生成",
   "plugins.action_recorder.log.entity_trade": "エンティティとの取引",
   "plugins.action_recorder.log.item_drop": "アイテムのドロップ",
-  "plugins.action_recorder.log.item_get": "アイテムの取得"
+  "plugins.action_recorder.log.item_get": "アイテムの取得",
   "plugins.action_recorder.log.item_pickup": "アイテムを拾う",
   "plugins.action_recorder.log.item_put": "アイテムを入れる",
   "plugins.action_recorder.operator_is": "操作者 %s",
@@ -396,7 +396,7 @@
   "plugins.castle_warfare.castle_war.practice.lore.2": "死亡時、インベントリ内の全てのアイテムがドロップします。",
   "plugins.castle_warfare.castle_war.practice.lore.3": "不死のトーテム使用後、60秒のクールダウンがあります。",
   "plugins.castle_warfare.castle_war.practice.lore.4": "勝敗はポイントに計上されません。",
-  "plugins.castle_warfare.castle_war.practice.lore.5": "最大4 vs 4 の対戦が可能。"
+  "plugins.castle_warfare.castle_war.practice.lore.5": "最大4 vs 4 の対戦が可能。",
   "plugins.castle_warfare.castle_war.practice.lore.6": "マッチング時の部屋の人数は対戦相手の人数と等しい",
   "plugins.castle_warfare.castle_war.rank": "城戦争-ランキング戦",
   "plugins.castle_warfare.castle_war.rank.lore.0": "味方の城のコアを守り、敵の城のコアを破壊しよう！",
@@ -493,7 +493,7 @@
   "plugins.enchant_addons.action_sound.kotonoha_akane.item_break": "破壊 (琴葉茜)",
   "plugins.enchant_addons.action_sound.kotonoha_akane.item_damage": "損傷 (琴葉茜)",
   "plugins.enchant_addons.action_sound.kotonoha_akane.item_drop": "落下 (琴葉茜)",
-  "plugins.enchant_addons.action_sound.kotonoha_akane.item_nausea": "不快 (琴葉茜)"
+  "plugins.enchant_addons.action_sound.kotonoha_akane.item_nausea": "不快 (琴葉茜)",
   "plugins.enchant_addons.action_sound.kotonoha_akane.item_pickup": "拾う (琴葉茜)",
   "plugins.enchant_addons.action_sound.kotonoha_akane.item_place": "設置 (琴葉茜)",
   "plugins.enchant_addons.action_sound.kotonoha_akane.item_saturation": "満腹 (琴葉茜)",
@@ -687,7 +687,7 @@
   "plugins.player_database.inquiry_sure_pay_product": "本当に %s このメールを削除しますか？",
   "plugins.player_database.inquiry_sure_remove_friend": "本当に '%s' との友達関係を解除しますか？",
   "plugins.player_database.inquiry_sure_remove_shield": "本当に '%s' のシールド状態を解除しますか？",
-  "plugins.player_database.inquiry_sure_selected_mail_delete": "選択した %s 件のメールを本当に削除しますか？"
+  "plugins.player_database.inquiry_sure_selected_mail_delete": "選択した %s 件のメールを本当に削除しますか？",
   "plugins.player_database.inquiry_sure_selected_mail_mark_read": "選択した %s 通のメールを既読にしてもよろしいですか？",
   "plugins.player_database.inquiry_sure_send_mail": "このメール %s を %s に送信してもよろしいですか？",
   "plugins.player_database.join_time_is": "%s 前に参加",
@@ -887,7 +887,7 @@
   "plugins.task_distribution.sign_sheet.normal.early.0": "毎日 %s",
   "plugins.task_distribution.sign_sheet.normal.lore.0": "45日ごとに %s | 9日ごとに %s | その他 %s",
   "plugins.task_distribution.signed_out": "サインイン完了",
-  "plugins.task_distribution.signed_progress": "サインイン進捗 %s / %s"
+  "plugins.task_distribution.signed_progress": "サインイン進捗 %s / %s",
   "plugins.task_distribution.signed_today": "今日のサインインが完了しました",
   "plugins.task_distribution.task_require.castle_war_play": "城戦争をプレイする",
   "plugins.task_distribution.task_require.castle_war_play.lore.0": "練習試合またはランクマッチ",
@@ -984,7 +984,7 @@
   "plugins.translation_helper.structure.buried_treasure": "埋もれた宝",
   "plugins.translation_helper.structure.desert_pyramid": "砂漠のピラミッド",
   "plugins.translation_helper.structure.end_city": "エンドシティ",
-  "plugins.translation_helper.structure.fortress": "ネザー要塞"
+  "plugins.translation_helper.structure.fortress": "ネザー要塞",
   "plugins.translation_helper.structure.igloo": "イグルー",
   "plugins.translation_helper.structure.jungle_pyramid": "ジャングルピラミッド",
   "plugins.translation_helper.structure.mansion": "森の館",
@@ -1082,7 +1082,7 @@
   "styles.cat_palm_stick.light_gray": "猫の手ステッキ（ライトグレー）",
   "styles.cat_palm_stick.white": "猫の手ステッキ（白）",
   "styles.deer_horn.black": "鹿の角（黒）",
-  "styles.deer_horn.blue": "鹿の角（青）"
+  "styles.deer_horn.blue": "鹿の角（青）",
   "styles.deer_horn.brown": "鹿の角（茶色）",
   "styles.deer_horn.cyan": "鹿の角（シアン）",
   "styles.deer_horn.gray": "鹿の角（灰色）",

@@ -97,7 +97,7 @@
   "commands.land.go_not_allowed": "Teleportation is not allowed in the current state",
   "commands.land.incorrect_group_index": "Incorrect group index '%s'",
   "commands.land.incorrect_material": "Incorrect material '%s'",
-  "commands.land.incorrect_page": "Incorrect land page number '%s'"
+  "commands.land.incorrect_page": "Incorrect land page number '%s'",
   "commands.land.incorrect_pos": "Incorrect coordinates '%s'",
   "commands.land.license_not_everyone": "Land permission type '%s' cannot be granted to everyone",
   "commands.land.maximum_size": "The number has reached the limit of %s, unable to purchase land '%s'",
@@ -179,7 +179,7 @@
   "commands.room.already_mode": "The mode of the room is already '%s'",
   "commands.room.already_queuing": "The room is already in the queue",
   "commands.room.can_not_myself": "Cannot be yourself",
-  "commands.room.cannot_type": "Unknown room operation type '%s'"
+  "commands.room.cannot_type": "Unknown room operation type '%s'",
   "commands.room.config.castle_warfare.cannot_type": "Unknown castle warfare configuration type '%s'",
   "commands.room.config.castle_warfare.color_capacity_fulled": "'%s' is full",
   "commands.room.config.castle_warfare.complete_land_selected": "Successfully set castle warfare to territory '%s'",
@@ -268,7 +268,7 @@
   "commands.special.invalid_category": "Unknown category '%s'",
   "commands.special.item.given": "Given item tag '%s'",
   "commands.special.item.invalid": "Unknown item tag '%s'",
-  "commands.tester.no_pass": "No monthly card purchased"
+  "commands.tester.no_pass": "No monthly card purchased",
   "enchantment.addons.action_sound.kizuna_akari": "Action Sound Kizuna Akari",
   "enchantment.addons.action_sound.kotonoha_akane": "Action Sound Kotonoha Akane",
   "enchantment.addons.action_sound.kotonoha_aoi": "Action Sound Kotonoha Aoi",
@@ -417,7 +417,7 @@
   "plugins.castle_warfare.homeowner_not_purchase_pass": "Homeowner has not purchased a monthly pass",
   "plugins.castle_warfare.inquiry_sure_invite_room": "Are you sure you want to invite '%s' to join the room?",
   "plugins.castle_warfare.inquiry_sure_transfer_homeowner": "Are you sure you want to transfer homeowner status to '%s'?",
-  "plugins.castle_warfare.invite_player": "Invite Player"
+  "plugins.castle_warfare.invite_player": "Invite Player",
   "plugins.castle_warfare.kick_of_room": "Kick out from room",
   "plugins.castle_warfare.no_select": "No selection",
   "plugins.castle_warfare.no_selected_land": "No land selected",
@@ -549,7 +549,7 @@
   "plugins.graphic_interface.distance.seconds": "%s seconds",
   "plugins.monster_wave.cooling_time_left": "Cooldown time left: %s",
   "plugins.monster_wave.difficulty_change": "Set monster wave difficulty to '%s'",
-  "plugins.monster_wave.leave": "Leave"
+  "plugins.monster_wave.leave": "Leave",
   "plugins.monster_wave.members_whose_cooling_not_over": "Members whose cooldown time is not yet over",
   "plugins.monster_wave.monster_wave": "Monster Wave",
   "plugins.monster_wave.monster_wave.lore.0": "Survive the fierce monster attacks and eliminate all enemies to earn rare enchanted books!",
@@ -621,7 +621,7 @@
   "plugins.paid_store.raffle_tick": "Raffle Wheel Spinning",
   "plugins.paid_store.season_over_your_reward": "Season %s is over, here is your reward for reaching %s!",
   "plugins.paid_store.season_reach_award": "Points Season %s reached reward %s",
-  "plugins.paid_store.secrecy": "Secrecy"
+  "plugins.paid_store.secrecy": "Secrecy",
   "plugins.paid_store.select_payment_method": "Select Payment Method",
   "plugins.paid_store.sure_exchange_prize": "Confirm Exchange Prize",
   "plugins.paid_store.sure_select_payment_method": "Confirm Selecting this Payment Method",
@@ -719,7 +719,7 @@
   "plugins.player_database.rank.king": "King Rank",
   "plugins.player_database.rank.master": "Master Rank",
   "plugins.player_database.receipt_time_is": "Received %s ago",
-  "plugins.player_database.received_new_mail": "Received new mail %s"
+  "plugins.player_database.received_new_mail": "Received new mail %s",
   "plugins.player_database.received_new_mail_from": "Received new mail from '%s' %s",
   "plugins.player_database.remove_friend": "Remove Friend",
   "plugins.player_database.remove_shield": "Remove Shield",
@@ -816,7 +816,7 @@
   "plugins.primary_menu.rule.lore.1": "Violators will be permanently banned",
   "plugins.primary_menu.select_this_mode": "Select This Mode",
   "plugins.primary_menu.selected_difficulty_is": "Selected Difficulty %s",
-  "plugins.primary_menu.selected_land_is": "Selected Land %s"
+  "plugins.primary_menu.selected_land_is": "Selected Land %s",
   "plugins.primary_menu.shield": "Shield",
   "plugins.primary_menu.shield.lore.0": "You will not receive messages from blocked players",
   "plugins.primary_menu.show_player_status": "Show Player Status",
@@ -913,7 +913,7 @@
   "plugins.territorial_director.config.mob_spawning.lore.0": "Does not include mob spawners / Vindicators",
   "plugins.territorial_director.config.safe_bound": "Safe Boundary",
   "plugins.territorial_director.config.safe_bound.lore.0": "Water / lava / pistons cannot enter from outside",
-  "plugins.territorial_director.config.trample_farmland": "Trample Farmland"
+  "plugins.territorial_director.config.trample_farmland": "Trample Farmland",
   "plugins.territorial_director.declare_time_is": "Declare time before %s",
   "plugins.territorial_director.edit_everyone_license": "Edit everyone's license",
   "plugins.territorial_director.edit_land_config": "Edit configuration of land group %s",
@@ -1010,7 +1010,7 @@
   "plugins.translation_helper.structure.trial_chambers": "Trial Chambers",
   "plugins.translation_helper.structure.village_desert": "Village",
   "plugins.translation_helper.structure.village_plains": "Village",
-  "plugins.translation_helper.structure.village_savanna": "Village"
+  "plugins.translation_helper.structure.village_savanna": "Village",
   "plugins.translation_helper.structure.village_snowy": "Village",
   "plugins.translation_helper.structure.village_taiga": "Village",
   "plugins.translation_helper.world_environment.custom": "Other",
@@ -1110,7 +1110,7 @@
   "styles.demon_corner.orange": "Demon Horns (Orange)",
   "styles.demon_corner.pink": "Demon Horns (Pink)",
   "styles.demon_corner.purple": "Demon Horns (Purple)",
-  "styles.demon_corner.red": "Demon Horns (Red)"
+  "styles.demon_corner.red": "Demon Horns (Red)",
   "styles.demon_corner.white": "Demon Horn (White)",
   "styles.demon_corner.yellow": "Demon Horn (Yellow)",
   "styles.rabbit_ear.black": "Rabbit Ear (Black)",
