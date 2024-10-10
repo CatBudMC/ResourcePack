@@ -205,7 +205,7 @@
     {"predicate": {"custom_model_data": 134}, "model": "item/menu/root/mode/castle_war_practice_big_1"},
     {"predicate": {"custom_model_data": 135}, "model": "item/menu/root/mode/castle_war_practice_big_2"},
     {"predicate": {"custom_model_data": 136}, "model": "item/menu/root/room/queuing"},
-    {"predicate": {"custom_model_data": 137}, "model": "item/menu/root/room/setup"},
+    {"predicate": {"custom_model_data": 137}, "model": "item/menu/root/room/setup_on"},
     {"predicate": {"custom_model_data": 138}, "model": "item/menu/root/room/stopping_off"},
     {"predicate": {"custom_model_data": 139}, "model": "item/menu/root/room/stopping_on"},
     {"predicate": {"custom_model_data": 140}, "model": "item/menu/root/beacon"},
@@ -347,6 +347,7 @@
     {"predicate": {"custom_model_data": 276}, "model": "item/menu/root/rule"},
     {"predicate": {"custom_model_data": 277}, "model": "item/menu/root/tester"},
     {"predicate": {"custom_model_data": 278}, "model": "item/menu/beacon/death"},
-    {"predicate": {"custom_model_data": 279}, "model": "item/menu/root/vault"}
+    {"predicate": {"custom_model_data": 279}, "model": "item/menu/root/vault"},
+    {"predicate": {"custom_model_data": 280}, "model": "item/menu/root/room/setup_off"}
   ]
 }

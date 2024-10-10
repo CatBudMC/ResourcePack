@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/menu/root/room/setup"
+    "layer0": "item/menu/root/room/setup_on"
   }
 }
