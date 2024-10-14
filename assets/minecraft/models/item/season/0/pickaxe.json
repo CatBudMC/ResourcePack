@@ -1,5 +1,5 @@
 {
-  "parent": "item/handheld",
+  "parent": "item/season/x64",
   "textures": {
     "layer0": "item/season/0/pickaxe"
   }
