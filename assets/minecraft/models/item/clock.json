@@ -348,6 +348,7 @@
     {"predicate": {"custom_model_data": 277}, "model": "item/menu/root/tester"},
     {"predicate": {"custom_model_data": 278}, "model": "item/menu/beacon/death"},
     {"predicate": {"custom_model_data": 279}, "model": "item/menu/root/vault"},
-    {"predicate": {"custom_model_data": 280}, "model": "item/menu/root/room/setup_off"}
+    {"predicate": {"custom_model_data": 280}, "model": "item/menu/root/room/setup_off"},
+    {"predicate": {"custom_model_data": 281}, "model": "item/menu/root/enchant"}
   ]
 }
