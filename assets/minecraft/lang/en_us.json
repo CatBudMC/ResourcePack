@@ -198,6 +198,7 @@
   "commands.room.config.castle_warfare.pos_outside_world": "Coordinate '%s' is outside the world boundaries",
   "commands.room.config.monster_wave.cannot_type": "Unknown monster wave configuration type '%s'",
   "commands.room.config.monster_wave.incorrect_difficulty_type": "Monster wave difficulty '%s' does not exist",
+  "commands.room.config.monster_wave.incorrect_script_key": "Monster wave script '%s' does not exist",
   "commands.room.config.monster_wave.miss_difficulty_arg": "Missing target difficulty parameter",
   "commands.room.current_capacity": "The room currently has a maximum capacity of %s people",
   "commands.room.current_count": "Currently there are %s / %s people in the room",

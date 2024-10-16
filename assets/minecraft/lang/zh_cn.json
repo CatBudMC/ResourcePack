@@ -198,6 +198,7 @@
   "commands.room.config.castle_warfare.pos_outside_world": "座标 '%s' 位于世界之外",
   "commands.room.config.monster_wave.cannot_type": "未知的怪物浪潮配置类型 '%s'",
   "commands.room.config.monster_wave.incorrect_difficulty_type": "怪物浪潮难度 '%s' 不存在",
+  "commands.room.config.monster_wave.incorrect_script_key": "怪物浪潮脚本 '%s' 不存在",
   "commands.room.config.monster_wave.miss_difficulty_arg": "缺少目标难度参数",
   "commands.room.current_capacity": "当前房间最大可容纳 %s 人",
   "commands.room.current_count": "当前房间内有 %s / %s 人",
