@@ -96,6 +96,13 @@
     {"type": "bitmap", "chars":["\u0095"], "file": "image/rule_description/page_4.png", "height": 100, "ascent": 10},
     {"type": "bitmap", "chars":["\u0096"], "file": "image/rule_description/page_5.png", "height": 100, "ascent": 10},
     {"type": "bitmap", "chars":["\u0097"], "file": "image/rule_description/page_6.png", "height": 100, "ascent": 10},
-    {"type": "bitmap", "chars":["\u0098"], "file": "image/rule_description/page_7.png", "height": 100, "ascent": 10}
+    {"type": "bitmap", "chars":["\u0098"], "file": "image/rule_description/page_7.png", "height": 100, "ascent": 10},
+    {"type": "bitmap", "chars":["\u0099"], "file": "image/discord_system/discord.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0100"], "file": "image/assistive_features/seed_map.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0101"], "file": "image/newbie_starter/page_0.png", "height": 100, "ascent": 10},
+    {"type": "bitmap", "chars":["\u0102"], "file": "image/newbie_starter/page_1.png", "height": 100, "ascent": 10},
+    {"type": "bitmap", "chars":["\u0103"], "file": "image/newbie_starter/page_2.png", "height": 100, "ascent": 10},
+    {"type": "bitmap", "chars":["\u0104"], "file": "image/newbie_starter/page_3.png", "height": 100, "ascent": 10},
+    {"type": "bitmap", "chars":["\u0105"], "file": "image/newbie_starter/page_4.png", "height": 100, "ascent": 10}
   ]
 }
