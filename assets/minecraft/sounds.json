@@ -790,6 +790,12 @@
       "action_sound/yuzuki_yukari/upgrade_success_1"
     ]
   },
+  "plugins.enchant_addons.recovery_break_item": {
+    "subtitle": "plugins.enchant_addons.recovery_break_item",
+    "sounds": [
+      "enchant_addons/recovery_break_item"
+    ]
+  },
   "plugins.paid_store.raffle_result": {
     "subtitle": "plugins.paid_store.raffle_result",
     "sounds": [
