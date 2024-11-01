@@ -1209,5 +1209,9 @@
   "styles.rabbit_ear.purple": "兔耳（紫色）",
   "styles.rabbit_ear.red": "兔耳（紅色）",
   "styles.rabbit_ear.white": "兔耳（白色）",
-  "styles.rabbit_ear.yellow": "兔耳（黃色）"
+  "styles.rabbit_ear.yellow": "兔耳（黃色）",
+  "styles.cat_costume.white.helmet": "貓咪頭套（白色）",
+  "styles.cat_costume.white.chest": "貓咪身套（白色）",
+  "styles.cat_costume.white.leggings": "貓咪腿套（白色）",
+  "styles.cat_costume.white.boots": "貓咪腳套（白色）"
 }
