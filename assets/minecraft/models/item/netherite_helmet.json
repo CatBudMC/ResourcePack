@@ -17,6 +17,7 @@
     {"predicate": {"custom_model_data": 1}, "model": "item/style/cat_costume/white/helmet"},
     {"predicate": {"custom_model_data": 2}, "model": "item/style/cat_costume/all_black/helmet"},
     {"predicate": {"custom_model_data": 3}, "model": "item/style/cat_costume/black/helmet"},
-    {"predicate": {"custom_model_data": 4}, "model": "item/style/cat_costume/british_shorthair/helmet"}
+    {"predicate": {"custom_model_data": 4}, "model": "item/style/cat_costume/british_shorthair/helmet"},
+    {"predicate": {"custom_model_data": 5}, "model": "item/style/cat_costume/calico/helmet"}
   ]
 }

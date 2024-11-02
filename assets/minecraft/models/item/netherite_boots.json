@@ -17,6 +17,7 @@
     {"predicate": {"custom_model_data": 1}, "model": "item/style/cat_costume/white/boots"},
     {"predicate": {"custom_model_data": 2}, "model": "item/style/cat_costume/all_black/boots"},
     {"predicate": {"custom_model_data": 3}, "model": "item/style/cat_costume/black/boots"},
-    {"predicate": {"custom_model_data": 4}, "model": "item/style/cat_costume/british_shorthair/boots"}
+    {"predicate": {"custom_model_data": 4}, "model": "item/style/cat_costume/british_shorthair/boots"},
+    {"predicate": {"custom_model_data": 5}, "model": "item/style/cat_costume/calico/boots"}
   ]
 }
