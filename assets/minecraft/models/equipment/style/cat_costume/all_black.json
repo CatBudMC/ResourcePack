@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "humanoid": [
+      {"texture": "style/cat_costume/all_black"}
+    ],
+    "humanoid_leggings": [
+      {"texture": "style/cat_costume/all_black"}
+    ]
+  }
+}

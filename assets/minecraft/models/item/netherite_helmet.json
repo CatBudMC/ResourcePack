@@ -14,6 +14,9 @@
     {"model": "item/netherite_helmet_diamond_trim", "predicate": {"trim_type": 0.8}},
     {"model": "item/netherite_helmet_lapis_trim", "predicate": {"trim_type": 0.9}},
     {"model": "item/netherite_helmet_amethyst_trim", "predicate": {"trim_type": 1.0}},
-    {"predicate": {"custom_model_data": 1}, "model": "item/style/cat_costume/white/helmet"}
+    {"predicate": {"custom_model_data": 1}, "model": "item/style/cat_costume/white/helmet"},
+    {"predicate": {"custom_model_data": 2}, "model": "item/style/cat_costume/all_black/helmet"},
+    {"predicate": {"custom_model_data": 3}, "model": "item/style/cat_costume/black/helmet"},
+    {"predicate": {"custom_model_data": 4}, "model": "item/style/cat_costume/british_shorthair/helmet"}
   ]
 }

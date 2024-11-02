@@ -1213,5 +1213,17 @@
   "styles.cat_costume.white.helmet": "貓咪頭套（白色）",
   "styles.cat_costume.white.chest": "貓咪身套（白色）",
   "styles.cat_costume.white.leggings": "貓咪腿套（白色）",
-  "styles.cat_costume.white.boots": "貓咪腳套（白色）"
+  "styles.cat_costume.white.boots": "貓咪腳套（白色）",
+  "styles.cat_costume.all_black.helmet": "貓咪頭套（黑貓）",
+  "styles.cat_costume.all_black.chest": "貓咪身套（黑貓）",
+  "styles.cat_costume.all_black.leggings": "貓咪腿套（黑貓）",
+  "styles.cat_costume.all_black.boots": "貓咪腳套（黑貓）",
+  "styles.cat_costume.black.helmet": "貓咪頭套（西服貓）",
+  "styles.cat_costume.black.chest": "貓咪身套（西服貓）",
+  "styles.cat_costume.black.leggings": "貓咪腿套（西服貓）",
+  "styles.cat_costume.black.boots": "貓咪腳套（西服貓）",
+  "styles.cat_costume.british_shorthair.helmet": "貓咪頭套（英國短毛貓）",
+  "styles.cat_costume.british_shorthair.chest": "貓咪身套（英國短毛貓）",
+  "styles.cat_costume.british_shorthair.leggings": "貓咪腿套（英國短毛貓）",
+  "styles.cat_costume.british_shorthair.boots": "貓咪腳套（英國短毛貓）"
 }
