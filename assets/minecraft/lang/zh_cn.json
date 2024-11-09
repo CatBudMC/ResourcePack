@@ -694,6 +694,7 @@
   "plugins.paid_store.then_get_guaranteed": "再 %s 抽获得一张保底卷",
   "plugins.paid_store.time_ago_with": "%s 之前",
   "plugins.paid_store.view_purchase_history": "阅览购买纪录",
+  "plugins.personal_vault.enter_command_leave_vault": "输入 /vault 离开藏馆",
   "plugins.personal_vault.increase_range": "扩增范围",
   "plugins.personal_vault.increase_vault_range": "扩增藏馆范围",
   "plugins.personal_vault.limit_range_reached": "已达极限范围",
