@@ -349,6 +349,13 @@
     {"predicate": {"custom_model_data": 278}, "model": "item/menu/beacon/death"},
     {"predicate": {"custom_model_data": 279}, "model": "item/menu/root/vault"},
     {"predicate": {"custom_model_data": 280}, "model": "item/menu/root/room/setup_off"},
-    {"predicate": {"custom_model_data": 281}, "model": "item/menu/root/enchant"}
+    {"predicate": {"custom_model_data": 281}, "model": "item/menu/root/enchant"},
+
+
+    {"predicate": {"custom_model_data": 282}, "model": "item/menu/root/mode/ark_survival_small_0"},
+    {"predicate": {"custom_model_data": 283}, "model": "item/menu/root/mode/ark_survival_small_1"},
+    {"predicate": {"custom_model_data": 284}, "model": "item/menu/root/mode/ark_survival_big_0"},
+    {"predicate": {"custom_model_data": 285}, "model": "item/menu/root/mode/ark_survival_big_1"},
+    {"predicate": {"custom_model_data": 286}, "model": "item/menu/root/mode/ark_survival_big_2"}
   ]
 }
