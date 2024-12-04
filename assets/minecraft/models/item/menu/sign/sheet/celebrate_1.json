@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/menu/sign/sheet/early_0"
+    "layer0": "item/menu/sign/sheet/celebrate_1"
   },
   "display": {
     "gui": {
