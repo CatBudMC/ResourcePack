@@ -1,6 +1,10 @@
 {
   "model": {
-    "type": "model",
-    "model": "item/menu/skull/top"
+    "type": "special",
+    "base": "item/menu/skull/top",
+    "model": {
+      "type": "head",
+      "kind": "player"
+    }
   }
 }

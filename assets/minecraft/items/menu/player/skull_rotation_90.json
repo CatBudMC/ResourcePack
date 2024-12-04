@@ -1,6 +1,10 @@
 {
   "model": {
-    "type": "model",
-    "model": "item/menu/player/skull_rotation_90"
+    "type": "special",
+    "base": "item/menu/player/skull_rotation_90",
+    "model": {
+      "type": "head",
+      "kind": "player"
+    }
   }
 }
