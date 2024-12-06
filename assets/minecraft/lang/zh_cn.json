@@ -741,6 +741,7 @@
   "plugins.paid_store.select_payment_method": "选择付款方式",
   "plugins.paid_store.sure_exchange_prize": "确定交换奖品",
   "plugins.paid_store.sure_select_payment_method": "确定选择此付款方式",
+  "plugins.paid_store.tebex_store": "Tebex 商店",
   "plugins.paid_store.thanks_purchasing_coins": "感谢购买 %s 游戏币",
   "plugins.paid_store.then_get_guaranteed": "再 %s 抽获得一张保底卷",
   "plugins.paid_store.time_ago_with": "%s 之前",

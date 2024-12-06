@@ -741,6 +741,7 @@
   "plugins.paid_store.select_payment_method": "Pilih Kaedah Pembayaran",
   "plugins.paid_store.sure_exchange_prize": "Pasti mahu menukar hadiah",
   "plugins.paid_store.sure_select_payment_method": "Pasti mahu pilih kaedah pembayaran ini",
+  "plugins.paid_store.tebex_store": "Kedai Tebex",
   "plugins.paid_store.thanks_purchasing_coins": "Terima kasih kerana membeli %s mata wang permainan",
   "plugins.paid_store.then_get_guaranteed": "Dapatkan satu jaminan selepas %s cabutan lagi",
   "plugins.paid_store.time_ago_with": "%s yang lalu",

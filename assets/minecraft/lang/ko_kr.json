@@ -741,6 +741,7 @@
   "plugins.paid_store.select_payment_method": "결제 방법 선택",
   "plugins.paid_store.sure_exchange_prize": "상품 교환 확인",
   "plugins.paid_store.sure_select_payment_method": "이 결제 방법을 선택 확인",
+  "plugins.paid_store.tebex_store": "Tebex 상점",
   "plugins.paid_store.thanks_purchasing_coins": "%s 게임 화폐 구매에 감사드립니다",
   "plugins.paid_store.then_get_guaranteed": "추가 %s 번 뽑기에 보증권 한 장 획득",
   "plugins.paid_store.time_ago_with": "%s 전",

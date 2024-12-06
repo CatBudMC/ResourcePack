@@ -741,6 +741,7 @@
   "plugins.paid_store.select_payment_method": "Select payment method",
   "plugins.paid_store.sure_exchange_prize": "Confirm exchange prize",
   "plugins.paid_store.sure_select_payment_method": "Confirm selection of this payment method",
+  "plugins.paid_store.tebex_store": "Tebex Store",
   "plugins.paid_store.thanks_purchasing_coins": "Thanks for purchasing %s coins",
   "plugins.paid_store.then_get_guaranteed": "%s draws until a guaranteed voucher",
   "plugins.paid_store.time_ago_with": "%s ago",

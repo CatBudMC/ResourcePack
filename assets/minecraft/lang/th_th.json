@@ -741,6 +741,7 @@
   "plugins.paid_store.select_payment_method": "เลือกวิธีการชำระเงิน",
   "plugins.paid_store.sure_exchange_prize": "ยืนยันการแลกรางวัล",
   "plugins.paid_store.sure_select_payment_method": "ยืนยันการเลือกวิธีชำระเงินนี้",
+  "plugins.paid_store.tebex_store": "ร้านค้า Tebex",
   "plugins.paid_store.thanks_purchasing_coins": "ขอบคุณที่ซื้อ %s เหรียญในเกม",
   "plugins.paid_store.then_get_guaranteed": "อีก %s ครั้งจะได้รับการันตี",
   "plugins.paid_store.time_ago_with": "%s ที่ผ่านมา",

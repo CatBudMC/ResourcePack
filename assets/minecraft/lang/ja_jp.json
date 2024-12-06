@@ -741,6 +741,7 @@
   "plugins.paid_store.select_payment_method": "支払い方法を選択",
   "plugins.paid_store.sure_exchange_prize": "賞品交換を確定",
   "plugins.paid_store.sure_select_payment_method": "この支払い方法を選択して確定",
+  "plugins.paid_store.tebex_store": "Tebex ストア",
   "plugins.paid_store.thanks_purchasing_coins": "%s ゲームコインの購入ありがとうございます",
   "plugins.paid_store.then_get_guaranteed": "あと %s 回で保証チケットが1枚もらえます",
   "plugins.paid_store.time_ago_with": "%s 前",
