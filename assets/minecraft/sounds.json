@@ -796,6 +796,66 @@
       "enchant_addons/recovery_break_item"
     ]
   },
+  "plugins.magic_tower.pianos.c2_25": {
+    "sounds": [
+      "magic_tower/pianos/c2_25"
+    ]
+  },
+  "plugins.magic_tower.pianos.c2_50": {
+    "sounds": [
+      "magic_tower/pianos/c2_50"
+    ]
+  },
+  "plugins.magic_tower.pianos.c2_100": {
+    "sounds": [
+      "magic_tower/pianos/c2_100"
+    ]
+  },
+  "plugins.magic_tower.pianos.c4_25": {
+    "sounds": [
+      "magic_tower/pianos/c4_25"
+    ]
+  },
+  "plugins.magic_tower.pianos.c4_50": {
+    "sounds": [
+      "magic_tower/pianos/c4_50"
+    ]
+  },
+  "plugins.magic_tower.pianos.c4_100": {
+    "sounds": [
+      "magic_tower/pianos/c4_100"
+    ]
+  },
+  "plugins.magic_tower.pianos.c6_25": {
+    "sounds": [
+      "magic_tower/pianos/c6_25"
+    ]
+  },
+  "plugins.magic_tower.pianos.c6_50": {
+    "sounds": [
+      "magic_tower/pianos/c6_50"
+    ]
+  },
+  "plugins.magic_tower.pianos.c6_100": {
+    "sounds": [
+      "magic_tower/pianos/c6_100"
+    ]
+  },
+  "plugins.magic_tower.pianos.c8_25": {
+    "sounds": [
+      "magic_tower/pianos/c8_25"
+    ]
+  },
+  "plugins.magic_tower.pianos.c8_50": {
+    "sounds": [
+      "magic_tower/pianos/c8_50"
+    ]
+  },
+  "plugins.magic_tower.pianos.c8_100": {
+    "sounds": [
+      "magic_tower/pianos/c8_100"
+    ]
+  },
   "plugins.paid_store.raffle_result": {
     "subtitle": "plugins.paid_store.raffle_result",
     "sounds": [
