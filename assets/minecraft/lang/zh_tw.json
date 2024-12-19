@@ -659,6 +659,7 @@
   "plugins.graphic_interface.distance.minutes": "%s 分",
   "plugins.graphic_interface.distance.minutes_seconds": "%s 分 %s 秒",
   "plugins.graphic_interface.distance.seconds": "%s 秒",
+  "plugins.magic_tower.magic_tower": "魔幻之塔",
   "plugins.monster_wave.cooling_time_left": "冷卻時間還剩 %s",
   "plugins.monster_wave.difficulty_change": "已將怪物浪潮難度設置為 '%s'",
   "plugins.monster_wave.leave": "離開",
@@ -719,7 +720,9 @@
   "plugins.paid_store.last_season": "上個賽季",
   "plugins.paid_store.new_taiwan_dollar": "新台幣",
   "plugins.paid_store.next_season": "下個賽季",
+  "plugins.paid_store.not_limited_region": "不受地區限制",
   "plugins.paid_store.occurrence_rate_is": "出現機率 %s",
+  "plugins.paid_store.open_url": "打開網址",
   "plugins.paid_store.other_purchase_method": "更多付款方式",
   "plugins.paid_store.pass_effective": "月卡效果",
   "plugins.paid_store.pass_purchase_description.0": "購買月卡！",
@@ -745,6 +748,7 @@
   "plugins.paid_store.select_payment_method": "選擇付款方式",
   "plugins.paid_store.sure_exchange_prize": "確定交換獎品",
   "plugins.paid_store.sure_select_payment_method": "確定選擇此付款方式",
+  "plugins.paid_store.taiwan_region_only": "台灣地區限定",
   "plugins.paid_store.tebex_store": "Tebex 商店",
   "plugins.paid_store.thanks_purchasing_coins": "感謝購買 %s 遊戲幣",
   "plugins.paid_store.then_get_guaranteed": "再 %s 抽獲得一張保底卷",
@@ -1292,6 +1296,5 @@
   "styles.rabbit_ear.purple": "兔耳（紫色）",
   "styles.rabbit_ear.red": "兔耳（紅色）",
   "styles.rabbit_ear.white": "兔耳（白色）",
-  "styles.rabbit_ear.yellow": "兔耳（黃色）",
-  "plugins.magic_tower.magic_tower": "魔幻之塔"
+  "styles.rabbit_ear.yellow": "兔耳（黃色）"
 }
