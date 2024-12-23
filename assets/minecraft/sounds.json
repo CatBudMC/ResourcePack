@@ -796,6 +796,19 @@
       "enchant_addons/recovery_break_item"
     ]
   },
+  "plugins.magic_tower.climbing_layer": {
+    "subtitle": "plugins.magic_tower.climbing_layer",
+    "sounds": [
+      "magic_tower/climbing_layer_0",
+      "magic_tower/climbing_layer_1",
+      "magic_tower/climbing_layer_2"
+    ]
+  },
+  "plugins.magic_tower.pianos.c2_100": {
+    "sounds": [
+      "magic_tower/pianos/c2_100"
+    ]
+  },
   "plugins.magic_tower.pianos.c2_25": {
     "sounds": [
       "magic_tower/pianos/c2_25"
@@ -806,9 +819,9 @@
       "magic_tower/pianos/c2_50"
     ]
   },
-  "plugins.magic_tower.pianos.c2_100": {
+  "plugins.magic_tower.pianos.c4_100": {
     "sounds": [
-      "magic_tower/pianos/c2_100"
+      "magic_tower/pianos/c4_100"
     ]
   },
   "plugins.magic_tower.pianos.c4_25": {
@@ -821,9 +834,9 @@
       "magic_tower/pianos/c4_50"
     ]
   },
-  "plugins.magic_tower.pianos.c4_100": {
+  "plugins.magic_tower.pianos.c6_100": {
     "sounds": [
-      "magic_tower/pianos/c4_100"
+      "magic_tower/pianos/c6_100"
     ]
   },
   "plugins.magic_tower.pianos.c6_25": {
@@ -836,9 +849,9 @@
       "magic_tower/pianos/c6_50"
     ]
   },
-  "plugins.magic_tower.pianos.c6_100": {
+  "plugins.magic_tower.pianos.c8_100": {
     "sounds": [
-      "magic_tower/pianos/c6_100"
+      "magic_tower/pianos/c8_100"
     ]
   },
   "plugins.magic_tower.pianos.c8_25": {
@@ -849,11 +862,6 @@
   "plugins.magic_tower.pianos.c8_50": {
     "sounds": [
       "magic_tower/pianos/c8_50"
-    ]
-  },
-  "plugins.magic_tower.pianos.c8_100": {
-    "sounds": [
-      "magic_tower/pianos/c8_100"
     ]
   },
   "plugins.paid_store.raffle_result": {
@@ -908,14 +916,6 @@
     "subtitle": "plugins.venue_manager.room_ready",
     "sounds": [
       "room_ready"
-    ]
-  },
-  "plugins.magic_tower.climbing_layer": {
-    "subtitle": "plugins.magic_tower.climbing_layer",
-    "sounds": [
-      "magic_tower/climbing_layer_0",
-      "magic_tower/climbing_layer_1",
-      "magic_tower/climbing_layer_2"
     ]
   }
 }
