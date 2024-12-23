@@ -909,5 +909,13 @@
     "sounds": [
       "room_ready"
     ]
+  },
+  "plugins.magic_tower.climbing_layer": {
+    "subtitle": "plugins.magic_tower.climbing_layer",
+    "sounds": [
+      "magic_tower/climbing_layer_0",
+      "magic_tower/climbing_layer_1",
+      "magic_tower/climbing_layer_2"
+    ]
   }
 }
