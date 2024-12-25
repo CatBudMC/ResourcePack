@@ -395,7 +395,7 @@
   "plugins.action_recorder.search_result_last_page": "검색 결과 이전 페이지",
   "plugins.action_recorder.search_result_next_page": "검색 결과 다음 페이지",
   "plugins.ark_survival.ark_survival": "아크 서바이벌",
-  "plugins.ark_survival.ark_survival.lore.0": "작은 세계에서 생존을 다시 시작하고, 다이아몬드 세트를 들고 네더 포탈에 들어가면 클리어!",
+  "plugins.ark_survival.ark_survival.lore.0": "작은 세계에서 생존을 다시 시작하고, 다이아몬드 64개를 가지고 네더 포탈에 들어가면 클리어!",
   "plugins.ark_survival.ark_survival.lore.1": "준비 시 많은 청크 생성이 필요합니다.",
   "plugins.ark_survival.ark_survival.lore.2": "종료 후 모든 데이터를 참가 전 상태로 복구합니다.",
   "plugins.ark_survival.ark_survival.lore.3": "사망 시 가방의 모든 아이템이 떨어집니다.",

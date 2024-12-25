@@ -395,7 +395,7 @@
   "plugins.action_recorder.search_result_last_page": "Search Result Previous Page",
   "plugins.action_recorder.search_result_next_page": "Search Result Next Page",
   "plugins.ark_survival.ark_survival": "Ark Survival",
-  "plugins.ark_survival.ark_survival.lore.0": "Restart survival in a small world, complete the challenge by entering the Nether portal with a set of diamonds!",
+  "plugins.ark_survival.ark_survival.lore.0": "Restart survival in a small world. Enter the Nether portal with 64 diamonds to win!",
   "plugins.ark_survival.ark_survival.lore.1": "Prepare to wait for many chunks to generate",
   "plugins.ark_survival.ark_survival.lore.2": "All data will be restored to its state before participation upon completion",
   "plugins.ark_survival.ark_survival.lore.3": "All items in the inventory will drop upon death",

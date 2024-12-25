@@ -395,7 +395,7 @@
   "plugins.action_recorder.search_result_last_page": "検索結果前のページ",
   "plugins.action_recorder.search_result_next_page": "検索結果次のページ",
   "plugins.ark_survival.ark_survival": "アーク生存",
-  "plugins.ark_survival.ark_survival.lore.0": "小さな世界で生存を再スタートし、ダイヤモンドセットを持ってネザーポータルに入ればクリア！",
+  "plugins.ark_survival.ark_survival.lore.0": "小さな世界で生き残りを再スタートし、ダイヤモンド64個を持ってネザーポータルに入ればクリア！",
   "plugins.ark_survival.ark_survival.lore.1": "準備中、大量のチャンク生成を待つ必要があります",
   "plugins.ark_survival.ark_survival.lore.2": "終了後、すべてのデータは参加前の状態にリセットされます",
   "plugins.ark_survival.ark_survival.lore.3": "死亡時にインベントリの全アイテムがドロップします",
