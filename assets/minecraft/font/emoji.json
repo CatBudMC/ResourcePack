@@ -102,6 +102,7 @@
     {"type": "bitmap", "chars":["\u0101"], "file": "emoji/symbol/warning.png", "height": 7, "ascent": 6},
     {"type": "bitmap", "chars":["\u0102"], "file": "emoji/symbol/shutdown.png", "height": 7, "ascent": 6},
     {"type": "bitmap", "chars":["\u0103"], "file": "emoji/symbol/keyboard_q_ctrl.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars":["\u0104"], "file": "emoji/mob/creaking.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars":["\u0104"], "file": "emoji/mob/creaking.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0105"], "file": "emoji/symbol/rank.png", "height": 8, "ascent": 7}
   ]
 }

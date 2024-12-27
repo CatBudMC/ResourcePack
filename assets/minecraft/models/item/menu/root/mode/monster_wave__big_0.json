@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/menu/root/mode/monster_wave__big_0"
+  },
+  "display": {
+    "gui": {
+      "translation": [19, -9, 0],
+      "scale":[3.375, 2.125, 1.0]
+    }
+  }
+}
