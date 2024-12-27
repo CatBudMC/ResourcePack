@@ -908,7 +908,7 @@
   "plugins.primary_menu.edit_room_config": "部屋の設定を編集",
   "plugins.primary_menu.enchant": "エンチャント",
   "plugins.primary_menu.enchant.lore.0": "すべての特別なエンチャントの機能を確認",
-  "plugins.primary_menu.end_days_left": "終了まで残り %s 日",
+  "plugins.primary_menu.end_left": "終了まで残り: %s",
   "plugins.primary_menu.enter_open_menu_by": "コマンド %s または %s を入力してメニューを開く",
   "plugins.primary_menu.enter_or_exit_test": "テストに入る／退出する",
   "plugins.primary_menu.enter_or_exit_vault": "金庫に入る／退出する",

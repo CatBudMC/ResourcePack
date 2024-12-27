@@ -908,7 +908,7 @@
   "plugins.primary_menu.edit_room_config": "编辑房间配置",
   "plugins.primary_menu.enchant": "附魔",
   "plugins.primary_menu.enchant.lore.0": "查看所有特殊附魔的功能",
-  "plugins.primary_menu.end_days_left": "距离结束还剩 %s 天",
+  "plugins.primary_menu.end_left": "距离结束还剩 %s",
   "plugins.primary_menu.enter_open_menu_by": "输入指令 %s 或 %s 来开启选单",
   "plugins.primary_menu.enter_or_exit_test": "进入／离开测试",
   "plugins.primary_menu.enter_or_exit_vault": "进入／离开藏馆",

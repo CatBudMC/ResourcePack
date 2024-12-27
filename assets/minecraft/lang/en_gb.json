@@ -908,7 +908,7 @@
   "plugins.primary_menu.edit_room_config": "Edit Room Configuration",
   "plugins.primary_menu.enchant": "Enchant",
   "plugins.primary_menu.enchant.lore.0": "View the abilities of all special enchantments",
-  "plugins.primary_menu.end_days_left": "%s Days Left until End",
+  "plugins.primary_menu.end_left": "Time remaining: %s",
   "plugins.primary_menu.enter_open_menu_by": "Use command %s or %s to open the menu",
   "plugins.primary_menu.enter_or_exit_test": "Enter / Exit Test",
   "plugins.primary_menu.enter_or_exit_vault": "Enter / Exit Vault",

@@ -908,7 +908,7 @@
   "plugins.primary_menu.edit_room_config": "Edit konfigurasi bilik",
   "plugins.primary_menu.enchant": "Pemantraan",
   "plugins.primary_menu.enchant.lore.0": "Lihat semua fungsi pemantraan khas",
-  "plugins.primary_menu.end_days_left": "%s hari lagi sebelum tamat",
+  "plugins.primary_menu.end_left": "Masa yang tinggal: %s",
   "plugins.primary_menu.enter_open_menu_by": "Masukkan arahan %s atau %s untuk buka menu",
   "plugins.primary_menu.enter_or_exit_test": "Masuk / Keluar ujian",
   "plugins.primary_menu.enter_or_exit_vault": "Masuk / Keluar gedung",

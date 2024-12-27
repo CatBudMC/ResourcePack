@@ -908,7 +908,7 @@
   "plugins.primary_menu.edit_room_config": "แก้ไขการตั้งค่าห้อง",
   "plugins.primary_menu.enchant": "เสริมเวทมนตร์",
   "plugins.primary_menu.enchant.lore.0": "ดูความสามารถทั้งหมดของการเสริมเวทมนตร์พิเศษ",
-  "plugins.primary_menu.end_days_left": "เหลือ %s วันก่อนสิ้นสุด",
+  "plugins.primary_menu.end_left": "เวลาที่เหลือ: %s",
   "plugins.primary_menu.enter_open_menu_by": "ใช้คำสั่ง %s หรือ %s เพื่อเปิดเมนู",
   "plugins.primary_menu.enter_or_exit_test": "เข้า/ออกการทดสอบ",
   "plugins.primary_menu.enter_or_exit_vault": "เข้า/ออกคลังสมบัติ",

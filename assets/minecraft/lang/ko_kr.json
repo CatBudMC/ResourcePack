@@ -908,7 +908,7 @@
   "plugins.primary_menu.edit_room_config": "방 설정 편집",
   "plugins.primary_menu.enchant": "인챈트",
   "plugins.primary_menu.enchant.lore.0": "모든 특별 인챈트 기능 보기",
-  "plugins.primary_menu.end_days_left": "종료까지 %s 일 남음",
+  "plugins.primary_menu.end_left": "종료까지 남은 시간: %s",
   "plugins.primary_menu.enter_open_menu_by": "%s 또는 %s 명령어로 메뉴 열기",
   "plugins.primary_menu.enter_or_exit_test": "테스트 입장/퇴장",
   "plugins.primary_menu.enter_or_exit_vault": "금고 입장/퇴장",
