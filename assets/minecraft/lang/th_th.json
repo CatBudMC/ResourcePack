@@ -802,7 +802,7 @@
   "plugins.player_database.edit_receiver": "แก้ไขผู้รับ",
   "plugins.player_database.edit_send_amount": "แก้ไขจำนวนเงินที่ต้องการส่ง",
   "plugins.player_database.edit_title": "แก้ไขหัวเรื่อง",
-  "plugins.player_database.end_days_left": "เหลืออีก %s วันจนกว่าจะสิ้นสุด",
+  "plugins.player_database.end_left": "เวลาที่เหลือ: %s",
   "plugins.player_database.end_track_friend": "สิ้นสุดการติดตามเพื่อน",
   "plugins.player_database.executable_command": "คำสั่งที่สามารถใช้ได้",
   "plugins.player_database.execute_command": "ดำเนินการคำสั่ง",

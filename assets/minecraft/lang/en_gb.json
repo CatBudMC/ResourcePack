@@ -802,7 +802,7 @@
   "plugins.player_database.edit_receiver": "Edit Recipient",
   "plugins.player_database.edit_send_amount": "Edit Send Amount",
   "plugins.player_database.edit_title": "Edit Title",
-  "plugins.player_database.end_days_left": "%s days left until end",
+  "plugins.player_database.end_left": "Time remaining: %s",
   "plugins.player_database.end_track_friend": "Stop Tracking Friend",
   "plugins.player_database.executable_command": "Executable Command",
   "plugins.player_database.execute_command": "Execute Command",

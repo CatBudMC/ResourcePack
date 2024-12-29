@@ -802,7 +802,7 @@
   "plugins.player_database.edit_receiver": "수신자 편집",
   "plugins.player_database.edit_send_amount": "발송 금액 편집",
   "plugins.player_database.edit_title": "제목 편집",
-  "plugins.player_database.end_days_left": "종료까지 %s 일 남음",
+  "plugins.player_database.end_left": "종료까지 남은 시간: %s",
   "plugins.player_database.end_track_friend": "친구 추적 종료",
   "plugins.player_database.executable_command": "실행 가능한 명령어",
   "plugins.player_database.execute_command": "명령어 실행",

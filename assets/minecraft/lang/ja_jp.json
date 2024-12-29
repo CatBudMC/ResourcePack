@@ -802,7 +802,7 @@
   "plugins.player_database.edit_receiver": "受取人を編集",
   "plugins.player_database.edit_send_amount": "送信額を編集",
   "plugins.player_database.edit_title": "件名を編集",
-  "plugins.player_database.end_days_left": "終了まで残り %s 日",
+  "plugins.player_database.end_left": "終了まで残り: %s",
   "plugins.player_database.end_track_friend": "友達の追跡を終了",
   "plugins.player_database.executable_command": "実行可能コマンド",
   "plugins.player_database.execute_command": "コマンドを実行",

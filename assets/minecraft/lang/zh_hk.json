@@ -802,7 +802,7 @@
   "plugins.player_database.edit_receiver": "編輯收件人",
   "plugins.player_database.edit_send_amount": "編輯要發送的金額",
   "plugins.player_database.edit_title": "編輯標題",
-  "plugins.player_database.end_days_left": "距離結束還剩 %s 天",
+  "plugins.player_database.end_left": "距離結束還剩 %s",
   "plugins.player_database.end_track_friend": "結束追蹤朋友",
   "plugins.player_database.executable_command": "可執行指令",
   "plugins.player_database.execute_command": "執行指令",

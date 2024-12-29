@@ -802,7 +802,7 @@
   "plugins.player_database.edit_receiver": "Edit Penerima",
   "plugins.player_database.edit_send_amount": "Edit Jumlah untuk Dihantar",
   "plugins.player_database.edit_title": "Edit Tajuk",
-  "plugins.player_database.end_days_left": "%s hari lagi sebelum tamat",
+  "plugins.player_database.end_left": "Masa yang tinggal: %s",
   "plugins.player_database.end_track_friend": "Tamatkan Jejak Kawan",
   "plugins.player_database.executable_command": "Arahan Boleh Dijalankan",
   "plugins.player_database.execute_command": "Laksanakan Arahan",
