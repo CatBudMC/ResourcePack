@@ -135,6 +135,7 @@
   "commands.land.successful_modify_icon": "영토 '%s'의 표시 아이콘을 '%s'으로 성공적으로 변경했습니다",
   "commands.land.successful_modify_note": "영토 '%s'의 표시 메모를 '%s'으로 성공적으로 변경했습니다",
   "commands.land.track_quantity_limit": "최대 %s개의 영토 위치만 동시에 추적할 수 있습니다",
+  "commands.log.current_world_unavailable": "현재 월드를 사용할 수 없습니다",
   "commands.log.range_exceeds_limit": "범위 '%s'이(가) 제한을 초과합니다",
   "commands.log.search_radius": "검색 반경",
   "commands.mail.been_deleted": "메일이 삭제되었습니다",

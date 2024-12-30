@@ -135,6 +135,7 @@
   "commands.land.successful_modify_icon": "Successfully changed the icon of land '%s' to '%s'",
   "commands.land.successful_modify_note": "Successfully modified the note of land '%s' to '%s'",
   "commands.land.track_quantity_limit": "You can only track up to %s lands simultaneously",
+  "commands.log.current_world_unavailable": "The current world is unavailable",
   "commands.log.range_exceeds_limit": "Range '%s' exceeds the limit",
   "commands.log.search_radius": "Search radius",
   "commands.mail.been_deleted": "Mail has been deleted",
