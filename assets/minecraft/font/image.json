@@ -106,6 +106,7 @@
     {"type": "bitmap", "chars":["\u0105"], "file": "image/newbie_starter/page_3.png", "height": 100, "ascent": 10},
     {"type": "bitmap", "chars":["\u0106"], "file": "image/monster_wave/exit.png", "height": 11, "ascent": 8},
     {"type": "bitmap", "chars":["\u0107"], "file": "image/translation_helper/translate_line.png", "height": 16, "ascent": 12},
-    {"type": "bitmap", "chars":["\u0108"], "file": "image/chat_manager/translate.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars":["\u0108"], "file": "image/chat_manager/translate.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars":["\u0109"], "file": "image/player_database/server_banned.png", "height": 8, "ascent": 7}
   ]
 }

@@ -6,27 +6,27 @@
         "threshold": 0.25,
         "model": {
           "type": "model",
-          "model": "item/season/4/brush__brushing_0"
+          "model": "item/style/tinned_cat_food/white__brushing_0"
         }
       },
       {
         "threshold": 0.5,
         "model": {
           "type": "model",
-          "model": "item/season/4/brush__brushing_1"
+          "model": "item/style/tinned_cat_food/white__brushing_1"
         }
       },
       {
         "threshold": 0.75,
         "model": {
           "type": "model",
-          "model": "item/season/4/brush__brushing_2"
+          "model": "item/style/tinned_cat_food/white__brushing_2"
         }
       }
     ],
     "fallback": {
       "type": "model",
-      "model": "item/season/4/brush__brushing_1"
+      "model": "item/style/tinned_cat_food/white__brushing_1"
     },
     "period": 10.0,
     "property": "use_cycle",
