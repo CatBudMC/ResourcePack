@@ -714,7 +714,7 @@
   "plugins.newbie_starter.description_page.1": "Gelombang raksasa semakin sukar",
   "plugins.newbie_starter.description_page.2": "Boss menjatuhkan buku sihir jarang",
   "plugins.newbie_starter.description_page.3": "Mencapai Raja untuk mendapatkan reka bentuk eksklusif",
-  "plugins.newbie_starter.enter_command_accept_initial": "Masukkan arahan /newbie untuk mengesahkan pilihan kawasan ini sebagai kawasan permulaan... %s sebelum mencari lokasi lain",
+  "plugins.newbie_starter.enter_command_accept_initial": "Masukkan /newbie untuk pilih tempat ini sebagai lokasi mula... %s untuk cari semula.",
   "plugins.newbie_starter.newbie_initialization": "Inisialisasi Pemula",
   "plugins.newbie_starter.searching_another_location": "Sedang mencari lokasi lain yang tersedia... %s",
   "plugins.paid_store.7_11_ibon_payment_code": "Kod Pembayaran Ibon",

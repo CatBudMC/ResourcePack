@@ -714,7 +714,7 @@
   "plugins.newbie_starter.description_page.1": "점점 더 강한 몬스터 웨이브 난이도 추가",
   "plugins.newbie_starter.description_page.2": "보스 처치 시 희귀 인챈트 책 드롭",
   "plugins.newbie_starter.description_page.3": "왕자에 도달하여 한정 스킨 획득",
-  "plugins.newbie_starter.enter_command_accept_initial": "명령어 /newbie 를 입력하여 초기 장소로 선택을 확인하세요... %s 후 다른 위치를 검색",
+  "plugins.newbie_starter.enter_command_accept_initial": "/newbie 입력하여 시작 위치로 설정... %s 후 다른 위치 검색.",
   "plugins.newbie_starter.newbie_initialization": "초보자 초기화",
   "plugins.newbie_starter.searching_another_location": "다른 사용 가능한 위치를 검색 중... %s",
   "plugins.paid_store.7_11_ibon_payment_code": "Ibon 결제 코드",
