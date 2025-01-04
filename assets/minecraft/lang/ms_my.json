@@ -960,7 +960,7 @@
   "plugins.primary_menu.open_menu": "Buka Menu",
   "plugins.primary_menu.pass": "Pas Bulanan",
   "plugins.primary_menu.pass.expired": "Telah Luput",
-  "plugins.primary_menu.pass.lore.0": "Tenaga penerbangan tanah dan kadar pemulihan dua kali ganda",
+  "plugins.primary_menu.pass.lore.0": "Ketahanan penerbangan wilayah tanpa had",
   "plugins.primary_menu.pass.lore.1": "Sambungan premium dengan kadar latensi lebih rendah dan stabil",
   "plugins.primary_menu.pass.lore.2": "Jarak penglihatan paling jauh meningkat dari %s kepada %s",
   "plugins.primary_menu.pass.lore.3": "...dan banyak lagi kelebihan",

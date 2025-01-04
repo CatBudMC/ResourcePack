@@ -960,7 +960,7 @@
   "plugins.primary_menu.open_menu": "메뉴 열기",
   "plugins.primary_menu.pass": "월 패스",
   "plugins.primary_menu.pass.expired": "만료됨",
-  "plugins.primary_menu.pass.lore.0": "영지 비행 체력 및 회복 속도 2배",
+  "plugins.primary_menu.pass.lore.0": "무제한 영토 비행 체력",
   "plugins.primary_menu.pass.lore.1": "더 안정적이고 지연이 적은 고급 연결 라인",
   "plugins.primary_menu.pass.lore.2": "가시 거리 %s에서 %s로 증가",
   "plugins.primary_menu.pass.lore.3": "기타 다양한 혜택",

@@ -960,7 +960,7 @@
   "plugins.primary_menu.open_menu": "メニューを開く",
   "plugins.primary_menu.pass": "月間パス",
   "plugins.primary_menu.pass.expired": "期限切れ",
-  "plugins.primary_menu.pass.lore.0": "領地内での飛行スタミナと回復速度が2倍",
+  "plugins.primary_menu.pass.lore.0": "無制限の領地飛行スタミナ",
   "plugins.primary_menu.pass.lore.1": "遅延が少なく安定したプレミアム接続ルート",
   "plugins.primary_menu.pass.lore.2": "最遠視野距離が %s から %s に拡張",
   "plugins.primary_menu.pass.lore.3": "…他にも多数の特典",

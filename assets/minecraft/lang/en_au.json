@@ -960,7 +960,7 @@
   "plugins.primary_menu.open_menu": "Open Menu",
   "plugins.primary_menu.pass": "Monthly Pass",
   "plugins.primary_menu.pass.expired": "Expired",
-  "plugins.primary_menu.pass.lore.0": "Double stamina and recovery speed for land flying",
+  "plugins.primary_menu.pass.lore.0": "Unlimited territory flight stamina",
   "plugins.primary_menu.pass.lore.1": "Stable and lower latency premium connection",
   "plugins.primary_menu.pass.lore.2": "Maximum render distance increased from %s to %s",
   "plugins.primary_menu.pass.lore.3": "...and more benefits",

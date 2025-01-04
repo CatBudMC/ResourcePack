@@ -960,7 +960,7 @@
   "plugins.primary_menu.open_menu": "เปิดเมนู",
   "plugins.primary_menu.pass": "บัตรรายเดือน",
   "plugins.primary_menu.pass.expired": "หมดอายุแล้ว",
-  "plugins.primary_menu.pass.lore.0": "ความสามารถในการบินในเขตและความเร็วในการฟื้นตัวสองเท่า",
+  "plugins.primary_menu.pass.lore.0": "ความแข็งแกร่งการบินในอาณาเขตไม่จำกัด",
   "plugins.primary_menu.pass.lore.1": "เชื่อมต่อผ่านเส้นทางที่มีความเสถียรและลดความล่าช้า",
   "plugins.primary_menu.pass.lore.2": "ระยะการมองเห็นสูงสุดจาก %s เพิ่มเป็น %s",
   "plugins.primary_menu.pass.lore.3": "...และสิทธิประโยชน์อื่นๆ อีกมากมาย",

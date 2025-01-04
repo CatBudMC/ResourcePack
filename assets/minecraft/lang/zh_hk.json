@@ -960,7 +960,7 @@
   "plugins.primary_menu.open_menu": "開啟選單",
   "plugins.primary_menu.pass": "月卡",
   "plugins.primary_menu.pass.expired": "已過期",
-  "plugins.primary_menu.pass.lore.0": "領地飛行體力及回復速度雙倍",
+  "plugins.primary_menu.pass.lore.0": "無限的領地飛行體力",
   "plugins.primary_menu.pass.lore.1": "延遲更低更穩的高級連線線路",
   "plugins.primary_menu.pass.lore.2": "最遠視野距離從 %s 提升至 %s",
   "plugins.primary_menu.pass.lore.3": "...等更多福利",
