@@ -1032,6 +1032,8 @@
   "plugins.rule_description.rule_page.7": "No bad behaviour is allowed",
   "plugins.rule_description.update_by": "Updated on %s",
   "plugins.tab_information.accrued_days": "Total %s days",
+  "plugins.tab_information.config.tab_flight_stamina_simplifier": "Simplify TAB's territory flight remaining time",
+  "plugins.tab_information.config.tab_pass_remaining_simplifier": "Simplify TAB's monthly pass remaining time",
   "plugins.tab_information.fly": "Fly",
   "plugins.tab_information.infinite": "Infinite",
   "plugins.tab_information.land": "Land",

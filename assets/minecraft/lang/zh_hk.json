@@ -1032,6 +1032,8 @@
   "plugins.rule_description.rule_page.7": "不可以做任何壞事",
   "plugins.rule_description.update_by": "更新於 %s",
   "plugins.tab_information.accrued_days": "累計 %s 天",
+  "plugins.tab_information.config.tab_flight_stamina_simplifier": "簡化 TAB 的領地飛行剩餘時間",
+  "plugins.tab_information.config.tab_pass_remaining_simplifier": "簡化 TAB 的月卡剩餘時間",
   "plugins.tab_information.fly": "飛行",
   "plugins.tab_information.infinite": "無限",
   "plugins.tab_information.land": "領地",
