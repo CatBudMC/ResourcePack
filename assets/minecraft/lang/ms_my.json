@@ -737,7 +737,7 @@
   "plugins.paid_store.coin_sent_account": "Mata wang permainan telah dikreditkan ke akaun anda, sila periksa di dompet.",
   "plugins.paid_store.config.priority_use_premium_route": "Utamakan Laluan Premium",
   "plugins.paid_store.config.priority_use_premium_route.off.lore.0": "Sentiasa gunakan 'Laluan Standard'.",
-  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "Gunakan 'Laluan Premium' apabila pas bulanan dibeli.",
+  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "Jika kedua-dua kad bulanan dan 'Laluan Premium' tersedia, 'Laluan Premium' akan diberi keutamaan.",
   "plugins.paid_store.consumption_guaranteed_exchange": "Tukar dengan Kupon Jaminan Penggunaan",
   "plugins.paid_store.copy_to_clipboard": "Salin ke papan klip",
   "plugins.paid_store.cost_per_draw": "%s / setiap kali",

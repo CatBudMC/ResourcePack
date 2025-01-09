@@ -737,7 +737,7 @@
   "plugins.paid_store.coin_sent_account": "เหรียญในเกมได้ถูกส่งไปยังบัญชีแล้ว โปรดตรวจสอบจากกระเป๋าเงินของคุณ",
   "plugins.paid_store.config.priority_use_premium_route": "ให้ความสำคัญกับเส้นทางพรีเมียม",
   "plugins.paid_store.config.priority_use_premium_route.off.lore.0": "ใช้ 'เส้นทางปกติ' ตลอดเวลา.",
-  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "ใช้ 'เส้นทางพรีเมียม' เมื่อซื้อบัตรรายเดือน.",
+  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "หากมีทั้งบัตรรายเดือนและ 'เส้นทางพรีเมียม' จะใช้ 'เส้นทางพรีเมียม' เป็นลำดับแรก",
   "plugins.paid_store.consumption_guaranteed_exchange": "ใช้การันตีคูปองแลกรางวัล",
   "plugins.paid_store.copy_to_clipboard": "คัดลอกไปยังคลิปบอร์ด",
   "plugins.paid_store.cost_per_draw": "%s / ครั้ง",

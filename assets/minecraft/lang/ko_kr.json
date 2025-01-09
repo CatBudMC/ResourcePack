@@ -737,7 +737,7 @@
   "plugins.paid_store.coin_sent_account": "게임 화폐가 계정에 지급되었습니다. 지갑에서 확인하세요.",
   "plugins.paid_store.config.priority_use_premium_route": "프리미엄 경로 우선 사용",
   "plugins.paid_store.config.priority_use_premium_route.off.lore.0": "항상 '기본 경로' 사용.",
-  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "월 정기권 구매 시 '프리미엄 경로' 사용.",
+  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "월간 카드와 '프리미엄 루트'를 모두 사용할 수 있는 경우, '프리미엄 루트'가 우선됩니다.",
   "plugins.paid_store.consumption_guaranteed_exchange": "소비 보증권 교환",
   "plugins.paid_store.copy_to_clipboard": "클립보드에 복사",
   "plugins.paid_store.cost_per_draw": "%s / 회",

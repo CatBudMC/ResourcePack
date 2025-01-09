@@ -737,7 +737,7 @@
   "plugins.paid_store.coin_sent_account": "ゲームコインがアカウントに配布されました。ウォレットで確認してください。",
   "plugins.paid_store.config.priority_use_premium_route": "プレミアムルート優先",
   "plugins.paid_store.config.priority_use_premium_route.off.lore.0": "常に「標準ルート」を使用します。",
-  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "月額パス購入時に「プレミアムルート」を使用します。",
+  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "月カードと「プレミアムルート」の両方が利用可能な場合、「プレミアムルート」が優先されます。",
   "plugins.paid_store.consumption_guaranteed_exchange": "消費保証チケット交換",
   "plugins.paid_store.copy_to_clipboard": "クリップボードにコピー",
   "plugins.paid_store.cost_per_draw": "%s / 回",

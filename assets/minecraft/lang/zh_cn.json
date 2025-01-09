@@ -737,7 +737,7 @@
   "plugins.paid_store.coin_sent_account": "游戏币已发放到账户内，请从钱包中确认。",
   "plugins.paid_store.config.priority_use_premium_route": "优先使用高级线路",
   "plugins.paid_store.config.priority_use_premium_route.off.lore.0": "无论如何都是「常态线路」。",
-  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "在购买月卡的情况下使用「高级线路」。",
+  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "有月卡又有「高级线路」能用时则优先使用「高级线路」。",
   "plugins.paid_store.consumption_guaranteed_exchange": "消耗保底卷交换",
   "plugins.paid_store.copy_to_clipboard": "复制到剪贴板",
   "plugins.paid_store.cost_per_draw": "%s / 每次",

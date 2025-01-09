@@ -737,7 +737,7 @@
   "plugins.paid_store.coin_sent_account": "Game coins have been credited to your account, please check your wallet.",
   "plugins.paid_store.config.priority_use_premium_route": "Prioritize Premium Route",
   "plugins.paid_store.config.priority_use_premium_route.off.lore.0": "Always use the 'Standard Route'.",
-  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "Use 'Premium Route' when a monthly pass is purchased.",
+  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "If both the monthly card and the 'Premium Route' are available, the 'Premium Route' will be prioritized.",
   "plugins.paid_store.consumption_guaranteed_exchange": "Consume Guaranteed Voucher to Exchange",
   "plugins.paid_store.copy_to_clipboard": "Copy to Clipboard",
   "plugins.paid_store.cost_per_draw": "%s / per draw",

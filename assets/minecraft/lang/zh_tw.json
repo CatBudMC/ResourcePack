@@ -737,7 +737,7 @@
   "plugins.paid_store.coin_sent_account": "遊戲幣已發放到帳戶內，請從錢包中確認。",
   "plugins.paid_store.config.priority_use_premium_route": "優先使用高級線路",
   "plugins.paid_store.config.priority_use_premium_route.off.lore.0": "無論如何都是「常態線路」。",
-  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "在購買月卡的情況下使用「高級線路」。",
+  "plugins.paid_store.config.priority_use_premium_route.on.lore.0": "有月卡又有「高級線路」能用時則優先使用「高級線路」。",
   "plugins.paid_store.consumption_guaranteed_exchange": "消耗保底卷交換",
   "plugins.paid_store.copy_to_clipboard": "複製到剪貼簿",
   "plugins.paid_store.cost_per_draw": "%s / 每次",
