@@ -719,6 +719,7 @@
   "plugins.newbie_starter.description_page.2": "Boss drops rare enchanted books",
   "plugins.newbie_starter.description_page.3": "Reach king status to receive an exclusive appearance",
   "plugins.newbie_starter.enter_command_accept_initial": "Enter /newbie to choose this as the starting point... %s to search again.",
+  "plugins.newbie_starter.home": "Home",
   "plugins.newbie_starter.newbie_initialization": "Newbie initialization",
   "plugins.newbie_starter.searching_another_location": "Searching for another available location... %s",
   "plugins.paid_store.7_11_ibon_payment_code": "Ibon payment code",

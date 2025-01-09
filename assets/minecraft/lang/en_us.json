@@ -719,6 +719,7 @@
   "plugins.newbie_starter.description_page.2": "Boss drops rare enchanted books",
   "plugins.newbie_starter.description_page.3": "Reach the top rank to obtain exclusive skins",
   "plugins.newbie_starter.enter_command_accept_initial": "Enter /newbie to confirm this as the starting location... %s to search again.",
+  "plugins.newbie_starter.home": "Home",
   "plugins.newbie_starter.newbie_initialization": "Newbie Initialization",
   "plugins.newbie_starter.searching_another_location": "Searching for another available location... %s",
   "plugins.paid_store.7_11_ibon_payment_code": "Ibon Payment Code",

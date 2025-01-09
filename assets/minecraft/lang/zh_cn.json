@@ -719,6 +719,7 @@
   "plugins.newbie_starter.description_page.2": "Boss 掉落稀有附魔书",
   "plugins.newbie_starter.description_page.3": "达到王者获得限定造型",
   "plugins.newbie_starter.enter_command_accept_initial": "输入指令 /newbie 确定选择此地作为初始地... %s 后重新搜索其他位置",
+  "plugins.newbie_starter.home": "家",
   "plugins.newbie_starter.newbie_initialization": "新手初始化",
   "plugins.newbie_starter.searching_another_location": "正在搜索其他可用位置中... %s",
   "plugins.paid_store.7_11_ibon_payment_code": "Ibon 缴费代码",
