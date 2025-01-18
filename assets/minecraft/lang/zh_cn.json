@@ -1181,6 +1181,7 @@
   "plugins.territorial_director.total_player_licenses_granted": "共赋予了 %s 个玩家权限",
   "plugins.territorial_director.tracking_distance": "距离 %s 格远",
   "plugins.territorial_director.use_default": "使用默认值",
+  "plugins.test_packs.ghost_piston_been_automatically_restored": "已自动修复 %s 的幽灵活塞，这是服务器核心的错误但到现在还没被修复。",
   "plugins.translation_helper.equipment_slot.body": "身体",
   "plugins.translation_helper.equipment_slot.chest": "胸甲",
   "plugins.translation_helper.equipment_slot.feet": "靴子",

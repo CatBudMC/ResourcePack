@@ -1181,6 +1181,7 @@
   "plugins.territorial_director.total_player_licenses_granted": "Secara keseluruhan memberikan %s kebenaran pemain",
   "plugins.territorial_director.tracking_distance": "%s blok jauh",
   "plugins.territorial_director.use_default": "Guna nilai lalai",
+  "plugins.test_packs.ghost_piston_been_automatically_restored": "Piston hantu di %s telah dipulihkan secara automatik. Ini adalah isu teras pelayan yang masih belum diperbaiki.",
   "plugins.translation_helper.equipment_slot.body": "Badan",
   "plugins.translation_helper.equipment_slot.chest": "Baju zirah",
   "plugins.translation_helper.equipment_slot.feet": "But",

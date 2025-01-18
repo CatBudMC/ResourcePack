@@ -1181,6 +1181,7 @@
   "plugins.territorial_director.total_player_licenses_granted": "ได้รับสิทธิ์ทั้งหมด %s ผู้เล่น",
   "plugins.territorial_director.tracking_distance": "ห่างออกไป %s บล็อก",
   "plugins.territorial_director.use_default": "ใช้ค่าเริ่มต้น",
+  "plugins.test_packs.ghost_piston_been_automatically_restored": "ลูกสูบผีใน %s ถูกคืนค่าโดยอัตโนมัติ นี่เป็นปัญหาในแกนหลักของเซิร์ฟเวอร์ที่ยังไม่ได้รับการแก้ไข",
   "plugins.translation_helper.equipment_slot.body": "ลำตัว",
   "plugins.translation_helper.equipment_slot.chest": "เกราะอก",
   "plugins.translation_helper.equipment_slot.feet": "รองเท้า",

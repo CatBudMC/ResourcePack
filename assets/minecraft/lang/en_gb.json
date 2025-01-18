@@ -1181,6 +1181,7 @@
   "plugins.territorial_director.total_player_licenses_granted": "%s player permissions granted in total",
   "plugins.territorial_director.tracking_distance": "Tracking distance of %s blocks",
   "plugins.territorial_director.use_default": "Use default settings",
+  "plugins.test_packs.ghost_piston_been_automatically_restored": "The ghost piston in %s has been automatically restored. This is a server core issue that hasn't yet been resolved.",
   "plugins.translation_helper.equipment_slot.body": "Body",
   "plugins.translation_helper.equipment_slot.chest": "Chestplate",
   "plugins.translation_helper.equipment_slot.feet": "Boots",
