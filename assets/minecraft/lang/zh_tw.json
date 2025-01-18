@@ -316,7 +316,7 @@
   "commands.space.file_name": "文件名稱",
   "commands.space.file_not_exist": "文件 '%s' 不存在",
   "commands.space.load_complete": "已將 '%s' 內的空間加載到世界上",
-  "commands.space.loading_by": "正在加鮺空間中... %s",
+  "commands.space.loading_by": "正在加載空間中... %s",
   "commands.space.miss_file_name": "缺少文件名稱",
   "commands.space.miss_radius_arg": "缺少半徑參數",
   "commands.space.miss_type": "缺少空間參數",
