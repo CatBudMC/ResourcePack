@@ -485,6 +485,7 @@
   "plugins.auto_regenerate.regen_areas_countdown": "此區域將在 %s 後被重置",
   "plugins.auto_regenerate.regen_areas_end": "重置部分區域結束",
   "plugins.auto_regenerate.regen_areas_start": "重置部分區域開始",
+  "plugins.auto_regenerate.regen_current_chunk": "已重置當前區塊",
   "plugins.auto_regenerate.remainder_is": "剩於 %s",
   "plugins.beacon_placer.beacon_capacity": "信標容量",
   "plugins.beacon_placer.beacon_last_page": "信標上頁",

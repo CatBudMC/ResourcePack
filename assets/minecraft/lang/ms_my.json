@@ -485,6 +485,7 @@
   "plugins.auto_regenerate.regen_areas_countdown": "Kawasan ini akan di-regenerasi dalam %s",
   "plugins.auto_regenerate.regen_areas_end": "Regenerasi kawasan tertentu telah selesai",
   "plugins.auto_regenerate.regen_areas_start": "Regenerasi kawasan tertentu telah bermula",
+  "plugins.auto_regenerate.regen_current_chunk": "Chunk semasa telah ditetapkan semula",
   "plugins.auto_regenerate.remainder_is": "Baki adalah %s",
   "plugins.beacon_placer.beacon_capacity": "Kapasiti Beacon",
   "plugins.beacon_placer.beacon_last_page": "Beacon Halaman Sebelumnya",

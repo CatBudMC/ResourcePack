@@ -485,6 +485,7 @@
   "plugins.auto_regenerate.regen_areas_countdown": "พื้นที่นี้จะถูกสร้างใหม่ใน %s",
   "plugins.auto_regenerate.regen_areas_end": "สิ้นสุดการสร้างใหม่ในบางพื้นที่",
   "plugins.auto_regenerate.regen_areas_start": "เริ่มการสร้างใหม่ในบางพื้นที่",
+  "plugins.auto_regenerate.regen_current_chunk": "รีเซ็ตชังก์ปัจจุบันแล้ว",
   "plugins.auto_regenerate.remainder_is": "คงเหลือ %s",
   "plugins.beacon_placer.beacon_capacity": "ความจุของบีคอน",
   "plugins.beacon_placer.beacon_last_page": "บีคอนหน้าแรก",

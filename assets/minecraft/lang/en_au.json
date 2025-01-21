@@ -485,6 +485,7 @@
   "plugins.auto_regenerate.regen_areas_countdown": "This area will regenerate in %s",
   "plugins.auto_regenerate.regen_areas_end": "Regeneration of certain areas has ended",
   "plugins.auto_regenerate.regen_areas_start": "Regeneration of certain areas has started",
+  "plugins.auto_regenerate.regen_current_chunk": "Current chunk has been reset",
   "plugins.auto_regenerate.remainder_is": "Remaining %s",
   "plugins.beacon_placer.beacon_capacity": "Beacon Capacity",
   "plugins.beacon_placer.beacon_last_page": "Beacon Last Page",

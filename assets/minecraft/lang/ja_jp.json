@@ -485,6 +485,7 @@
   "plugins.auto_regenerate.regen_areas_countdown": "このエリアは %s 後に再生成されます",
   "plugins.auto_regenerate.regen_areas_end": "特定のエリアの再生成が終了しました",
   "plugins.auto_regenerate.regen_areas_start": "特定のエリアの再生成を開始しました",
+  "plugins.auto_regenerate.regen_current_chunk": "現在のチャンクをリセットしました",
   "plugins.auto_regenerate.remainder_is": "残り %s",
   "plugins.beacon_placer.beacon_capacity": "ビーコン容量",
   "plugins.beacon_placer.beacon_last_page": "ビーコン前のページ",
