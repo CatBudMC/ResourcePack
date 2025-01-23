@@ -105,6 +105,8 @@
   "commands.go.player_not_online": "Player '%s' is not online",
   "commands.hide.incorrect_value": "Incorrect invisibility state value '%s'",
   "commands.hide.value_changed": "Your invisibility state has been changed to '%s'",
+  "commands.ips.no_players_online": "No players are online.",
+  "commands.ips.results": "Online players' IPs: %s",
   "commands.land.already_tracking": "Land '%s' is already being tracked",
   "commands.land.balance_insufficient": "Insufficient balance %s to purchase land '%s'",
   "commands.land.cannot_config_type": "Unknown land configuration type '%s'",

@@ -105,6 +105,8 @@
   "commands.go.player_not_online": "玩家 '%s' 沒有在線上",
   "commands.hide.incorrect_value": "隱形狀態值 '%s' 不正確",
   "commands.hide.value_changed": "已將自己的隱形狀態切換為 '%s'",
+  "commands.ips.no_players_online": "沒有任何玩家在線",
+  "commands.ips.results": "在線玩家 IPs：%s",
   "commands.land.already_tracking": "領地 '%s' 已經在追蹤中",
   "commands.land.balance_insufficient": "餘額不足 %s 因此無法購買領地 '%s'",
   "commands.land.cannot_config_type": "未知的領地配置類型 '%s'",

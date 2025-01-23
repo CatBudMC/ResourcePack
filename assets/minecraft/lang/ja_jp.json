@@ -105,6 +105,8 @@
   "commands.go.player_not_online": "プレイヤー '%s' はオンラインではありません",
   "commands.hide.incorrect_value": "無効なステルス状態値 '%s'",
   "commands.hide.value_changed": "自分のステルス状態が '%s' に変更されました",
+  "commands.ips.no_players_online": "オンラインのプレイヤーはいません。",
+  "commands.ips.results": "オンラインプレイヤーのIP: %s",
   "commands.land.already_tracking": "土地 '%s' はすでに追跡中です",
   "commands.land.balance_insufficient": "残高が不足しているため、土地 '%s' を購入できません",
   "commands.land.cannot_config_type": "不明な土地構成タイプ '%s'",

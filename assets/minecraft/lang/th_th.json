@@ -105,6 +105,8 @@
   "commands.go.player_not_online": "ผู้เล่น '%s' ไม่ออนไลน์",
   "commands.hide.incorrect_value": "ค่า 'ซ่อน' '%s' ไม่ถูกต้อง",
   "commands.hide.value_changed": "ได้เปลี่ยนสถานะการซ่อนของตัวเองเป็น '%s'",
+  "commands.ips.no_players_online": "ไม่มีผู้เล่นออนไลน์.",
+  "commands.ips.results": "IP ของผู้เล่นออนไลน์: %s",
   "commands.land.already_tracking": "ดินแดน '%s' กำลังถูกติดตามอยู่แล้ว",
   "commands.land.balance_insufficient": "ยอดเงินไม่เพียงพอ %s จึงไม่สามารถซื้อดินแดน '%s'",
   "commands.land.cannot_config_type": "ประเภทการกำหนดค่าดินแดนที่ไม่รู้จัก '%s'",

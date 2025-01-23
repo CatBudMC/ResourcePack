@@ -105,6 +105,8 @@
   "commands.go.player_not_online": "Pemain '%s' tidak dalam talian",
   "commands.hide.incorrect_value": "Nilai keadaan tersembunyi '%s' tidak betul",
   "commands.hide.value_changed": "Keadaan tersembunyi telah ditukar kepada '%s'",
+  "commands.ips.no_players_online": "Tiada pemain dalam talian.",
+  "commands.ips.results": "IP pemain dalam talian: %s",
   "commands.land.already_tracking": "Tanah '%s' sudah dalam jejak",
   "commands.land.balance_insufficient": "Baki tidak mencukupi %s untuk membeli tanah '%s'",
   "commands.land.cannot_config_type": "Jenis konfigurasi tanah tidak diketahui '%s'",
