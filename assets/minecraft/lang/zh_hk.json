@@ -598,7 +598,7 @@
   "plugins.emergency_task.boss_health_and_countdown": "%s / %s 倒數 %s",
   "plugins.emergency_task.current_venue_not_closed": "未結束當前場地",
   "plugins.emergency_task.emergency_task": "緊急任務",
-  "plugins.emergency_task.emergency_task.lore.0": "每天一次全球討伐 Boss 戰，隊伍造成的傷越多獎勵 %s 也越多！",
+  "plugins.emergency_task.emergency_task.lore.0": "每天一次全球討伐 Boss 戰，隊伍造成的傷害越多獎勵 %s 也越多！",
   "plugins.emergency_task.emergency_task.lore.1": "剩餘 %s 後開始",
   "plugins.emergency_task.emergency_task.lore.2": "只要參加就固定獲得 %s %s",
   "plugins.emergency_task.emergency_task.lore.3": "死亡時背包物品不會掉落",
