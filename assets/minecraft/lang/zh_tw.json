@@ -1144,6 +1144,7 @@
   "plugins.territorial_director.config.safe_bound.lore.0": "水／岩漿／活塞無法從外部進入",
   "plugins.territorial_director.config.trample_farmland": "踩踏耕地",
   "plugins.territorial_director.declare_time_is": "宣告時間 %s 之前",
+  "plugins.territorial_director.deletion_not_return_land_capacity": "刪除後不會返還領地可用容量",
   "plugins.territorial_director.edit_everyone_license": "編輯所有人的權限",
   "plugins.territorial_director.edit_land_config": "編輯領地群組 %s 的配置",
   "plugins.territorial_director.edit_land_config_with_current_pos": "編輯當前位置領地群組的配置",

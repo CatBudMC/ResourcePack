@@ -1144,6 +1144,7 @@
   "plugins.territorial_director.config.safe_bound.lore.0": "Water / lava / pistons cannot enter from outside",
   "plugins.territorial_director.config.trample_farmland": "Trample Farmland",
   "plugins.territorial_director.declare_time_is": "Declare time before %s",
+  "plugins.territorial_director.deletion_not_return_land_capacity": "Deleting this will not return the available land capacity",
   "plugins.territorial_director.edit_everyone_license": "Edit everyone's license",
   "plugins.territorial_director.edit_land_config": "Edit configuration of land group %s",
   "plugins.territorial_director.edit_land_config_with_current_pos": "Edit the configuration of the land group at the current position",

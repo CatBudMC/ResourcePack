@@ -1144,6 +1144,7 @@
   "plugins.territorial_director.config.safe_bound.lore.0": "Air/lava/piston tidak boleh masuk dari luar",
   "plugins.territorial_director.config.trample_farmland": "Pijak Tanah Ladang",
   "plugins.territorial_director.declare_time_is": "Masa pengisytiharan sebelum %s",
+  "plugins.territorial_director.deletion_not_return_land_capacity": "Memadam ini tidak akan mengembalikan kapasiti tanah yang tersedia",
   "plugins.territorial_director.edit_everyone_license": "Edit Lesen Semua Orang",
   "plugins.territorial_director.edit_land_config": "Edit konfigurasi kumpulan tanah %s",
   "plugins.territorial_director.edit_land_config_with_current_pos": "Edit konfigurasi kumpulan tanah di posisi semasa",

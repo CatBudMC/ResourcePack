@@ -1144,6 +1144,7 @@
   "plugins.territorial_director.config.safe_bound.lore.0": "น้ำ / ลาวา / ลูกสูบ ไม่สามารถเข้าได้จากภายนอก",
   "plugins.territorial_director.config.trample_farmland": "เหยียบย่ำพื้นที่เกษตร",
   "plugins.territorial_director.declare_time_is": "ประกาศก่อนเวลา %s",
+  "plugins.territorial_director.deletion_not_return_land_capacity": "การลบนี้จะไม่คืนความจุที่ดินที่ใช้ได้",
   "plugins.territorial_director.edit_everyone_license": "แก้ไขสิทธิ์ของทุกคน",
   "plugins.territorial_director.edit_land_config": "แก้ไขการตั้งค่ากลุ่มพื้นที่ %s",
   "plugins.territorial_director.edit_land_config_with_current_pos": "แก้ไขการตั้งค่าของกลุ่มที่ดินในตำแหน่งปัจจุบัน",

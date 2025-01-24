@@ -1144,6 +1144,7 @@
   "plugins.territorial_director.config.safe_bound.lore.0": "물 / 용암 / 피스톤이 외부에서 들어올 수 없음",
   "plugins.territorial_director.config.trample_farmland": "농지 밟기",
   "plugins.territorial_director.declare_time_is": "선포 시간 %s 이전",
+  "plugins.territorial_director.deletion_not_return_land_capacity": "삭제해도 사용 가능한 영토 용량은 반환되지 않습니다",
   "plugins.territorial_director.edit_everyone_license": "모두의 권한 편집",
   "plugins.territorial_director.edit_land_config": "영지 그룹 %s 설정 편집",
   "plugins.territorial_director.edit_land_config_with_current_pos": "현재 위치의 토지 그룹 설정을 편집합니다",
