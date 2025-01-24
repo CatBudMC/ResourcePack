@@ -606,6 +606,7 @@
   "plugins.emergency_task.emergency_task.lore.5": "สูงสุด 4 ผู้เล่นพร้อมกัน",
   "plugins.emergency_task.emergency_task.lore.6": "จำนวนผู้เข้าร่วมทั้งหมดจะมีผลต่อเลือดและรางวัลของบอส",
   "plugins.emergency_task.emergency_task.lore.7": "เฉพาะในคิวเท่านั้นที่จะเข้าสู่ช่วงเริ่มต้นได้",
+  "plugins.emergency_task.emergency_task_about_begin": "'ภารกิจฉุกเฉิน' กำลังจะเริ่มต้นขึ้น",
   "plugins.emergency_task.gained_with": "รางวัลงานฉุกเฉิน %s %s และ %s %s ได้ถูกมอบแล้ว",
   "plugins.emergency_task.members_whose_venue_not_closed": "ยังมีสมาชิกที่ไม่ได้ปิดสถานที่ของพวกเขา",
   "plugins.emergency_task.ready_end_countdown": "สิ้นสุดในอีก %s...",
