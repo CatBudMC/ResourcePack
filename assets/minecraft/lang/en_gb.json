@@ -398,7 +398,7 @@
   "enchantment.addons.sacrifice_experience.lore.2": "cannot trigger without sufficient experience,",
   "enchantment.addons.sacrifice_experience.lore.3": "Full set reduces damage taken by 12%.",
   "enchantment.addons.spear": "Spear",
-  "enchantment.addons.spear.lore.0": "Axes gain 1 ~ 3 blocks of entity interaction range.",
+  "enchantment.addons.spear.lore.0": "Axes gain 1 ~ 3 blocks of entity interaction range,",
   "enchantment.addons.spear.lore.1": "Cannot trigger while under weakness.",
   "enchantment.addons.steady_sneak": "Steady Sneak",
   "enchantment.addons.steady_sneak.lore.0": "Equipped on leggings, sneaking reduces damage taken by 20 ~ 30%,",

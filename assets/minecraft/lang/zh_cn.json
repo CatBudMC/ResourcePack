@@ -398,7 +398,7 @@
   "enchantment.addons.sacrifice_experience.lore.2": "经验值不够抵销时无法触发效果，",
   "enchantment.addons.sacrifice_experience.lore.3": "全套总共减少 12% 所受伤害。",
   "enchantment.addons.spear": "长矛",
-  "enchantment.addons.spear.lore.0": "斧的实体互动距离增加 1 ~ 3 方块。",
+  "enchantment.addons.spear.lore.0": "斧的实体互动距离增加 1 ~ 3 方块，",
   "enchantment.addons.spear.lore.1": "存在虚弱状态时无法触发效果。",
   "enchantment.addons.steady_sneak": "稳重潜行",
   "enchantment.addons.steady_sneak.lore.0": "装备在护腿潜行时减少 20 ~ 30% 所受伤害，",
