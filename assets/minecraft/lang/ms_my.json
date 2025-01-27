@@ -259,6 +259,7 @@
   "commands.room.config.monster_wave.incorrect_script_key": "Skrip gelombang raksasa '%s' tidak wujud",
   "commands.room.config.monster_wave.miss_difficulty_arg": "Parameter tahap kesukaran sasaran tiada",
   "commands.room.config.monster_wave.miss_script_arg": "Parameter skrip sasaran tiada",
+  "commands.room.config.monster_wave.only_used_in_theatrical": "Ciri ini hanya boleh digunakan semasa Gelombang Raksasa.",
   "commands.room.current_capacity": "Kapasiti maksimum bilik sekarang adalah %s orang",
   "commands.room.current_total": "Bilik sekarang mempunyai %s / %s orang",
   "commands.room.current_waiting": "Sebanyak %s orang sedang dalam barisan menunggu",

@@ -259,6 +259,7 @@
   "commands.room.config.monster_wave.incorrect_script_key": "สคริปต์คลื่นมอนสเตอร์ '%s' ไม่มีอยู่",
   "commands.room.config.monster_wave.miss_difficulty_arg": "ขาดพารามิเตอร์ระดับความยากเป้าหมาย",
   "commands.room.config.monster_wave.miss_script_arg": "ขาดพารามิเตอร์สคริปต์เป้าหมาย",
+  "commands.room.config.monster_wave.only_used_in_theatrical": "ฟีเจอร์นี้ใช้ได้เฉพาะในช่วงคลื่นมอนสเตอร์เท่านั้น",
   "commands.room.current_capacity": "ความจุสูงสุดของห้องปัจจุบันคือ %s คน",
   "commands.room.current_total": "จำนวนคนในห้องปัจจุบันคือ %s / %s คน",
   "commands.room.current_waiting": "มี %s คนกำลังรออยู่ในคิว",

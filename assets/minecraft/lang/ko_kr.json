@@ -259,6 +259,7 @@
   "commands.room.config.monster_wave.incorrect_script_key": "몬스터 웨이브 스크립트 '%s' 존재하지 않음",
   "commands.room.config.monster_wave.miss_difficulty_arg": "대상 난이도 매개변수가 누락됨",
   "commands.room.config.monster_wave.miss_script_arg": "대상 스크립트 매개변수가 누락됨",
+  "commands.room.config.monster_wave.only_used_in_theatrical": "이 기능은 몬스터 웨이브 중에만 사용할 수 있습니다.",
   "commands.room.current_capacity": "현재 방 최대 수용 인원은 %s명",
   "commands.room.current_total": "현재 방에 %s / %s 명 있음",
   "commands.room.current_waiting": "현재 %s 명이 대기 중",

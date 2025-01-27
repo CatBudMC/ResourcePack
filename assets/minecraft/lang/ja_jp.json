@@ -259,6 +259,7 @@
   "commands.room.config.monster_wave.incorrect_script_key": "モンスターウェーブスクリプト '%s' は存在しません",
   "commands.room.config.monster_wave.miss_difficulty_arg": "対象難易度のパラメータが不足しています",
   "commands.room.config.monster_wave.miss_script_arg": "対象スクリプトのパラメータが不足しています",
+  "commands.room.config.monster_wave.only_used_in_theatrical": "この機能はモンスターウェーブ中のみ使用できます。",
   "commands.room.current_capacity": "現在の部屋の最大収容人数は %s 人です",
   "commands.room.current_total": "現在の部屋内の人数は %s / %s 人です",
   "commands.room.current_waiting": "現在 %s 人が待機中です",

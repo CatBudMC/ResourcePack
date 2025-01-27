@@ -259,6 +259,7 @@
   "commands.room.config.monster_wave.incorrect_script_key": "怪物浪潮脚本 '%s' 不存在",
   "commands.room.config.monster_wave.miss_difficulty_arg": "缺少目标难度参数",
   "commands.room.config.monster_wave.miss_script_arg": "缺少目标脚本参数",
+  "commands.room.config.monster_wave.only_used_in_theatrical": "只能在怪物浪潮内使用此功能",
   "commands.room.current_capacity": "当前房间最大可容纳 %s 人",
   "commands.room.current_total": "当前房间内有 %s / %s 人",
   "commands.room.current_waiting": "当前有 %s 人正在列队中",

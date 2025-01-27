@@ -259,6 +259,7 @@
   "commands.room.config.monster_wave.incorrect_script_key": "Monster wave script '%s' does not exist",
   "commands.room.config.monster_wave.miss_difficulty_arg": "Missing target difficulty parameter",
   "commands.room.config.monster_wave.miss_script_arg": "Missing target script parameter",
+  "commands.room.config.monster_wave.only_used_in_theatrical": "This feature can only be used during Monster Wave.",
   "commands.room.current_capacity": "Current room capacity is %s people",
   "commands.room.current_total": "There are currently %s / %s people in the room",
   "commands.room.current_waiting": "There are currently %s people waiting in the queue",
