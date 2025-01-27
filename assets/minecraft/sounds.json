@@ -917,5 +917,17 @@
     "sounds": [
       "room_ready"
     ]
+  },
+  "plugins.auto_regenerate.regen_current_chunk": {
+    "subtitle": "plugins.auto_regenerate.regen_current_chunk",
+    "sounds": [
+      "auto_regenerate/regen_current_chunk"
+    ]
+  },
+  "plugins.auto_regenerate.canceling_plan_refresh": {
+    "subtitle": "plugins.auto_regenerate.canceling_plan_refresh",
+    "sounds": [
+      "auto_regenerate/canceling_plan_refresh"
+    ]
   }
 }
