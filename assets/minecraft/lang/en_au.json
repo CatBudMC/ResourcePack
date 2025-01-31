@@ -409,7 +409,7 @@
   "enchantment.addons.sacrifice_experience.lore.0": "Wearing reduces damage taken by 4%,",
   "enchantment.addons.sacrifice_experience.lore.1": "but consumes experience proportional to damage,",
   "enchantment.addons.sacrifice_experience.lore.2": "cannot trigger without sufficient experience,",
-  "enchantment.addons.sacrifice_experience.lore.3": "Full set reduces damage taken by 12%.",
+  "enchantment.addons.sacrifice_experience.lore.3": "Full set reduces damage taken by 16%.",
   "enchantment.addons.spear": "Spear",
   "enchantment.addons.spear.lore.0": "Axes gain 1 ~ 3 blocks of entity interaction range,",
   "enchantment.addons.spear.lore.1": "Cannot trigger while under weakness.",

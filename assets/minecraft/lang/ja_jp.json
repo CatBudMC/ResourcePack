@@ -409,7 +409,7 @@
   "enchantment.addons.sacrifice_experience.lore.0": "装備時、受けるダメージを 4% 軽減。",
   "enchantment.addons.sacrifice_experience.lore.1": "ただし、ダメージに応じて経験値が減少。",
   "enchantment.addons.sacrifice_experience.lore.2": "経験値が不足すると効果が発動しない。",
-  "enchantment.addons.sacrifice_experience.lore.3": "フルセットで合計 12% ダメージ軽減。",
+  "enchantment.addons.sacrifice_experience.lore.3": "フルセットで合計 16% ダメージ軽減。",
   "enchantment.addons.spear": "スピア",
   "enchantment.addons.spear.lore.0": "斧のエンティティ操作距離が 1 ~ 3 ブロック増加。",
   "enchantment.addons.spear.lore.1": "弱体化状態では効果が発動しない。",
