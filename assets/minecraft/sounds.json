@@ -1,4 +1,16 @@
 {
+  "plugins.auto_regenerate.canceling_plan_refresh": {
+    "subtitle": "plugins.auto_regenerate.canceling_plan_refresh",
+    "sounds": [
+      "auto_regenerate/canceling_plan_refresh"
+    ]
+  },
+  "plugins.auto_regenerate.regen_current_chunk": {
+    "subtitle": "plugins.auto_regenerate.regen_current_chunk",
+    "sounds": [
+      "auto_regenerate/regen_current_chunk"
+    ]
+  },
   "plugins.castle_warfare.time_coming": {
     "subtitle": "plugins.castle_warfare.time_coming",
     "sounds": [
@@ -796,12 +808,54 @@
       "enchant_addons/recovery_break_item"
     ]
   },
+  "plugins.energy_saving.entity_detached_exit": {
+    "subtitle": "plugins.energy_saving.entity_detached_exit",
+    "sounds": [
+      "energy_saving/entity_detached_exit"
+    ]
+  },
+  "plugins.energy_saving.entity_detached_join": {
+    "subtitle": "plugins.energy_saving.entity_detached_join",
+    "sounds": [
+      "energy_saving/entity_detached_join"
+    ]
+  },
   "plugins.magic_tower.climbing_layer": {
     "subtitle": "plugins.magic_tower.climbing_layer",
     "sounds": [
       "magic_tower/climbing_layer_0",
       "magic_tower/climbing_layer_1",
       "magic_tower/climbing_layer_2"
+    ]
+  },
+  "plugins.magic_tower.coin_bank_break": {
+    "subtitle": "plugins.magic_tower.coin_bank_break",
+    "sounds": [
+      "magic_tower/coin_bank_break"
+    ]
+  },
+  "plugins.magic_tower.coin_bank_throw": {
+    "subtitle": "plugins.magic_tower.coin_bank_throw",
+    "sounds": [
+      "magic_tower/coin_bank_throw"
+    ]
+  },
+  "plugins.magic_tower.enchantment_extraction_failure": {
+    "subtitle": "plugins.magic_tower.enchantment_extraction_failure",
+    "sounds": [
+      "magic_tower/enchantment_extraction_failure"
+    ]
+  },
+  "plugins.magic_tower.enchantment_extraction_progress": {
+    "subtitle": "plugins.magic_tower.enchantment_extraction_progress",
+    "sounds": [
+      "magic_tower/enchantment_extraction_progress"
+    ]
+  },
+  "plugins.magic_tower.enchantment_extraction_successes": {
+    "subtitle": "plugins.magic_tower.enchantment_extraction_successes",
+    "sounds": [
+      "magic_tower/enchantment_extraction_successes"
     ]
   },
   "plugins.magic_tower.pianos.c2_100": {
@@ -916,18 +970,6 @@
     "subtitle": "plugins.venue_manager.room_ready",
     "sounds": [
       "room_ready"
-    ]
-  },
-  "plugins.auto_regenerate.regen_current_chunk": {
-    "subtitle": "plugins.auto_regenerate.regen_current_chunk",
-    "sounds": [
-      "auto_regenerate/regen_current_chunk"
-    ]
-  },
-  "plugins.auto_regenerate.canceling_plan_refresh": {
-    "subtitle": "plugins.auto_regenerate.canceling_plan_refresh",
-    "sounds": [
-      "auto_regenerate/canceling_plan_refresh"
     ]
   }
 }

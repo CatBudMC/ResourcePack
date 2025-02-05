@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "block/custom/coin_bank__side",
+    "up": "block/custom/coin_bank__up",
+    "down": "block/custom/coin_bank__down",
+    "south": "block/custom/coin_bank__side",
+    "west": "block/custom/coin_bank__side",
+    "north": "block/custom/coin_bank__side",
+    "east": "block/custom/coin_bank__side"
+  }
+}
