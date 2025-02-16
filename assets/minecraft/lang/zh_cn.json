@@ -65,6 +65,7 @@
   "commands.erase.miss_radius_arg": "缺少半径参数",
   "commands.erase.radius_not_available": "半径 '%s' 不在 %s ~ %s 可用范围",
   "commands.erase.remove_count_is": "已移除 %s 个实体",
+  "commands.erase.selected_radius": "选中半径",
   "commands.event.cannot_type": "未知的活动操作类型 '%s'",
   "commands.event.current_location_not_allow": "当前位置不允许作为活动",
   "commands.event.current_no_event": "当前没有活动",

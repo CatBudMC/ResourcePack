@@ -65,6 +65,7 @@
   "commands.erase.miss_radius_arg": "半径の引数が不足しています",
   "commands.erase.radius_not_available": "半径 '%s' は %s ~ %s の範囲にありません",
   "commands.erase.remove_count_is": "%s 個のエンティティを削除しました",
+  "commands.erase.selected_radius": "選択された半径",
   "commands.event.cannot_type": "不明なイベント操作タイプ '%s'",
   "commands.event.current_location_not_allow": "現在の場所はイベントとして許可されていません",
   "commands.event.current_no_event": "現在、イベントはありません",

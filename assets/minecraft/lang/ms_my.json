@@ -65,6 +65,7 @@
   "commands.erase.miss_radius_arg": "Argumen radius tiada",
   "commands.erase.radius_not_available": "Radius '%s' tidak tersedia dalam julat %s ~ %s",
   "commands.erase.remove_count_is": "%s entiti telah dipadam",
+  "commands.erase.selected_radius": "Jejari dipilih",
   "commands.event.cannot_type": "Jenis operasi acara tidak diketahui '%s'",
   "commands.event.current_location_not_allow": "Lokasi semasa tidak dibenarkan untuk acara",
   "commands.event.current_no_event": "Tiada acara pada masa ini",

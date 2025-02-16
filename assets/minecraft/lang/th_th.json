@@ -65,6 +65,7 @@
   "commands.erase.miss_radius_arg": "ขาดอาร์กิวเมนต์รัศมี",
   "commands.erase.radius_not_available": "รัศมี '%s' ไม่อยู่ในช่วง %s ~ %s",
   "commands.erase.remove_count_is": "ลบเอนทิตีไปแล้ว %s ตัว",
+  "commands.erase.selected_radius": "รัศมีที่เลือก",
   "commands.event.cannot_type": "ประเภทการดำเนินการงานที่ไม่รู้จัก '%s'",
   "commands.event.current_location_not_allow": "ตำแหน่งปัจจุบันไม่อนุญาตให้งาน",
   "commands.event.current_no_event": "ขณะนี้ไม่มีงานใดๆ",

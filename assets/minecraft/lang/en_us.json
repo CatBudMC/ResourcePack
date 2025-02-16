@@ -65,6 +65,7 @@
   "commands.erase.miss_radius_arg": "Missing radius argument",
   "commands.erase.radius_not_available": "Radius '%s' not available in range %s ~ %s",
   "commands.erase.remove_count_is": "Removed %s entities",
+  "commands.erase.selected_radius": "Selected radius",
   "commands.event.cannot_type": "Unknown event operation type '%s'",
   "commands.event.current_location_not_allow": "Current location is not allowed for the event",
   "commands.event.current_no_event": "There is currently no event",
