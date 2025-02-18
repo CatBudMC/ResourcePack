@@ -782,6 +782,7 @@
   "plugins.magic_tower.magic_tower.lore.8": "재도전 대기시간은 4시간입니다.",
   "plugins.magic_tower.magic_tower_limited_item": "마법의 탑 한정 아이템",
   "plugins.magic_tower.members_whose_cooling_not_over": "아직 대기시간이 끝나지 않은 멤버가 있습니다.",
+  "plugins.magic_tower.members_whose_offline": "로그인하지 않은 멤버가 있습니다",
   "plugins.magic_tower.no_evacuation_room_appeared": "대피실이 나타나지 않았습니다",
   "plugins.magic_tower.preparing_to_climb": "등반 준비 중... %s",
   "plugins.magic_tower.preparing_to_retreat": "철수 준비 중... %s",

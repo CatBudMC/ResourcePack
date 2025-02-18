@@ -782,6 +782,7 @@
   "plugins.magic_tower.magic_tower.lore.8": "เวลาคูลดาวน์ก่อนเข้าร่วมใหม่คือ 4 ชั่วโมง",
   "plugins.magic_tower.magic_tower_limited_item": "ไอเท็มพิเศษสำหรับหอคอยเวทมนตร์",
   "plugins.magic_tower.members_whose_cooling_not_over": "มีสมาชิกที่เวลาคูลดาวน์ยังไม่สิ้นสุด",
+  "plugins.magic_tower.members_whose_offline": "มีสมาชิกที่ยังไม่ได้เข้าสู่ระบบ",
   "plugins.magic_tower.no_evacuation_room_appeared": "ไม่มีห้องอพยพปรากฏขึ้น",
   "plugins.magic_tower.preparing_to_climb": "กำลังเตรียมปีน... %s",
   "plugins.magic_tower.preparing_to_retreat": "กำลังเตรียมถอย... %s",

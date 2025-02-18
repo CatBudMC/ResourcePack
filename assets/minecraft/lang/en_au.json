@@ -782,6 +782,7 @@
   "plugins.magic_tower.magic_tower.lore.8": "Rejoin cooldown is 4 hours",
   "plugins.magic_tower.magic_tower_limited_item": "Magic Tower Exclusive Item",
   "plugins.magic_tower.members_whose_cooling_not_over": "Members with cooldown not yet finished",
+  "plugins.magic_tower.members_whose_offline": "There are members who haven't logged in",
   "plugins.magic_tower.no_evacuation_room_appeared": "No evacuation room has appeared",
   "plugins.magic_tower.preparing_to_climb": "Preparing to climb... %s",
   "plugins.magic_tower.preparing_to_retreat": "Preparing to retreat... %s",

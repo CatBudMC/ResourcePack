@@ -782,6 +782,7 @@
   "plugins.magic_tower.magic_tower.lore.8": "可再参加的冷却时间为 4 小时",
   "plugins.magic_tower.magic_tower_limited_item": "魔幻之塔限定品",
   "plugins.magic_tower.members_whose_cooling_not_over": "有冷却时间还未结束的成员",
+  "plugins.magic_tower.members_whose_offline": "有未上线的成员",
   "plugins.magic_tower.no_evacuation_room_appeared": "没有出现撤离室",
   "plugins.magic_tower.preparing_to_climb": "准备攀爬中... %s",
   "plugins.magic_tower.preparing_to_retreat": "准备撤退中... %s",

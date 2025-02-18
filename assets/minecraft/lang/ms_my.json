@@ -782,6 +782,7 @@
   "plugins.magic_tower.magic_tower.lore.8": "Masa sejuk untuk menyertai semula ialah 4 jam",
   "plugins.magic_tower.magic_tower_limited_item": "Barang Terhad Menara Ajaib",
   "plugins.magic_tower.members_whose_cooling_not_over": "Ahli dengan masa sejuk yang belum tamat",
+  "plugins.magic_tower.members_whose_offline": "Terdapat ahli yang belum log masuk",
   "plugins.magic_tower.no_evacuation_room_appeared": "Tiada bilik pemindahan yang muncul",
   "plugins.magic_tower.preparing_to_climb": "Sedang bersiap untuk memanjat... %s",
   "plugins.magic_tower.preparing_to_retreat": "Sedang bersiap untuk berundur... %s",

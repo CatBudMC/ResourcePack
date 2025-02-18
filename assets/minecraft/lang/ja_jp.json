@@ -782,6 +782,7 @@
   "plugins.magic_tower.magic_tower.lore.8": "再参加までのクールダウン時間は4時間です",
   "plugins.magic_tower.magic_tower_limited_item": "魔法の塔限定アイテム",
   "plugins.magic_tower.members_whose_cooling_not_over": "クールダウン時間が終了していないメンバーがいます",
+  "plugins.magic_tower.members_whose_offline": "ログインしていないメンバーがいます",
   "plugins.magic_tower.no_evacuation_room_appeared": "避難室は出現しませんでした",
   "plugins.magic_tower.preparing_to_climb": "登る準備中... %s",
   "plugins.magic_tower.preparing_to_retreat": "撤退準備中... %s",
