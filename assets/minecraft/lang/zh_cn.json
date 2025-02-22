@@ -1142,7 +1142,7 @@
   "plugins.rule_description.rule_page.7": "不可以做任何坏事",
   "plugins.rule_description.update_by": "更新于 %s",
   "plugins.tab_information.accrued_days": "累计 %s 天",
-  "plugins.tab_information.and_unfriend_count": "...已及 %s 个不是朋友的玩家",
+  "plugins.tab_information.and_unfriend_count": "...以及 %s 个不是朋友的玩家",
   "plugins.tab_information.config.tab_flight_stamina_simplifier": "简化 TAB 的领地飞行剩余时间",
   "plugins.tab_information.config.tab_pass_remaining_simplifier": "简化 TAB 的月卡剩余时间",
   "plugins.tab_information.config.tab_unfriend_players_simplifier": "简化 TAB 的非好友清单",
