@@ -375,6 +375,8 @@
   "commands.vault.quit_fulled": "離開藏館失敗",
   "commands.vault.quiting": "離開藏館中",
   "commands.vault.successful_buy": "成功擴增藏館範圍，當前尺寸 %s",
+  "commands.vitality.no_players_online": "沒有任何玩家在線",
+  "commands.vitality.results": "在線玩家活力值：%s",
   "enchantment.addons.action_sound.kizuna_akari": "動作音效 紲星燈",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "裝備在頭盔時許多行為發出可愛的音效！",
   "enchantment.addons.action_sound.kotonoha_akane": "動作音效 琴葉茜",

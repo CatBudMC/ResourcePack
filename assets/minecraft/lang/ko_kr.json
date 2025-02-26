@@ -375,6 +375,8 @@
   "commands.vault.quit_fulled": "보관함에서 나가기에 실패",
   "commands.vault.quiting": "보관함 나가는 중",
   "commands.vault.successful_buy": "보관함 범위 확장 성공, 현재 크기 %s",
+  "commands.vitality.no_players_online": "온라인 플레이어가 없습니다",
+  "commands.vitality.results": "온라인 플레이어의 활력 수치: %s",
   "enchantment.addons.action_sound.kizuna_akari": "액션음 키즈나 아카리",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "헬멧 착용 시 귀여운 소리가 납니다!",
   "enchantment.addons.action_sound.kotonoha_akane": "액션음 코토노하 아카네",

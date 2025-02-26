@@ -375,6 +375,8 @@
   "commands.vault.quit_fulled": "ออกจากที่เก็บของล้มเหลว",
   "commands.vault.quiting": "กำลังออกจากที่เก็บของ",
   "commands.vault.successful_buy": "ขยายขอบเขตที่เก็บของสำเร็จ ขนาดปัจจุบัน %s",
+  "commands.vitality.no_players_online": "ไม่มีผู้เล่นออนไลน์",
+  "commands.vitality.results": "ค่าพลังชีวิตของผู้เล่นออนไลน์: %s",
   "enchantment.addons.action_sound.kizuna_akari": "เอฟเฟกต์ คิซึนะ อะการิ",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "เมื่อใส่กับหมวก การกระทำหลายอย่างมีเสียงน่ารัก!",
   "enchantment.addons.action_sound.kotonoha_akane": "เอฟเฟกต์ โคโตโนฮะ อะกาเนะ",

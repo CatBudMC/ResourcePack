@@ -375,6 +375,8 @@
   "commands.vault.quit_fulled": "倉庫からの退出に失敗しました",
   "commands.vault.quiting": "倉庫から退出中です",
   "commands.vault.successful_buy": "倉庫の範囲を拡張しました。現在のサイズ %s",
+  "commands.vitality.no_players_online": "オンラインのプレイヤーはいません",
+  "commands.vitality.results": "オンラインプレイヤーの活力値: %s",
   "enchantment.addons.action_sound.kizuna_akari": "動作音 紲星あかり",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "ヘルメット装備時にかわいい音が出る！",
   "enchantment.addons.action_sound.kotonoha_akane": "動作音 琴葉茜",

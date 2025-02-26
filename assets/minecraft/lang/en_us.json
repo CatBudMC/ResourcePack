@@ -375,6 +375,8 @@
   "commands.vault.quit_fulled": "Failed to exit vault",
   "commands.vault.quiting": "Exiting the vault",
   "commands.vault.successful_buy": "Successfully increased vault range, current size %s",
+  "commands.vitality.no_players_online": "No players are online",
+  "commands.vitality.results": "Online players' vitality: %s",
   "enchantment.addons.action_sound.kizuna_akari": "SFX Kizuna Akari",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "Equipped on helmet, many actions produce cute sounds!",
   "enchantment.addons.action_sound.kotonoha_akane": "SFX Kotonoha Akane",

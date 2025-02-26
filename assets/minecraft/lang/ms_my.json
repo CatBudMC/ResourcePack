@@ -375,6 +375,8 @@
   "commands.vault.quit_fulled": "Gagal keluar dari peti simpanan",
   "commands.vault.quiting": "Sedang keluar dari peti simpanan",
   "commands.vault.successful_buy": "Berjaya memperluaskan julat peti simpanan, saiz semasa %s",
+  "commands.vitality.no_players_online": "Tiada pemain dalam talian",
+  "commands.vitality.results": "Keceriaan pemain dalam talian: %s",
   "enchantment.addons.action_sound.kizuna_akari": "SFX Kizuna Akari",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "Apabila dipasang pada topi keledar, bunyi comel dimainkan!",
   "enchantment.addons.action_sound.kotonoha_akane": "SFX Kotonoha Akane",
