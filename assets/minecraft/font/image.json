@@ -109,6 +109,7 @@
     {"type": "bitmap", "chars":["\u0108"], "file": "image/chat_manager/translate.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0109"], "file": "image/player_database/server_banned.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0110"], "file": "image/tab_information/no_keep_inventory.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars":["\u0111"], "file": "image/paid_store/missing_pass.png", "height": 56, "ascent": 10}
+    {"type": "bitmap", "chars":["\u0111"], "file": "image/paid_store/missing_pass.png", "height": 56, "ascent": 10},
+    {"type": "bitmap", "chars":["\u0112"], "file": "image/player_database/do_not_disturb_mode.png", "height": 8, "ascent": 7}
   ]
 }
