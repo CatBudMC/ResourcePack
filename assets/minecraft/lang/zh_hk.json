@@ -640,6 +640,8 @@
   "plugins.chat_manager.chat_scope.room.lore": "只有同個房間的玩家看的到",
   "plugins.chat_manager.config.automatic_translation_chat_message": "自動翻譯聊天訊息",
   "plugins.chat_manager.config.automatic_translation_chat_message.on.lore.0": "仍會提示原始訊息",
+  "plugins.chat_manager.config.preview_chat_message_image": "預覽聊天訊息圖片",
+  "plugins.chat_manager.config.preview_chat_message_image.on.lore.0": "只有部分網址允許預覽",
   "plugins.chat_manager.config.temporarily_shield_unfriended_message": "暫時屏蔽非好友訊息",
   "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "仍然會接收管理員資訊",
   "plugins.chat_manager.me": "我",

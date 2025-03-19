@@ -640,6 +640,8 @@
   "plugins.chat_manager.chat_scope.room.lore": "Hanya pemain dalam bilik yang sama boleh melihat",
   "plugins.chat_manager.config.automatic_translation_chat_message": "Terjemah mesej sembang secara automatik",
   "plugins.chat_manager.config.automatic_translation_chat_message.on.lore.0": "Mesej asal masih akan dipaparkan",
+  "plugins.chat_manager.config.preview_chat_message_image": "Pratonton imej mesej sembang",
+  "plugins.chat_manager.config.preview_chat_message_image.on.lore.0": "Hanya URL tertentu membenarkan pratonton",
   "plugins.chat_manager.config.temporarily_shield_unfriended_message": "Lindungi mesej bukan rakan buat sementara",
   "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "Mesej daripada admin masih akan diterima",
   "plugins.chat_manager.me": "Saya",

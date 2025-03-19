@@ -640,6 +640,8 @@
   "plugins.chat_manager.chat_scope.room.lore": "같은 방의 플레이어만 볼 수 있습니다",
   "plugins.chat_manager.config.automatic_translation_chat_message": "채팅 메시지 자동 번역",
   "plugins.chat_manager.config.automatic_translation_chat_message.on.lore.0": "원본 메시지는 여전히 표시됩니다",
+  "plugins.chat_manager.config.preview_chat_message_image": "채팅 메시지 이미지 미리보기",
+  "plugins.chat_manager.config.preview_chat_message_image.on.lore.0": "일부 URL만 미리보기를 지원함",
   "plugins.chat_manager.config.temporarily_shield_unfriended_message": "비친구 메시지 임시 차단",
   "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "관리자 메시지는 여전히 수신됩니다",
   "plugins.chat_manager.me": "나",

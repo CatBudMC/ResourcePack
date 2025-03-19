@@ -640,6 +640,8 @@
   "plugins.chat_manager.chat_scope.room.lore": "Visible to players in the same room",
   "plugins.chat_manager.config.automatic_translation_chat_message": "Automatically translate chat messages",
   "plugins.chat_manager.config.automatic_translation_chat_message.on.lore.0": "Original message will still be displayed",
+  "plugins.chat_manager.config.preview_chat_message_image": "Preview chat message image",
+  "plugins.chat_manager.config.preview_chat_message_image.on.lore.0": "Only certain URLs allow previews",
   "plugins.chat_manager.config.temporarily_shield_unfriended_message": "Temporarily shield non-friend messages",
   "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "Admin messages will still be received",
   "plugins.chat_manager.me": "Me",

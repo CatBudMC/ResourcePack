@@ -110,6 +110,26 @@
     {"type": "bitmap", "chars":["\u0109"], "file": "image/player_database/server_banned.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0110"], "file": "image/tab_information/no_keep_inventory.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars":["\u0111"], "file": "image/paid_store/missing_pass.png", "height": 56, "ascent": 10},
-    {"type": "bitmap", "chars":["\u0112"], "file": "image/player_database/do_not_disturb_mode.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars":["\u0112"], "file": "image/player_database/do_not_disturb_mode.png", "height": 8, "ascent": 7},
+    {"type": "space", "advances": {"\u0113": -2}},
+    {"type": "space", "advances": {"\u0114": -1.5}},
+    {"type": "bitmap", "chars": ["\u0115"], "file": "image/graphic_interface/screen/0.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0116"], "file": "image/graphic_interface/screen/1.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0117"], "file": "image/graphic_interface/screen/2.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0118"], "file": "image/graphic_interface/screen/3.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0119"], "file": "image/graphic_interface/screen/4.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0120"], "file": "image/graphic_interface/screen/5.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0121"], "file": "image/graphic_interface/screen/6.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0122"], "file": "image/graphic_interface/screen/7.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0123"], "file": "image/graphic_interface/screen/8.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0124"], "file": "image/graphic_interface/screen/9.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0125"], "file": "image/graphic_interface/screen/10.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0126"], "file": "image/graphic_interface/screen/11.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0127"], "file": "image/graphic_interface/screen/12.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0128"], "file": "image/graphic_interface/screen/13.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0129"], "file": "image/graphic_interface/screen/14.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0130"], "file": "image/graphic_interface/screen/15.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0131"], "file": "image/graphic_interface/screen/16.png", "height": 9, "ascent": 8.5},
+    {"type": "bitmap", "chars": ["\u0132"], "file": "image/graphic_interface/screen/17.png", "height": 9, "ascent": 8.5}
   ]
 }
