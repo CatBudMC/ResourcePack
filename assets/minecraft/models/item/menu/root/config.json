@@ -2,5 +2,11 @@
   "parent": "item/generated",
   "textures": {
     "layer0": "item/menu/root/config"
+  },
+  "display": {
+    "gui": {
+      "translation": [18, 0, 0],
+      "scale":[3.25, 1, 1]
+    }
   }
 }
