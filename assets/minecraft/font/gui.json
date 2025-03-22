@@ -33,6 +33,7 @@
     {"type": "bitmap", "chars": ["\u0032"], "file": "gui/sign/celebrate.png", "height": 144, "ascent": 19},
     {"type": "bitmap", "chars": ["\u0033"], "file": "gui/task.png", "height": 72, "ascent": 19},
     {"type": "bitmap", "chars": ["\u0034"], "file": "gui/log.png", "height": 144, "ascent": 19},
-    {"type": "bitmap", "chars": ["\u0035"], "file": "gui/wave_difficulty.png", "height": 54, "ascent": 19}
+    {"type": "bitmap", "chars": ["\u0035"], "file": "gui/wave_difficulty.png", "height": 54, "ascent": 19},
+    {"type": "bitmap", "chars": ["\u0036"], "file": "gui/world.png", "height": 144, "ascent": 19}
   ]
 }

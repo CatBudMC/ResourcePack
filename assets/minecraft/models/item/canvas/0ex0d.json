@@ -1,0 +1,9 @@
+{
+  "parent": "item/canvas/_",
+  "display": {
+    "gui": {
+      "translation": [14, -13, 0],
+      "scale": [1.125, 1.125, 1]
+    }
+  }
+}

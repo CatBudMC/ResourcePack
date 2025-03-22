@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "texture_size": [18, 18],
+  "textures": {
+    "layer0": "item/canvas"
+  }
+}
