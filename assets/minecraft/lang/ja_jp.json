@@ -1005,6 +1005,7 @@
   "plugins.player_database.received_new_mail_from": "'%s' から新しいメール %s を受信しました",
   "plugins.player_database.remove_friend": "フレンドを削除",
   "plugins.player_database.remove_shield": "ブロックを削除",
+  "plugins.player_database.reply_mail": "返信メール",
   "plugins.player_database.select_player_last_page": "前のページ（プレイヤー選択）",
   "plugins.player_database.select_player_next_page": "次のページ（プレイヤー選択）",
   "plugins.player_database.select_this_player": "このプレイヤーを選択",

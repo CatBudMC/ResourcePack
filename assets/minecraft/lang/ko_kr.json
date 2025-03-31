@@ -1005,6 +1005,7 @@
   "plugins.player_database.received_new_mail_from": "'%s'로부터 새 메일 %s을(를) 받았습니다",
   "plugins.player_database.remove_friend": "친구 삭제",
   "plugins.player_database.remove_shield": "차단 해제",
+  "plugins.player_database.reply_mail": "답장 메일",
   "plugins.player_database.select_player_last_page": "플레이어 선택 이전 페이지",
   "plugins.player_database.select_player_next_page": "플레이어 선택 다음 페이지",
   "plugins.player_database.select_this_player": "이 플레이어 선택",

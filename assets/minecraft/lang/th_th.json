@@ -1005,6 +1005,7 @@
   "plugins.player_database.received_new_mail_from": "ได้รับจดหมายใหม่จาก '%s' %s",
   "plugins.player_database.remove_friend": "ลบเพื่อน",
   "plugins.player_database.remove_shield": "ยกเลิกการบล็อก",
+  "plugins.player_database.reply_mail": "ตอบกลับอีเมล",
   "plugins.player_database.select_player_last_page": "เลือกผู้เล่นหน้าที่แล้ว",
   "plugins.player_database.select_player_next_page": "เลือกผู้เล่นหน้าถัดไป",
   "plugins.player_database.select_this_player": "เลือกผู้เล่นนี้",

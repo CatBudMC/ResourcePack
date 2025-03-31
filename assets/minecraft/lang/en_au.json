@@ -1005,6 +1005,7 @@
   "plugins.player_database.received_new_mail_from": "New mail received from '%s': %s",
   "plugins.player_database.remove_friend": "Remove friend",
   "plugins.player_database.remove_shield": "Remove from blocked list",
+  "plugins.player_database.reply_mail": "Reply Mail",
   "plugins.player_database.select_player_last_page": "Select player - previous page",
   "plugins.player_database.select_player_next_page": "Select player - next page",
   "plugins.player_database.select_this_player": "Select this player",

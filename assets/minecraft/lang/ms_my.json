@@ -1005,6 +1005,7 @@
   "plugins.player_database.received_new_mail_from": "Telah menerima mel baru dari '%s' %s",
   "plugins.player_database.remove_friend": "Buang rakan",
   "plugins.player_database.remove_shield": "Buang sekatan",
+  "plugins.player_database.reply_mail": "Balas Mel",
   "plugins.player_database.select_player_last_page": "Laman sebelumnya pilih pemain",
   "plugins.player_database.select_player_next_page": "Laman seterusnya pilih pemain",
   "plugins.player_database.select_this_player": "Pilih pemain ini",

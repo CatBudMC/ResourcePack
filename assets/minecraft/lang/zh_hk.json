@@ -1005,6 +1005,7 @@
   "plugins.player_database.received_new_mail_from": "收到了由 '%s' 發送來的新郵件 %s",
   "plugins.player_database.remove_friend": "移除朋友",
   "plugins.player_database.remove_shield": "移除屏蔽",
+  "plugins.player_database.reply_mail": "回覆郵件",
   "plugins.player_database.select_player_last_page": "選擇玩家上頁",
   "plugins.player_database.select_player_next_page": "選擇玩家下頁",
   "plugins.player_database.select_this_player": "選擇此玩家",
