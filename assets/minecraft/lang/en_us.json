@@ -1523,5 +1523,10 @@
   "styles.rabbit_ear.white": "Rabbit Ear (White)",
   "styles.rabbit_ear.yellow": "Rabbit Ear (Yellow)",
   "styles.tinned_cat_food.black": "Tinned Cat Food (Black)",
-  "styles.tinned_cat_food.white": "Tinned Cat Food (White)"
+  "styles.tinned_cat_food.white": "Tinned Cat Food (White)",
+  "plugins.chat_manager.msg_alert": "Whisper Alert",
+  "plugins.chat_manager.config.chat_message_display_avatar": "Chat Message Avatar",
+  "plugins.chat_manager.config.chat_message_display_avatar.on.lore.0": "Displays like TAB format",
+  "plugins.chat_manager.config.private_message_sound_notice": "Private Message Sound Alert",
+  "plugins.chat_manager.config.private_message_sound_notice.on.lore.0": "Plays a sound when a whisper is received"
 }

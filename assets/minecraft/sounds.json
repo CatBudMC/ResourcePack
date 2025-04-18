@@ -17,6 +17,12 @@
       "time_coming"
     ]
   },
+  "plugins.chat_manager.msg_alert": {
+    "subtitle": "plugins.chat_manager.msg_alert",
+    "sounds": [
+      "msg_alert"
+    ]
+  },
   "plugins.enchant_addons.action_sound.kizuna_akari.attack_big": {
     "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.attack_big",
     "sounds": [
