@@ -977,5 +977,17 @@
     "sounds": [
       "room_ready"
     ]
+  },
+  "plugins.admin_control.spawner_agent_change": {
+    "subtitle": "plugins.admin_control.spawner_agent_change",
+    "sounds": [
+      "spawner_agent_change"
+    ]
+  },
+  "plugins.admin_control.spawner_agent_use": {
+    "subtitle": "plugins.admin_control.spawner_agent_use",
+    "sounds": [
+      "spawner_agent_use"
+    ]
   }
 }
