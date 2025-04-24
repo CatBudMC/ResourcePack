@@ -133,7 +133,7 @@
   "commands.hide.incorrect_value": "隐形状态值 '%s' 不正确",
   "commands.hide.value_changed": "已将自己的隐形状态切换为 '%s'",
   "commands.inspect.all_done": "已全部观察完毕",
-  "commands.inspect.observe": "观察 %s",
+  "commands.inspect.observe": "观察 '%s'",
   "commands.ips.no_players_online": "没有任何玩家在线",
   "commands.ips.results": "在线玩家 IPs：%s",
   "commands.land.already_tracking": "领地 '%s' 已经在追踪中",

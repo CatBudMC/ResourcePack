@@ -133,7 +133,7 @@
   "commands.hide.incorrect_value": "Nilai keadaan tersembunyi '%s' tidak betul",
   "commands.hide.value_changed": "Keadaan tersembunyi telah ditukar kepada '%s'",
   "commands.inspect.all_done": "Semua pemerhatian selesai",
-  "commands.inspect.observe": "Memerhati %s",
+  "commands.inspect.observe": "Memerhati '%s'",
   "commands.ips.no_players_online": "Tiada pemain dalam talian.",
   "commands.ips.results": "IP pemain dalam talian: %s",
   "commands.land.already_tracking": "Tanah '%s' sudah dalam jejak",

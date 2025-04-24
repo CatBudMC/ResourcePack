@@ -133,7 +133,7 @@
   "commands.hide.incorrect_value": "無効なステルス状態値 '%s'",
   "commands.hide.value_changed": "自分のステルス状態が '%s' に変更されました",
   "commands.inspect.all_done": "すべての観察が完了しました",
-  "commands.inspect.observe": "%s を観察中",
+  "commands.inspect.observe": "'%s' を観察中",
   "commands.ips.no_players_online": "オンラインのプレイヤーはいません。",
   "commands.ips.results": "オンラインプレイヤーのIP: %s",
   "commands.land.already_tracking": "土地 '%s' はすでに追跡中です",

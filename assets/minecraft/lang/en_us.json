@@ -133,7 +133,7 @@
   "commands.hide.incorrect_value": "Incorrect invisibility status value '%s'",
   "commands.hide.value_changed": "Invisibility status changed to '%s'",
   "commands.inspect.all_done": "All observations completed",
-  "commands.inspect.observe": "Observing %s",
+  "commands.inspect.observe": "Observing '%s'",
   "commands.ips.no_players_online": "No players are online.",
   "commands.ips.results": "Online players' IPs: %s",
   "commands.land.already_tracking": "Land '%s' is already being tracked",
