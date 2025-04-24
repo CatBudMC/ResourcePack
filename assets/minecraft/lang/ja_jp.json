@@ -470,7 +470,7 @@
   "enchantment.addons.steady_sneak.lore.1": "発動中は移動速度が60%低下します。",
   "enchantment.addons.steady_sneak.lore.2": "弱体化状態では効果が発動しない。",
   "enchantment.addons.stubborn": "頑固",
-  "enchantment.addons.stubborn.lore.0": "チェストプレート装備中、体力が8未満で攻撃力+2～5。",
+  "enchantment.addons.stubborn.lore.0": "チェストプレート装備中、体力が6未満で攻撃力+2～5。",
   "enchantment.addons.wisdom": "知恵",
   "enchantment.addons.wisdom.lore.0": "剣でモブを倒すと経験値ドロップが 10 ~ 30% 増加。",
   "enchantment.addons.wisdom.lore.1": "ボスには効果が適用されない。",

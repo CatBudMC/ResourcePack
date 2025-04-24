@@ -470,7 +470,7 @@
   "enchantment.addons.steady_sneak.lore.1": "效果生效期间内减少 60% 移动速度，",
   "enchantment.addons.steady_sneak.lore.2": "存在虚弱状态时无法触发效果。",
   "enchantment.addons.stubborn": "倔强",
-  "enchantment.addons.stubborn.lore.0": "装备在胸甲剩余血量少于 8 时增加 2 ~ 5 攻击伤害。",
+  "enchantment.addons.stubborn.lore.0": "装备在胸甲剩余血量少于 6 时增加 2 ~ 5 攻击伤害。",
   "enchantment.addons.wisdom": "智慧",
   "enchantment.addons.wisdom.lore.0": "剑造成生物死亡时增加 10 ~ 30% 掉落经验值，",
   "enchantment.addons.wisdom.lore.1": "Boss 不适用于此效果。",

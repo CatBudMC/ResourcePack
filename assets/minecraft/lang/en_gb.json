@@ -470,7 +470,7 @@
   "enchantment.addons.steady_sneak.lore.1": "Movement speed reduced by 60% while active,",
   "enchantment.addons.steady_sneak.lore.2": "cannot trigger while under weakness.",
   "enchantment.addons.stubborn": "Stubborn",
-  "enchantment.addons.stubborn.lore.0": "Gain 2–5 attack damage when wearing a chestplate with less than 8 HP remaining.",
+  "enchantment.addons.stubborn.lore.0": "Gain 2–5 attack damage when wearing a chestplate with less than 6 HP remaining.",
   "enchantment.addons.wisdom": "Wisdom",
   "enchantment.addons.wisdom.lore.0": "Killing mobs with swords grants 10 ~ 30% more experience,",
   "enchantment.addons.wisdom.lore.1": "Bosses are unaffected.",
