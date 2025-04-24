@@ -693,7 +693,6 @@
   "plugins.chat_manager.show_player_status": "顯示玩家狀態",
   "plugins.chat_manager.translate_content_with": "翻譯 %s 內容",
   "plugins.chat_manager.use_beginning_chat": "訊息的第一個字符決定了聊天頻道，或者 /msg <ID> <訊息> 來密語",
-  "plugins.creativity_core.noncopyable": "複製已停用",
   "plugins.creativity_core.prohibit_placement": "這個方塊材質不允許放置",
   "plugins.discord_system.join_group": "Discord 群組",
   "plugins.discord_system.join_or_account_bundle": "加入 Discord／Minecraft 帳號綁定",

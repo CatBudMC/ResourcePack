@@ -693,7 +693,6 @@
   "plugins.chat_manager.show_player_status": "Show player status",
   "plugins.chat_manager.translate_content_with": "Translate %s content",
   "plugins.chat_manager.use_beginning_chat": "The first character of the message determines the chat channel, or use /msg <ID> <message> to whisper.",
-  "plugins.creativity_core.noncopyable": "Copying is disabled",
   "plugins.creativity_core.prohibit_placement": "This block type is not allowed to be placed",
   "plugins.discord_system.join_group": "Discord Group",
   "plugins.discord_system.join_or_account_bundle": "Join Discord / Link Minecraft account",

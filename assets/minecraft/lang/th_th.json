@@ -693,7 +693,6 @@
   "plugins.chat_manager.show_player_status": "แสดงสถานะผู้เล่น",
   "plugins.chat_manager.translate_content_with": "แปลเนื้อหา %s",
   "plugins.chat_manager.use_beginning_chat": "อักขระตัวแรกของข้อความจะกำหนดช่องแชท หรือใช้ /msg <ID> <ข้อความ> เพื่อกระซิบ",
-  "plugins.creativity_core.noncopyable": "การคัดลอกถูกปิดใช้งาน",
   "plugins.creativity_core.prohibit_placement": "ไม่อนุญาตให้วางบล็อกนี้",
   "plugins.discord_system.join_group": "เข้าร่วมกลุ่ม Discord",
   "plugins.discord_system.join_or_account_bundle": "เข้าร่วม Discord/ผูกบัญชี Minecraft",

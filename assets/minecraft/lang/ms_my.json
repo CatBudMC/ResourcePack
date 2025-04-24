@@ -693,7 +693,6 @@
   "plugins.chat_manager.show_player_status": "Tunjukkan status pemain",
   "plugins.chat_manager.translate_content_with": "Terjemah kandungan %s",
   "plugins.chat_manager.use_beginning_chat": "Karakter pertama mesej menentukan saluran sembang, atau gunakan /msg <ID> <mesej> untuk berbisik.",
-  "plugins.creativity_core.noncopyable": "Penyalinan telah dinyahaktifkan",
   "plugins.creativity_core.prohibit_placement": "Blok bahan ini tidak dibenarkan untuk diletakkan",
   "plugins.discord_system.join_group": "Sertai kumpulan Discord",
   "plugins.discord_system.join_or_account_bundle": "Sertai Discord / Gabungkan akaun Minecraft",
