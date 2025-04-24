@@ -467,7 +467,7 @@
   "enchantment.addons.spear.lore.1": "ไม่ทำงานเมื่ออยู่ในสถานะอ่อนแอ.",
   "enchantment.addons.steady_sneak": "ย่องมั่นคง",
   "enchantment.addons.steady_sneak.lore.0": "ลดความเสียหาย 10–20% เมื่อหมอบและใส่กางเกง,",
-  "enchantment.addons.steady_sneak.lore.1": "ลดความเร็วในการเคลื่อนที่ลง 80% ขณะทำงาน,",
+  "enchantment.addons.steady_sneak.lore.1": "ลดความเร็วในการเคลื่อนที่ลง 60% ขณะทำงาน,",
   "enchantment.addons.steady_sneak.lore.2": "ไม่ทำงานเมื่ออยู่ในสถานะอ่อนแอ.",
   "enchantment.addons.stubborn": "ดื้อดึง",
   "enchantment.addons.stubborn.lore.0": "เพิ่มพลังโจมตี 2–5 เมื่อใส่เกราะอกและ HP น้อยกว่า 8.",

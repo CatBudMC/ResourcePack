@@ -467,7 +467,7 @@
   "enchantment.addons.spear.lore.1": "弱体化状態では効果が発動しない。",
   "enchantment.addons.steady_sneak": "安定スニーク",
   "enchantment.addons.steady_sneak.lore.0": "レギンス装備時にスニークで10～20%のダメージ軽減、",
-  "enchantment.addons.steady_sneak.lore.1": "発動中は移動速度が80%低下します。",
+  "enchantment.addons.steady_sneak.lore.1": "発動中は移動速度が60%低下します。",
   "enchantment.addons.steady_sneak.lore.2": "弱体化状態では効果が発動しない。",
   "enchantment.addons.stubborn": "頑固",
   "enchantment.addons.stubborn.lore.0": "チェストプレート装備中、体力が8未満で攻撃力+2～5。",

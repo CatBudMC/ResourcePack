@@ -467,7 +467,7 @@
   "enchantment.addons.spear.lore.1": "存在虚弱状态时无法触发效果。",
   "enchantment.addons.steady_sneak": "稳重潜行",
   "enchantment.addons.steady_sneak.lore.0": "装备在护腿潜行时减少 10 ~ 20% 所受伤害，",
-  "enchantment.addons.steady_sneak.lore.1": "效果生效期间内减少 80% 移动速度，",
+  "enchantment.addons.steady_sneak.lore.1": "效果生效期间内减少 60% 移动速度，",
   "enchantment.addons.steady_sneak.lore.2": "存在虚弱状态时无法触发效果。",
   "enchantment.addons.stubborn": "倔强",
   "enchantment.addons.stubborn.lore.0": "装备在胸甲剩余血量少于 8 时增加 2 ~ 5 攻击伤害。",

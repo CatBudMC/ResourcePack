@@ -467,7 +467,7 @@
   "enchantment.addons.spear.lore.1": "약화 상태에서는 효과가 발동되지 않습니다.",
   "enchantment.addons.steady_sneak": "안정된 스니크",
   "enchantment.addons.steady_sneak.lore.0": "레깅스를 착용하고 웅크릴 때 피해가 10~20% 감소합니다.",
-  "enchantment.addons.steady_sneak.lore.1": "효과 발동 중 이동 속도 80% 감소.",
+  "enchantment.addons.steady_sneak.lore.1": "효과 발동 중 이동 속도 60% 감소.",
   "enchantment.addons.steady_sneak.lore.2": "약화 상태에서는 효과가 발동되지 않습니다.",
   "enchantment.addons.stubborn": "고집",
   "enchantment.addons.stubborn.lore.0": "체스트플레이트 착용 중 체력이 8 이하일 때 공격력 2~5 증가.",

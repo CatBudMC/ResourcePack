@@ -467,7 +467,7 @@
   "enchantment.addons.spear.lore.1": "Cannot trigger while under weakness.",
   "enchantment.addons.steady_sneak": "Steady Sneak",
   "enchantment.addons.steady_sneak.lore.0": "Reduces damage by 10–20% while sneaking with leggings,",
-  "enchantment.addons.steady_sneak.lore.1": "Movement speed reduced by 80% while active,",
+  "enchantment.addons.steady_sneak.lore.1": "Movement speed reduced by 60% while active,",
   "enchantment.addons.steady_sneak.lore.2": "cannot trigger while under weakness.",
   "enchantment.addons.stubborn": "Stubborn",
   "enchantment.addons.stubborn.lore.0": "Gain 2–5 attack damage when wearing a chestplate with less than 8 HP remaining.",
