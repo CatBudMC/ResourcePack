@@ -1,0 +1,9 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "style/demon_wings"
+      }
+    ]
+  }
+}

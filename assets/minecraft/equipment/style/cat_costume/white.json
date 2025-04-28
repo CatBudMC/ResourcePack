@@ -1,10 +1,14 @@
 {
   "layers": {
     "humanoid": [
-      {"texture": "style/cat_costume/white"}
+      {
+        "texture": "style/cat_costume/white"
+      }
     ],
     "humanoid_leggings": [
-      {"texture": "style/cat_costume/white"}
+      {
+        "texture": "style/cat_costume/white"
+      }
     ]
   }
 }

@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "condition",
+    "on_false": {
+      "type": "model",
+      "model": "item/style/demon_wings"
+    },
+    "on_true": {
+      "type": "model",
+      "model": "item/style/demon_wings_broken"
+    },
+    "property": "broken"
+  }
+}
