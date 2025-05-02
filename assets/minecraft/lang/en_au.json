@@ -672,6 +672,7 @@
   "plugins.castle_warfare.time_coming": "Time is running out",
   "plugins.castle_warfare.tracking_distance": "Distance %s blocks away",
   "plugins.castle_warfare.transfer_homeowner": "Transfer Host",
+  "plugins.castle_warfare.win_more_get_award_from_core_placed": "Win %s matches with the core placed to receive",
   "plugins.castle_warfare.win_with": "%s Victory",
   "plugins.castle_warfare.winner_reward_awarded": "Castle Warfare winner reward '%s' has been given",
   "plugins.chat_manager.automatically_translated_context_with": "Automatically translated content with %s",

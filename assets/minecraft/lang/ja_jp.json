@@ -672,6 +672,7 @@
   "plugins.castle_warfare.time_coming": "時間が迫っています",
   "plugins.castle_warfare.tracking_distance": "距離 %s ブロック",
   "plugins.castle_warfare.transfer_homeowner": "部屋主の譲渡",
+  "plugins.castle_warfare.win_more_get_award_from_core_placed": "コアを設置した状態で %s 回勝利して報酬を獲得",
   "plugins.castle_warfare.win_with": "%s 勝利",
   "plugins.castle_warfare.winner_reward_awarded": "キャッスルウォーフェアの勝者報酬「%s」が配布されました",
   "plugins.chat_manager.automatically_translated_context_with": "%s の内容を自動翻訳しました",

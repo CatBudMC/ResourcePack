@@ -672,6 +672,7 @@
   "plugins.castle_warfare.time_coming": "Masa hampir tiba",
   "plugins.castle_warfare.tracking_distance": "Jarak %s blok jauh",
   "plugins.castle_warfare.transfer_homeowner": "Pindahkan Pemilik Bilik",
+  "plugins.castle_warfare.win_more_get_award_from_core_placed": "Menang %s perlawanan dengan teras diletakkan untuk menerima ganjaran",
   "plugins.castle_warfare.win_with": "%s menang",
   "plugins.castle_warfare.winner_reward_awarded": "Ganjaran pemenang Castle Warfare '%s' telah diberikan",
   "plugins.chat_manager.automatically_translated_context_with": "Kandungan diterjemah secara automatik dengan %s",

@@ -672,6 +672,7 @@
   "plugins.castle_warfare.time_coming": "시간이 다가오고 있습니다",
   "plugins.castle_warfare.tracking_distance": "%s 블록 거리",
   "plugins.castle_warfare.transfer_homeowner": "방장 권한 이전",
+  "plugins.castle_warfare.win_more_get_award_from_core_placed": "코어를 설치한 상태로 %s번 승리하면 보상을 획득",
   "plugins.castle_warfare.win_with": "%s 승리",
   "plugins.castle_warfare.winner_reward_awarded": "캐슬 워페어 승리 보상 '%s'이(가) 지급되었습니다",
   "plugins.chat_manager.automatically_translated_context_with": "%s 내용을 자동 번역했습니다",

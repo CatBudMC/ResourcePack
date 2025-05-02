@@ -672,6 +672,7 @@
   "plugins.castle_warfare.time_coming": "時間快到了",
   "plugins.castle_warfare.tracking_distance": "距離 %s 格遠",
   "plugins.castle_warfare.transfer_homeowner": "轉交房主",
+  "plugins.castle_warfare.win_more_get_award_from_core_placed": "在有放置核心的情況下獲勝 %s 場即可獲得",
   "plugins.castle_warfare.win_with": "%s 勝利",
   "plugins.castle_warfare.winner_reward_awarded": "城堡戰爭獲勝獎勵 '%s' 已發放",
   "plugins.chat_manager.automatically_translated_context_with": "已自動翻譯 %s 內容",
