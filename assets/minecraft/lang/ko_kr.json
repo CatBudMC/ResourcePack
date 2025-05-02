@@ -651,6 +651,7 @@
   "plugins.castle_warfare.no_selected_land": "영토가 먼저 선택되지 않았습니다",
   "plugins.castle_warfare.observer": "관찰자",
   "plugins.castle_warfare.own_side_is": "당신은 %s입니다",
+  "plugins.castle_warfare.place_castle_core": "성 코어 배치",
   "plugins.castle_warfare.player_mark_color": "플레이어 '%s'를 '%s'로 표시",
   "plugins.castle_warfare.player_mark_observer": "플레이어 '%s'를 관찰자로 표시",
   "plugins.castle_warfare.preparation_countdown": "준비 종료까지 %s...",

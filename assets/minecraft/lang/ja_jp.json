@@ -651,6 +651,7 @@
   "plugins.castle_warfare.no_selected_land": "領地が選択されていません",
   "plugins.castle_warfare.observer": "観察者",
   "plugins.castle_warfare.own_side_is": "自分のチームは %s",
+  "plugins.castle_warfare.place_castle_core": "城のコアを設置",
   "plugins.castle_warfare.player_mark_color": "プレイヤー '%s' は '%s' にマークされています",
   "plugins.castle_warfare.player_mark_observer": "プレイヤー '%s' は観察者にマークされています",
   "plugins.castle_warfare.preparation_countdown": "準備完了まであと %s...",
