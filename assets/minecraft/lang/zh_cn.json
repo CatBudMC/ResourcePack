@@ -614,6 +614,8 @@
   "plugins.beacon_placer.sure_remove_beacon": "确定移除信标",
   "plugins.beacon_placer.teleport_beacon": "传送到此信标",
   "plugins.beacon_placer.tracking_distance": "距离 %s 格远",
+  "plugins.castle_war.current_venue_not_closed": "未结束当前场地",
+  "plugins.castle_war.members_whose_venue_not_closed": "有还未结束场地的成员",
   "plugins.castle_warfare.are_tied": "双方平手",
   "plugins.castle_warfare.camp_color.blue": "蓝方",
   "plugins.castle_warfare.camp_color.red": "红方",
