@@ -630,7 +630,7 @@
   "plugins.castle_warfare.castle_war.lore.3": "死亡時、インベントリ内のアイテムはすべてドロップされます",
   "plugins.castle_warfare.castle_war.lore.4": "不死のトーテム使用後は 60 秒のクールダウンがあります",
   "plugins.castle_warfare.castle_war.lore.5": "オンラインプレイヤーの領地をランダムに選び、戦場とする",
-  "plugins.castle_warfare.castle_war.lore.6": "チームメンバーは同じ陣営に固定されます",
+  "plugins.castle_warfare.castle_war.lore.6": "参加者が十分に集まると、チームメンバーは同じ陣営になります。",
   "plugins.castle_warfare.castle_war.lore.7": "勝利すると報酬リストから次の報酬を獲得します",
   "plugins.castle_warfare.castle_war_custom": "城塞戦争（カスタム）",
   "plugins.castle_warfare.castle_war_custom.lore.0": "味方の城塞コアを守り、敵の城塞コアを破壊せよ！",

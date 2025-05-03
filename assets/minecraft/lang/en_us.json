@@ -630,7 +630,7 @@
   "plugins.castle_warfare.castle_war.lore.3": "All items in your inventory will drop upon death.",
   "plugins.castle_warfare.castle_war.lore.4": "Totem of Undying has a 60-second cooldown after use.",
   "plugins.castle_warfare.castle_war.lore.5": "Randomly selects an online player's territory as the battleground",
-  "plugins.castle_warfare.castle_war.lore.6": "Team members are locked to the same side",
+  "plugins.castle_warfare.castle_war.lore.6": "When enough players join, teammates will be on the same team.",
   "plugins.castle_warfare.castle_war.lore.7": "Get the next reward from the prize list upon victory",
   "plugins.castle_warfare.castle_war_custom": "Castle Warfare (Custom)",
   "plugins.castle_warfare.castle_war_custom.lore.0": "Protect your castle core and destroy the enemy's castle core!",

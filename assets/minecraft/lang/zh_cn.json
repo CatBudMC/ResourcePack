@@ -630,7 +630,7 @@
   "plugins.castle_warfare.castle_war.lore.3": "死亡时背包所有物品会掉落",
   "plugins.castle_warfare.castle_war.lore.4": "不死图腾使用后有 60 秒冷却",
   "plugins.castle_warfare.castle_war.lore.5": "随机抽选线上玩家的领地做为场地",
-  "plugins.castle_warfare.castle_war.lore.6": "队伍成员强制在同个阵营",
+  "plugins.castle_warfare.castle_war.lore.6": "参赛人数够多时队伍成员会在同阵营",
   "plugins.castle_warfare.castle_war.lore.7": "获得胜利时从奖品清单获得下个奖品",
   "plugins.castle_warfare.castle_war_custom": "城堡战争（自订）",
   "plugins.castle_warfare.castle_war_custom.lore.0": "保护友方的城堡核心，并破坏敌方的城堡核心！",

@@ -630,7 +630,7 @@
   "plugins.castle_warfare.castle_war.lore.3": "사망 시 인벤토리의 모든 아이템이 떨어집니다.",
   "plugins.castle_warfare.castle_war.lore.4": "불사의 토템 사용 후 60초의 재사용 대기시간이 있습니다.",
   "plugins.castle_warfare.castle_war.lore.5": "온라인 플레이어의 영지를 무작위로 선택하여 전장으로 지정",
-  "plugins.castle_warfare.castle_war.lore.6": "팀원은 같은 진영에 고정됩니다",
+  "plugins.castle_warfare.castle_war.lore.6": "참가 인원이 충분하면 팀원들은 같은 진영으로 배치됩니다.",
   "plugins.castle_warfare.castle_war.lore.7": "승리 시 보상 목록에서 다음 보상을 획득합니다",
   "plugins.castle_warfare.castle_war_custom": "성 전쟁 (커스텀)",
   "plugins.castle_warfare.castle_war_custom.lore.0": "아군의 성 핵을 보호하고 적군의 성 핵을 파괴하세요!",
