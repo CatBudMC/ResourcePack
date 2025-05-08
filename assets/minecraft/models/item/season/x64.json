@@ -26,12 +26,12 @@
     "ground": {
       "rotation": [0, 0, 0],
       "translation": [8, 10, 0],
-      "scale":[2, 2, 0.5]
+      "scale": [2, 2, 0.5]
     },
     "head": {
       "rotation": [0, 180, 0],
       "translation": [-18, 31, 7],
-      "scale":[4, 4, 1]
+      "scale": [4, 4, 1]
     },
     "fixed": {
       "rotation": [0, 180, 0],
