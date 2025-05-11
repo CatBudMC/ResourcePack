@@ -705,6 +705,7 @@
   "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "仍然会接收管理员信息",
   "plugins.chat_manager.me": "我",
   "plugins.chat_manager.msg_alert": "密语通知",
+  "plugins.chat_manager.much_harmful_blocked": "'%s' 发送过多有害内容，已暂时封锁 %s。",
   "plugins.chat_manager.radius_message_no_answer": "周围没有任何玩家收到此区域信息",
   "plugins.chat_manager.reply_message": "回复消息",
   "plugins.chat_manager.resend_message": "再次传送消息",

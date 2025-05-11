@@ -705,6 +705,7 @@
   "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "관리자 메시지는 여전히 수신됩니다",
   "plugins.chat_manager.me": "나",
   "plugins.chat_manager.msg_alert": "귓속말 알림",
+  "plugins.chat_manager.much_harmful_blocked": "'%s'님이 유해한 내용을 과도하게 전송하여 %s에서 일시적으로 차단되었습니다.",
   "plugins.chat_manager.radius_message_no_answer": "주변에 이 영역 메시지를 받은 플레이어가 없습니다",
   "plugins.chat_manager.reply_message": "메시지 답장",
   "plugins.chat_manager.resend_message": "메시지 재전송",

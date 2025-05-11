@@ -705,6 +705,7 @@
   "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "管理者からのメッセージは受信されます",
   "plugins.chat_manager.me": "私",
   "plugins.chat_manager.msg_alert": "ささやき通知",
+  "plugins.chat_manager.much_harmful_blocked": "「%s」は有害な内容を過剰に送信したため、一時的に%sからブロックされました。",
   "plugins.chat_manager.radius_message_no_answer": "周囲にこのエリアメッセージを受け取ったプレイヤーはいません",
   "plugins.chat_manager.reply_message": "返信メッセージ",
   "plugins.chat_manager.resend_message": "再送メッセージ",

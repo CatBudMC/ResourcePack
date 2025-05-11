@@ -705,6 +705,7 @@
   "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "ยังคงได้รับข้อความจากผู้ดูแลระบบ",
   "plugins.chat_manager.me": "ฉัน",
   "plugins.chat_manager.msg_alert": "แจ้งเตือนกระซิบ",
+  "plugins.chat_manager.much_harmful_blocked": "'%s' ส่งเนื้อหาที่เป็นอันตรายมากเกินไป และถูกระงับการใช้งานจาก %s ชั่วคราว",
   "plugins.chat_manager.radius_message_no_answer": "ไม่มีผู้เล่นคนใดได้รับข้อความในพื้นที่นี้",
   "plugins.chat_manager.reply_message": "ตอบกลับข้อความ",
   "plugins.chat_manager.resend_message": "ส่งข้อความอีกครั้ง",
