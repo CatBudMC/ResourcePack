@@ -713,6 +713,7 @@
   "plugins.creativity_core.prohibit_placement": "Blok bahan ini tidak dibenarkan untuk diletakkan",
   "plugins.discord_system.join_group": "Sertai kumpulan Discord",
   "plugins.discord_system.join_or_account_bundle": "Sertai Discord / Gabungkan akaun Minecraft",
+  "plugins.discord_system.temporary_ban_with": "'%s' telah mengharamkan sementara '%s' selama %s.",
   "plugins.dynamic_map.move_this_direction": "Gerak ke Arah Ini",
   "plugins.dynamic_map.return_current_position": "Kembali ke Kedudukan Semasa",
   "plugins.dynamic_map.zoom_in": "Zum Masuk",

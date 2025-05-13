@@ -713,6 +713,7 @@
   "plugins.creativity_core.prohibit_placement": "ไม่อนุญาตให้วางบล็อกนี้",
   "plugins.discord_system.join_group": "เข้าร่วมกลุ่ม Discord",
   "plugins.discord_system.join_or_account_bundle": "เข้าร่วม Discord/ผูกบัญชี Minecraft",
+  "plugins.discord_system.temporary_ban_with": "'%s' ได้แบน '%s' ชั่วคราวเป็นเวลา %s",
   "plugins.dynamic_map.move_this_direction": "เคลื่อนที่ไปทางนี้",
   "plugins.dynamic_map.return_current_position": "กลับไปยังตำแหน่งปัจจุบัน",
   "plugins.dynamic_map.zoom_in": "ซูมเข้า",
