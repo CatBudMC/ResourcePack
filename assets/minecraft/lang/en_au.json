@@ -623,29 +623,26 @@
   "plugins.castle_warfare.camp_color.red": "Red Team",
   "plugins.castle_warfare.cancel_invite_room": "Cancel Room Invitation",
   "plugins.castle_warfare.cancel_transfer_homeowner": "Cancel Transfer of Homeowner",
-
   "plugins.castle_warfare.castle_reward": "Received castle reward",
   "plugins.castle_warfare.castle_war": "Castle Warfare",
   "plugins.castle_warfare.castle_war.lore.0": "Protect your castle core and destroy the enemy's core!",
   "plugins.castle_warfare.castle_war.lore.1": "Starts in %s",
   "plugins.castle_warfare.castle_war.lore.2": "All data will be restored to its pre-match state after the game ends.",
-
-
+  "plugins.castle_warfare.castle_war.lore.3": "Won’t die no matter what",
   "plugins.castle_warfare.castle_war.lore.4": "Randomly selects an online player's territory as the battleground",
   "plugins.castle_warfare.castle_war.lore.5": "When enough players join, teammates will be on the same side.",
   "plugins.castle_warfare.castle_war.lore.6": "Receive the next prize from the list when you win",
   "plugins.castle_warfare.castle_war_custom": "Castle Warfare (Custom)",
   "plugins.castle_warfare.castle_war_custom.lore.0": "Protect your castle core and destroy the enemy's core!",
   "plugins.castle_warfare.castle_war_custom.lore.1": "All data will be restored to its pre-match state after the game ends.",
-
-
+  "plugins.castle_warfare.castle_war_custom.lore.2": "Won’t die no matter what",
   "plugins.castle_warfare.castle_war_custom.lore.3": "Supports up to 18 vs 18 battles + 4 spectators.",
   "plugins.castle_warfare.castle_war_custom.lore.4": "Host must purchase a monthly pass to start the match.",
-
+  "plugins.castle_warfare.core_dismantled": "%s's core was dismantled by '%s'",
   "plugins.castle_warfare.custom_room_end_queue": "Custom room end queue",
   "plugins.castle_warfare.custom_room_start_queue": "Custom room start queue",
   "plugins.castle_warfare.exit_custom_room": "Exit custom room",
-
+  "plugins.castle_warfare.give_award_core_break": "Win %s matches while breaking a core to earn this",
   "plugins.castle_warfare.homeowner": "Host",
   "plugins.castle_warfare.homeowner_not_purchase_pass": "Host has not purchased the monthly pass",
   "plugins.castle_warfare.inquiry_sure_invite_room": "Are you sure you want to invite '%s' to join the room?",
@@ -656,7 +653,6 @@
   "plugins.castle_warfare.no_selected_land": "No territory selected",
   "plugins.castle_warfare.observer": "Observer",
   "plugins.castle_warfare.own_side_is": "You are on the %s team",
-
   "plugins.castle_warfare.player_mark_color": "Player '%s' marked as '%s'",
   "plugins.castle_warfare.player_mark_observer": "Player '%s' marked as Observer",
   "plugins.castle_warfare.preparation_countdown": "Preparation ends in %s...",
@@ -675,7 +671,6 @@
   "plugins.castle_warfare.time_coming": "Time is running out",
   "plugins.castle_warfare.tracking_distance": "Distance %s blocks away",
   "plugins.castle_warfare.transfer_homeowner": "Transfer Host",
-  "plugins.castle_warfare.win_more_get_award_from_core_placed": "Win %s matches with the core placed to receive",
   "plugins.castle_warfare.win_with": "%s Victory",
   "plugins.castle_warfare.winner_reward_awarded": "Castle Warfare winner reward '%s' has been given",
   "plugins.chat_manager.automatically_translated_context_with": "Automatically translated content with %s",
