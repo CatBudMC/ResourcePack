@@ -623,29 +623,29 @@
   "plugins.castle_warfare.camp_color.red": "红方",
   "plugins.castle_warfare.cancel_invite_room": "取消邀请加入房间",
   "plugins.castle_warfare.cancel_transfer_homeowner": "取消转交房主",
-  "plugins.castle_warfare.castle_core_placed": "已将城堡核心放置",
+
   "plugins.castle_warfare.castle_reward": "获得城堡奖励",
   "plugins.castle_warfare.castle_war": "城堡战争",
   "plugins.castle_warfare.castle_war.lore.0": "保护友方的城堡核心，并破坏敌方的城堡核心！",
   "plugins.castle_warfare.castle_war.lore.1": "剩余 %s 后开始",
   "plugins.castle_warfare.castle_war.lore.2": "结束后将所有资料恢复成开场前的状态",
-  "plugins.castle_warfare.castle_war.lore.3": "死亡时背包所有物品会掉落",
-  "plugins.castle_warfare.castle_war.lore.4": "不死图腾使用后有 60 秒冷却",
-  "plugins.castle_warfare.castle_war.lore.5": "随机抽选线上玩家的领地做为场地",
-  "plugins.castle_warfare.castle_war.lore.6": "参赛人数够多时队伍成员会在同阵营",
-  "plugins.castle_warfare.castle_war.lore.7": "获得胜利时从奖品清单获得下个奖品",
+
+
+  "plugins.castle_warfare.castle_war.lore.4": "随机抽选线上玩家的领地做为场地",
+  "plugins.castle_warfare.castle_war.lore.5": "参赛人数够多时队伍成员会在同阵营",
+  "plugins.castle_warfare.castle_war.lore.6": "获得胜利时从奖品清单获得下个奖品",
   "plugins.castle_warfare.castle_war_custom": "城堡战争（自订）",
   "plugins.castle_warfare.castle_war_custom.lore.0": "保护友方的城堡核心，并破坏敌方的城堡核心！",
   "plugins.castle_warfare.castle_war_custom.lore.1": "结束后将所有资料恢复成开场前的状态",
-  "plugins.castle_warfare.castle_war_custom.lore.2": "死亡时背包所有物品会掉落",
-  "plugins.castle_warfare.castle_war_custom.lore.3": "不死图腾使用后有 60 秒冷却",
-  "plugins.castle_warfare.castle_war_custom.lore.4": "最多 18 vs 18 同时对抗 + 4 旁观者",
-  "plugins.castle_warfare.castle_war_custom.lore.5": "房主必须购买月卡才能启动对局",
-  "plugins.castle_warfare.core_dismantled": "'%s' 的核心被 '%s' 拆掉了",
+
+
+  "plugins.castle_warfare.castle_war_custom.lore.3": "最多 18 vs 18 同时对抗 + 4 旁观者",
+  "plugins.castle_warfare.castle_war_custom.lore.4": "房主必须购买月卡才能启动对局",
+
   "plugins.castle_warfare.custom_room_end_queue": "自订房间结束列队",
   "plugins.castle_warfare.custom_room_start_queue": "自订房间开始列队",
   "plugins.castle_warfare.exit_custom_room": "退出自订房间",
-  "plugins.castle_warfare.hiding_castle_core_countdown": "埋藏城堡核心中... %s / %s 倒数 %s",
+
   "plugins.castle_warfare.homeowner": "房主",
   "plugins.castle_warfare.homeowner_not_purchase_pass": "房主没有购买月卡",
   "plugins.castle_warfare.inquiry_sure_invite_room": "确定要向 '%s' 邀请加入房间?",
@@ -656,7 +656,7 @@
   "plugins.castle_warfare.no_selected_land": "没有先选择领地",
   "plugins.castle_warfare.observer": "观察者",
   "plugins.castle_warfare.own_side_is": "自己是 %s",
-  "plugins.castle_warfare.place_castle_core": "放置城堡核心",
+
   "plugins.castle_warfare.player_mark_color": "玩家 '%s' 标记为 '%s'",
   "plugins.castle_warfare.player_mark_observer": "玩家 '%s' 标记为观察者",
   "plugins.castle_warfare.preparation_countdown": "前置作业 %s 后结束...",

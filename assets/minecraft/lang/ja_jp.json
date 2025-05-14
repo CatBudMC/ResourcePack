@@ -623,29 +623,29 @@
   "plugins.castle_warfare.camp_color.red": "赤チーム",
   "plugins.castle_warfare.cancel_invite_room": "部屋への招待をキャンセル",
   "plugins.castle_warfare.cancel_transfer_homeowner": "部屋主の譲渡をキャンセル",
-  "plugins.castle_warfare.castle_core_placed": "城のコアが配置されました",
+
   "plugins.castle_warfare.castle_reward": "城の報酬を獲得しました",
   "plugins.castle_warfare.castle_war": "城塞戦争",
   "plugins.castle_warfare.castle_war.lore.0": "味方の城塞コアを守り、敵の城塞コアを破壊せよ！",
   "plugins.castle_warfare.castle_war.lore.1": "%s 後に開始",
   "plugins.castle_warfare.castle_war.lore.2": "試合終了後、すべてのデータは開始前の状態に戻ります",
-  "plugins.castle_warfare.castle_war.lore.3": "死亡時、インベントリ内のアイテムはすべてドロップされます",
-  "plugins.castle_warfare.castle_war.lore.4": "不死のトーテム使用後は 60 秒のクールダウンがあります",
-  "plugins.castle_warfare.castle_war.lore.5": "オンラインプレイヤーの領地をランダムに選び、戦場とする",
-  "plugins.castle_warfare.castle_war.lore.6": "参加者が十分に集まると、チームメンバーは同じ陣営になります。",
-  "plugins.castle_warfare.castle_war.lore.7": "勝利すると報酬リストから次の報酬を獲得します",
+
+
+  "plugins.castle_warfare.castle_war.lore.4": "オンラインプレイヤーの領地をランダムに選び、戦場とする",
+  "plugins.castle_warfare.castle_war.lore.5": "参加者が十分に集まると、チームメンバーは同じ陣営になります。",
+  "plugins.castle_warfare.castle_war.lore.6": "勝利すると報酬リストから次の報酬を獲得します",
   "plugins.castle_warfare.castle_war_custom": "城塞戦争（カスタム）",
   "plugins.castle_warfare.castle_war_custom.lore.0": "味方の城塞コアを守り、敵の城塞コアを破壊せよ！",
   "plugins.castle_warfare.castle_war_custom.lore.1": "試合終了後、すべてのデータは開始前の状態に戻ります",
-  "plugins.castle_warfare.castle_war_custom.lore.2": "死亡時、インベントリ内のアイテムはすべてドロップされます",
-  "plugins.castle_warfare.castle_war_custom.lore.3": "不死のトーテム使用後は 60 秒のクールダウンがあります",
-  "plugins.castle_warfare.castle_war_custom.lore.4": "最大 18 対 18 の対戦 + 4 名の観戦者",
-  "plugins.castle_warfare.castle_war_custom.lore.5": "ルームホストは月額カードを購入する必要があります",
-  "plugins.castle_warfare.core_dismantled": "「%s」のコアが「%s」に破壊されました",
+
+
+  "plugins.castle_warfare.castle_war_custom.lore.3": "最大 18 対 18 の対戦 + 4 名の観戦者",
+  "plugins.castle_warfare.castle_war_custom.lore.4": "ルームホストは月額カードを購入する必要があります",
+
   "plugins.castle_warfare.custom_room_end_queue": "カスタムルーム終了キュー",
   "plugins.castle_warfare.custom_room_start_queue": "カスタムルーム開始キュー",
   "plugins.castle_warfare.exit_custom_room": "カスタムルームを退出",
-  "plugins.castle_warfare.hiding_castle_core_countdown": "城のコアを隠しています... %s / %s カウントダウン %s",
+
   "plugins.castle_warfare.homeowner": "部屋主",
   "plugins.castle_warfare.homeowner_not_purchase_pass": "部屋主が月間パスを購入していません",
   "plugins.castle_warfare.inquiry_sure_invite_room": "'%s' を部屋に招待してもよろしいですか？",
@@ -656,7 +656,7 @@
   "plugins.castle_warfare.no_selected_land": "領地が選択されていません",
   "plugins.castle_warfare.observer": "観察者",
   "plugins.castle_warfare.own_side_is": "自分のチームは %s",
-  "plugins.castle_warfare.place_castle_core": "城のコアを設置",
+
   "plugins.castle_warfare.player_mark_color": "プレイヤー '%s' は '%s' にマークされています",
   "plugins.castle_warfare.player_mark_observer": "プレイヤー '%s' は観察者にマークされています",
   "plugins.castle_warfare.preparation_countdown": "準備完了まであと %s...",

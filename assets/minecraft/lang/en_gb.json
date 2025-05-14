@@ -623,29 +623,29 @@
   "plugins.castle_warfare.camp_color.red": "Red Team",
   "plugins.castle_warfare.cancel_invite_room": "Cancel Room Invite",
   "plugins.castle_warfare.cancel_transfer_homeowner": "Cancel Transfer of Homeowner",
-  "plugins.castle_warfare.castle_core_placed": "Castle Core Placed",
+
   "plugins.castle_warfare.castle_reward": "Received castle reward",
   "plugins.castle_warfare.castle_war": "Castle Warfare",
   "plugins.castle_warfare.castle_war.lore.0": "Protect your castle core and destroy the enemy's castle core!",
   "plugins.castle_warfare.castle_war.lore.1": "Starts in %s",
   "plugins.castle_warfare.castle_war.lore.2": "All data will be restored to the pre-match state after the game ends.",
-  "plugins.castle_warfare.castle_war.lore.3": "All items in your inventory will drop upon death.",
-  "plugins.castle_warfare.castle_war.lore.4": "Totem of Undying has a 60-second cooldown after use.",
-  "plugins.castle_warfare.castle_war.lore.5": "Randomly selects an online player's territory as the battleground",
-  "plugins.castle_warfare.castle_war.lore.6": "When enough players join, teammates will be on the same side.",
-  "plugins.castle_warfare.castle_war.lore.7": "Get the next prize from the prize list when victorious",
+
+
+  "plugins.castle_warfare.castle_war.lore.4": "Randomly selects an online player's territory as the battleground",
+  "plugins.castle_warfare.castle_war.lore.5": "When enough players join, teammates will be on the same side.",
+  "plugins.castle_warfare.castle_war.lore.6": "Get the next prize from the prize list when victorious",
   "plugins.castle_warfare.castle_war_custom": "Castle Warfare (Custom)",
   "plugins.castle_warfare.castle_war_custom.lore.0": "Protect your castle core and destroy the enemy's castle core!",
   "plugins.castle_warfare.castle_war_custom.lore.1": "All data will be restored to the pre-match state after the game ends.",
-  "plugins.castle_warfare.castle_war_custom.lore.2": "All items in your inventory will drop upon death.",
-  "plugins.castle_warfare.castle_war_custom.lore.3": "Totem of Undying has a 60-second cooldown after use.",
-  "plugins.castle_warfare.castle_war_custom.lore.4": "Up to 18 vs 18 battles + 4 spectators.",
-  "plugins.castle_warfare.castle_war_custom.lore.5": "Room hosts must purchase a monthly card to start a match.",
-  "plugins.castle_warfare.core_dismantled": "'%s's core was dismantled by '%s'",
+
+
+  "plugins.castle_warfare.castle_war_custom.lore.3": "Up to 18 vs 18 battles + 4 spectators.",
+  "plugins.castle_warfare.castle_war_custom.lore.4": "Room hosts must purchase a monthly card to start a match.",
+
   "plugins.castle_warfare.custom_room_end_queue": "Custom Room End Queue",
   "plugins.castle_warfare.custom_room_start_queue": "Custom Room Start Queue",
   "plugins.castle_warfare.exit_custom_room": "Exit Custom Room",
-  "plugins.castle_warfare.hiding_castle_core_countdown": "Hiding castle core... %s / %s countdown %s",
+
   "plugins.castle_warfare.homeowner": "Homeowner",
   "plugins.castle_warfare.homeowner_not_purchase_pass": "The homeowner has not purchased a monthly pass.",
   "plugins.castle_warfare.inquiry_sure_invite_room": "Are you sure you want to invite '%s' to the room?",
@@ -656,7 +656,7 @@
   "plugins.castle_warfare.no_selected_land": "No territory selected.",
   "plugins.castle_warfare.observer": "Observer",
   "plugins.castle_warfare.own_side_is": "You are on the %s side",
-  "plugins.castle_warfare.place_castle_core": "Place the Castle Core",
+
   "plugins.castle_warfare.player_mark_color": "Player '%s' marked as '%s'",
   "plugins.castle_warfare.player_mark_observer": "Player '%s' marked as Observer",
   "plugins.castle_warfare.preparation_countdown": "Preparation ends in %s...",

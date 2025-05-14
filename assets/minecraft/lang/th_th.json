@@ -623,29 +623,29 @@
   "plugins.castle_warfare.camp_color.red": "ฝ่ายแดง",
   "plugins.castle_warfare.cancel_invite_room": "ยกเลิกคำเชิญเข้าห้อง",
   "plugins.castle_warfare.cancel_transfer_homeowner": "ยกเลิกการโอนสิทธิ์หัวหน้าห้อง",
-  "plugins.castle_warfare.castle_core_placed": "ได้วางแกนปราสาทเรียบร้อยแล้ว",
+
   "plugins.castle_warfare.castle_reward": "ได้รับรางวัลปราสาท",
   "plugins.castle_warfare.castle_war": "สงครามปราสาท",
   "plugins.castle_warfare.castle_war.lore.0": "ปกป้องแกนปราสาทของฝ่ายเรา และทำลายแกนปราสาทของฝ่ายศัตรู!",
   "plugins.castle_warfare.castle_war.lore.1": "เริ่มใน %s",
   "plugins.castle_warfare.castle_war.lore.2": "ข้อมูลทั้งหมดจะคืนสู่สถานะก่อนเริ่มหลังจบเกม",
-  "plugins.castle_warfare.castle_war.lore.3": "ไอเทมทั้งหมดในกระเป๋าจะดรอปเมื่อตาย",
-  "plugins.castle_warfare.castle_war.lore.4": "โทเท็มอมตะมีคูลดาวน์ 60 วินาทีหลังใช้",
-  "plugins.castle_warfare.castle_war.lore.5": "สุ่มเลือกดินแดนของผู้เล่นออนไลน์เป็นสนามรบ",
-  "plugins.castle_warfare.castle_war.lore.6": "เมื่อมีผู้เล่นเพียงพอ สมาชิกทีมจะอยู่ฝ่ายเดียวกัน",
-  "plugins.castle_warfare.castle_war.lore.7": "เมื่อชนะจะได้รับรางวัลถัดไปจากรายการ",
+
+
+  "plugins.castle_warfare.castle_war.lore.4": "สุ่มเลือกดินแดนของผู้เล่นออนไลน์เป็นสนามรบ",
+  "plugins.castle_warfare.castle_war.lore.5": "เมื่อมีผู้เล่นเพียงพอ สมาชิกทีมจะอยู่ฝ่ายเดียวกัน",
+  "plugins.castle_warfare.castle_war.lore.6": "เมื่อชนะจะได้รับรางวัลถัดไปจากรายการ",
   "plugins.castle_warfare.castle_war_custom": "สงครามปราสาท (กำหนดเอง)",
   "plugins.castle_warfare.castle_war_custom.lore.0": "ปกป้องแกนปราสาทของฝ่ายเรา และทำลายแกนปราสาทของฝ่ายศัตรู!",
   "plugins.castle_warfare.castle_war_custom.lore.1": "ข้อมูลทั้งหมดจะคืนสู่สถานะก่อนเริ่มหลังจบเกม",
-  "plugins.castle_warfare.castle_war_custom.lore.2": "ไอเทมทั้งหมดในกระเป๋าจะดรอปเมื่อตาย",
-  "plugins.castle_warfare.castle_war_custom.lore.3": "โทเท็มอมตะมีคูลดาวน์ 60 วินาทีหลังใช้",
-  "plugins.castle_warfare.castle_war_custom.lore.4": "รองรับการต่อสู้สูงสุด 18 ต่อ 18 คน + 4 ผู้ชม",
-  "plugins.castle_warfare.castle_war_custom.lore.5": "เจ้าของห้องต้องซื้อแพ็กเกจรายเดือนเพื่อเปิดการต่อสู้",
-  "plugins.castle_warfare.core_dismantled": "แกนของ '%s' ถูกถอดโดย '%s'",
+
+
+  "plugins.castle_warfare.castle_war_custom.lore.3": "รองรับการต่อสู้สูงสุด 18 ต่อ 18 คน + 4 ผู้ชม",
+  "plugins.castle_warfare.castle_war_custom.lore.4": "เจ้าของห้องต้องซื้อแพ็กเกจรายเดือนเพื่อเปิดการต่อสู้",
+
   "plugins.castle_warfare.custom_room_end_queue": "สิ้นสุดการคิวห้องปรับแต่ง",
   "plugins.castle_warfare.custom_room_start_queue": "เริ่มการคิวห้องปรับแต่ง",
   "plugins.castle_warfare.exit_custom_room": "ออกจากห้องปรับแต่ง",
-  "plugins.castle_warfare.hiding_castle_core_countdown": "กำลังซ่อนแกนปราสาท... %s / %s นับถอยหลัง %s",
+
   "plugins.castle_warfare.homeowner": "เจ้าของห้อง",
   "plugins.castle_warfare.homeowner_not_purchase_pass": "เจ้าของห้องไม่ได้ซื้อตั๋วรายเดือน",
   "plugins.castle_warfare.inquiry_sure_invite_room": "แน่ใจว่าต้องการเชิญ '%s' เข้าร่วมในห้องหรือไม่?",
@@ -656,7 +656,7 @@
   "plugins.castle_warfare.no_selected_land": "ยังไม่ได้เลือกดินแดน",
   "plugins.castle_warfare.observer": "ผู้สังเกตการณ์",
   "plugins.castle_warfare.own_side_is": "ฝ่ายของคุณคือ %s",
-  "plugins.castle_warfare.place_castle_core": "วางแกนปราสาท",
+
   "plugins.castle_warfare.player_mark_color": "ผู้เล่น '%s' ถูกทำเครื่องหมายเป็น '%s'",
   "plugins.castle_warfare.player_mark_observer": "ผู้เล่น '%s' ถูกทำเครื่องหมายเป็นผู้สังเกตการณ์",
   "plugins.castle_warfare.preparation_countdown": "เตรียมตัวเสร็จสิ้นใน %s...",

@@ -623,29 +623,29 @@
   "plugins.castle_warfare.camp_color.red": "레드팀",
   "plugins.castle_warfare.cancel_invite_room": "방 초대 취소",
   "plugins.castle_warfare.cancel_transfer_homeowner": "방장 권한 이전 취소",
-  "plugins.castle_warfare.castle_core_placed": "성 핵심이 배치되었습니다",
+
   "plugins.castle_warfare.castle_reward": "성 보상을 받았습니다",
   "plugins.castle_warfare.castle_war": "성 전쟁",
   "plugins.castle_warfare.castle_war.lore.0": "아군의 성 핵을 보호하고 적군의 성 핵을 파괴하세요!",
   "plugins.castle_warfare.castle_war.lore.1": "%s 후 시작",
   "plugins.castle_warfare.castle_war.lore.2": "종료 후 모든 데이터는 시작 전 상태로 복구됩니다.",
-  "plugins.castle_warfare.castle_war.lore.3": "사망 시 인벤토리의 모든 아이템이 떨어집니다.",
-  "plugins.castle_warfare.castle_war.lore.4": "불사의 토템 사용 후 60초의 재사용 대기시간이 있습니다.",
-  "plugins.castle_warfare.castle_war.lore.5": "온라인 플레이어의 영지를 무작위로 선택하여 전장으로 지정",
-  "plugins.castle_warfare.castle_war.lore.6": "참가 인원이 충분하면 팀원들은 같은 진영으로 배치됩니다.",
-  "plugins.castle_warfare.castle_war.lore.7": "승리 시 보상 목록에서 다음 보상을 획득합니다",
+
+
+  "plugins.castle_warfare.castle_war.lore.4": "온라인 플레이어의 영지를 무작위로 선택하여 전장으로 지정",
+  "plugins.castle_warfare.castle_war.lore.5": "참가 인원이 충분하면 팀원들은 같은 진영으로 배치됩니다.",
+  "plugins.castle_warfare.castle_war.lore.6": "승리 시 보상 목록에서 다음 보상을 획득합니다",
   "plugins.castle_warfare.castle_war_custom": "성 전쟁 (커스텀)",
   "plugins.castle_warfare.castle_war_custom.lore.0": "아군의 성 핵을 보호하고 적군의 성 핵을 파괴하세요!",
   "plugins.castle_warfare.castle_war_custom.lore.1": "종료 후 모든 데이터는 시작 전 상태로 복구됩니다.",
-  "plugins.castle_warfare.castle_war_custom.lore.2": "사망 시 인벤토리의 모든 아이템이 떨어집니다.",
-  "plugins.castle_warfare.castle_war_custom.lore.3": "불사의 토템 사용 후 60초의 재사용 대기시간이 있습니다.",
-  "plugins.castle_warfare.castle_war_custom.lore.4": "최대 18 vs 18 동시 대전 + 4명의 관전자",
-  "plugins.castle_warfare.castle_war_custom.lore.5": "방장은 월간 패스를 구매해야 게임을 시작할 수 있습니다.",
-  "plugins.castle_warfare.core_dismantled": "'%s'의 코어가 '%s'에게 파괴되었습니다",
+
+
+  "plugins.castle_warfare.castle_war_custom.lore.3": "최대 18 vs 18 동시 대전 + 4명의 관전자",
+  "plugins.castle_warfare.castle_war_custom.lore.4": "방장은 월간 패스를 구매해야 게임을 시작할 수 있습니다.",
+
   "plugins.castle_warfare.custom_room_end_queue": "맞춤 방 대기 종료",
   "plugins.castle_warfare.custom_room_start_queue": "맞춤 방 대기 시작",
   "plugins.castle_warfare.exit_custom_room": "맞춤 방 나가기",
-  "plugins.castle_warfare.hiding_castle_core_countdown": "성의 핵 숨기는 중... %s / %s 카운트다운 %s",
+
   "plugins.castle_warfare.homeowner": "방장",
   "plugins.castle_warfare.homeowner_not_purchase_pass": "방장은 월패스를 구매하지 않았습니다",
   "plugins.castle_warfare.inquiry_sure_invite_room": "'%s'님을 방에 초대하시겠습니까?",
@@ -656,7 +656,7 @@
   "plugins.castle_warfare.no_selected_land": "영토가 먼저 선택되지 않았습니다",
   "plugins.castle_warfare.observer": "관찰자",
   "plugins.castle_warfare.own_side_is": "당신은 %s입니다",
-  "plugins.castle_warfare.place_castle_core": "성 코어 배치",
+
   "plugins.castle_warfare.player_mark_color": "플레이어 '%s'를 '%s'로 표시",
   "plugins.castle_warfare.player_mark_observer": "플레이어 '%s'를 관찰자로 표시",
   "plugins.castle_warfare.preparation_countdown": "준비 종료까지 %s...",
