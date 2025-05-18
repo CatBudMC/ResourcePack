@@ -49,8 +49,6 @@
   "commands.buff.cannot_type": "未知的增益類型 '%s'",
   "commands.buff.cannot_value": "不正確的值 '%s'",
   "commands.buff.setup_complete": "已將增益 '%s' 設置為 '%s'",
-
-
   "commands.code.already_existed": "代碼 '%s' 已經存在",
   "commands.code.created_successfully": "代碼 '%s' 成功新增",
   "commands.code.gift_amount": "禮品金額",
@@ -276,23 +274,7 @@
   "commands.room.already_mode": "房間的模式已經是 '%s'",
   "commands.room.already_queuing": "房間已經在列隊中",
   "commands.room.can_not_myself": "不能是自己",
-  "commands.room.cannot_type": "未知的房間操作類型 '%s'",
-
-
-
-
-
-
-
-  "commands.room.config.castle_warfare.observer": "觀察者",
-
-
-
-  "commands.room.config.castle_warfare.player_list_is": "房間內的全部成員隊伍： %s",
-
-
-
-  "commands.room.config.emergency_task.cannot_type": "未知的緊急任務配置類型 '%s'",
+  "commands.room.cannot_type": "未知的房間操作類型 '%s'",  "commands.room.config.castle_warfare.observer": "觀察者",  "commands.room.config.castle_warfare.player_list_is": "房間內的全部成員隊伍： %s",  "commands.room.config.emergency_task.cannot_type": "未知的緊急任務配置類型 '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "緊急任務腳本 '%s' 不存在",
   "commands.room.config.emergency_task.miss_script_arg": "缺少目標腳本參數",
   "commands.room.config.emergency_task.miss_type": "缺少緊急任務配置類型",
@@ -621,8 +603,6 @@
   "plugins.castle_warfare.are_tied": "雙方平手",
   "plugins.castle_warfare.camp_color.blue": "藍方",
   "plugins.castle_warfare.camp_color.red": "紅方",
-
-
   "plugins.castle_warfare.castle_reward": "獲得城堡獎勵",
   "plugins.castle_warfare.castle_war": "城堡戰爭",
   "plugins.castle_warfare.castle_war.lore.0": "保護友方的城堡核心，並破壞敵方的城堡核心！",
@@ -632,46 +612,14 @@
   "plugins.castle_warfare.castle_war.lore.4": "隨機抽選線上玩家的領地做為場地",
   "plugins.castle_warfare.castle_war.lore.5": "參賽人數夠多時隊伍成員會在同陣營",
   "plugins.castle_warfare.castle_war.lore.6": "獲得勝利時從獎品清單獲得下個獎品",
-
-
-
-
-
-
-  "plugins.castle_warfare.core_dismantled": "%s 的核心被 '%s' 拆掉了",
-
-
-
-  "plugins.castle_warfare.give_award_core_break": "在有破壞核心的情況下獲勝 %s 場即可獲得",
-
-
-
-
-
-
-
-
-
-  "plugins.castle_warfare.own_side_is": "自己是 %s",
-
-
+  "plugins.castle_warfare.core_dismantled": "%s 的核心被 '%s' 拆掉了",  "plugins.castle_warfare.give_award_core_break": "在有破壞核心的情況下獲勝 %s 場即可獲得",  "plugins.castle_warfare.own_side_is": "自己是 %s",
   "plugins.castle_warfare.preparation_countdown": "前置作業 %s 後結束...",
   "plugins.castle_warfare.ready_end_countdown": "%s 後解散...",
   "plugins.castle_warfare.ready_start_countdown": "%s 後開始...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "獲得獎品",
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.time_coming": "時間快到了",
-  "plugins.castle_warfare.tracking_distance": "距離 %s 格遠",
-
-  "plugins.castle_warfare.win_with": "%s 勝利",
+  "plugins.castle_warfare.tracking_distance": "距離 %s 格遠",  "plugins.castle_warfare.win_with": "%s 勝利",
   "plugins.castle_warfare.winner_reward_awarded": "城堡戰爭獲勝獎勵 '%s' 已發放",
   "plugins.chat_manager.automatically_translated_context_with": "已自動翻譯 %s 內容",
   "plugins.chat_manager.chat_scope.discord": "Discord 語音文字頻道",
@@ -1272,12 +1220,8 @@
   "plugins.task_distribution.signed_out": "已簽到完畢",
   "plugins.task_distribution.signed_progress": "簽到進度 %s / %s",
   "plugins.task_distribution.signed_today": "今日已簽到",
-  "plugins.task_distribution.task_require.castle_war_play": "遊玩城堡戰爭",
-
-  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 場",
-  "plugins.task_distribution.task_require.castle_war_victory": "遊玩城堡戰爭並取得勝利",
-
-  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 場",
+  "plugins.task_distribution.task_require.castle_war_play": "遊玩城堡戰爭",  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 場",
+  "plugins.task_distribution.task_require.castle_war_victory": "遊玩城堡戰爭並取得勝利",  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 場",
   "plugins.task_distribution.task_require.complete_ark_survival": "完成方舟生存",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s 場",
   "plugins.task_distribution.task_require.global_chat": "公共頻道聊天",

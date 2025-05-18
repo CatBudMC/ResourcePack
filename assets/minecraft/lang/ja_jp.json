@@ -49,8 +49,6 @@
   "commands.buff.cannot_type": "不明なバフタイプ '%s'",
   "commands.buff.cannot_value": "無効な値 '%s'",
   "commands.buff.setup_complete": "バフ '%s' が '%s' に設定されました",
-
-
   "commands.code.already_existed": "コード '%s' は既に存在します",
   "commands.code.created_successfully": "コード '%s' を正常に作成しました",
   "commands.code.gift_amount": "ギフト金額",
@@ -276,23 +274,7 @@
   "commands.room.already_mode": "部屋のモードはすでに '%s' です",
   "commands.room.already_queuing": "部屋はすでに待機列にあります",
   "commands.room.can_not_myself": "自分自身は対象にできません",
-  "commands.room.cannot_type": "不明な部屋操作タイプ '%s'",
-
-
-
-
-
-
-
-  "commands.room.config.castle_warfare.observer": "観察者",
-
-
-
-  "commands.room.config.castle_warfare.player_list_is": "部屋内の全メンバーのチーム：%s",
-
-
-
-  "commands.room.config.emergency_task.cannot_type": "未知の緊急タスク構成タイプ '%s'",
+  "commands.room.cannot_type": "不明な部屋操作タイプ '%s'",  "commands.room.config.castle_warfare.observer": "観察者",  "commands.room.config.castle_warfare.player_list_is": "部屋内の全メンバーのチーム：%s",  "commands.room.config.emergency_task.cannot_type": "未知の緊急タスク構成タイプ '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "緊急タスクスクリプト '%s' が存在しません",
   "commands.room.config.emergency_task.miss_script_arg": "スクリプト引数が不足しています",
   "commands.room.config.emergency_task.miss_type": "緊急タスク構成タイプが不足しています",
@@ -621,8 +603,6 @@
   "plugins.castle_warfare.are_tied": "双方は引き分け",
   "plugins.castle_warfare.camp_color.blue": "青チーム",
   "plugins.castle_warfare.camp_color.red": "赤チーム",
-
-
   "plugins.castle_warfare.castle_reward": "城の報酬を獲得しました",
   "plugins.castle_warfare.castle_war": "城塞戦争",
   "plugins.castle_warfare.castle_war.lore.0": "味方の城塞コアを守り、敵の城塞コアを破壊せよ！",
@@ -632,46 +612,14 @@
   "plugins.castle_warfare.castle_war.lore.4": "オンラインプレイヤーの領地をランダムに選び、戦場とする",
   "plugins.castle_warfare.castle_war.lore.5": "参加者が十分に集まると、チームメンバーは同じ陣営になります。",
   "plugins.castle_warfare.castle_war.lore.6": "勝利すると報酬リストから次の報酬を獲得します",
-
-
-
-
-
-
-  "plugins.castle_warfare.core_dismantled": "%s のコアが '%s' に破壊されました",
-
-
-
-  "plugins.castle_warfare.give_award_core_break": "コアを破壊して %s 回勝利すると獲得できます",
-
-
-
-
-
-
-
-
-
-  "plugins.castle_warfare.own_side_is": "自分のチームは %s",
-
-
+  "plugins.castle_warfare.core_dismantled": "%s のコアが '%s' に破壊されました",  "plugins.castle_warfare.give_award_core_break": "コアを破壊して %s 回勝利すると獲得できます",  "plugins.castle_warfare.own_side_is": "自分のチームは %s",
   "plugins.castle_warfare.preparation_countdown": "準備完了まであと %s...",
   "plugins.castle_warfare.ready_end_countdown": "%s 後に解散...",
   "plugins.castle_warfare.ready_start_countdown": "%s 後に開始...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "報酬を獲得しました",
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.time_coming": "時間が迫っています",
-  "plugins.castle_warfare.tracking_distance": "距離 %s ブロック",
-
-  "plugins.castle_warfare.win_with": "%s 勝利",
+  "plugins.castle_warfare.tracking_distance": "距離 %s ブロック",  "plugins.castle_warfare.win_with": "%s 勝利",
   "plugins.castle_warfare.winner_reward_awarded": "キャッスルウォーフェアの勝者報酬「%s」が配布されました",
   "plugins.chat_manager.automatically_translated_context_with": "%s の内容を自動翻訳しました",
   "plugins.chat_manager.chat_scope.discord": "Discord ボイス＆テキストチャンネル",
@@ -1272,12 +1220,8 @@
   "plugins.task_distribution.signed_out": "ログイン完了",
   "plugins.task_distribution.signed_progress": "ログイン進捗 %s / %s",
   "plugins.task_distribution.signed_today": "今日は既にログイン済み",
-  "plugins.task_distribution.task_require.castle_war_play": "キャッスルウォーをプレイ",
-
-  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 試合",
-  "plugins.task_distribution.task_require.castle_war_victory": "キャッスルウォーで勝利する",
-
-  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 勝",
+  "plugins.task_distribution.task_require.castle_war_play": "キャッスルウォーをプレイ",  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 試合",
+  "plugins.task_distribution.task_require.castle_war_victory": "キャッスルウォーで勝利する",  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 勝",
   "plugins.task_distribution.task_require.complete_ark_survival": "アークサバイバルを完了する",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s 試合",
   "plugins.task_distribution.task_require.global_chat": "グローバルチャンネルチャット",

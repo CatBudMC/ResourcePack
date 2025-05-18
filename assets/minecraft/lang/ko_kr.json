@@ -49,8 +49,6 @@
   "commands.buff.cannot_type": "알 수 없는 버프 유형 '%s'",
   "commands.buff.cannot_value": "잘못된 값 '%s'",
   "commands.buff.setup_complete": "버프 '%s'이(가) '%s'으로 설정되었습니다",
-
-
   "commands.code.already_existed": "코드 '%s'가 이미 존재합니다",
   "commands.code.created_successfully": "코드 '%s'가 성공적으로 생성되었습니다",
   "commands.code.gift_amount": "기프트 금액",
@@ -276,23 +274,7 @@
   "commands.room.already_mode": "방의 모드가 이미 '%s'임",
   "commands.room.already_queuing": "방이 이미 대기열에 있음",
   "commands.room.can_not_myself": "자신에게 할 수 없음",
-  "commands.room.cannot_type": "알 수 없는 방 작업 유형 '%s'",
-
-
-
-
-
-
-
-  "commands.room.config.castle_warfare.observer": "관전자",
-
-
-
-  "commands.room.config.castle_warfare.player_list_is": "방의 모든 멤버 팀 목록: %s",
-
-
-
-  "commands.room.config.emergency_task.cannot_type": "알 수 없는 긴급 작업 구성 유형 '%s'",
+  "commands.room.cannot_type": "알 수 없는 방 작업 유형 '%s'",  "commands.room.config.castle_warfare.observer": "관전자",  "commands.room.config.castle_warfare.player_list_is": "방의 모든 멤버 팀 목록: %s",  "commands.room.config.emergency_task.cannot_type": "알 수 없는 긴급 작업 구성 유형 '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "긴급 작업 스크립트 '%s'가 존재하지 않습니다",
   "commands.room.config.emergency_task.miss_script_arg": "대상 스크립트 인수가 누락되었습니다",
   "commands.room.config.emergency_task.miss_type": "긴급 작업 구성 유형이 누락되었습니다",
@@ -621,8 +603,6 @@
   "plugins.castle_warfare.are_tied": "양측 동점",
   "plugins.castle_warfare.camp_color.blue": "블루팀",
   "plugins.castle_warfare.camp_color.red": "레드팀",
-
-
   "plugins.castle_warfare.castle_reward": "성 보상을 받았습니다",
   "plugins.castle_warfare.castle_war": "성 전쟁",
   "plugins.castle_warfare.castle_war.lore.0": "아군의 성 핵을 보호하고 적군의 성 핵을 파괴하세요!",
@@ -632,46 +612,14 @@
   "plugins.castle_warfare.castle_war.lore.4": "온라인 플레이어의 영지를 무작위로 선택하여 전장으로 지정",
   "plugins.castle_warfare.castle_war.lore.5": "참가 인원이 충분하면 팀원들은 같은 진영으로 배치됩니다.",
   "plugins.castle_warfare.castle_war.lore.6": "승리 시 보상 목록에서 다음 보상을 획득합니다",
-
-
-
-
-
-
-  "plugins.castle_warfare.core_dismantled": "%s의 코어가 '%s'에게 해체되었습니다",
-
-
-
-  "plugins.castle_warfare.give_award_core_break": "코어를 파괴하고 %s번 승리하면 획득 가능",
-
-
-
-
-
-
-
-
-
-  "plugins.castle_warfare.own_side_is": "당신은 %s입니다",
-
-
+  "plugins.castle_warfare.core_dismantled": "%s의 코어가 '%s'에게 해체되었습니다",  "plugins.castle_warfare.give_award_core_break": "코어를 파괴하고 %s번 승리하면 획득 가능",  "plugins.castle_warfare.own_side_is": "당신은 %s입니다",
   "plugins.castle_warfare.preparation_countdown": "준비 종료까지 %s...",
   "plugins.castle_warfare.ready_end_countdown": "%s 후 해산...",
   "plugins.castle_warfare.ready_start_countdown": "%s 후 시작...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s < %s > %s",
   "plugins.castle_warfare.reward_awarded": "보상을 받았습니다",
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.time_coming": "시간이 다가오고 있습니다",
-  "plugins.castle_warfare.tracking_distance": "%s 블록 거리",
-
-  "plugins.castle_warfare.win_with": "%s 승리",
+  "plugins.castle_warfare.tracking_distance": "%s 블록 거리",  "plugins.castle_warfare.win_with": "%s 승리",
   "plugins.castle_warfare.winner_reward_awarded": "캐슬 워페어 승리 보상 '%s'이(가) 지급되었습니다",
   "plugins.chat_manager.automatically_translated_context_with": "%s 내용을 자동 번역했습니다",
   "plugins.chat_manager.chat_scope.discord": "Discord 음성 텍스트 채널",
@@ -1272,12 +1220,8 @@
   "plugins.task_distribution.signed_out": "출석 완료",
   "plugins.task_distribution.signed_progress": "출석 진행 %s / %s",
   "plugins.task_distribution.signed_today": "오늘 출석 완료",
-  "plugins.task_distribution.task_require.castle_war_play": "성 전쟁 플레이",
-
-  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 경기",
-  "plugins.task_distribution.task_require.castle_war_victory": "성 전쟁 플레이 및 승리",
-
-  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 경기",
+  "plugins.task_distribution.task_require.castle_war_play": "성 전쟁 플레이",  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 경기",
+  "plugins.task_distribution.task_require.castle_war_victory": "성 전쟁 플레이 및 승리",  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 경기",
   "plugins.task_distribution.task_require.complete_ark_survival": "아크 서바이벌 완료",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s 경기",
   "plugins.task_distribution.task_require.global_chat": "글로벌 채널 채팅",

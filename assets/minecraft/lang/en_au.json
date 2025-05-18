@@ -49,8 +49,6 @@
   "commands.buff.cannot_type": "Unknown buff type '%s'",
   "commands.buff.cannot_value": "Incorrect value '%s'",
   "commands.buff.setup_complete": "Buff '%s' set to '%s'",
-
-
   "commands.code.already_existed": "Code '%s' already exists",
   "commands.code.created_successfully": "Code '%s' created successfully",
   "commands.code.gift_amount": "Gift Amount",
@@ -276,23 +274,7 @@
   "commands.room.already_mode": "Room mode is already set to '%s'",
   "commands.room.already_queuing": "Room is already in queue",
   "commands.room.can_not_myself": "Cannot be yourself",
-  "commands.room.cannot_type": "Unknown room operation type '%s'",
-
-
-
-
-
-
-
-  "commands.room.config.castle_warfare.observer": "Observer",
-
-
-
-  "commands.room.config.castle_warfare.player_list_is": "All members in room: %s",
-
-
-
-  "commands.room.config.emergency_task.cannot_type": "Unknown emergency task configuration type '%s'",
+  "commands.room.cannot_type": "Unknown room operation type '%s'",  "commands.room.config.castle_warfare.observer": "Observer",  "commands.room.config.castle_warfare.player_list_is": "All members in room: %s",  "commands.room.config.emergency_task.cannot_type": "Unknown emergency task configuration type '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "Emergency task script '%s' does not exist",
   "commands.room.config.emergency_task.miss_script_arg": "Missing target script argument",
   "commands.room.config.emergency_task.miss_type": "Missing emergency task configuration type",
@@ -621,8 +603,6 @@
   "plugins.castle_warfare.are_tied": "Both sides are tied",
   "plugins.castle_warfare.camp_color.blue": "Blue Team",
   "plugins.castle_warfare.camp_color.red": "Red Team",
-
-
   "plugins.castle_warfare.castle_reward": "Received castle reward",
   "plugins.castle_warfare.castle_war": "Castle Warfare",
   "plugins.castle_warfare.castle_war.lore.0": "Protect your castle core and destroy the enemy's core!",
@@ -632,46 +612,14 @@
   "plugins.castle_warfare.castle_war.lore.4": "Randomly selects an online player's territory as the battleground",
   "plugins.castle_warfare.castle_war.lore.5": "When enough players join, teammates will be on the same side.",
   "plugins.castle_warfare.castle_war.lore.6": "Receive the next prize from the list when you win",
-
-
-
-
-
-
-  "plugins.castle_warfare.core_dismantled": "%s's core was dismantled by '%s'",
-
-
-
-  "plugins.castle_warfare.give_award_core_break": "Win %s matches while breaking a core to earn this",
-
-
-
-
-
-
-
-
-
-  "plugins.castle_warfare.own_side_is": "You are on the %s team",
-
-
+  "plugins.castle_warfare.core_dismantled": "%s's core was dismantled by '%s'",  "plugins.castle_warfare.give_award_core_break": "Win %s matches while breaking a core to earn this",  "plugins.castle_warfare.own_side_is": "You are on the %s team",
   "plugins.castle_warfare.preparation_countdown": "Preparation ends in %s...",
   "plugins.castle_warfare.ready_end_countdown": "Disbanding in %s...",
   "plugins.castle_warfare.ready_start_countdown": "Starting in %s...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s < %s > %s",
   "plugins.castle_warfare.reward_awarded": "Prize awarded",
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.time_coming": "Time is running out",
-  "plugins.castle_warfare.tracking_distance": "Distance %s blocks away",
-
-  "plugins.castle_warfare.win_with": "%s Victory",
+  "plugins.castle_warfare.tracking_distance": "Distance %s blocks away",  "plugins.castle_warfare.win_with": "%s Victory",
   "plugins.castle_warfare.winner_reward_awarded": "Castle Warfare winner reward '%s' has been given",
   "plugins.chat_manager.automatically_translated_context_with": "Automatically translated content with %s",
   "plugins.chat_manager.chat_scope.discord": "Discord Voice & Text Channel",
@@ -1272,12 +1220,8 @@
   "plugins.task_distribution.signed_out": "Signed out",
   "plugins.task_distribution.signed_progress": "Sign-in Progress %s / %s",
   "plugins.task_distribution.signed_today": "Signed in today",
-  "plugins.task_distribution.task_require.castle_war_play": "Play Castle Wars",
-
-  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s matches",
-  "plugins.task_distribution.task_require.castle_war_victory": "Play and win Castle Wars",
-
-  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s matches",
+  "plugins.task_distribution.task_require.castle_war_play": "Play Castle Wars",  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s matches",
+  "plugins.task_distribution.task_require.castle_war_victory": "Play and win Castle Wars",  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s matches",
   "plugins.task_distribution.task_require.complete_ark_survival": "Complete Ark Survival",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s matches",
   "plugins.task_distribution.task_require.global_chat": "Global channel chat",

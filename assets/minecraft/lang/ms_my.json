@@ -49,8 +49,6 @@
   "commands.buff.cannot_type": "Jenis buff tidak diketahui '%s'",
   "commands.buff.cannot_value": "Nilai tidak betul '%s'",
   "commands.buff.setup_complete": "Buff '%s' telah ditetapkan kepada '%s'",
-
-
   "commands.code.already_existed": "Kod '%s' sudah wujud",
   "commands.code.created_successfully": "Kod '%s' berjaya dicipta",
   "commands.code.gift_amount": "Jumlah Hadiah",
@@ -276,23 +274,7 @@
   "commands.room.already_mode": "Mod bilik sudah adalah '%s'",
   "commands.room.already_queuing": "Bilik sudah dalam barisan",
   "commands.room.can_not_myself": "Tidak boleh diri sendiri",
-  "commands.room.cannot_type": "Jenis operasi bilik yang tidak diketahui '%s'",
-
-
-
-
-
-
-
-  "commands.room.config.castle_warfare.observer": "Pemerhati",
-
-
-
-  "commands.room.config.castle_warfare.player_list_is": "Senarai pasukan ahli dalam bilik: %s",
-
-
-
-  "commands.room.config.emergency_task.cannot_type": "Jenis konfigurasi tugas kecemasan '%s' tidak diketahui",
+  "commands.room.cannot_type": "Jenis operasi bilik yang tidak diketahui '%s'",  "commands.room.config.castle_warfare.observer": "Pemerhati",  "commands.room.config.castle_warfare.player_list_is": "Senarai pasukan ahli dalam bilik: %s",  "commands.room.config.emergency_task.cannot_type": "Jenis konfigurasi tugas kecemasan '%s' tidak diketahui",
   "commands.room.config.emergency_task.incorrect_script_key": "Skrip tugas kecemasan '%s' tidak wujud",
   "commands.room.config.emergency_task.miss_script_arg": "Argumen skrip sasaran tiada",
   "commands.room.config.emergency_task.miss_type": "Jenis konfigurasi tugas kecemasan tiada",
@@ -621,8 +603,6 @@
   "plugins.castle_warfare.are_tied": "Kedua-dua pihak seri",
   "plugins.castle_warfare.camp_color.blue": "Pasukan Biru",
   "plugins.castle_warfare.camp_color.red": "Pasukan Merah",
-
-
   "plugins.castle_warfare.castle_reward": "Menerima ganjaran istana",
   "plugins.castle_warfare.castle_war": "Perang Istana",
   "plugins.castle_warfare.castle_war.lore.0": "Lindungi teras istana rakan dan musnahkan teras istana musuh!",
@@ -632,46 +612,14 @@
   "plugins.castle_warfare.castle_war.lore.4": "Secara rawak memilih wilayah pemain dalam talian sebagai medan pertempuran",
   "plugins.castle_warfare.castle_war.lore.5": "Apabila cukup pemain menyertai, ahli pasukan akan berada dalam pasukan yang sama.",
   "plugins.castle_warfare.castle_war.lore.6": "Menang dan dapatkan ganjaran seterusnya dari senarai",
-
-
-
-
-
-
-  "plugins.castle_warfare.core_dismantled": "Teras %s telah dimusnahkan oleh '%s'",
-
-
-
-  "plugins.castle_warfare.give_award_core_break": "Menang %s perlawanan dengan memusnahkan teras untuk dapatkan ini",
-
-
-
-
-
-
-
-
-
-  "plugins.castle_warfare.own_side_is": "Pihak anda ialah %s",
-
-
+  "plugins.castle_warfare.core_dismantled": "Teras %s telah dimusnahkan oleh '%s'",  "plugins.castle_warfare.give_award_core_break": "Menang %s perlawanan dengan memusnahkan teras untuk dapatkan ini",  "plugins.castle_warfare.own_side_is": "Pihak anda ialah %s",
   "plugins.castle_warfare.preparation_countdown": "Persiapan berakhir dalam %s...",
   "plugins.castle_warfare.ready_end_countdown": "Akan dibubarkan dalam %s...",
   "plugins.castle_warfare.ready_start_countdown": "Akan bermula dalam %s...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "Ganjaran diterima",
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.time_coming": "Masa hampir tiba",
-  "plugins.castle_warfare.tracking_distance": "Jarak %s blok jauh",
-
-  "plugins.castle_warfare.win_with": "%s menang",
+  "plugins.castle_warfare.tracking_distance": "Jarak %s blok jauh",  "plugins.castle_warfare.win_with": "%s menang",
   "plugins.castle_warfare.winner_reward_awarded": "Ganjaran pemenang Castle Warfare '%s' telah diberikan",
   "plugins.chat_manager.automatically_translated_context_with": "Kandungan diterjemah secara automatik dengan %s",
   "plugins.chat_manager.chat_scope.discord": "Saluran Teks dan Suara Discord",
@@ -1272,12 +1220,8 @@
   "plugins.task_distribution.signed_out": "Daftar selesai",
   "plugins.task_distribution.signed_progress": "Kemajuan daftar %s / %s",
   "plugins.task_distribution.signed_today": "Telah daftar hari ini",
-  "plugins.task_distribution.task_require.castle_war_play": "Main Perang Istana",
-
-  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s perlawanan",
-  "plugins.task_distribution.task_require.castle_war_victory": "Main Perang Istana dan Menang",
-
-  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s perlawanan",
+  "plugins.task_distribution.task_require.castle_war_play": "Main Perang Istana",  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s perlawanan",
+  "plugins.task_distribution.task_require.castle_war_victory": "Main Perang Istana dan Menang",  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s perlawanan",
   "plugins.task_distribution.task_require.complete_ark_survival": "Lengkapkan Ark Survival",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s perlawanan",
   "plugins.task_distribution.task_require.global_chat": "Sembang saluran global",

@@ -49,8 +49,6 @@
   "commands.buff.cannot_type": "ประเภทการเพิ่มพลังที่ไม่รู้จัก '%s'",
   "commands.buff.cannot_value": "ค่าที่ไม่ถูกต้อง '%s'",
   "commands.buff.setup_complete": "ตั้งค่าเพิ่มพลัง '%s' เป็น '%s' เรียบร้อยแล้ว",
-
-
   "commands.code.already_existed": "โค้ด '%s' มีอยู่แล้ว",
   "commands.code.created_successfully": "สร้างโค้ด '%s' สำเร็จ",
   "commands.code.gift_amount": "จำนวนของขวัญ",
@@ -276,23 +274,7 @@
   "commands.room.already_mode": "โหมดของห้องคือ '%s' อยู่แล้ว",
   "commands.room.already_queuing": "ห้องกำลังอยู่ในคิวแล้ว",
   "commands.room.can_not_myself": "ไม่สามารถทำกับตัวเองได้",
-  "commands.room.cannot_type": "ประเภทการทำงานของห้องที่ไม่รู้จัก '%s'",
-
-
-
-
-
-
-
-  "commands.room.config.castle_warfare.observer": "ผู้สังเกตการณ์",
-
-
-
-  "commands.room.config.castle_warfare.player_list_is": "รายชื่อสมาชิกทั้งหมดในห้อง: %s",
-
-
-
-  "commands.room.config.emergency_task.cannot_type": "ประเภทการกำหนดค่างานฉุกเฉินที่ไม่รู้จัก '%s'",
+  "commands.room.cannot_type": "ประเภทการทำงานของห้องที่ไม่รู้จัก '%s'",  "commands.room.config.castle_warfare.observer": "ผู้สังเกตการณ์",  "commands.room.config.castle_warfare.player_list_is": "รายชื่อสมาชิกทั้งหมดในห้อง: %s",  "commands.room.config.emergency_task.cannot_type": "ประเภทการกำหนดค่างานฉุกเฉินที่ไม่รู้จัก '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "สคริปต์งานฉุกเฉิน '%s' ไม่พบ",
   "commands.room.config.emergency_task.miss_script_arg": "ขาดพารามิเตอร์สคริปต์เป้าหมาย",
   "commands.room.config.emergency_task.miss_type": "ประเภทการกำหนดค่างานฉุกเฉินที่ขาดหายไป",
@@ -621,8 +603,6 @@
   "plugins.castle_warfare.are_tied": "เสมอกันทั้งสองฝ่าย",
   "plugins.castle_warfare.camp_color.blue": "ฝ่ายน้ำเงิน",
   "plugins.castle_warfare.camp_color.red": "ฝ่ายแดง",
-
-
   "plugins.castle_warfare.castle_reward": "ได้รับรางวัลปราสาท",
   "plugins.castle_warfare.castle_war": "สงครามปราสาท",
   "plugins.castle_warfare.castle_war.lore.0": "ปกป้องแกนปราสาทของฝ่ายเรา และทำลายแกนปราสาทของฝ่ายศัตรู!",
@@ -632,46 +612,14 @@
   "plugins.castle_warfare.castle_war.lore.4": "สุ่มเลือกดินแดนของผู้เล่นออนไลน์เป็นสนามรบ",
   "plugins.castle_warfare.castle_war.lore.5": "เมื่อมีผู้เล่นเพียงพอ สมาชิกทีมจะอยู่ฝ่ายเดียวกัน",
   "plugins.castle_warfare.castle_war.lore.6": "เมื่อชนะจะได้รับรางวัลถัดไปจากรายการ",
-
-
-
-
-
-
-  "plugins.castle_warfare.core_dismantled": "แกนกลางของ %s ถูก '%s' รื้อถอน",
-
-
-
-  "plugins.castle_warfare.give_award_core_break": "ชนะ %s เกมโดยมีการทำลายแกนกลางเพื่อรับรางวัลนี้",
-
-
-
-
-
-
-
-
-
-  "plugins.castle_warfare.own_side_is": "ฝ่ายของคุณคือ %s",
-
-
+  "plugins.castle_warfare.core_dismantled": "แกนกลางของ %s ถูก '%s' รื้อถอน",  "plugins.castle_warfare.give_award_core_break": "ชนะ %s เกมโดยมีการทำลายแกนกลางเพื่อรับรางวัลนี้",  "plugins.castle_warfare.own_side_is": "ฝ่ายของคุณคือ %s",
   "plugins.castle_warfare.preparation_countdown": "เตรียมตัวเสร็จสิ้นใน %s...",
   "plugins.castle_warfare.ready_end_countdown": "สิ้นสุดภายใน %s...",
   "plugins.castle_warfare.ready_start_countdown": "เริ่มภายใน %s...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "ได้รับรางวัลแล้ว",
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.time_coming": "ใกล้ถึงเวลาแล้ว",
-  "plugins.castle_warfare.tracking_distance": "ห่างออกไป %s บล็อก",
-
-  "plugins.castle_warfare.win_with": "%s ชนะ",
+  "plugins.castle_warfare.tracking_distance": "ห่างออกไป %s บล็อก",  "plugins.castle_warfare.win_with": "%s ชนะ",
   "plugins.castle_warfare.winner_reward_awarded": "รางวัลชนะ Castle Warfare '%s' ได้รับแล้ว",
   "plugins.chat_manager.automatically_translated_context_with": "แปลเนื้อหาโดยอัตโนมัติด้วย %s",
   "plugins.chat_manager.chat_scope.discord": "ช่องแชทเสียงและข้อความ Discord",
@@ -1272,12 +1220,8 @@
   "plugins.task_distribution.signed_out": "เช็คชื่อเสร็จสิ้นแล้ว",
   "plugins.task_distribution.signed_progress": "ความคืบหน้าการเช็คชื่อ %s / %s",
   "plugins.task_distribution.signed_today": "เช็คชื่อวันนี้แล้ว",
-  "plugins.task_distribution.task_require.castle_war_play": "เล่น Castle War",
-
-  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s รอบ",
-  "plugins.task_distribution.task_require.castle_war_victory": "เล่น Castle War และได้รับชัยชนะ",
-
-  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s รอบ",
+  "plugins.task_distribution.task_require.castle_war_play": "เล่น Castle War",  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s รอบ",
+  "plugins.task_distribution.task_require.castle_war_victory": "เล่น Castle War และได้รับชัยชนะ",  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s รอบ",
   "plugins.task_distribution.task_require.complete_ark_survival": "ทำภารกิจ Ark Survival ให้สำเร็จ",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s เกม",
   "plugins.task_distribution.task_require.global_chat": "แชทช่องทางสาธารณะ",

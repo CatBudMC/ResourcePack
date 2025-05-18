@@ -49,8 +49,6 @@
   "commands.buff.cannot_type": "未知的增益类型 '%s'",
   "commands.buff.cannot_value": "不正确的值 '%s'",
   "commands.buff.setup_complete": "已将增益 '%s' 设置为 '%s'",
-
-
   "commands.code.already_existed": "代碼 '%s' 已經存在",
   "commands.code.created_successfully": "代碼 '%s' 成功新增",
   "commands.code.gift_amount": "禮品金額",
@@ -276,23 +274,7 @@
   "commands.room.already_mode": "房间的模式已经是 '%s'",
   "commands.room.already_queuing": "房间已经在列队中",
   "commands.room.can_not_myself": "不能是自己",
-  "commands.room.cannot_type": "未知的房间操作类型 '%s'",
-
-
-
-
-
-
-
-  "commands.room.config.castle_warfare.observer": "观察者",
-
-
-
-  "commands.room.config.castle_warfare.player_list_is": "房间内的全部成员队伍： %s",
-
-
-
-  "commands.room.config.emergency_task.cannot_type": "未知的紧急任务配置类型 '%s'",
+  "commands.room.cannot_type": "未知的房间操作类型 '%s'",  "commands.room.config.castle_warfare.observer": "观察者",  "commands.room.config.castle_warfare.player_list_is": "房间内的全部成员队伍： %s",  "commands.room.config.emergency_task.cannot_type": "未知的紧急任务配置类型 '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "紧急任务脚本 '%s' 不存在",
   "commands.room.config.emergency_task.miss_script_arg": "缺少目标脚本参数",
   "commands.room.config.emergency_task.miss_type": "缺少紧急任务配置类型",
@@ -621,8 +603,6 @@
   "plugins.castle_warfare.are_tied": "双方平手",
   "plugins.castle_warfare.camp_color.blue": "蓝方",
   "plugins.castle_warfare.camp_color.red": "红方",
-
-
   "plugins.castle_warfare.castle_reward": "获得城堡奖励",
   "plugins.castle_warfare.castle_war": "城堡战争",
   "plugins.castle_warfare.castle_war.lore.0": "保护友方的城堡核心，并破坏敌方的城堡核心！",
@@ -632,46 +612,14 @@
   "plugins.castle_warfare.castle_war.lore.4": "随机抽选线上玩家的领地做为场地",
   "plugins.castle_warfare.castle_war.lore.5": "参赛人数够多时队伍成员会在同阵营",
   "plugins.castle_warfare.castle_war.lore.6": "获得胜利时从奖品清单获得下个奖品",
-
-
-
-
-
-
-  "plugins.castle_warfare.core_dismantled": "%s 的核心被 '%s' 拆掉了",
-
-
-
-  "plugins.castle_warfare.give_award_core_break": "在有破坏核心的情况下获胜 %s 场即可获得",
-
-
-
-
-
-
-
-
-
-  "plugins.castle_warfare.own_side_is": "自己是 %s",
-
-
+  "plugins.castle_warfare.core_dismantled": "%s 的核心被 '%s' 拆掉了",  "plugins.castle_warfare.give_award_core_break": "在有破坏核心的情况下获胜 %s 场即可获得",  "plugins.castle_warfare.own_side_is": "自己是 %s",
   "plugins.castle_warfare.preparation_countdown": "前置作业 %s 后结束...",
   "plugins.castle_warfare.ready_end_countdown": "%s 后解散...",
   "plugins.castle_warfare.ready_start_countdown": "%s 后开始...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "获得奖品",
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.time_coming": "时间快到了",
-  "plugins.castle_warfare.tracking_distance": "距离 %s 格远",
-
-  "plugins.castle_warfare.win_with": "%s 胜利",
+  "plugins.castle_warfare.tracking_distance": "距离 %s 格远",  "plugins.castle_warfare.win_with": "%s 胜利",
   "plugins.castle_warfare.winner_reward_awarded": "城堡战争获胜奖励 '%s' 已发放",
   "plugins.chat_manager.automatically_translated_context_with": "已自动翻译 %s 内容",
   "plugins.chat_manager.chat_scope.discord": "Discord 语音文字频道",
@@ -1272,12 +1220,8 @@
   "plugins.task_distribution.signed_out": "已签到完毕",
   "plugins.task_distribution.signed_progress": "签到进度 %s / %s",
   "plugins.task_distribution.signed_today": "今日已签到",
-  "plugins.task_distribution.task_require.castle_war_play": "游玩城堡战争",
-
-  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 场",
-  "plugins.task_distribution.task_require.castle_war_victory": "游玩城堡战争并取得胜利",
-
-  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 场",
+  "plugins.task_distribution.task_require.castle_war_play": "游玩城堡战争",  "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 场",
+  "plugins.task_distribution.task_require.castle_war_victory": "游玩城堡战争并取得胜利",  "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 场",
   "plugins.task_distribution.task_require.complete_ark_survival": "完成方舟生存",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s 场",
   "plugins.task_distribution.task_require.global_chat": "公共频道聊天",
