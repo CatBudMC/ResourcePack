@@ -49,8 +49,8 @@
   "commands.buff.cannot_type": "Jenis buff tidak diketahui '%s'",
   "commands.buff.cannot_value": "Nilai tidak betul '%s'",
   "commands.buff.setup_complete": "Buff '%s' telah ditetapkan kepada '%s'",
-  "commands.castle.cannot_type": "Jenis operasi pemain tidak diketahui '%s'",
-  "commands.castle.miss_type": "Parameter istana hilang",
+
+
   "commands.code.already_existed": "Kod '%s' sudah wujud",
   "commands.code.created_successfully": "Kod '%s' berjaya dicipta",
   "commands.code.gift_amount": "Jumlah Hadiah",
@@ -277,21 +277,21 @@
   "commands.room.already_queuing": "Bilik sudah dalam barisan",
   "commands.room.can_not_myself": "Tidak boleh diri sendiri",
   "commands.room.cannot_type": "Jenis operasi bilik yang tidak diketahui '%s'",
-  "commands.room.config.castle_warfare.cannot_type": "Jenis konfigurasi perang istana yang tidak diketahui '%s'",
-  "commands.room.config.castle_warfare.color_capacity_fulled": "Jumlah pemain untuk '%s' telah penuh",
-  "commands.room.config.castle_warfare.complete_land_selected": "Berjaya menetapkan perang istana sebagai wilayah '%s'",
-  "commands.room.config.castle_warfare.incorrect_pos": "Koordinat tidak tepat '%s'",
-  "commands.room.config.castle_warfare.land_not_admin": "Koordinat '%s' tiada kebenaran pentadbir wilayah",
-  "commands.room.config.castle_warfare.miss_player_arg": "Parameter pemain sasaran tiada",
-  "commands.room.config.castle_warfare.miss_pos_arg": "Parameter koordinat sasaran tiada",
+
+
+
+
+
+
+
   "commands.room.config.castle_warfare.observer": "Pemerhati",
-  "commands.room.config.castle_warfare.observer_capacity_fulled": "Jumlah pemerhati telah penuh",
-  "commands.room.config.castle_warfare.player_already_color": "Pemain '%s' sudah menjadi '%s'",
-  "commands.room.config.castle_warfare.player_already_observer": "Pemain '%s' sudah menjadi pemerhati",
+
+
+
   "commands.room.config.castle_warfare.player_list_is": "Senarai pasukan ahli dalam bilik: %s",
-  "commands.room.config.castle_warfare.player_not_exist": "Pemain '%s' tidak wujud",
-  "commands.room.config.castle_warfare.player_not_member": "Pemain '%s' tidak berada dalam bilik",
-  "commands.room.config.castle_warfare.pos_outside_world": "Koordinat '%s' berada di luar dunia",
+
+
+
   "commands.room.config.emergency_task.cannot_type": "Jenis konfigurasi tugas kecemasan '%s' tidak diketahui",
   "commands.room.config.emergency_task.incorrect_script_key": "Skrip tugas kecemasan '%s' tidak wujud",
   "commands.room.config.emergency_task.miss_script_arg": "Argumen skrip sasaran tiada",
@@ -621,8 +621,8 @@
   "plugins.castle_warfare.are_tied": "Kedua-dua pihak seri",
   "plugins.castle_warfare.camp_color.blue": "Pasukan Biru",
   "plugins.castle_warfare.camp_color.red": "Pasukan Merah",
-  "plugins.castle_warfare.cancel_invite_room": "Batalkan jemputan ke bilik",
-  "plugins.castle_warfare.cancel_transfer_homeowner": "Batalkan penyerahan pemilik bilik",
+
+
   "plugins.castle_warfare.castle_reward": "Menerima ganjaran istana",
   "plugins.castle_warfare.castle_war": "Perang Istana",
   "plugins.castle_warfare.castle_war.lore.0": "Lindungi teras istana rakan dan musnahkan teras istana musuh!",
@@ -632,45 +632,45 @@
   "plugins.castle_warfare.castle_war.lore.4": "Secara rawak memilih wilayah pemain dalam talian sebagai medan pertempuran",
   "plugins.castle_warfare.castle_war.lore.5": "Apabila cukup pemain menyertai, ahli pasukan akan berada dalam pasukan yang sama.",
   "plugins.castle_warfare.castle_war.lore.6": "Menang dan dapatkan ganjaran seterusnya dari senarai",
-  "plugins.castle_warfare.castle_war_custom": "Perang Istana (Tersuai)",
-  "plugins.castle_warfare.castle_war_custom.lore.0": "Lindungi teras istana rakan dan musnahkan teras istana musuh!",
-  "plugins.castle_warfare.castle_war_custom.lore.1": "Semua data akan dipulihkan seperti sebelum perlawanan selepas tamat.",
-  "plugins.castle_warfare.castle_war_custom.lore.2": "Tidak akan mati walau apa pun terjadi",
-  "plugins.castle_warfare.castle_war_custom.lore.3": "Maksimum 18 lawan 18 + 4 penonton.",
-  "plugins.castle_warfare.castle_war_custom.lore.4": "Pemilik bilik mesti membeli pas bulanan untuk memulakan perlawanan.",
+
+
+
+
+
+
   "plugins.castle_warfare.core_dismantled": "Teras %s telah dimusnahkan oleh '%s'",
-  "plugins.castle_warfare.custom_room_end_queue": "Giliran bilik tersuai tamat",
-  "plugins.castle_warfare.custom_room_start_queue": "Giliran bilik tersuai mula",
-  "plugins.castle_warfare.exit_custom_room": "Keluar dari bilik tersuai",
+
+
+
   "plugins.castle_warfare.give_award_core_break": "Menang %s perlawanan dengan memusnahkan teras untuk dapatkan ini",
-  "plugins.castle_warfare.homeowner": "Pemilik Bilik",
-  "plugins.castle_warfare.homeowner_not_purchase_pass": "Pemilik bilik tidak membeli kad bulanan",
-  "plugins.castle_warfare.inquiry_sure_invite_room": "Adakah anda pasti untuk menjemput '%s' ke bilik?",
-  "plugins.castle_warfare.inquiry_sure_transfer_homeowner": "Adakah anda pasti untuk memindahkan hak pemilik bilik kepada '%s'?",
-  "plugins.castle_warfare.invite_player": "Jemput Pemain",
-  "plugins.castle_warfare.kick_of_room": "Tendang keluar dari bilik",
-  "plugins.castle_warfare.no_land": "Tiada Tanah",
-  "plugins.castle_warfare.no_selected_land": "Tiada tanah yang dipilih",
-  "plugins.castle_warfare.observer": "Pemerhati",
+
+
+
+
+
+
+
+
+
   "plugins.castle_warfare.own_side_is": "Pihak anda ialah %s",
-  "plugins.castle_warfare.player_mark_color": "Pemain '%s' ditanda sebagai '%s'",
-  "plugins.castle_warfare.player_mark_observer": "Pemain '%s' ditanda sebagai pemerhati",
+
+
   "plugins.castle_warfare.preparation_countdown": "Persiapan berakhir dalam %s...",
   "plugins.castle_warfare.ready_end_countdown": "Akan dibubarkan dalam %s...",
   "plugins.castle_warfare.ready_start_countdown": "Akan bermula dalam %s...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "Ganjaran diterima",
-  "plugins.castle_warfare.selected_land_not_admin": "Pemilik tanah yang dipilih tidak mempunyai hak sebagai pengurus tanah",
-  "plugins.castle_warfare.setup_custom_room": "Tetapkan bilik tersuai",
-  "plugins.castle_warfare.show_player_status": "Tunjukkan Status Pemain",
-  "plugins.castle_warfare.sure_invite_room": "Pasti mahu jemput ke bilik",
-  "plugins.castle_warfare.sure_transfer_homeowner": "Pasti mahu pindah pemilik bilik",
-  "plugins.castle_warfare.switch_land": "Tukar Tanah",
-  "plugins.castle_warfare.switch_to_color": "Tukar kepada %s",
-  "plugins.castle_warfare.switch_to_observer": "Tukar kepada Pemerhati",
+
+
+
+
+
+
+
+
   "plugins.castle_warfare.time_coming": "Masa hampir tiba",
   "plugins.castle_warfare.tracking_distance": "Jarak %s blok jauh",
-  "plugins.castle_warfare.transfer_homeowner": "Pindahkan Pemilik Bilik",
+
   "plugins.castle_warfare.win_with": "%s menang",
   "plugins.castle_warfare.winner_reward_awarded": "Ganjaran pemenang Castle Warfare '%s' telah diberikan",
   "plugins.chat_manager.automatically_translated_context_with": "Kandungan diterjemah secara automatik dengan %s",
@@ -1273,10 +1273,10 @@
   "plugins.task_distribution.signed_progress": "Kemajuan daftar %s / %s",
   "plugins.task_distribution.signed_today": "Telah daftar hari ini",
   "plugins.task_distribution.task_require.castle_war_play": "Main Perang Istana",
-  "plugins.task_distribution.task_require.castle_war_play.lore.0": "Tidak termasuk perlawanan tersuai.",
+
   "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s perlawanan",
   "plugins.task_distribution.task_require.castle_war_victory": "Main Perang Istana dan Menang",
-  "plugins.task_distribution.task_require.castle_war_victory.lore.0": "Tidak termasuk perlawanan tersuai.",
+
   "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s perlawanan",
   "plugins.task_distribution.task_require.complete_ark_survival": "Lengkapkan Ark Survival",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s perlawanan",

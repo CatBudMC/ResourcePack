@@ -49,8 +49,8 @@
   "commands.buff.cannot_type": "不明なバフタイプ '%s'",
   "commands.buff.cannot_value": "無効な値 '%s'",
   "commands.buff.setup_complete": "バフ '%s' が '%s' に設定されました",
-  "commands.castle.cannot_type": "不明なプレイヤー操作タイプ '%s'",
-  "commands.castle.miss_type": "城のパラメータが不足しています",
+
+
   "commands.code.already_existed": "コード '%s' は既に存在します",
   "commands.code.created_successfully": "コード '%s' を正常に作成しました",
   "commands.code.gift_amount": "ギフト金額",
@@ -277,21 +277,21 @@
   "commands.room.already_queuing": "部屋はすでに待機列にあります",
   "commands.room.can_not_myself": "自分自身は対象にできません",
   "commands.room.cannot_type": "不明な部屋操作タイプ '%s'",
-  "commands.room.config.castle_warfare.cannot_type": "未知のキャッスルウォーフェア設定タイプ '%s'",
-  "commands.room.config.castle_warfare.color_capacity_fulled": "'%s' の人数が満員です",
-  "commands.room.config.castle_warfare.complete_land_selected": "キャッスルウォーフェアを領地 '%s' に設定しました",
-  "commands.room.config.castle_warfare.incorrect_pos": "無効な座標 '%s'",
-  "commands.room.config.castle_warfare.land_not_admin": "座標 '%s' には領地管理権限がありません",
-  "commands.room.config.castle_warfare.miss_player_arg": "対象プレイヤーのパラメータが不足しています",
-  "commands.room.config.castle_warfare.miss_pos_arg": "対象座標のパラメータが不足しています",
+
+
+
+
+
+
+
   "commands.room.config.castle_warfare.observer": "観察者",
-  "commands.room.config.castle_warfare.observer_capacity_fulled": "観察者の人数が満員です",
-  "commands.room.config.castle_warfare.player_already_color": "メンバー '%s' はすでに '%s' です",
-  "commands.room.config.castle_warfare.player_already_observer": "メンバー '%s' はすでに観察者です",
+
+
+
   "commands.room.config.castle_warfare.player_list_is": "部屋内の全メンバーのチーム：%s",
-  "commands.room.config.castle_warfare.player_not_exist": "プレイヤー '%s' は存在しません",
-  "commands.room.config.castle_warfare.player_not_member": "プレイヤー '%s' は部屋にいません",
-  "commands.room.config.castle_warfare.pos_outside_world": "座標 '%s' は世界の外にあります",
+
+
+
   "commands.room.config.emergency_task.cannot_type": "未知の緊急タスク構成タイプ '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "緊急タスクスクリプト '%s' が存在しません",
   "commands.room.config.emergency_task.miss_script_arg": "スクリプト引数が不足しています",
@@ -621,8 +621,8 @@
   "plugins.castle_warfare.are_tied": "双方は引き分け",
   "plugins.castle_warfare.camp_color.blue": "青チーム",
   "plugins.castle_warfare.camp_color.red": "赤チーム",
-  "plugins.castle_warfare.cancel_invite_room": "部屋への招待をキャンセル",
-  "plugins.castle_warfare.cancel_transfer_homeowner": "部屋主の譲渡をキャンセル",
+
+
   "plugins.castle_warfare.castle_reward": "城の報酬を獲得しました",
   "plugins.castle_warfare.castle_war": "城塞戦争",
   "plugins.castle_warfare.castle_war.lore.0": "味方の城塞コアを守り、敵の城塞コアを破壊せよ！",
@@ -632,45 +632,45 @@
   "plugins.castle_warfare.castle_war.lore.4": "オンラインプレイヤーの領地をランダムに選び、戦場とする",
   "plugins.castle_warfare.castle_war.lore.5": "参加者が十分に集まると、チームメンバーは同じ陣営になります。",
   "plugins.castle_warfare.castle_war.lore.6": "勝利すると報酬リストから次の報酬を獲得します",
-  "plugins.castle_warfare.castle_war_custom": "城塞戦争（カスタム）",
-  "plugins.castle_warfare.castle_war_custom.lore.0": "味方の城塞コアを守り、敵の城塞コアを破壊せよ！",
-  "plugins.castle_warfare.castle_war_custom.lore.1": "試合終了後、すべてのデータは開始前の状態に戻ります",
-  "plugins.castle_warfare.castle_war_custom.lore.2": "絶対に死なない",
-  "plugins.castle_warfare.castle_war_custom.lore.3": "最大 18 対 18 の対戦 + 4 名の観戦者",
-  "plugins.castle_warfare.castle_war_custom.lore.4": "ルームホストは月額カードを購入する必要があります",
+
+
+
+
+
+
   "plugins.castle_warfare.core_dismantled": "%s のコアが '%s' に破壊されました",
-  "plugins.castle_warfare.custom_room_end_queue": "カスタムルーム終了キュー",
-  "plugins.castle_warfare.custom_room_start_queue": "カスタムルーム開始キュー",
-  "plugins.castle_warfare.exit_custom_room": "カスタムルームを退出",
+
+
+
   "plugins.castle_warfare.give_award_core_break": "コアを破壊して %s 回勝利すると獲得できます",
-  "plugins.castle_warfare.homeowner": "部屋主",
-  "plugins.castle_warfare.homeowner_not_purchase_pass": "部屋主が月間パスを購入していません",
-  "plugins.castle_warfare.inquiry_sure_invite_room": "'%s' を部屋に招待してもよろしいですか？",
-  "plugins.castle_warfare.inquiry_sure_transfer_homeowner": "'%s' に部屋主を譲渡してもよろしいですか？",
-  "plugins.castle_warfare.invite_player": "プレイヤーを招待",
-  "plugins.castle_warfare.kick_of_room": "部屋からキックする",
-  "plugins.castle_warfare.no_land": "土地なし",
-  "plugins.castle_warfare.no_selected_land": "領地が選択されていません",
-  "plugins.castle_warfare.observer": "観察者",
+
+
+
+
+
+
+
+
+
   "plugins.castle_warfare.own_side_is": "自分のチームは %s",
-  "plugins.castle_warfare.player_mark_color": "プレイヤー '%s' は '%s' にマークされています",
-  "plugins.castle_warfare.player_mark_observer": "プレイヤー '%s' は観察者にマークされています",
+
+
   "plugins.castle_warfare.preparation_countdown": "準備完了まであと %s...",
   "plugins.castle_warfare.ready_end_countdown": "%s 後に解散...",
   "plugins.castle_warfare.ready_start_countdown": "%s 後に開始...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "報酬を獲得しました",
-  "plugins.castle_warfare.selected_land_not_admin": "選択した領地の部屋主は領地管理者権限を持っていません",
-  "plugins.castle_warfare.setup_custom_room": "カスタムルームを設定",
-  "plugins.castle_warfare.show_player_status": "プレイヤーのステータスを表示",
-  "plugins.castle_warfare.sure_invite_room": "部屋への招待を確定",
-  "plugins.castle_warfare.sure_transfer_homeowner": "部屋主の譲渡を確定",
-  "plugins.castle_warfare.switch_land": "土地を変更",
-  "plugins.castle_warfare.switch_to_color": "%s に切り替え",
-  "plugins.castle_warfare.switch_to_observer": "観察者に切り替え",
+
+
+
+
+
+
+
+
   "plugins.castle_warfare.time_coming": "時間が迫っています",
   "plugins.castle_warfare.tracking_distance": "距離 %s ブロック",
-  "plugins.castle_warfare.transfer_homeowner": "部屋主の譲渡",
+
   "plugins.castle_warfare.win_with": "%s 勝利",
   "plugins.castle_warfare.winner_reward_awarded": "キャッスルウォーフェアの勝者報酬「%s」が配布されました",
   "plugins.chat_manager.automatically_translated_context_with": "%s の内容を自動翻訳しました",
@@ -1273,10 +1273,10 @@
   "plugins.task_distribution.signed_progress": "ログイン進捗 %s / %s",
   "plugins.task_distribution.signed_today": "今日は既にログイン済み",
   "plugins.task_distribution.task_require.castle_war_play": "キャッスルウォーをプレイ",
-  "plugins.task_distribution.task_require.castle_war_play.lore.0": "カスタム戦は含まれません",
+
   "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 試合",
   "plugins.task_distribution.task_require.castle_war_victory": "キャッスルウォーで勝利する",
-  "plugins.task_distribution.task_require.castle_war_victory.lore.0": "カスタム戦は含まれません",
+
   "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 勝",
   "plugins.task_distribution.task_require.complete_ark_survival": "アークサバイバルを完了する",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s 試合",

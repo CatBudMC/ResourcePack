@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/menu/root/mode/castle_war_custom__small_0"
+    "layer0": "item/menu/root/mode/game_custom__small_0"
   },
   "display": {
     "gui": {

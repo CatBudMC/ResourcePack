@@ -49,8 +49,8 @@
   "commands.buff.cannot_type": "Unknown buff type '%s'",
   "commands.buff.cannot_value": "Incorrect value '%s'",
   "commands.buff.setup_complete": "Buff '%s' set to '%s'",
-  "commands.castle.cannot_type": "Unknown player operation type '%s'",
-  "commands.castle.miss_type": "Missing castle parameter",
+
+
   "commands.code.already_existed": "Code '%s' already exists",
   "commands.code.created_successfully": "Code '%s' created successfully",
   "commands.code.gift_amount": "Gift Amount",
@@ -277,21 +277,21 @@
   "commands.room.already_queuing": "The room is already in the queue",
   "commands.room.can_not_myself": "Cannot be yourself",
   "commands.room.cannot_type": "Unknown room operation type '%s'",
-  "commands.room.config.castle_warfare.cannot_type": "Unknown castle warfare configuration type '%s'",
-  "commands.room.config.castle_warfare.color_capacity_fulled": "'%s' is full",
-  "commands.room.config.castle_warfare.complete_land_selected": "Successfully set castle warfare to territory '%s'",
-  "commands.room.config.castle_warfare.incorrect_pos": "Incorrect coordinate '%s'",
-  "commands.room.config.castle_warfare.land_not_admin": "Coordinate '%s' does not have territory admin permissions",
-  "commands.room.config.castle_warfare.miss_player_arg": "Missing target player parameter",
-  "commands.room.config.castle_warfare.miss_pos_arg": "Missing target coordinate parameter",
+
+
+
+
+
+
+
   "commands.room.config.castle_warfare.observer": "Observer",
-  "commands.room.config.castle_warfare.observer_capacity_fulled": "Observer limit reached",
-  "commands.room.config.castle_warfare.player_already_color": "Player '%s' is already '%s'",
-  "commands.room.config.castle_warfare.player_already_observer": "Player '%s' is already an observer",
+
+
+
   "commands.room.config.castle_warfare.player_list_is": "All team members in the room: %s",
-  "commands.room.config.castle_warfare.player_not_exist": "Player '%s' does not exist",
-  "commands.room.config.castle_warfare.player_not_member": "Player '%s' is not in the room",
-  "commands.room.config.castle_warfare.pos_outside_world": "Coordinate '%s' is outside the world boundaries",
+
+
+
   "commands.room.config.emergency_task.cannot_type": "Unknown emergency task configuration type '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "Emergency task script '%s' does not exist",
   "commands.room.config.emergency_task.miss_script_arg": "Missing target script argument",
@@ -621,8 +621,8 @@
   "plugins.castle_warfare.are_tied": "Both sides are tied",
   "plugins.castle_warfare.camp_color.blue": "Blue Team",
   "plugins.castle_warfare.camp_color.red": "Red Team",
-  "plugins.castle_warfare.cancel_invite_room": "Cancel Room Invite",
-  "plugins.castle_warfare.cancel_transfer_homeowner": "Cancel Transfer of Homeowner",
+
+
   "plugins.castle_warfare.castle_reward": "Received castle reward",
   "plugins.castle_warfare.castle_war": "Castle Warfare",
   "plugins.castle_warfare.castle_war.lore.0": "Protect your castle core and destroy the enemy's castle core!",
@@ -632,45 +632,45 @@
   "plugins.castle_warfare.castle_war.lore.4": "Randomly selects an online player's territory as the battleground",
   "plugins.castle_warfare.castle_war.lore.5": "When enough players join, teammates will be on the same team.",
   "plugins.castle_warfare.castle_war.lore.6": "Get the next reward from the prize list upon victory",
-  "plugins.castle_warfare.castle_war_custom": "Castle Warfare (Custom)",
-  "plugins.castle_warfare.castle_war_custom.lore.0": "Protect your castle core and destroy the enemy's castle core!",
-  "plugins.castle_warfare.castle_war_custom.lore.1": "All data will be restored to the pre-game state after the match ends.",
-  "plugins.castle_warfare.castle_war_custom.lore.2": "Won’t die no matter what",
-  "plugins.castle_warfare.castle_war_custom.lore.3": "Up to 18 vs 18 players can battle simultaneously, with 4 spectators.",
-  "plugins.castle_warfare.castle_war_custom.lore.4": "Room hosts must purchase a monthly card to start a match.",
+
+
+
+
+
+
   "plugins.castle_warfare.core_dismantled": "%s's core was dismantled by '%s'",
-  "plugins.castle_warfare.custom_room_end_queue": "Custom Room End Queue",
-  "plugins.castle_warfare.custom_room_start_queue": "Custom Room Start Queue",
-  "plugins.castle_warfare.exit_custom_room": "Exit Custom Room",
+
+
+
   "plugins.castle_warfare.give_award_core_break": "Win %s games with a core break to earn this",
-  "plugins.castle_warfare.homeowner": "Homeowner",
-  "plugins.castle_warfare.homeowner_not_purchase_pass": "Homeowner has not purchased a monthly pass",
-  "plugins.castle_warfare.inquiry_sure_invite_room": "Are you sure you want to invite '%s' to join the room?",
-  "plugins.castle_warfare.inquiry_sure_transfer_homeowner": "Are you sure you want to transfer homeowner status to '%s'?",
-  "plugins.castle_warfare.invite_player": "Invite Player",
-  "plugins.castle_warfare.kick_of_room": "Kick out from room",
-  "plugins.castle_warfare.no_land": "No Land",
-  "plugins.castle_warfare.no_selected_land": "No land selected",
-  "plugins.castle_warfare.observer": "Observer",
+
+
+
+
+
+
+
+
+
   "plugins.castle_warfare.own_side_is": "You are %s",
-  "plugins.castle_warfare.player_mark_color": "Player '%s' marked as '%s'",
-  "plugins.castle_warfare.player_mark_observer": "Player '%s' marked as Observer",
+
+
   "plugins.castle_warfare.preparation_countdown": "Preparation ends in %s...",
   "plugins.castle_warfare.ready_end_countdown": "Disbanding in %s...",
   "plugins.castle_warfare.ready_start_countdown": "Starting in %s...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "Reward received",
-  "plugins.castle_warfare.selected_land_not_admin": "The selected land owner does not have land administrator rights",
-  "plugins.castle_warfare.setup_custom_room": "Setup custom room",
-  "plugins.castle_warfare.show_player_status": "Show player status",
-  "plugins.castle_warfare.sure_invite_room": "Confirm invite to join room",
-  "plugins.castle_warfare.sure_transfer_homeowner": "Confirm transfer of homeowner",
-  "plugins.castle_warfare.switch_land": "Change Land",
-  "plugins.castle_warfare.switch_to_color": "Switch to %s",
-  "plugins.castle_warfare.switch_to_observer": "Switch to Observer",
+
+
+
+
+
+
+
+
   "plugins.castle_warfare.time_coming": "Time is almost up",
   "plugins.castle_warfare.tracking_distance": "Distance %s blocks away",
-  "plugins.castle_warfare.transfer_homeowner": "Transfer homeowner",
+
   "plugins.castle_warfare.win_with": "%s wins",
   "plugins.castle_warfare.winner_reward_awarded": "Castle Warfare winner reward '%s' has been awarded",
   "plugins.chat_manager.automatically_translated_context_with": "Automatically translated content with %s",
@@ -1273,10 +1273,10 @@
   "plugins.task_distribution.signed_progress": "Sign-in progress %s / %s",
   "plugins.task_distribution.signed_today": "Signed in today",
   "plugins.task_distribution.task_require.castle_war_play": "Play Castle War",
-  "plugins.task_distribution.task_require.castle_war_play.lore.0": "Does not include custom matches.",
+
   "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s matches",
   "plugins.task_distribution.task_require.castle_war_victory": "Play and win Castle War",
-  "plugins.task_distribution.task_require.castle_war_victory.lore.0": "Does not include custom matches.",
+
   "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s matches",
   "plugins.task_distribution.task_require.complete_ark_survival": "Complete Ark Survival",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s matches",

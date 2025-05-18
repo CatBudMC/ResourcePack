@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/menu/castle/start_queuing"
+    "layer0": "item/menu/root/mode/game_custom__big_2"
   },
   "display": {
     "gui": {

@@ -49,8 +49,8 @@
   "commands.buff.cannot_type": "ประเภทการเพิ่มพลังที่ไม่รู้จัก '%s'",
   "commands.buff.cannot_value": "ค่าที่ไม่ถูกต้อง '%s'",
   "commands.buff.setup_complete": "ตั้งค่าเพิ่มพลัง '%s' เป็น '%s' เรียบร้อยแล้ว",
-  "commands.castle.cannot_type": "ประเภทการทำงานของผู้เล่นที่ไม่รู้จัก '%s'",
-  "commands.castle.miss_type": "ขาดพารามิเตอร์ของปราสาท",
+
+
   "commands.code.already_existed": "โค้ด '%s' มีอยู่แล้ว",
   "commands.code.created_successfully": "สร้างโค้ด '%s' สำเร็จ",
   "commands.code.gift_amount": "จำนวนของขวัญ",
@@ -277,21 +277,21 @@
   "commands.room.already_queuing": "ห้องกำลังอยู่ในคิวแล้ว",
   "commands.room.can_not_myself": "ไม่สามารถทำกับตัวเองได้",
   "commands.room.cannot_type": "ประเภทการทำงานของห้องที่ไม่รู้จัก '%s'",
-  "commands.room.config.castle_warfare.cannot_type": "ประเภทการตั้งค่าป้อมปราการสงครามที่ไม่รู้จัก '%s'",
-  "commands.room.config.castle_warfare.color_capacity_fulled": "จำนวนคน '%s' เต็มแล้ว",
-  "commands.room.config.castle_warfare.complete_land_selected": "ตั้งค่าป้อมปราการสงครามเป็นดินแดน '%s' เรียบร้อยแล้ว",
-  "commands.room.config.castle_warfare.incorrect_pos": "พิกัด '%s' ไม่ถูกต้อง",
-  "commands.room.config.castle_warfare.land_not_admin": "พิกัด '%s' ไม่มีสิทธิ์จัดการดินแดน",
-  "commands.room.config.castle_warfare.miss_player_arg": "ขาดพารามิเตอร์เป้าหมายผู้เล่น",
-  "commands.room.config.castle_warfare.miss_pos_arg": "ขาดพารามิเตอร์พิกัดเป้าหมาย",
+
+
+
+
+
+
+
   "commands.room.config.castle_warfare.observer": "ผู้สังเกตการณ์",
-  "commands.room.config.castle_warfare.observer_capacity_fulled": "จำนวนผู้สังเกตการณ์เต็มแล้ว",
-  "commands.room.config.castle_warfare.player_already_color": "สมาชิก '%s' เป็น '%s' อยู่แล้ว",
-  "commands.room.config.castle_warfare.player_already_observer": "สมาชิก '%s' เป็นผู้สังเกตการณ์อยู่แล้ว",
+
+
+
   "commands.room.config.castle_warfare.player_list_is": "รายชื่อสมาชิกทั้งหมดในห้อง: %s",
-  "commands.room.config.castle_warfare.player_not_exist": "ผู้เล่น '%s' ไม่มีอยู่",
-  "commands.room.config.castle_warfare.player_not_member": "ผู้เล่น '%s' ไม่ได้อยู่ในห้อง",
-  "commands.room.config.castle_warfare.pos_outside_world": "พิกัด '%s' อยู่นอกโลก",
+
+
+
   "commands.room.config.emergency_task.cannot_type": "ประเภทการกำหนดค่างานฉุกเฉินที่ไม่รู้จัก '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "สคริปต์งานฉุกเฉิน '%s' ไม่พบ",
   "commands.room.config.emergency_task.miss_script_arg": "ขาดพารามิเตอร์สคริปต์เป้าหมาย",
@@ -621,8 +621,8 @@
   "plugins.castle_warfare.are_tied": "เสมอกันทั้งสองฝ่าย",
   "plugins.castle_warfare.camp_color.blue": "ฝ่ายน้ำเงิน",
   "plugins.castle_warfare.camp_color.red": "ฝ่ายแดง",
-  "plugins.castle_warfare.cancel_invite_room": "ยกเลิกคำเชิญเข้าห้อง",
-  "plugins.castle_warfare.cancel_transfer_homeowner": "ยกเลิกการโอนสิทธิ์หัวหน้าห้อง",
+
+
   "plugins.castle_warfare.castle_reward": "ได้รับรางวัลปราสาท",
   "plugins.castle_warfare.castle_war": "สงครามปราสาท",
   "plugins.castle_warfare.castle_war.lore.0": "ปกป้องแกนปราสาทของฝ่ายเรา และทำลายแกนปราสาทของฝ่ายศัตรู!",
@@ -632,45 +632,45 @@
   "plugins.castle_warfare.castle_war.lore.4": "สุ่มเลือกดินแดนของผู้เล่นออนไลน์เป็นสนามรบ",
   "plugins.castle_warfare.castle_war.lore.5": "เมื่อมีผู้เล่นเพียงพอ สมาชิกทีมจะอยู่ฝ่ายเดียวกัน",
   "plugins.castle_warfare.castle_war.lore.6": "เมื่อชนะจะได้รับรางวัลถัดไปจากรายการ",
-  "plugins.castle_warfare.castle_war_custom": "สงครามปราสาท (กำหนดเอง)",
-  "plugins.castle_warfare.castle_war_custom.lore.0": "ปกป้องแกนปราสาทของฝ่ายเรา และทำลายแกนปราสาทของฝ่ายศัตรู!",
-  "plugins.castle_warfare.castle_war_custom.lore.1": "ข้อมูลทั้งหมดจะคืนสู่สถานะก่อนเริ่มหลังจบเกม",
-  "plugins.castle_warfare.castle_war_custom.lore.2": "ไม่มีวันตายไม่ว่าอย่างไร",
-  "plugins.castle_warfare.castle_war_custom.lore.3": "รองรับการต่อสู้สูงสุด 18 ต่อ 18 คน + 4 ผู้ชม",
-  "plugins.castle_warfare.castle_war_custom.lore.4": "เจ้าของห้องต้องซื้อแพ็กเกจรายเดือนเพื่อเปิดการต่อสู้",
+
+
+
+
+
+
   "plugins.castle_warfare.core_dismantled": "แกนกลางของ %s ถูก '%s' รื้อถอน",
-  "plugins.castle_warfare.custom_room_end_queue": "สิ้นสุดการคิวห้องปรับแต่ง",
-  "plugins.castle_warfare.custom_room_start_queue": "เริ่มการคิวห้องปรับแต่ง",
-  "plugins.castle_warfare.exit_custom_room": "ออกจากห้องปรับแต่ง",
+
+
+
   "plugins.castle_warfare.give_award_core_break": "ชนะ %s เกมโดยมีการทำลายแกนกลางเพื่อรับรางวัลนี้",
-  "plugins.castle_warfare.homeowner": "เจ้าของห้อง",
-  "plugins.castle_warfare.homeowner_not_purchase_pass": "เจ้าของห้องไม่ได้ซื้อตั๋วรายเดือน",
-  "plugins.castle_warfare.inquiry_sure_invite_room": "แน่ใจว่าต้องการเชิญ '%s' เข้าร่วมในห้องหรือไม่?",
-  "plugins.castle_warfare.inquiry_sure_transfer_homeowner": "แน่ใจว่าต้องการโอนสิทธิ์เจ้าของห้องให้กับ '%s'?",
-  "plugins.castle_warfare.invite_player": "เชิญผู้เล่น",
-  "plugins.castle_warfare.kick_of_room": "เตะออกจากห้อง",
-  "plugins.castle_warfare.no_land": "ไม่มีดินแดน",
-  "plugins.castle_warfare.no_selected_land": "ยังไม่ได้เลือกดินแดน",
-  "plugins.castle_warfare.observer": "ผู้สังเกตการณ์",
+
+
+
+
+
+
+
+
+
   "plugins.castle_warfare.own_side_is": "ฝ่ายของคุณคือ %s",
-  "plugins.castle_warfare.player_mark_color": "ผู้เล่น '%s' ถูกทำเครื่องหมายเป็น '%s'",
-  "plugins.castle_warfare.player_mark_observer": "ผู้เล่น '%s' ถูกทำเครื่องหมายเป็นผู้สังเกตการณ์",
+
+
   "plugins.castle_warfare.preparation_countdown": "เตรียมตัวเสร็จสิ้นใน %s...",
   "plugins.castle_warfare.ready_end_countdown": "สิ้นสุดภายใน %s...",
   "plugins.castle_warfare.ready_start_countdown": "เริ่มภายใน %s...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "ได้รับรางวัลแล้ว",
-  "plugins.castle_warfare.selected_land_not_admin": "เจ้าของดินแดนที่เลือกไม่มีสิทธิ์จัดการดินแดน",
-  "plugins.castle_warfare.setup_custom_room": "ตั้งค่าห้องปรับแต่ง",
-  "plugins.castle_warfare.show_player_status": "แสดงสถานะผู้เล่น",
-  "plugins.castle_warfare.sure_invite_room": "ยืนยันเชิญเข้าห้อง",
-  "plugins.castle_warfare.sure_transfer_homeowner": "ยืนยันโอนสิทธิ์เจ้าของห้อง",
-  "plugins.castle_warfare.switch_land": "เปลี่ยนดินแดน",
-  "plugins.castle_warfare.switch_to_color": "เปลี่ยนเป็น %s",
-  "plugins.castle_warfare.switch_to_observer": "เปลี่ยนเป็นผู้สังเกตการณ์",
+
+
+
+
+
+
+
+
   "plugins.castle_warfare.time_coming": "ใกล้ถึงเวลาแล้ว",
   "plugins.castle_warfare.tracking_distance": "ห่างออกไป %s บล็อก",
-  "plugins.castle_warfare.transfer_homeowner": "โอนสิทธิ์เจ้าของห้อง",
+
   "plugins.castle_warfare.win_with": "%s ชนะ",
   "plugins.castle_warfare.winner_reward_awarded": "รางวัลชนะ Castle Warfare '%s' ได้รับแล้ว",
   "plugins.chat_manager.automatically_translated_context_with": "แปลเนื้อหาโดยอัตโนมัติด้วย %s",
@@ -1273,10 +1273,10 @@
   "plugins.task_distribution.signed_progress": "ความคืบหน้าการเช็คชื่อ %s / %s",
   "plugins.task_distribution.signed_today": "เช็คชื่อวันนี้แล้ว",
   "plugins.task_distribution.task_require.castle_war_play": "เล่น Castle War",
-  "plugins.task_distribution.task_require.castle_war_play.lore.0": "ไม่รวมโหมดกำหนดเอง",
+
   "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s รอบ",
   "plugins.task_distribution.task_require.castle_war_victory": "เล่น Castle War และได้รับชัยชนะ",
-  "plugins.task_distribution.task_require.castle_war_victory.lore.0": "ไม่รวมโหมดกำหนดเอง",
+
   "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s รอบ",
   "plugins.task_distribution.task_require.complete_ark_survival": "ทำภารกิจ Ark Survival ให้สำเร็จ",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s เกม",

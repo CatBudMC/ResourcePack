@@ -49,8 +49,8 @@
   "commands.buff.cannot_type": "알 수 없는 버프 유형 '%s'",
   "commands.buff.cannot_value": "잘못된 값 '%s'",
   "commands.buff.setup_complete": "버프 '%s'이(가) '%s'으로 설정되었습니다",
-  "commands.castle.cannot_type": "알 수 없는 플레이어 작업 유형 '%s'",
-  "commands.castle.miss_type": "성 파라미터가 누락되었습니다",
+
+
   "commands.code.already_existed": "코드 '%s'가 이미 존재합니다",
   "commands.code.created_successfully": "코드 '%s'가 성공적으로 생성되었습니다",
   "commands.code.gift_amount": "기프트 금액",
@@ -277,21 +277,21 @@
   "commands.room.already_queuing": "방이 이미 대기열에 있음",
   "commands.room.can_not_myself": "자신에게 할 수 없음",
   "commands.room.cannot_type": "알 수 없는 방 작업 유형 '%s'",
-  "commands.room.config.castle_warfare.cannot_type": "알 수 없는 성 전쟁 설정 유형 '%s'",
-  "commands.room.config.castle_warfare.color_capacity_fulled": "'%s' 팀이 가득 찼습니다",
-  "commands.room.config.castle_warfare.complete_land_selected": "성 전쟁을 '%s' 영지로 설정 완료",
-  "commands.room.config.castle_warfare.incorrect_pos": "잘못된 좌표 '%s'",
-  "commands.room.config.castle_warfare.land_not_admin": "좌표 '%s'에 영지 관리자 권한이 없음",
-  "commands.room.config.castle_warfare.miss_player_arg": "대상 플레이어 매개변수가 누락됨",
-  "commands.room.config.castle_warfare.miss_pos_arg": "대상 좌표 매개변수가 누락됨",
+
+
+
+
+
+
+
   "commands.room.config.castle_warfare.observer": "관전자",
-  "commands.room.config.castle_warfare.observer_capacity_fulled": "관전자 인원이 가득 찼습니다",
-  "commands.room.config.castle_warfare.player_already_color": "멤버 '%s'는 이미 '%s'팀입니다",
-  "commands.room.config.castle_warfare.player_already_observer": "멤버 '%s'는 이미 관전자입니다",
+
+
+
   "commands.room.config.castle_warfare.player_list_is": "방의 모든 멤버 팀 목록: %s",
-  "commands.room.config.castle_warfare.player_not_exist": "플레이어 '%s' 존재하지 않음",
-  "commands.room.config.castle_warfare.player_not_member": "플레이어 '%s'는 방에 없음",
-  "commands.room.config.castle_warfare.pos_outside_world": "좌표 '%s'가 세계 밖에 있음",
+
+
+
   "commands.room.config.emergency_task.cannot_type": "알 수 없는 긴급 작업 구성 유형 '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "긴급 작업 스크립트 '%s'가 존재하지 않습니다",
   "commands.room.config.emergency_task.miss_script_arg": "대상 스크립트 인수가 누락되었습니다",
@@ -621,8 +621,8 @@
   "plugins.castle_warfare.are_tied": "양측 동점",
   "plugins.castle_warfare.camp_color.blue": "블루팀",
   "plugins.castle_warfare.camp_color.red": "레드팀",
-  "plugins.castle_warfare.cancel_invite_room": "방 초대 취소",
-  "plugins.castle_warfare.cancel_transfer_homeowner": "방장 권한 이전 취소",
+
+
   "plugins.castle_warfare.castle_reward": "성 보상을 받았습니다",
   "plugins.castle_warfare.castle_war": "성 전쟁",
   "plugins.castle_warfare.castle_war.lore.0": "아군의 성 핵을 보호하고 적군의 성 핵을 파괴하세요!",
@@ -632,45 +632,45 @@
   "plugins.castle_warfare.castle_war.lore.4": "온라인 플레이어의 영지를 무작위로 선택하여 전장으로 지정",
   "plugins.castle_warfare.castle_war.lore.5": "참가 인원이 충분하면 팀원들은 같은 진영으로 배치됩니다.",
   "plugins.castle_warfare.castle_war.lore.6": "승리 시 보상 목록에서 다음 보상을 획득합니다",
-  "plugins.castle_warfare.castle_war_custom": "성 전쟁 (커스텀)",
-  "plugins.castle_warfare.castle_war_custom.lore.0": "아군의 성 핵을 보호하고 적군의 성 핵을 파괴하세요!",
-  "plugins.castle_warfare.castle_war_custom.lore.1": "종료 후 모든 데이터는 시작 전 상태로 복구됩니다.",
-  "plugins.castle_warfare.castle_war_custom.lore.2": "어떻게 해도 죽지 않음",
-  "plugins.castle_warfare.castle_war_custom.lore.3": "최대 18 vs 18 동시 대전 + 4명의 관전자",
-  "plugins.castle_warfare.castle_war_custom.lore.4": "방장은 월간 패스를 구매해야 게임을 시작할 수 있습니다.",
+
+
+
+
+
+
   "plugins.castle_warfare.core_dismantled": "%s의 코어가 '%s'에게 해체되었습니다",
-  "plugins.castle_warfare.custom_room_end_queue": "맞춤 방 대기 종료",
-  "plugins.castle_warfare.custom_room_start_queue": "맞춤 방 대기 시작",
-  "plugins.castle_warfare.exit_custom_room": "맞춤 방 나가기",
+
+
+
   "plugins.castle_warfare.give_award_core_break": "코어를 파괴하고 %s번 승리하면 획득 가능",
-  "plugins.castle_warfare.homeowner": "방장",
-  "plugins.castle_warfare.homeowner_not_purchase_pass": "방장은 월패스를 구매하지 않았습니다",
-  "plugins.castle_warfare.inquiry_sure_invite_room": "'%s'님을 방에 초대하시겠습니까?",
-  "plugins.castle_warfare.inquiry_sure_transfer_homeowner": "'%s'에게 방장을 넘기시겠습니까?",
-  "plugins.castle_warfare.invite_player": "플레이어 초대",
-  "plugins.castle_warfare.kick_of_room": "방에서 내보내기",
-  "plugins.castle_warfare.no_land": "영토 없음",
-  "plugins.castle_warfare.no_selected_land": "영토가 먼저 선택되지 않았습니다",
-  "plugins.castle_warfare.observer": "관찰자",
+
+
+
+
+
+
+
+
+
   "plugins.castle_warfare.own_side_is": "당신은 %s입니다",
-  "plugins.castle_warfare.player_mark_color": "플레이어 '%s'를 '%s'로 표시",
-  "plugins.castle_warfare.player_mark_observer": "플레이어 '%s'를 관찰자로 표시",
+
+
   "plugins.castle_warfare.preparation_countdown": "준비 종료까지 %s...",
   "plugins.castle_warfare.ready_end_countdown": "%s 후 해산...",
   "plugins.castle_warfare.ready_start_countdown": "%s 후 시작...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s < %s > %s",
   "plugins.castle_warfare.reward_awarded": "보상을 받았습니다",
-  "plugins.castle_warfare.selected_land_not_admin": "선택된 영토의 방장은 영토 관리 권한이 없습니다",
-  "plugins.castle_warfare.setup_custom_room": "맞춤 방 설정",
-  "plugins.castle_warfare.show_player_status": "플레이어 상태 보기",
-  "plugins.castle_warfare.sure_invite_room": "방에 초대 확정",
-  "plugins.castle_warfare.sure_transfer_homeowner": "방장 권한 이전 확인",
-  "plugins.castle_warfare.switch_land": "영토 변경",
-  "plugins.castle_warfare.switch_to_color": "%s로 전환",
-  "plugins.castle_warfare.switch_to_observer": "관찰자로 전환",
+
+
+
+
+
+
+
+
   "plugins.castle_warfare.time_coming": "시간이 다가오고 있습니다",
   "plugins.castle_warfare.tracking_distance": "%s 블록 거리",
-  "plugins.castle_warfare.transfer_homeowner": "방장 권한 이전",
+
   "plugins.castle_warfare.win_with": "%s 승리",
   "plugins.castle_warfare.winner_reward_awarded": "캐슬 워페어 승리 보상 '%s'이(가) 지급되었습니다",
   "plugins.chat_manager.automatically_translated_context_with": "%s 내용을 자동 번역했습니다",
@@ -1273,10 +1273,10 @@
   "plugins.task_distribution.signed_progress": "출석 진행 %s / %s",
   "plugins.task_distribution.signed_today": "오늘 출석 완료",
   "plugins.task_distribution.task_require.castle_war_play": "성 전쟁 플레이",
-  "plugins.task_distribution.task_require.castle_war_play.lore.0": "커스텀 전장 제외",
+
   "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 경기",
   "plugins.task_distribution.task_require.castle_war_victory": "성 전쟁 플레이 및 승리",
-  "plugins.task_distribution.task_require.castle_war_victory.lore.0": "커스텀 전장 제외",
+
   "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 경기",
   "plugins.task_distribution.task_require.complete_ark_survival": "아크 서바이벌 완료",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s 경기",

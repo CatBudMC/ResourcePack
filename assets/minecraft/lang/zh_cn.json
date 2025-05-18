@@ -49,8 +49,8 @@
   "commands.buff.cannot_type": "未知的增益类型 '%s'",
   "commands.buff.cannot_value": "不正确的值 '%s'",
   "commands.buff.setup_complete": "已将增益 '%s' 设置为 '%s'",
-  "commands.castle.cannot_type": "未知的玩家操作类型 '%s'",
-  "commands.castle.miss_type": "缺少城堡参数",
+
+
   "commands.code.already_existed": "代碼 '%s' 已經存在",
   "commands.code.created_successfully": "代碼 '%s' 成功新增",
   "commands.code.gift_amount": "禮品金額",
@@ -277,21 +277,21 @@
   "commands.room.already_queuing": "房间已经在列队中",
   "commands.room.can_not_myself": "不能是自己",
   "commands.room.cannot_type": "未知的房间操作类型 '%s'",
-  "commands.room.config.castle_warfare.cannot_type": "未知的城堡战争配置类型 '%s'",
-  "commands.room.config.castle_warfare.color_capacity_fulled": "'%s' 人数已满",
-  "commands.room.config.castle_warfare.complete_land_selected": "成功将城堡战争设置为领地 '%s'",
-  "commands.room.config.castle_warfare.incorrect_pos": "不正确的座标 '%s'",
-  "commands.room.config.castle_warfare.land_not_admin": "座标 '%s' 没有领地管理员权限",
-  "commands.room.config.castle_warfare.miss_player_arg": "缺少目标玩家参数",
-  "commands.room.config.castle_warfare.miss_pos_arg": "缺少目标座标参数",
+
+
+
+
+
+
+
   "commands.room.config.castle_warfare.observer": "观察者",
-  "commands.room.config.castle_warfare.observer_capacity_fulled": "观察者人数已满",
-  "commands.room.config.castle_warfare.player_already_color": "成员 '%s' 已经是 '%s' 了",
-  "commands.room.config.castle_warfare.player_already_observer": "成员 '%s' 已经是观察者了",
+
+
+
   "commands.room.config.castle_warfare.player_list_is": "房间内的全部成员队伍： %s",
-  "commands.room.config.castle_warfare.player_not_exist": "玩家 '%s' 不存在",
-  "commands.room.config.castle_warfare.player_not_member": "玩家 '%s' 不在房间内",
-  "commands.room.config.castle_warfare.pos_outside_world": "座标 '%s' 位于世界之外",
+
+
+
   "commands.room.config.emergency_task.cannot_type": "未知的紧急任务配置类型 '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "紧急任务脚本 '%s' 不存在",
   "commands.room.config.emergency_task.miss_script_arg": "缺少目标脚本参数",
@@ -621,8 +621,8 @@
   "plugins.castle_warfare.are_tied": "双方平手",
   "plugins.castle_warfare.camp_color.blue": "蓝方",
   "plugins.castle_warfare.camp_color.red": "红方",
-  "plugins.castle_warfare.cancel_invite_room": "取消邀请加入房间",
-  "plugins.castle_warfare.cancel_transfer_homeowner": "取消转交房主",
+
+
   "plugins.castle_warfare.castle_reward": "获得城堡奖励",
   "plugins.castle_warfare.castle_war": "城堡战争",
   "plugins.castle_warfare.castle_war.lore.0": "保护友方的城堡核心，并破坏敌方的城堡核心！",
@@ -632,45 +632,45 @@
   "plugins.castle_warfare.castle_war.lore.4": "随机抽选线上玩家的领地做为场地",
   "plugins.castle_warfare.castle_war.lore.5": "参赛人数够多时队伍成员会在同阵营",
   "plugins.castle_warfare.castle_war.lore.6": "获得胜利时从奖品清单获得下个奖品",
-  "plugins.castle_warfare.castle_war_custom": "城堡战争（自订）",
-  "plugins.castle_warfare.castle_war_custom.lore.0": "保护友方的城堡核心，并破坏敌方的城堡核心！",
-  "plugins.castle_warfare.castle_war_custom.lore.1": "结束后将所有资料恢复成开场前的状态",
-  "plugins.castle_warfare.castle_war_custom.lore.2": "无论如何都不会死亡",
-  "plugins.castle_warfare.castle_war_custom.lore.3": "最多 18 vs 18 同时对抗 + 4 旁观者",
-  "plugins.castle_warfare.castle_war_custom.lore.4": "房主必须购买月卡才能启动对局",
+
+
+
+
+
+
   "plugins.castle_warfare.core_dismantled": "%s 的核心被 '%s' 拆掉了",
-  "plugins.castle_warfare.custom_room_end_queue": "自订房间结束列队",
-  "plugins.castle_warfare.custom_room_start_queue": "自订房间开始列队",
-  "plugins.castle_warfare.exit_custom_room": "退出自订房间",
+
+
+
   "plugins.castle_warfare.give_award_core_break": "在有破坏核心的情况下获胜 %s 场即可获得",
-  "plugins.castle_warfare.homeowner": "房主",
-  "plugins.castle_warfare.homeowner_not_purchase_pass": "房主没有购买月卡",
-  "plugins.castle_warfare.inquiry_sure_invite_room": "确定要向 '%s' 邀请加入房间?",
-  "plugins.castle_warfare.inquiry_sure_transfer_homeowner": "确定要将房主转交给 '%s'?",
-  "plugins.castle_warfare.invite_player": "邀请玩家",
-  "plugins.castle_warfare.kick_of_room": "从房间内踢出",
-  "plugins.castle_warfare.no_land": "没有领地",
-  "plugins.castle_warfare.no_selected_land": "没有先选择领地",
-  "plugins.castle_warfare.observer": "观察者",
+
+
+
+
+
+
+
+
+
   "plugins.castle_warfare.own_side_is": "自己是 %s",
-  "plugins.castle_warfare.player_mark_color": "玩家 '%s' 标记为 '%s'",
-  "plugins.castle_warfare.player_mark_observer": "玩家 '%s' 标记为观察者",
+
+
   "plugins.castle_warfare.preparation_countdown": "前置作业 %s 后结束...",
   "plugins.castle_warfare.ready_end_countdown": "%s 后解散...",
   "plugins.castle_warfare.ready_start_countdown": "%s 后开始...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "获得奖品",
-  "plugins.castle_warfare.selected_land_not_admin": "已选择的领地房主没有领地管理者权限",
-  "plugins.castle_warfare.setup_custom_room": "设定自订房间",
-  "plugins.castle_warfare.show_player_status": "显示玩家状态",
-  "plugins.castle_warfare.sure_invite_room": "确定邀请加入房间",
-  "plugins.castle_warfare.sure_transfer_homeowner": "确定转交房主",
-  "plugins.castle_warfare.switch_land": "更改领地",
-  "plugins.castle_warfare.switch_to_color": "切换至 %s",
-  "plugins.castle_warfare.switch_to_observer": "切换至观察者",
+
+
+
+
+
+
+
+
   "plugins.castle_warfare.time_coming": "时间快到了",
   "plugins.castle_warfare.tracking_distance": "距离 %s 格远",
-  "plugins.castle_warfare.transfer_homeowner": "转交房主",
+
   "plugins.castle_warfare.win_with": "%s 胜利",
   "plugins.castle_warfare.winner_reward_awarded": "城堡战争获胜奖励 '%s' 已发放",
   "plugins.chat_manager.automatically_translated_context_with": "已自动翻译 %s 内容",
@@ -1273,10 +1273,10 @@
   "plugins.task_distribution.signed_progress": "签到进度 %s / %s",
   "plugins.task_distribution.signed_today": "今日已签到",
   "plugins.task_distribution.task_require.castle_war_play": "游玩城堡战争",
-  "plugins.task_distribution.task_require.castle_war_play.lore.0": "不包含自订场",
+
   "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 场",
   "plugins.task_distribution.task_require.castle_war_victory": "游玩城堡战争并取得胜利",
-  "plugins.task_distribution.task_require.castle_war_victory.lore.0": "不包含自订场",
+
   "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 场",
   "plugins.task_distribution.task_require.complete_ark_survival": "完成方舟生存",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s 场",
