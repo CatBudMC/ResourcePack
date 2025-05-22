@@ -49,8 +49,6 @@
   "commands.buff.cannot_type": "不明なバフタイプ '%s'",
   "commands.buff.cannot_value": "無効な値 '%s'",
   "commands.buff.setup_complete": "バフ '%s' が '%s' に設定されました",
-
-
   "commands.code.already_existed": "コード '%s' は既に存在します",
   "commands.code.created_successfully": "コード '%s' を正常に作成しました",
   "commands.code.gift_amount": "ギフト金額",
@@ -59,6 +57,7 @@
   "commands.code.invalid_operator": "不明な操作 '%s'",
   "commands.code.miss_amount": "金額が不足しています",
   "commands.code.not_exist": "コード '%s' は存在しません",
+  "commands.code.rank_insufficient": "ランク %s 以上必須",
   "commands.code.released": "コード '%s' を発行し、%s を報酬として付与しました！",
   "commands.code.removal_successful": "コード '%s' を正常に削除しました",
   "commands.code.used": "コード '%s' は既に使用されています",
@@ -73,6 +72,11 @@
   "commands.config.cannot_type": "未知の設定タイプ '%s'",
   "commands.config.cannot_value": "無効な値 '%s'",
   "commands.config.setup_complete": "設定 '%s' を '%s' に構成しました",
+  "commands.custom.cannot_type": "不明な操作「%s」",
+  "commands.custom.exit_fulled": "今は終了できません",
+  "commands.custom.exiting": "自作ゲーム終了中…",
+  "commands.custom.homeowner_exit_only": "ホストのみ終了可",
+  "commands.custom.miss_type": "自作ゲーム引数が不足",
   "commands.detached.current_chunk_count": "現在のチャンクには %s 体の分離生物がいます",
   "commands.erase.miss_radius_arg": "半径の引数が不足しています",
   "commands.erase.radius_not_available": "半径 '%s' は %s ~ %s の範囲にありません",
@@ -277,26 +281,15 @@
   "commands.room.already_queuing": "部屋はすでに待機列にあります",
   "commands.room.can_not_myself": "自分自身は対象にできません",
   "commands.room.cannot_type": "不明な部屋操作タイプ '%s'",
-
-
-
-
-
-
-
   "commands.room.config.castle_warfare.observer": "観察者",
-
-
-
   "commands.room.config.castle_warfare.player_list_is": "部屋内の全メンバーのチーム：%s",
-
-
-
   "commands.room.config.emergency_task.cannot_type": "未知の緊急タスク構成タイプ '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "緊急タスクスクリプト '%s' が存在しません",
   "commands.room.config.emergency_task.miss_script_arg": "スクリプト引数が不足しています",
   "commands.room.config.emergency_task.miss_type": "緊急タスク構成タイプが不足しています",
   "commands.room.config.emergency_task.only_used_in_theatrical": "この機能は緊急タスク内でのみ使用できます",
+  "commands.room.config.game_custom.cannot_type": "不明な設定「%s」",
+  "commands.room.config.game_custom.incorrect_page": "無効なページ「%s」",
   "commands.room.config.magic_tower.cannot_type": "未知の魔法の塔設定タイプ '%s'",
   "commands.room.config.magic_tower.incorrect_layer_arg": "魔法の塔の階層 '%s' が正しくありません",
   "commands.room.config.magic_tower.layer_only_between": "魔法の塔の階層は %s ～ %s の間のみ設定可能です",
@@ -410,6 +403,9 @@
   "commands.vault.successful_buy": "倉庫の範囲を拡張しました。現在のサイズ %s",
   "commands.vitality.no_players_online": "オンラインのプレイヤーはいません",
   "commands.vitality.results": "オンラインプレイヤーの活力値: %s",
+  "commands.z.miss_context": "コマンドが不足",
+  "commands.z.not_now": "自作ゲーム内のみ実行可",
+  "commands.z.script_command": "スクリプトコマンド",
   "enchantment.addons.action_sound.kizuna_akari": "動作音 紲星あかり",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "ヘルメット装備時にかわいい音が出る！",
   "enchantment.addons.action_sound.kotonoha_akane": "動作音 琴葉茜",
@@ -621,8 +617,6 @@
   "plugins.castle_warfare.are_tied": "双方は引き分け",
   "plugins.castle_warfare.camp_color.blue": "青チーム",
   "plugins.castle_warfare.camp_color.red": "赤チーム",
-
-
   "plugins.castle_warfare.castle_reward": "城の報酬を獲得しました",
   "plugins.castle_warfare.castle_war": "城塞戦争",
   "plugins.castle_warfare.castle_war.lore.0": "味方の城塞コアを守り、敵の城塞コアを破壊せよ！",
@@ -632,45 +626,16 @@
   "plugins.castle_warfare.castle_war.lore.4": "オンラインプレイヤーの領地をランダムに選び、戦場とする",
   "plugins.castle_warfare.castle_war.lore.5": "参加者が十分に集まると、チームメンバーは同じ陣営になります。",
   "plugins.castle_warfare.castle_war.lore.6": "勝利すると報酬リストから次の報酬を獲得します",
-
-
-
-
-
-
   "plugins.castle_warfare.core_dismantled": "%s のコアが '%s' に破壊されました",
-
-
-
   "plugins.castle_warfare.give_award_core_break": "コアを破壊して %s 回勝利すると獲得できます",
-
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.own_side_is": "自分のチームは %s",
-
-
   "plugins.castle_warfare.preparation_countdown": "準備完了まであと %s...",
   "plugins.castle_warfare.ready_end_countdown": "%s 後に解散...",
   "plugins.castle_warfare.ready_start_countdown": "%s 後に開始...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "報酬を獲得しました",
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.time_coming": "時間が迫っています",
   "plugins.castle_warfare.tracking_distance": "距離 %s ブロック",
-
   "plugins.castle_warfare.win_with": "%s 勝利",
   "plugins.castle_warfare.winner_reward_awarded": "キャッスルウォーフェアの勝者報酬「%s」が配布されました",
   "plugins.chat_manager.automatically_translated_context_with": "%s の内容を自動翻訳しました",
@@ -810,6 +775,29 @@
   "plugins.enchant_addons.recovery_break_item": "破損したアイテムの修復",
   "plugins.energy_saving.entity_detached_exit": "エンティティが分離空間を退出",
   "plugins.energy_saving.entity_detached_join": "エンティティが分離空間に入る",
+  "plugins.game_custom.cancel_invite_room": "招待を取消",
+  "plugins.game_custom.cancel_transfer_homeowner": "譲渡を取消",
+  "plugins.game_custom.game_custom": "自作ゲーム",
+  "plugins.game_custom.game_custom.lore.0": "DiscordにLuaスクリプトをアップしてゲーム内で遊ぼう！",
+  "plugins.game_custom.game_custom.lore.1": "終了後は全データを元に戻します。",
+  "plugins.game_custom.game_custom.lore.2": "スクリプトはホスト情報を参照のみ可能。",
+  "plugins.game_custom.game_custom.lore.3": "最大 %s 人／チーム。",
+  "plugins.game_custom.game_custom.lore.4": "途中で %s と入力で終了。",
+  "plugins.game_custom.homeowner": "ホスト",
+  "plugins.game_custom.inquiry_sure_invite_room": "「%s」を招待しますか？",
+  "plugins.game_custom.inquiry_sure_transfer_homeowner": "ホストを「%s」に譲渡しますか？",
+  "plugins.game_custom.internal_error": "内部エラー",
+  "plugins.game_custom.invite_player": "プレイヤー招待",
+  "plugins.game_custom.kick_of_room": "部屋からキック",
+  "plugins.game_custom.member_last_page": "前ページ",
+  "plugins.game_custom.member_next_page": "次ページ",
+  "plugins.game_custom.script_installed": "スクリプト「%s」をインストール済み",
+  "plugins.game_custom.script_message": "スクリプトによって生成されたメッセージ",
+  "plugins.game_custom.show_player_status": "状態表示",
+  "plugins.game_custom.sure_invite_room": "招待を確定",
+  "plugins.game_custom.sure_transfer_homeowner": "譲渡を確定",
+  "plugins.game_custom.traffic_overrun": "トラフィック超過",
+  "plugins.game_custom.transfer_homeowner": "ホスト譲渡",
   "plugins.global_config.switch_status": "ステータス切り替え",
   "plugins.graphic_interface.distance.days": "%s 日",
   "plugins.graphic_interface.distance.days_hours_minutes_seconds": "%s 日 %s 時 %s 分 %s 秒",
@@ -1176,6 +1164,7 @@
   "plugins.primary_menu.rule.lore.0": "catbud.net の利用規則",
   "plugins.primary_menu.rule.lore.1": "違反者は永久禁止される可能性あり",
   "plugins.primary_menu.run_command": "コマンド実行",
+  "plugins.primary_menu.script_installed_is": "インストール済み「%s」",
   "plugins.primary_menu.select_this_mode": "このモードを選択",
   "plugins.primary_menu.selected_difficulty_is": "選択した難易度 %s",
   "plugins.primary_menu.shield": "シールド",
@@ -1273,10 +1262,8 @@
   "plugins.task_distribution.signed_progress": "ログイン進捗 %s / %s",
   "plugins.task_distribution.signed_today": "今日は既にログイン済み",
   "plugins.task_distribution.task_require.castle_war_play": "キャッスルウォーをプレイ",
-
   "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 試合",
   "plugins.task_distribution.task_require.castle_war_victory": "キャッスルウォーで勝利する",
-
   "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 勝",
   "plugins.task_distribution.task_require.complete_ark_survival": "アークサバイバルを完了する",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s 試合",

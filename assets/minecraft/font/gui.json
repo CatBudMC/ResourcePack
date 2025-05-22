@@ -17,7 +17,7 @@
     {"type": "bitmap", "chars": ["\u0015"], "file": "gui/land_players.png", "height": 144, "ascent": 19},
     {"type": "bitmap", "chars": ["\u0016"], "file": "gui/land_icons.png", "height": 144, "ascent": 19},
     {"type": "bitmap", "chars": ["\u0017"], "file": "gui/root.png", "height": 84, "ascent": 13},
-
+    {"type": "bitmap", "chars": ["\u0018"], "file": "gui/custom.png", "height": 144, "ascent": 19},
     {"type": "bitmap", "chars": ["\u0019"], "file": "gui/root_mode.png", "height": 144, "ascent": 19},
     {"type": "bitmap", "chars": ["\u0020"], "file": "gui/root_more.png", "height": 90, "ascent": 19},
     {"type": "bitmap", "chars": ["\u0021"], "file": "gui/beacon.png", "height": 144, "ascent": 19},

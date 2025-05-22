@@ -132,6 +132,8 @@
     {"type": "bitmap", "chars": ["\u0131"], "file": "image/graphic_interface/screen/16.png", "height": 9, "ascent": 8.5},
     {"type": "bitmap", "chars": ["\u0132"], "file": "image/graphic_interface/screen/17.png", "height": 9, "ascent": 8.5},
     {"type": "bitmap", "chars": ["\u0133"], "file": "image/chat_manager/reply.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars": ["\u0134"], "file": "image/chat_manager/resend.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars": ["\u0134"], "file": "image/chat_manager/resend.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0135"], "file": "image/game_custom/print.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0136"], "file": "image/game_custom/error.png", "height": 8, "ascent": 7}
   ]
 }

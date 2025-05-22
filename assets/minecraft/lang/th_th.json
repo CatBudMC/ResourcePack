@@ -49,8 +49,6 @@
   "commands.buff.cannot_type": "ประเภทการเพิ่มพลังที่ไม่รู้จัก '%s'",
   "commands.buff.cannot_value": "ค่าที่ไม่ถูกต้อง '%s'",
   "commands.buff.setup_complete": "ตั้งค่าเพิ่มพลัง '%s' เป็น '%s' เรียบร้อยแล้ว",
-
-
   "commands.code.already_existed": "โค้ด '%s' มีอยู่แล้ว",
   "commands.code.created_successfully": "สร้างโค้ด '%s' สำเร็จ",
   "commands.code.gift_amount": "จำนวนของขวัญ",
@@ -59,6 +57,7 @@
   "commands.code.invalid_operator": "คำสั่งไม่ถูกต้อง '%s'",
   "commands.code.miss_amount": "จำนวนไม่เพียงพอ",
   "commands.code.not_exist": "โค้ด '%s' ไม่มีอยู่",
+  "commands.code.rank_insufficient": "ต้องแรงค์ ≥ %s",
   "commands.code.released": "แจกโค้ด '%s' พร้อมรางวัล %s!",
   "commands.code.removal_successful": "ลบโค้ด '%s' สำเร็จ",
   "commands.code.used": "โค้ด '%s' ถูกใช้ไปแล้ว",
@@ -73,6 +72,11 @@
   "commands.config.cannot_type": "ประเภทการตั้งค่า '%s' ไม่ถูกต้อง",
   "commands.config.cannot_value": "ค่า '%s' ไม่ถูกต้อง",
   "commands.config.setup_complete": "ตั้งค่า '%s' เป็น '%s' เรียบร้อยแล้ว",
+  "commands.custom.cannot_type": "คำสั่งไม่รู้จัก '%s'",
+  "commands.custom.exit_fulled": "ออกไม่ได้ตอนนี้",
+  "commands.custom.exiting": "กำลังออก…",
+  "commands.custom.homeowner_exit_only": "โฮสต์เท่านั้นออกได้",
+  "commands.custom.miss_type": "พารามิเตอร์ไม่พอ",
   "commands.detached.current_chunk_count": "มี %s สิ่งมีชีวิตที่ถูกแยกในชังก์นี้",
   "commands.erase.miss_radius_arg": "ขาดอาร์กิวเมนต์รัศมี",
   "commands.erase.radius_not_available": "รัศมี '%s' ไม่อยู่ในช่วง %s ~ %s",
@@ -277,26 +281,15 @@
   "commands.room.already_queuing": "ห้องกำลังอยู่ในคิวแล้ว",
   "commands.room.can_not_myself": "ไม่สามารถทำกับตัวเองได้",
   "commands.room.cannot_type": "ประเภทการทำงานของห้องที่ไม่รู้จัก '%s'",
-
-
-
-
-
-
-
   "commands.room.config.castle_warfare.observer": "ผู้สังเกตการณ์",
-
-
-
   "commands.room.config.castle_warfare.player_list_is": "รายชื่อสมาชิกทั้งหมดในห้อง: %s",
-
-
-
   "commands.room.config.emergency_task.cannot_type": "ประเภทการกำหนดค่างานฉุกเฉินที่ไม่รู้จัก '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "สคริปต์งานฉุกเฉิน '%s' ไม่พบ",
   "commands.room.config.emergency_task.miss_script_arg": "ขาดพารามิเตอร์สคริปต์เป้าหมาย",
   "commands.room.config.emergency_task.miss_type": "ประเภทการกำหนดค่างานฉุกเฉินที่ขาดหายไป",
   "commands.room.config.emergency_task.only_used_in_theatrical": "ฟังก์ชันนี้ใช้ได้เฉพาะในงานฉุกเฉิน",
+  "commands.room.config.game_custom.cannot_type": "ตั้งค่าไม่รู้จัก '%s'",
+  "commands.room.config.game_custom.incorrect_page": "หน้าผิด '%s'",
   "commands.room.config.magic_tower.cannot_type": "ไม่ทราบประเภทการกำหนดค่าหอคอยเวทมนตร์ '%s'",
   "commands.room.config.magic_tower.incorrect_layer_arg": "จำนวนชั้นของหอคอยเวทมนตร์ '%s' ไม่ถูกต้อง",
   "commands.room.config.magic_tower.layer_only_between": "จำนวนชั้นของหอคอยเวทมนตร์ต้องอยู่ระหว่าง %s ~ %s",
@@ -410,6 +403,9 @@
   "commands.vault.successful_buy": "ขยายขอบเขตที่เก็บของสำเร็จ ขนาดปัจจุบัน %s",
   "commands.vitality.no_players_online": "ไม่มีผู้เล่นออนไลน์",
   "commands.vitality.results": "ค่าพลังชีวิตของผู้เล่นออนไลน์: %s",
+  "commands.z.miss_context": "ขาดคำสั่ง",
+  "commands.z.not_now": "ใช้ได้เฉพาะในเกมคัสตอม",
+  "commands.z.script_command": "คำสั่งสคริปต์",
   "enchantment.addons.action_sound.kizuna_akari": "เอฟเฟกต์ คิซึนะ อะการิ",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "เมื่อใส่กับหมวก การกระทำหลายอย่างมีเสียงน่ารัก!",
   "enchantment.addons.action_sound.kotonoha_akane": "เอฟเฟกต์ โคโตโนฮะ อะกาเนะ",
@@ -621,8 +617,6 @@
   "plugins.castle_warfare.are_tied": "เสมอกันทั้งสองฝ่าย",
   "plugins.castle_warfare.camp_color.blue": "ฝ่ายน้ำเงิน",
   "plugins.castle_warfare.camp_color.red": "ฝ่ายแดง",
-
-
   "plugins.castle_warfare.castle_reward": "ได้รับรางวัลปราสาท",
   "plugins.castle_warfare.castle_war": "สงครามปราสาท",
   "plugins.castle_warfare.castle_war.lore.0": "ปกป้องแกนปราสาทของฝ่ายเรา และทำลายแกนปราสาทของฝ่ายศัตรู!",
@@ -632,45 +626,16 @@
   "plugins.castle_warfare.castle_war.lore.4": "สุ่มเลือกดินแดนของผู้เล่นออนไลน์เป็นสนามรบ",
   "plugins.castle_warfare.castle_war.lore.5": "เมื่อมีผู้เล่นเพียงพอ สมาชิกทีมจะอยู่ฝ่ายเดียวกัน",
   "plugins.castle_warfare.castle_war.lore.6": "เมื่อชนะจะได้รับรางวัลถัดไปจากรายการ",
-
-
-
-
-
-
   "plugins.castle_warfare.core_dismantled": "แกนกลางของ %s ถูก '%s' รื้อถอน",
-
-
-
   "plugins.castle_warfare.give_award_core_break": "ชนะ %s เกมโดยมีการทำลายแกนกลางเพื่อรับรางวัลนี้",
-
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.own_side_is": "ฝ่ายของคุณคือ %s",
-
-
   "plugins.castle_warfare.preparation_countdown": "เตรียมตัวเสร็จสิ้นใน %s...",
   "plugins.castle_warfare.ready_end_countdown": "สิ้นสุดภายใน %s...",
   "plugins.castle_warfare.ready_start_countdown": "เริ่มภายใน %s...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "ได้รับรางวัลแล้ว",
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.time_coming": "ใกล้ถึงเวลาแล้ว",
   "plugins.castle_warfare.tracking_distance": "ห่างออกไป %s บล็อก",
-
   "plugins.castle_warfare.win_with": "%s ชนะ",
   "plugins.castle_warfare.winner_reward_awarded": "รางวัลชนะ Castle Warfare '%s' ได้รับแล้ว",
   "plugins.chat_manager.automatically_translated_context_with": "แปลเนื้อหาโดยอัตโนมัติด้วย %s",
@@ -810,6 +775,29 @@
   "plugins.enchant_addons.recovery_break_item": "กู้คืนไอเท็มที่แตก",
   "plugins.energy_saving.entity_detached_exit": "เอนทิตีออกจากพื้นที่แยก",
   "plugins.energy_saving.entity_detached_join": "เอนทิตีเข้าสู่พื้นที่แยก",
+  "plugins.game_custom.cancel_invite_room": "ยกเลิกเชิญ",
+  "plugins.game_custom.cancel_transfer_homeowner": "ยกเลิกมอบ",
+  "plugins.game_custom.game_custom": "เกมคัสตอม",
+  "plugins.game_custom.game_custom.lore.0": "อัปโหลด Lua ใน Discord เพื่อเล่นได้ทันที!",
+  "plugins.game_custom.game_custom.lore.1": "ข้อมูลรีเซ็ตหลังจบเกม",
+  "plugins.game_custom.game_custom.lore.2": "สคริปต์อ่านข้อมูลโฮสต์ได้ แก้ไม่ได้",
+  "plugins.game_custom.game_custom.lore.3": "สูงสุด %s คน/ทีม",
+  "plugins.game_custom.game_custom.lore.4": "พิมพ์ %s เพื่อออก",
+  "plugins.game_custom.homeowner": "โฮสต์",
+  "plugins.game_custom.inquiry_sure_invite_room": "เชิญ '%s' ไหม?",
+  "plugins.game_custom.inquiry_sure_transfer_homeowner": "มอบโฮสต์ให้ '%s'?",
+  "plugins.game_custom.internal_error": "ข้อผิดพลาดภายใน",
+  "plugins.game_custom.invite_player": "เชิญผู้เล่น",
+  "plugins.game_custom.kick_of_room": "เตะออก",
+  "plugins.game_custom.member_last_page": "หน้าก่อน",
+  "plugins.game_custom.member_next_page": "หน้าถัดไป",
+  "plugins.game_custom.script_installed": "ติดตั้ง '%s' แล้ว",
+  "plugins.game_custom.script_message": "ข้อความที่สร้างโดยสคริปต์",
+  "plugins.game_custom.show_player_status": "ดูสถานะ",
+  "plugins.game_custom.sure_invite_room": "ยืนยันเชิญ",
+  "plugins.game_custom.sure_transfer_homeowner": "ยืนยันมอบ",
+  "plugins.game_custom.traffic_overrun": "ทราฟฟิกเกิน",
+  "plugins.game_custom.transfer_homeowner": "มอบโฮสต์",
   "plugins.global_config.switch_status": "เปลี่ยนสถานะ",
   "plugins.graphic_interface.distance.days": "%s วัน",
   "plugins.graphic_interface.distance.days_hours_minutes_seconds": "%s วัน %s ชั่วโมง %s นาที %s วินาที",
@@ -1176,6 +1164,7 @@
   "plugins.primary_menu.rule.lore.0": "ข้อกำหนดการใช้งานของ catbud.net",
   "plugins.primary_menu.rule.lore.1": "ผู้ที่ละเมิดจะถูกบล็อกอย่างถาวร",
   "plugins.primary_menu.run_command": "รันคำสั่ง",
+  "plugins.primary_menu.script_installed_is": "สคริปต์ติดตั้ง '%s'",
   "plugins.primary_menu.select_this_mode": "เลือกโหมดนี้",
   "plugins.primary_menu.selected_difficulty_is": "ความยากที่เลือก %s",
   "plugins.primary_menu.shield": "บล็อก",
@@ -1273,10 +1262,8 @@
   "plugins.task_distribution.signed_progress": "ความคืบหน้าการเช็คชื่อ %s / %s",
   "plugins.task_distribution.signed_today": "เช็คชื่อวันนี้แล้ว",
   "plugins.task_distribution.task_require.castle_war_play": "เล่น Castle War",
-
   "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s รอบ",
   "plugins.task_distribution.task_require.castle_war_victory": "เล่น Castle War และได้รับชัยชนะ",
-
   "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s รอบ",
   "plugins.task_distribution.task_require.complete_ark_survival": "ทำภารกิจ Ark Survival ให้สำเร็จ",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s เกม",

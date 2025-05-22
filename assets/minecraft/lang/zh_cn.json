@@ -49,8 +49,6 @@
   "commands.buff.cannot_type": "未知的增益类型 '%s'",
   "commands.buff.cannot_value": "不正确的值 '%s'",
   "commands.buff.setup_complete": "已将增益 '%s' 设置为 '%s'",
-
-
   "commands.code.already_existed": "代碼 '%s' 已經存在",
   "commands.code.created_successfully": "代碼 '%s' 成功新增",
   "commands.code.gift_amount": "禮品金額",
@@ -59,6 +57,7 @@
   "commands.code.invalid_operator": "未知的操作 '%s'",
   "commands.code.miss_amount": "缺少金額",
   "commands.code.not_exist": "代碼 '%s' 不存在",
+  "commands.code.rank_insufficient": "牌位至少要达到 %s 才能使用此功能",
   "commands.code.released": "已發放代碼 '%s' 獎勵 %s！",
   "commands.code.removal_successful": "代碼 '%s' 成功移除",
   "commands.code.used": "代碼 '%s' 已經使用過了",
@@ -73,6 +72,11 @@
   "commands.config.cannot_type": "未知的配置类型 '%s'",
   "commands.config.cannot_value": "不正确的值 '%s'",
   "commands.config.setup_complete": "已将配置 '%s' 设置为 '%s'",
+  "commands.custom.cannot_type": "未知的自制游戏操作类型 '%s'",
+  "commands.custom.exit_fulled": "当前无法退出自制游戏",
+  "commands.custom.exiting": "退出自制游戏中",
+  "commands.custom.homeowner_exit_only": "只有房主才能申请退出自制游戏",
+  "commands.custom.miss_type": "缺少自制游戏参数",
   "commands.detached.current_chunk_count": "当前区块有 %s 只已分离的生物",
   "commands.erase.miss_radius_arg": "缺少半径参数",
   "commands.erase.radius_not_available": "半径 '%s' 不在 %s ~ %s 可用范围",
@@ -277,26 +281,15 @@
   "commands.room.already_queuing": "房间已经在列队中",
   "commands.room.can_not_myself": "不能是自己",
   "commands.room.cannot_type": "未知的房间操作类型 '%s'",
-
-
-
-
-
-
-
   "commands.room.config.castle_warfare.observer": "观察者",
-
-
-
   "commands.room.config.castle_warfare.player_list_is": "房间内的全部成员队伍： %s",
-
-
-
   "commands.room.config.emergency_task.cannot_type": "未知的紧急任务配置类型 '%s'",
   "commands.room.config.emergency_task.incorrect_script_key": "紧急任务脚本 '%s' 不存在",
   "commands.room.config.emergency_task.miss_script_arg": "缺少目标脚本参数",
   "commands.room.config.emergency_task.miss_type": "缺少紧急任务配置类型",
   "commands.room.config.emergency_task.only_used_in_theatrical": "只能在紧急任务内使用此功能",
+  "commands.room.config.game_custom.cannot_type": "未知的自制游戏配置类型 '%s'",
+  "commands.room.config.game_custom.incorrect_page": "成员页数不正确 '%s'",
   "commands.room.config.magic_tower.cannot_type": "未知的魔幻之塔配置类型 '%s'",
   "commands.room.config.magic_tower.incorrect_layer_arg": "魔幻之塔层数 '%s' 不正确",
   "commands.room.config.magic_tower.layer_only_between": "魔幻之塔层数只能介于 %s ~ %s 之间",
@@ -410,6 +403,9 @@
   "commands.vault.successful_buy": "成功扩增藏馆范围，当前尺寸 %s",
   "commands.vitality.no_players_online": "没有任何玩家在线",
   "commands.vitality.results": "在线玩家活力值：%s",
+  "commands.z.miss_context": "缺少脚本指令",
+  "commands.z.not_now": "只能在自制游戏内执行脚本指令",
+  "commands.z.script_command": "脚本指令",
   "enchantment.addons.action_sound.kizuna_akari": "动作音效 绁星灯",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "装备在头盔时许多行为发出可爱的音效！",
   "enchantment.addons.action_sound.kotonoha_akane": "动作音效 琴叶茜",
@@ -621,8 +617,6 @@
   "plugins.castle_warfare.are_tied": "双方平手",
   "plugins.castle_warfare.camp_color.blue": "蓝方",
   "plugins.castle_warfare.camp_color.red": "红方",
-
-
   "plugins.castle_warfare.castle_reward": "获得城堡奖励",
   "plugins.castle_warfare.castle_war": "城堡战争",
   "plugins.castle_warfare.castle_war.lore.0": "保护友方的城堡核心，并破坏敌方的城堡核心！",
@@ -632,45 +626,16 @@
   "plugins.castle_warfare.castle_war.lore.4": "随机抽选线上玩家的领地做为场地",
   "plugins.castle_warfare.castle_war.lore.5": "参赛人数够多时队伍成员会在同阵营",
   "plugins.castle_warfare.castle_war.lore.6": "获得胜利时从奖品清单获得下个奖品",
-
-
-
-
-
-
   "plugins.castle_warfare.core_dismantled": "%s 的核心被 '%s' 拆掉了",
-
-
-
   "plugins.castle_warfare.give_award_core_break": "在有破坏核心的情况下获胜 %s 场即可获得",
-
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.own_side_is": "自己是 %s",
-
-
   "plugins.castle_warfare.preparation_countdown": "前置作业 %s 后结束...",
   "plugins.castle_warfare.ready_end_countdown": "%s 后解散...",
   "plugins.castle_warfare.ready_start_countdown": "%s 后开始...",
   "plugins.castle_warfare.remaining_castle_core_countdown": "%s  <  %s  >  %s",
   "plugins.castle_warfare.reward_awarded": "获得奖品",
-
-
-
-
-
-
-
-
   "plugins.castle_warfare.time_coming": "时间快到了",
   "plugins.castle_warfare.tracking_distance": "距离 %s 格远",
-
   "plugins.castle_warfare.win_with": "%s 胜利",
   "plugins.castle_warfare.winner_reward_awarded": "城堡战争获胜奖励 '%s' 已发放",
   "plugins.chat_manager.automatically_translated_context_with": "已自动翻译 %s 内容",
@@ -810,6 +775,29 @@
   "plugins.enchant_addons.recovery_break_item": "救援损坏物品",
   "plugins.energy_saving.entity_detached_exit": "实体离开分离空间",
   "plugins.energy_saving.entity_detached_join": "实体进入分离空间",
+  "plugins.game_custom.cancel_invite_room": "取消邀请加入房间",
+  "plugins.game_custom.cancel_transfer_homeowner": "取消转交房主",
+  "plugins.game_custom.game_custom": "自制游戏",
+  "plugins.game_custom.game_custom.lore.0": "去 Discord 上传 Lua 脚本，就能在游戏中玩到自制游戏！",
+  "plugins.game_custom.game_custom.lore.1": "结束后将所有资料恢复成开场前的状态",
+  "plugins.game_custom.game_custom.lore.2": "脚本能读取房主更多资料但无权去改变",
+  "plugins.game_custom.game_custom.lore.3": "最多 %s 人同时组队",
+  "plugins.game_custom.game_custom.lore.4": "中途输入 %s 可退出脚本",
+  "plugins.game_custom.homeowner": "房主",
+  "plugins.game_custom.inquiry_sure_invite_room": "确定要向 '%s' 邀请加入房间?",
+  "plugins.game_custom.inquiry_sure_transfer_homeowner": "确定要将房主转交给 '%s'?",
+  "plugins.game_custom.internal_error": "内部错误",
+  "plugins.game_custom.invite_player": "邀请玩家",
+  "plugins.game_custom.kick_of_room": "从房间内踢出",
+  "plugins.game_custom.member_last_page": "成员上页",
+  "plugins.game_custom.member_next_page": "成员下页",
+  "plugins.game_custom.script_installed": "已将脚本安装为 '%s'",
+  "plugins.game_custom.script_message": "由脚本产生的信息",
+  "plugins.game_custom.show_player_status": "显示玩家状态",
+  "plugins.game_custom.sure_invite_room": "确定邀请加入房间",
+  "plugins.game_custom.sure_transfer_homeowner": "确定转交房主",
+  "plugins.game_custom.traffic_overrun": "流量超额",
+  "plugins.game_custom.transfer_homeowner": "转交房主",
   "plugins.global_config.switch_status": "切换状态",
   "plugins.graphic_interface.distance.days": "%s 天",
   "plugins.graphic_interface.distance.days_hours_minutes_seconds": "%s 天 %s 时 %s 分 %s 秒",
@@ -1176,6 +1164,7 @@
   "plugins.primary_menu.rule.lore.0": "catbud.net 的使用规范",
   "plugins.primary_menu.rule.lore.1": "违规者将被永久封锁",
   "plugins.primary_menu.run_command": "执行指令",
+  "plugins.primary_menu.script_installed_is": "已安装的脚本 '%s'",
   "plugins.primary_menu.select_this_mode": "选择此模式",
   "plugins.primary_menu.selected_difficulty_is": "已选择的难度 %s",
   "plugins.primary_menu.shield": "屏蔽",
@@ -1273,10 +1262,8 @@
   "plugins.task_distribution.signed_progress": "签到进度 %s / %s",
   "plugins.task_distribution.signed_today": "今日已签到",
   "plugins.task_distribution.task_require.castle_war_play": "游玩城堡战争",
-
   "plugins.task_distribution.task_require.castle_war_play.progress": "%s / %s 场",
   "plugins.task_distribution.task_require.castle_war_victory": "游玩城堡战争并取得胜利",
-
   "plugins.task_distribution.task_require.castle_war_victory.progress": "%s / %s 场",
   "plugins.task_distribution.task_require.complete_ark_survival": "完成方舟生存",
   "plugins.task_distribution.task_require.complete_ark_survival.progress": "%s / %s 场",
