@@ -793,6 +793,7 @@
   "plugins.game_custom.member_next_page": "หน้าถัดไป",
   "plugins.game_custom.script_installed": "ติดตั้ง '%s' แล้ว",
   "plugins.game_custom.script_message": "ข้อความที่สร้างโดยสคริปต์",
+  "plugins.game_custom.script_timeout": "สคริปต์หมดเวลา",
   "plugins.game_custom.show_player_status": "ดูสถานะ",
   "plugins.game_custom.sure_invite_room": "ยืนยันเชิญ",
   "plugins.game_custom.sure_transfer_homeowner": "ยืนยันมอบ",

@@ -793,6 +793,7 @@
   "plugins.game_custom.member_next_page": "次ページ",
   "plugins.game_custom.script_installed": "スクリプト「%s」をインストール済み",
   "plugins.game_custom.script_message": "スクリプトによって生成されたメッセージ",
+  "plugins.game_custom.script_timeout": "スクリプトのタイムアウト",
   "plugins.game_custom.show_player_status": "状態表示",
   "plugins.game_custom.sure_invite_room": "招待を確定",
   "plugins.game_custom.sure_transfer_homeowner": "譲渡を確定",

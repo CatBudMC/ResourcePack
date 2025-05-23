@@ -793,6 +793,7 @@
   "plugins.game_custom.member_next_page": "Seterusnya",
   "plugins.game_custom.script_installed": "Skrip dipasang sebagai '%s'",
   "plugins.game_custom.script_message": "Mesej dijana oleh skrip",
+  "plugins.game_custom.script_timeout": "Skrip tamat masa",
   "plugins.game_custom.show_player_status": "Tunjuk status",
   "plugins.game_custom.sure_invite_room": "Sahkan jemputan",
   "plugins.game_custom.sure_transfer_homeowner": "Sahkan serahan",

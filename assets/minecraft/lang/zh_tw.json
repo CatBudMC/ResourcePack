@@ -793,6 +793,7 @@
   "plugins.game_custom.member_next_page": "成員下頁",
   "plugins.game_custom.script_installed": "已將腳本安裝為 '%s'",
   "plugins.game_custom.script_message": "由腳本產生的訊息",
+  "plugins.game_custom.script_timeout": "腳本超時",
   "plugins.game_custom.show_player_status": "顯示玩家狀態",
   "plugins.game_custom.sure_invite_room": "確定邀請加入房間",
   "plugins.game_custom.sure_transfer_homeowner": "確定轉交房主",

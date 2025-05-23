@@ -793,6 +793,7 @@
   "plugins.game_custom.member_next_page": "成员下页",
   "plugins.game_custom.script_installed": "已将脚本安装为 '%s'",
   "plugins.game_custom.script_message": "由脚本产生的信息",
+  "plugins.game_custom.script_timeout": "脚本超时",
   "plugins.game_custom.show_player_status": "显示玩家状态",
   "plugins.game_custom.sure_invite_room": "确定邀请加入房间",
   "plugins.game_custom.sure_transfer_homeowner": "确定转交房主",

@@ -793,6 +793,7 @@
   "plugins.game_custom.member_next_page": "다음",
   "plugins.game_custom.script_installed": "'%s' 스크립트 설치 완료",
   "plugins.game_custom.script_message": "스크립트로 생성된 메시지",
+  "plugins.game_custom.script_timeout": "스크립트 시간 초과",
   "plugins.game_custom.show_player_status": "상태 보기",
   "plugins.game_custom.sure_invite_room": "초대 확인",
   "plugins.game_custom.sure_transfer_homeowner": "양도 확인",
