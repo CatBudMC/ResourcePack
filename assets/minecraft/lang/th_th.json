@@ -916,7 +916,7 @@
   "plugins.paid_store.pass_purchase_description.6": "จับฉลากฟรีรายวัน %s ครั้ง (ไม่นับแต้มสะสมพิเศษ)",
   "plugins.paid_store.pass_purchase_description.7": "ชื่อในเกมซิงค์กับชื่อใน Discord",
   "plugins.paid_store.pass_purchase_description.8": "สิทธิ์ในการเข้าทดสอบเซิร์ฟเวอร์สร้างสรรค์",
-  "plugins.paid_store.pass_purchase_description.9": "สามารถสร้างห้องสงครามปราสาท-กำหนดเองได้",
+  "plugins.paid_store.pass_purchase_description.9": "เข้าถึงฟีเจอร์เกมที่ปรับเองได้",
   "plugins.paid_store.payment_within_24_hours": "โปรดชำระเงินภายใน 24 ชั่วโมง",
   "plugins.paid_store.prize_list": "รายการรางวัล",
   "plugins.paid_store.prize_list_last_page": "รายการรางวัลหน้าก่อนหน้า",

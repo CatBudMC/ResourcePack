@@ -916,7 +916,7 @@
   "plugins.paid_store.pass_purchase_description.6": "毎日無料抽選 %s 回（確定保証は累積されません）",
   "plugins.paid_store.pass_purchase_description.7": "ゲーム名と Discord のニックネームが同期",
   "plugins.paid_store.pass_purchase_description.8": "クリエイティブテストサーバーの入場権",
-  "plugins.paid_store.pass_purchase_description.9": "キャッスルウォーズのカスタムルーム作成可能",
+  "plugins.paid_store.pass_purchase_description.9": "カスタムゲーム機能を利用可能",
   "plugins.paid_store.payment_within_24_hours": "24時間以内に支払いを完了してください",
   "plugins.paid_store.prize_list": "賞品一覧",
   "plugins.paid_store.prize_list_last_page": "賞品一覧の前ページ",

@@ -916,7 +916,7 @@
   "plugins.paid_store.pass_purchase_description.6": "매일 무료 뽑기 %s회 (보장 횟수 누적 안 됨)",
   "plugins.paid_store.pass_purchase_description.7": "게임 별명과 Discord 별명 동기화",
   "plugins.paid_store.pass_purchase_description.8": "창조 테스트 서버에 입장 자격 부여",
-  "plugins.paid_store.pass_purchase_description.9": "성 전쟁-사용자 지정 방 만들기 가능",
+  "plugins.paid_store.pass_purchase_description.9": "커스텀 게임 기능 사용 가능",
   "plugins.paid_store.payment_within_24_hours": "24시간 이내에 결제를 완료하세요",
   "plugins.paid_store.prize_list": "상품 목록",
   "plugins.paid_store.prize_list_last_page": "상품 목록 이전 페이지",
