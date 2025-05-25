@@ -1363,6 +1363,7 @@
   "plugins.territorial_director.total_player_licenses_granted": "合計で %s 人のプレイヤーに権限を付与",
   "plugins.territorial_director.tracking_distance": "%s ブロックの距離",
   "plugins.territorial_director.use_default": "デフォルトを使用",
+  "plugins.test_packs.duplicate_loophole_item": "他人の複製バグで作られたアイテムを発見し、管理者に送付しました。",
   "plugins.test_packs.ghost_piston_been_automatically_restored": "%s のゴーストピストンが自動的に復元されました。これはサーバーコアの問題で、まだ修正されていません。",
   "plugins.translation_helper.equipment_slot.body": "胴体",
   "plugins.translation_helper.equipment_slot.chest": "チェストプレート",

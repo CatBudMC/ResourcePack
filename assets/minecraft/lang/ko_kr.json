@@ -1363,6 +1363,7 @@
   "plugins.territorial_director.total_player_licenses_granted": "총 %s 명의 플레이어에게 권한 부여",
   "plugins.territorial_director.tracking_distance": "%s 블록 거리",
   "plugins.territorial_director.use_default": "기본값 사용",
+  "plugins.test_packs.duplicate_loophole_item": "다른 플레이어의 복제 버그로 생성된 아이템을 발견하여 관리자에게 보냈습니다.",
   "plugins.test_packs.ghost_piston_been_automatically_restored": "%s의 고스트 피스톤이 자동으로 복구되었습니다. 이는 서버 코어의 문제로 아직 수정되지 않았습니다.",
   "plugins.translation_helper.equipment_slot.body": "몸통",
   "plugins.translation_helper.equipment_slot.chest": "가슴갑옷",
