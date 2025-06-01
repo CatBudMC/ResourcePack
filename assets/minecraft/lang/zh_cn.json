@@ -676,6 +676,7 @@
   "plugins.creativity_core.prohibit_placement": "这个方块材质不允许放置",
   "plugins.discord_system.join_group": "Discord 群组",
   "plugins.discord_system.join_or_account_bundle": "加入 Discord／Minecraft 账号绑定",
+  "plugins.discord_system.restart_server_with": "'%s' 因为 '%s' 而重启服务器。",
   "plugins.discord_system.temporary_ban_with": "'%s' 已将 '%s' 暂时封锁 %s。",
   "plugins.dynamic_map.move_this_direction": "朝此方向移动",
   "plugins.dynamic_map.return_current_position": "返回当前位置",

@@ -676,6 +676,7 @@
   "plugins.creativity_core.prohibit_placement": "This block type is not allowed to be placed",
   "plugins.discord_system.join_group": "Discord Group",
   "plugins.discord_system.join_or_account_bundle": "Join Discord / Link Minecraft account",
+  "plugins.discord_system.restart_server_with": "'%s' restarted the server because of '%s'.",
   "plugins.discord_system.temporary_ban_with": "'%s' has temporarily banned '%s' for %s.",
   "plugins.dynamic_map.move_this_direction": "Move This Way",
   "plugins.dynamic_map.return_current_position": "Return to Current Position",

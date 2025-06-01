@@ -676,6 +676,7 @@
   "plugins.creativity_core.prohibit_placement": "이 블록 유형은 배치할 수 없습니다",
   "plugins.discord_system.join_group": "Discord 그룹",
   "plugins.discord_system.join_or_account_bundle": "Discord/Minecraft 계정 연동",
+  "plugins.discord_system.restart_server_with": "'%s' 님이 '%s' 때문에 서버를 재시작했습니다.",
   "plugins.discord_system.temporary_ban_with": "'%s'님이 '%s'님을 %s 동안 임시 차단했습니다.",
   "plugins.dynamic_map.move_this_direction": "이 방향으로 이동",
   "plugins.dynamic_map.return_current_position": "현재 위치로 돌아가기",

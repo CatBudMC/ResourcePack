@@ -676,6 +676,7 @@
   "plugins.creativity_core.prohibit_placement": "このブロックは設置できません",
   "plugins.discord_system.join_group": "Discord グループ",
   "plugins.discord_system.join_or_account_bundle": "Discord に参加／Minecraft アカウント連携",
+  "plugins.discord_system.restart_server_with": "'%s' が '%s' のためにサーバーを再起動しました。",
   "plugins.discord_system.temporary_ban_with": "'%s' は '%s' を %s 間一時的に禁止しました。",
   "plugins.dynamic_map.move_this_direction": "この方向へ移動",
   "plugins.dynamic_map.return_current_position": "現在位置に戻る",
