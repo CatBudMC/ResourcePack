@@ -664,7 +664,7 @@
   "plugins.chat_manager.config.temporarily_shield_broadcast_notice.on.lore.0": "Join/leave server messages",
   "plugins.chat_manager.config.temporarily_shield_broadcast_notice.on.lore.1": "Achievement messages",
   "plugins.chat_manager.config.temporarily_shield_unfriended_message": "Temporarily shield non-friend messages",
-  "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "Admin messages will still be received",
+  "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "Still receive some system information",
   "plugins.chat_manager.me": "Me",
   "plugins.chat_manager.msg_alert": "Whisper Alert",
   "plugins.chat_manager.radius_message_no_answer": "No players nearby received this radius message",

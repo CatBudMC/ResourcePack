@@ -664,7 +664,7 @@
   "plugins.chat_manager.config.temporarily_shield_broadcast_notice.on.lore.0": "서버 입장/퇴장 메시지",
   "plugins.chat_manager.config.temporarily_shield_broadcast_notice.on.lore.1": "업적 메시지",
   "plugins.chat_manager.config.temporarily_shield_unfriended_message": "비친구 메시지 임시 차단",
-  "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "관리자 메시지는 여전히 수신됩니다",
+  "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "일부 시스템 정보를 여전히 받습니다",
   "plugins.chat_manager.me": "나",
   "plugins.chat_manager.msg_alert": "귓속말 알림",
   "plugins.chat_manager.radius_message_no_answer": "주변에 이 영역 메시지를 받은 플레이어가 없습니다",

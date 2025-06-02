@@ -664,7 +664,7 @@
   "plugins.chat_manager.config.temporarily_shield_broadcast_notice.on.lore.0": "進出入伺服器訊息",
   "plugins.chat_manager.config.temporarily_shield_broadcast_notice.on.lore.1": "獲得成就訊息",
   "plugins.chat_manager.config.temporarily_shield_unfriended_message": "暫時屏蔽非好友訊息",
-  "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "仍然會接收管理員信息",
+  "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "仍然會接收部分系統信息",
   "plugins.chat_manager.me": "我",
   "plugins.chat_manager.msg_alert": "密語通知",
   "plugins.chat_manager.radius_message_no_answer": "周圍沒有任何玩家收到此區域訊息",

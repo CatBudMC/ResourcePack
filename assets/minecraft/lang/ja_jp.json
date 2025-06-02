@@ -664,7 +664,7 @@
   "plugins.chat_manager.config.temporarily_shield_broadcast_notice.on.lore.0": "サーバーの出入りメッセージ",
   "plugins.chat_manager.config.temporarily_shield_broadcast_notice.on.lore.1": "実績のメッセージ",
   "plugins.chat_manager.config.temporarily_shield_unfriended_message": "非フレンドからのメッセージを一時的にブロック",
-  "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "管理者からのメッセージは受信されます",
+  "plugins.chat_manager.config.temporarily_shield_unfriended_message.on.lore.0": "一部のシステム情報は受信します",
   "plugins.chat_manager.me": "私",
   "plugins.chat_manager.msg_alert": "ささやき通知",
   "plugins.chat_manager.radius_message_no_answer": "周囲にこのエリアメッセージを受け取ったプレイヤーはいません",
