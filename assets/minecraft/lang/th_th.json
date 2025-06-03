@@ -1141,7 +1141,7 @@
   "plugins.primary_menu.land": "ดินแดน",
   "plugins.primary_menu.land.lore.0": "ซื้อสิทธิ์ในการควบคุมพื้นที่ขนาด 128 × 128 บล็อก",
   "plugins.primary_menu.land.lore.1": "เพิ่มหรือลดสิทธิ์ของผู้เล่น / ตั้งค่าการป้องกันพิเศษ",
-  "plugins.primary_menu.land.lore.2": "ประกาศดินแดนได้เฉพาะในโลกหลักเท่านั้น",
+  "plugins.primary_menu.land.lore.2": "ประกาศที่ดินได้เฉพาะในพื้นที่ไกลใน Nether และ End เท่านั้น",
   "plugins.primary_menu.land.lore.3": "หากไม่เข้าสู่ระบบเกินหนึ่งปีจะถูกลบ",
   "plugins.primary_menu.log": "บันทึก",
   "plugins.primary_menu.log.lore.0": "ดูประวัติการเปลี่ยนแปลงของภาชนะ / บล็อก / สิ่งมีชีวิต",

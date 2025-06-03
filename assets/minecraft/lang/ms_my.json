@@ -1141,7 +1141,7 @@
   "plugins.primary_menu.land": "Tanah",
   "plugins.primary_menu.land.lore.0": "Beli semua hak kawalan tanah berukuran 128 × 128 blok",
   "plugins.primary_menu.land.lore.1": "Kawal atau ubah hak pemain / tetapkan fungsi perlindungan khas",
-  "plugins.primary_menu.land.lore.2": "Hanya boleh isytihar tanah di dunia utama",
+  "plugins.primary_menu.land.lore.2": "Hanya boleh tuntut kawasan di Nether dan End yang jauh",
   "plugins.primary_menu.land.lore.3": "Akan dipadamkan jika tidak log masuk selama lebih dari satu tahun",
   "plugins.primary_menu.log": "Log",
   "plugins.primary_menu.log.lore.0": "Lihat sejarah perubahan kontena / blok / entiti",

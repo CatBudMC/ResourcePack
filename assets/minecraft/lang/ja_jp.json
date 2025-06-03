@@ -1141,7 +1141,7 @@
   "plugins.primary_menu.land": "土地",
   "plugins.primary_menu.land.lore.0": "128 × 128 ブロックの土地を購入し、すべての権限を持つ",
   "plugins.primary_menu.land.lore.1": "プレイヤーの権限を調整／特別な保護機能を設定",
-  "plugins.primary_menu.land.lore.2": "メインワールドのみで土地を宣言可能",
+  "plugins.primary_menu.land.lore.2": "ネザーやエンドの遠くでのみ領地を宣言できます",
   "plugins.primary_menu.land.lore.3": "1年以上ログインしていない場合は削除されます",
   "plugins.primary_menu.log": "ログ",
   "plugins.primary_menu.log.lore.0": "コンテナ／ブロック／エンティティの変更履歴を確認",

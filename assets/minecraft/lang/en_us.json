@@ -1141,7 +1141,7 @@
   "plugins.primary_menu.land": "Land",
   "plugins.primary_menu.land.lore.0": "Buy complete control of a 128 × 128 block area",
   "plugins.primary_menu.land.lore.1": "Edit or adjust player permissions / Set up special protections",
-  "plugins.primary_menu.land.lore.2": "Land can only be declared in the overworld",
+  "plugins.primary_menu.land.lore.2": "Claiming is only allowed in distant Nether and End areas",
   "plugins.primary_menu.land.lore.3": "Cleared if not logged in for over a year",
   "plugins.primary_menu.log": "Log",
   "plugins.primary_menu.log.lore.0": "Check history of containers / blocks / entities",

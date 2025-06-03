@@ -1141,7 +1141,7 @@
   "plugins.primary_menu.land": "領地",
   "plugins.primary_menu.land.lore.0": "買下一塊面積 128 × 128 方塊的所有控制權",
   "plugins.primary_menu.land.lore.1": "刪減或調整玩家權限／配置特殊保護功能",
-  "plugins.primary_menu.land.lore.2": "只能在主世界宣告領地",
+  "plugins.primary_menu.land.lore.2": "地獄、終界遠處才能宣告",
   "plugins.primary_menu.land.lore.3": "超過一年未登入會被清除",
   "plugins.primary_menu.log": "紀錄",
   "plugins.primary_menu.log.lore.0": "查看容器／方塊／實體的更改歷史",
