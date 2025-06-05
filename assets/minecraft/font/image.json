@@ -134,6 +134,7 @@
     {"type": "bitmap", "chars": ["\u0133"], "file": "image/chat_manager/reply.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0134"], "file": "image/chat_manager/resend.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0135"], "file": "image/game_custom/print.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars": ["\u0136"], "file": "image/game_custom/error.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars": ["\u0136"], "file": "image/game_custom/error.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0137"], "file": "image/chat_manager/scope/advertise.png", "height": 8, "ascent": 7}
   ]
 }
