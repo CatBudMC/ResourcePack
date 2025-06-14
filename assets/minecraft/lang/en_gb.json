@@ -1332,6 +1332,7 @@
   "plugins.territorial_director.config.mob_build.lore.0": "Villagers planting crops / Snowmen creating snow / Endermen placing blocks",
   "plugins.territorial_director.config.mob_destroy": "Mob destruction",
   "plugins.territorial_director.config.mob_destroy.lore.0": "Villagers harvesting crops / Withers destroying blocks / Endermen picking up blocks",
+  "plugins.territorial_director.config.mob_destroy.lore.1": "Non-player arrows break hangings",
   "plugins.territorial_director.config.mob_spawning": "Mob spawning",
   "plugins.territorial_director.config.mob_spawning.lore.0": "Does not include spawners / wardens",
   "plugins.territorial_director.config.safe_bound": "Safe boundary",

@@ -1332,6 +1332,7 @@
   "plugins.territorial_director.config.mob_build.lore.0": "ชาวบ้านปลูกพืช / สโนว์แมนทำหิมะ / Enderman วางบล็อก",
   "plugins.territorial_director.config.mob_destroy": "สิ่งมีชีวิตทำลาย",
   "plugins.territorial_director.config.mob_destroy.lore.0": "ชาวบ้านเก็บเกี่ยวพืช / Wither ทำลายบล็อก / Enderman หยิบบล็อก",
+  "plugins.territorial_director.config.mob_destroy.lore.1": "ลูกศรไม่ใช่ผู้เล่นทำลายของแขวน",
   "plugins.territorial_director.config.mob_spawning": "สิ่งมีชีวิตเกิด",
   "plugins.territorial_director.config.mob_spawning.lore.0": "ไม่รวม Spawner / Warden",
   "plugins.territorial_director.config.safe_bound": "ขอบเขตปลอดภัย",

@@ -1332,6 +1332,7 @@
   "plugins.territorial_director.config.mob_build.lore.0": "村人の作物植え/雪だるまの雪作り/エンドマンのブロック配置",
   "plugins.territorial_director.config.mob_destroy": "モブの破壊",
   "plugins.territorial_director.config.mob_destroy.lore.0": "村人の作物収穫/ウィザーのブロック破壊/エンドマンのブロック回収",
+  "plugins.territorial_director.config.mob_destroy.lore.1": "プレイヤー以外の矢が装飾を壊す",
   "plugins.territorial_director.config.mob_spawning": "モブのスポーン",
   "plugins.territorial_director.config.mob_spawning.lore.0": "スポナー/ウォーデンは含まない",
   "plugins.territorial_director.config.safe_bound": "安全境界",

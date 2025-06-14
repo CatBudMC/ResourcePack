@@ -1332,6 +1332,7 @@
   "plugins.territorial_director.config.mob_build.lore.0": "Penduduk desa menanam tanaman/Snowman buat salji/Enderman letak blok",
   "plugins.territorial_director.config.mob_destroy": "Mob Memusnahkan",
   "plugins.territorial_director.config.mob_destroy.lore.0": "Penduduk desa menuai tanaman/Wither memusnahkan blok/Enderman mengambil blok",
+  "plugins.territorial_director.config.mob_destroy.lore.1": "Anak panah bukan pemain rosakkan hiasan",
   "plugins.territorial_director.config.mob_spawning": "Penjanaan Mob",
   "plugins.territorial_director.config.mob_spawning.lore.0": "Tidak termasuk Mob Spawner/Warden",
   "plugins.territorial_director.config.safe_bound": "Sempadan Selamat",

@@ -1332,6 +1332,7 @@
   "plugins.territorial_director.config.mob_build.lore.0": "주민 농작물 재배 / 눈사람 눈 생성 / 엔더맨 블록 배치",
   "plugins.territorial_director.config.mob_destroy": "생물 파괴",
   "plugins.territorial_director.config.mob_destroy.lore.0": "주민 농작물 수확 / 위더 몹 블록 파괴 / 엔더맨 블록 제거",
+  "plugins.territorial_director.config.mob_destroy.lore.1": "플레이어 외 화살이 장식 파괴",
   "plugins.territorial_director.config.mob_spawning": "생물 생성",
   "plugins.territorial_director.config.mob_spawning.lore.0": "몬스터 스포너 / 복수자 제외",
   "plugins.territorial_director.config.safe_bound": "안전 경계",
