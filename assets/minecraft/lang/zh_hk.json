@@ -1332,7 +1332,7 @@
   "plugins.territorial_director.config.mob_build.lore.0": "村民種植農作物／雪人造雪／終界使者放置方塊",
   "plugins.territorial_director.config.mob_destroy": "生物破壞",
   "plugins.territorial_director.config.mob_destroy.lore.0": "村民採收農作物／凋零怪破壞方塊／終界使者拿取方塊",
-  "plugins.territorial_director.config.mob_destroy.lore.1": "非玩家射出的箭破壞懸掛物",
+  "plugins.territorial_director.config.mob_destroy.lore.1": "非玩家射出的箭矢破壞懸掛物",
   "plugins.territorial_director.config.mob_spawning": "生物生成",
   "plugins.territorial_director.config.mob_spawning.lore.0": "不包含生怪磚／伏守者",
   "plugins.territorial_director.config.safe_bound": "安全的邊界",
