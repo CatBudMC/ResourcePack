@@ -1186,7 +1186,6 @@
   "plugins.primary_menu.rule.lore.0": "ข้อกำหนดการใช้งานของ catbud.net",
   "plugins.primary_menu.rule.lore.1": "ผู้ที่ละเมิดจะถูกบล็อกอย่างถาวร",
   "plugins.primary_menu.run_command": "รันคำสั่ง",
-  "plugins.primary_menu.script_installed_is": "สคริปต์ติดตั้ง '%s'",
   "plugins.primary_menu.select_this_mode": "เลือกโหมดนี้",
   "plugins.primary_menu.selected_difficulty_is": "ความยากที่เลือก %s",
   "plugins.primary_menu.shield": "บล็อก",

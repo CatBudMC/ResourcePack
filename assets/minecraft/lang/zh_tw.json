@@ -1186,7 +1186,6 @@
   "plugins.primary_menu.rule.lore.0": "catbud.net 的使用規範",
   "plugins.primary_menu.rule.lore.1": "違規者將被永久封鎖",
   "plugins.primary_menu.run_command": "執行指令",
-  "plugins.primary_menu.script_installed_is": "已安裝的腳本 '%s'",
   "plugins.primary_menu.select_this_mode": "選擇此模式",
   "plugins.primary_menu.selected_difficulty_is": "已選擇的難度 %s",
   "plugins.primary_menu.shield": "屏蔽",

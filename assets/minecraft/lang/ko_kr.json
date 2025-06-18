@@ -1186,7 +1186,6 @@
   "plugins.primary_menu.rule.lore.0": "catbud.net 이용 규정",
   "plugins.primary_menu.rule.lore.1": "위반자는 영구 차단됩니다",
   "plugins.primary_menu.run_command": "명령 실행",
-  "plugins.primary_menu.script_installed_is": "설치됨 '%s'",
   "plugins.primary_menu.select_this_mode": "이 모드 선택",
   "plugins.primary_menu.selected_difficulty_is": "선택한 난이도 %s",
   "plugins.primary_menu.shield": "차단",

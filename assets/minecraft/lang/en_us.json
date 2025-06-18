@@ -1186,7 +1186,6 @@
   "plugins.primary_menu.rule.lore.0": "Usage rules for catbud.net",
   "plugins.primary_menu.rule.lore.1": "Violators will be permanently banned",
   "plugins.primary_menu.run_command": "Run command",
-  "plugins.primary_menu.script_installed_is": "Installed script '%s'.",
   "plugins.primary_menu.select_this_mode": "Select This Mode",
   "plugins.primary_menu.selected_difficulty_is": "Selected Difficulty %s",
   "plugins.primary_menu.shield": "Shield",

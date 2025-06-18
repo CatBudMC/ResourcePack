@@ -1186,7 +1186,6 @@
   "plugins.primary_menu.rule.lore.0": "catbud.net の利用規則",
   "plugins.primary_menu.rule.lore.1": "違反者は永久禁止される可能性あり",
   "plugins.primary_menu.run_command": "コマンド実行",
-  "plugins.primary_menu.script_installed_is": "インストール済み「%s」",
   "plugins.primary_menu.select_this_mode": "このモードを選択",
   "plugins.primary_menu.selected_difficulty_is": "選択した難易度 %s",
   "plugins.primary_menu.shield": "シールド",
