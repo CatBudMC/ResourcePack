@@ -1024,7 +1024,7 @@
   "plugins.player_database.in_hiding": "正在隱身中",
   "plugins.player_database.incorrect_amount": "不正確的金額",
   "plugins.player_database.input_player_name": "輸入玩家名稱",
-  "plugins.player_database.input_player_not_find": "無法透過 '%s' 暱稱/名稱/UUID找到任何玩家，或是該玩家從未登入過伺服器。",
+  "plugins.player_database.input_player_not_find": "無法透過 '%s' 名稱/UUID找到任何玩家，或是該玩家從未登入過伺服器",
   "plugins.player_database.inquiry_sure_add_shield": "確定要將 '%s' 加入屏蔽狀態?",
   "plugins.player_database.inquiry_sure_ask_friend": "確定要向 '%s' 申請成為朋友關係?",
   "plugins.player_database.inquiry_sure_delete_mail": "確定要刪除 '%s' 這封郵件?",
