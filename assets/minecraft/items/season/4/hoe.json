@@ -2,5 +2,6 @@
   "model": {
     "type": "model",
     "model": "item/season/4/hoe"
-  }
+  },
+  "oversized_in_gui": true
 }

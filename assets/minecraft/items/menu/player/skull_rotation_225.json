@@ -6,5 +6,6 @@
       "type": "head",
       "kind": "player"
     }
-  }
+  },
+  "oversized_in_gui": true
 }

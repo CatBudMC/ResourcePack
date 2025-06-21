@@ -2,5 +2,6 @@
   "model": {
     "type": "model",
     "model": "item/menu/root/mode/ark_survival__small_1"
-  }
+  },
+  "oversized_in_gui": true
 }

@@ -2,5 +2,6 @@
   "model": {
     "type": "model",
     "model": "item/menu/root/mode/last_page_off"
-  }
+  },
+  "oversized_in_gui": true
 }

@@ -2,5 +2,6 @@
   "model": {
     "type": "model",
     "model": "item/season/2/pickaxe"
-  }
+  },
+  "oversized_in_gui": true
 }

@@ -2,5 +2,6 @@
   "model": {
     "type": "model",
     "model": "item/menu/root/room/queuing"
-  }
+  },
+  "oversized_in_gui": true
 }
