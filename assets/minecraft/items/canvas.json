@@ -327,5 +327,6 @@
       {"type": "model", "model": "item/canvas/10x11", "tints": [{"type": "custom_model_data", "default": 0, "index": 322}]},
       {"type": "model", "model": "item/canvas/11x11", "tints": [{"type": "custom_model_data", "default": 0, "index": 323}]}
     ]
-  }
+  },
+  "oversized_in_gui": true
 }
