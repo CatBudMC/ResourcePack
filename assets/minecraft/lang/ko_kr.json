@@ -58,6 +58,8 @@
   "commands.camera.cannot_type": "알 수 없는 카메라 작동 유형: '%s'",
   "commands.camera.coming": "카메라 '%s'가 당신을 순간이동시키고 있습니다",
   "commands.camera.different_world": "카메라와 다른 월드에 있습니다",
+  "commands.camera.enforce_using": "카메라를 강제로 사용하고 있습니다",
+  "commands.camera.exited": "'%s' 카메라 사용을 중지했습니다",
   "commands.camera.looking": "카메라 '%s'가 당신을 보고 있습니다",
   "commands.camera.miss_type": "카메라 매개변수가 없습니다",
   "commands.camera.no_pass": "월간 이용권이 없습니다",

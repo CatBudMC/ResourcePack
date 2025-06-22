@@ -58,6 +58,8 @@
   "commands.camera.cannot_type": "未知的相机操作类型 '%s'",
   "commands.camera.coming": "相机 '%s' 正在传送你",
   "commands.camera.different_world": "相机与你不在同个世界内",
+  "commands.camera.enforce_using": "相机正在被你强制使用中",
+  "commands.camera.exited": "相机 '%s' 已解除使用",
   "commands.camera.looking": "相机 '%s' 正在看向你",
   "commands.camera.miss_type": "缺少相机参数",
   "commands.camera.no_pass": "当前没有购买月卡",

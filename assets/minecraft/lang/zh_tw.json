@@ -58,6 +58,8 @@
   "commands.camera.cannot_type": "未知的相機操作類型 '%s'",
   "commands.camera.coming": "相機 '%s' 正在傳送你",
   "commands.camera.different_world": "相機與你不在同個世界內",
+  "commands.camera.enforce_using": "相機正在被你強制使用中",
+  "commands.camera.exited": "相機 '%s' 已解除使用",
   "commands.camera.looking": "相機 '%s' 正在看向你",
   "commands.camera.miss_type": "缺少相機參數",
   "commands.camera.no_pass": "當前沒有購買月卡",

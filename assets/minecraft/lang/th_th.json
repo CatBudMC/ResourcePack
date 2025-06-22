@@ -58,6 +58,8 @@
   "commands.camera.cannot_type": "ไม่รู้จักประเภทการทำงานของกล้อง '%s'",
   "commands.camera.coming": "กล้อง '%s' กำลังเทเลพอร์ตคุณ",
   "commands.camera.different_world": "คุณกับกล้องอยู่คนละโลกกัน",
+  "commands.camera.enforce_using": "กล้องกำลังถูกคุณบังคับใช้อยู่",
+  "commands.camera.exited": "ออกจากกล้อง '%s' แล้ว",
   "commands.camera.looking": "กล้อง '%s' กำลังมองมาที่คุณ",
   "commands.camera.miss_type": "ไม่พบพารามิเตอร์ของกล้อง",
   "commands.camera.no_pass": "ไม่มีบัตรรายเดือน",

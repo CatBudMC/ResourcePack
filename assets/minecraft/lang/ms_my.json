@@ -58,6 +58,8 @@
   "commands.camera.cannot_type": "Jenis operasi kamera tidak diketahui '%s'",
   "commands.camera.coming": "Kamera '%s' sedang teleport anda",
   "commands.camera.different_world": "Kamera dan anda berada di dunia yang berbeza",
+  "commands.camera.enforce_using": "Kamera sedang digunakan oleh anda secara paksa",
+  "commands.camera.exited": "Keluar dari kamera '%s'",
   "commands.camera.looking": "Kamera '%s' sedang melihat anda",
   "commands.camera.miss_type": "Parameter kamera tiada",
   "commands.camera.no_pass": "Tiada pas bulanan aktif",

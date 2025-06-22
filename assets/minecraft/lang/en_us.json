@@ -58,6 +58,8 @@
   "commands.camera.cannot_type": "Unknown camera operation type '%s'",
   "commands.camera.coming": "Camera '%s' is teleporting you",
   "commands.camera.different_world": "Camera and you are in different worlds",
+  "commands.camera.enforce_using": "The camera is being forcibly used by you",
+  "commands.camera.exited": "Exited camera '%s'",
   "commands.camera.looking": "Camera '%s' is looking at you",
   "commands.camera.miss_type": "Missing camera parameter",
   "commands.camera.no_pass": "No monthly pass active",

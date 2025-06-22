@@ -58,6 +58,8 @@
   "commands.camera.cannot_type": "不明なカメラ操作タイプ '%s'",
   "commands.camera.coming": "カメラ '%s' があなたをテレポートしています",
   "commands.camera.different_world": "カメラとあなたは違うワールドにいます",
+  "commands.camera.enforce_using": "カメラを強制的に使用しています",
+  "commands.camera.exited": "カメラ「%s」の使用を終了しました",
   "commands.camera.looking": "カメラ '%s' があなたを見ています",
   "commands.camera.miss_type": "カメラのパラメータがありません",
   "commands.camera.no_pass": "月間パスがありません",
