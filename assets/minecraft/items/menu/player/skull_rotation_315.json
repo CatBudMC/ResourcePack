@@ -3,8 +3,7 @@
     "type": "special",
     "base": "item/menu/player/skull_rotation_315",
     "model": {
-      "type": "head",
-      "kind": "player"
+      "type": "player_head"
     }
   },
   "oversized_in_gui": true
