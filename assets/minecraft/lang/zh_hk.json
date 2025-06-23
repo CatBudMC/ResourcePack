@@ -1291,6 +1291,8 @@
   "plugins.tab_information.wallet": "銀包",
   "plugins.tab_information.wilderness": "野外",
   "plugins.tab_information.world_will_drop": "此世界會噴裝",
+  "plugins.task_distribution.config.logging_sing_dialog": "登入時展示簽到對話框",
+  "plugins.task_distribution.config.logging_sing_dialog.on.lore.0": "需要手動簽到",
   "plugins.task_distribution.do_sign": "進行簽到",
   "plugins.task_distribution.done_auto_reset": "領完後自動重置",
   "plugins.task_distribution.done_no_reset": "領完後不會重製",

@@ -1291,6 +1291,8 @@
   "plugins.tab_information.wallet": "지갑",
   "plugins.tab_information.wilderness": "야생",
   "plugins.tab_information.world_will_drop": "이 월드에서는 아이템이 드롭됩니다",
+  "plugins.task_distribution.config.logging_sing_dialog": "로그인 시 출석체크 창 표시",
+  "plugins.task_distribution.config.logging_sing_dialog.on.lore.0": "수동 출석체크 필요",
   "plugins.task_distribution.do_sign": "출석하기",
   "plugins.task_distribution.done_auto_reset": "수령 후 자동 초기화",
   "plugins.task_distribution.done_no_reset": "수령 후 초기화되지 않음",

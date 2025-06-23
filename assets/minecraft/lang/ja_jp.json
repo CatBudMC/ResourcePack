@@ -1291,6 +1291,8 @@
   "plugins.tab_information.wallet": "ウォレット",
   "plugins.tab_information.wilderness": "荒野",
   "plugins.tab_information.world_will_drop": "このワールドはアイテムをドロップします",
+  "plugins.task_distribution.config.logging_sing_dialog": "ログイン時にサインイン画面を表示",
+  "plugins.task_distribution.config.logging_sing_dialog.on.lore.0": "手動でのサインインが必要",
   "plugins.task_distribution.do_sign": "サインインする",
   "plugins.task_distribution.done_auto_reset": "請求後に自動リセット",
   "plugins.task_distribution.done_no_reset": "請求後にリセットされません",

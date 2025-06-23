@@ -1291,6 +1291,8 @@
   "plugins.tab_information.wallet": "กระเป๋าสตางค์",
   "plugins.tab_information.wilderness": "ป่า",
   "plugins.tab_information.world_will_drop": "โลกนี้จะดรอปไอเทม",
+  "plugins.task_distribution.config.logging_sing_dialog": "แสดงหน้าต่างลงชื่อเข้าใช้เมื่อล็อกอิน",
+  "plugins.task_distribution.config.logging_sing_dialog.on.lore.0": "ต้องลงชื่อเข้าใช้ด้วยตนเอง",
   "plugins.task_distribution.do_sign": "ทำการเช็คอิน",
   "plugins.task_distribution.done_auto_reset": "รีเซ็ตอัตโนมัติหลังจากรับรางวัล",
   "plugins.task_distribution.done_no_reset": "ไม่รีเซ็ตหลังจากรับรางวัล",

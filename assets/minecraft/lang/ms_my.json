@@ -1291,6 +1291,8 @@
   "plugins.tab_information.wallet": "กระเป๋าเงิน",
   "plugins.tab_information.wilderness": "ที่รกร้าง",
   "plugins.tab_information.world_will_drop": "โลกนี้จะดรอปของ",
+  "plugins.task_distribution.config.logging_sing_dialog": "Papar dialog daftar masuk semasa log masuk",
+  "plugins.task_distribution.config.logging_sing_dialog.on.lore.0": "Perlu daftar masuk secara manual",
   "plugins.task_distribution.do_sign": "ลงชื่อ",
   "plugins.task_distribution.done_auto_reset": "รีเซ็ตอัตโนมัติหลังจากรับแล้ว",
   "plugins.task_distribution.done_no_reset": "จะไม่รีเซ็ตหลังจากรับแล้ว",

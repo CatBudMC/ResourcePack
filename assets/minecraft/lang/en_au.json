@@ -1291,6 +1291,8 @@
   "plugins.tab_information.wallet": "Wallet",
   "plugins.tab_information.wilderness": "Wilderness",
   "plugins.tab_information.world_will_drop": "Items drop in this world",
+  "plugins.task_distribution.config.logging_sing_dialog": "Show sign-in dialog on login",
+  "plugins.task_distribution.config.logging_sing_dialog.on.lore.0": "Requires manual sign-in",
   "plugins.task_distribution.do_sign": "Sign-in",
   "plugins.task_distribution.done_auto_reset": "Auto-resets after claiming",
   "plugins.task_distribution.done_no_reset": "Does not reset after claiming",
