@@ -104,6 +104,7 @@
     {"type": "bitmap", "chars": ["\u0103"], "file": "emoji/keyboard_q_ctrl.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0104"], "file": "emoji/mob/creaking.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0105"], "file": "emoji/rank.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars": ["\u0106"], "file": "emoji/translate.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars": ["\u0106"], "file": "emoji/translate.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0107"], "file": "emoji/mob/happy_ghast.png", "height": 8, "ascent": 7}
   ]
 }

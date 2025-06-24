@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "condition",
+    "on_false": {
+      "type": "model",
+      "model": "item/style/shields/no_entry"
+    },
+    "on_true": {
+      "type": "model",
+      "model": "item/style/shields/no_entry_blocking"
+    },
+    "property": "using_item"
+  }
+}

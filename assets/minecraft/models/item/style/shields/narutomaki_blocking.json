@@ -1,0 +1,6 @@
+{
+  "parent": "item/style/shields/_blocking",
+  "textures": {
+    "layer0": "item/style/shields/narutomaki"
+  }
+}

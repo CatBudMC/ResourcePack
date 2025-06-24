@@ -1612,6 +1612,10 @@
   "styles.rabbit_ear.red": "토끼 귀 (빨간색)",
   "styles.rabbit_ear.white": "토끼 귀 (흰색)",
   "styles.rabbit_ear.yellow": "토끼 귀 (노란색)",
+  "styles.shields.chocolate": "초콜릿 방패",
+  "styles.shields.narutomaki": "나루토마키 방패",
+  "styles.shields.no_entry": "진입 금지 방패",
+  "styles.shields.strawberry": "딸기 방패",
   "styles.tinned_cat_food.black": "고양이 통조림 (검은색)",
   "styles.tinned_cat_food.white": "고양이 통조림 (흰색)"
 }

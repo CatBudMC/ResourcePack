@@ -1612,6 +1612,10 @@
   "styles.rabbit_ear.red": "うさ耳（赤）",
   "styles.rabbit_ear.white": "うさ耳（白）",
   "styles.rabbit_ear.yellow": "うさ耳（黄）",
+  "styles.shields.chocolate": "チョコレートの盾",
+  "styles.shields.narutomaki": "なると巻の盾",
+  "styles.shields.no_entry": "立入禁止の盾",
+  "styles.shields.strawberry": "苺の盾",
   "styles.tinned_cat_food.black": "猫缶（黒）",
   "styles.tinned_cat_food.white": "猫缶（白）"
 }

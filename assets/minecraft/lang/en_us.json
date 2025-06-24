@@ -1612,6 +1612,10 @@
   "styles.rabbit_ear.red": "Rabbit Ears (Red)",
   "styles.rabbit_ear.white": "Rabbit Ears (White)",
   "styles.rabbit_ear.yellow": "Rabbit Ears (Yellow)",
+  "styles.shields.chocolate": "Chocolate Shield",
+  "styles.shields.narutomaki": "Narutomaki Shield",
+  "styles.shields.no_entry": "No Entry Shield",
+  "styles.shields.strawberry": "Strawberry Shield",
   "styles.tinned_cat_food.black": "Tinned Cat Food (Black)",
   "styles.tinned_cat_food.white": "Tinned Cat Food (White)"
 }

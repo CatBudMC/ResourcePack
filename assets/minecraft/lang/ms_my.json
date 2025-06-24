@@ -1612,6 +1612,10 @@
   "styles.rabbit_ear.red": "หูกระต่าย (สีแดง)",
   "styles.rabbit_ear.white": "หูกระต่าย (สีขาว)",
   "styles.rabbit_ear.yellow": "หูกระต่าย (สีเหลือง)",
+  "styles.shields.chocolate": "Perisai Coklat",
+  "styles.shields.narutomaki": "Perisai Narutomaki",
+  "styles.shields.no_entry": "Perisai Dilarang Masuk",
+  "styles.shields.strawberry": "Perisai Strawberi",
   "styles.tinned_cat_food.black": "อาหารแมวกระป๋อง (สีดำ)",
   "styles.tinned_cat_food.white": "อาหารแมวกระป๋อง (สีขาว)"
 }

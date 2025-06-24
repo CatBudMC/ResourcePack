@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "condition",
+    "on_false": {
+      "type": "model",
+      "model": "item/style/shields/strawberry"
+    },
+    "on_true": {
+      "type": "model",
+      "model": "item/style/shields/strawberry_blocking"
+    },
+    "property": "using_item"
+  }
+}

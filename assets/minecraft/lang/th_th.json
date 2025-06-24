@@ -1612,6 +1612,10 @@
   "styles.rabbit_ear.red": "หูกระต่าย (สีแดง)",
   "styles.rabbit_ear.white": "หูกระต่าย (สีขาว)",
   "styles.rabbit_ear.yellow": "หูกระต่าย (สีเหลือง)",
+  "styles.shields.chocolate": "โล่ช็อกโกแลต",
+  "styles.shields.narutomaki": "โล่นารูโตะมากิ",
+  "styles.shields.no_entry": "โล่ห้ามเข้า",
+  "styles.shields.strawberry": "โล่สตรอว์เบอร์รี",
   "styles.tinned_cat_food.black": "อาหารแมวบรรจุกระป๋อง (สีดำ)",
   "styles.tinned_cat_food.white": "อาหารแมวบรรจุกระป๋อง (สีขาว)"
 }
