@@ -1,35 +1,6 @@
 {
   "model": {
-    "type": "range_dispatch",
-    "entries": [
-      {
-        "threshold": 0.25,
-        "model": {
-          "type": "model",
-          "model": "item/style/tinned_cat_food/black__brushing_0"
-        }
-      },
-      {
-        "threshold": 0.5,
-        "model": {
-          "type": "model",
-          "model": "item/style/tinned_cat_food/black__brushing_1"
-        }
-      },
-      {
-        "threshold": 0.75,
-        "model": {
-          "type": "model",
-          "model": "item/style/tinned_cat_food/black__brushing_2"
-        }
-      }
-    ],
-    "fallback": {
-      "type": "model",
-      "model": "item/style/tinned_cat_food/black__brushing_1"
-    },
-    "period": 10.0,
-    "property": "use_cycle",
-    "scale": 0.1
+    "type": "model",
+    "model": "item/style/tinned_cat_food/black"
   }
 }

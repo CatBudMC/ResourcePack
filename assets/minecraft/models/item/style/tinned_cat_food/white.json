@@ -1,5 +1,5 @@
 {
-  "parent": "item/style/tinned_cat_food/_brushing_2",
+  "parent": "item/handheld",
   "textures": {
     "layer0": "item/style/tinned_cat_food/white"
   }
