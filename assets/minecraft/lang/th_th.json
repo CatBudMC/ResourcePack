@@ -892,7 +892,6 @@
   "plugins.newbie_starter.description_page.1": "ความยากของคลื่นมอนสเตอร์จะเพิ่มขึ้นเรื่อยๆ",
   "plugins.newbie_starter.description_page.2": "บอสจะดรอปหนังสือเอนชานต์หายาก",
   "plugins.newbie_starter.description_page.3": "ได้รับสกินพิเศษเมื่อขึ้นถึงระดับราชา",
-  "plugins.newbie_starter.enter_command_accept_initial": "พิมพ์ /newbie เพื่อเลือกจุดเริ่มต้นนี้... %s เพื่อค้นหาใหม่.",
   "plugins.newbie_starter.enter_command_select": "ใช้คำสั่ง %s เพื่อเลือกที่นี่เป็นจุดเริ่มต้น หรือ %s เพื่อค้นหาตำแหน่งอื่น",
   "plugins.newbie_starter.home": "บ้าน",
   "plugins.newbie_starter.initial_yes_or_no": "พิมพ์ %s เพื่อยืนยัน หรือ %s เพื่อยกเลิก",

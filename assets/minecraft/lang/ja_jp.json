@@ -892,7 +892,6 @@
   "plugins.newbie_starter.description_page.1": "モンスターウェーブの難易度がどんどん上がります",
   "plugins.newbie_starter.description_page.2": "ボスがレアなエンチャントブックをドロップします",
   "plugins.newbie_starter.description_page.3": "キングに到達すると限定スキンがもらえます",
-  "plugins.newbie_starter.enter_command_accept_initial": "コマンド /newbie を入力して、この場所を初期地点として確定します... %s 後に他の場所を再検索します",
   "plugins.newbie_starter.enter_command_select": "%s を入力してここを初期地点に設定します。%s で他の場所を再検索します。",
   "plugins.newbie_starter.home": "家",
   "plugins.newbie_starter.initial_yes_or_no": "%s で確定、%s でキャンセルしてください。",

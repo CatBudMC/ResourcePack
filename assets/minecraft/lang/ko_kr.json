@@ -892,7 +892,6 @@
   "plugins.newbie_starter.description_page.1": "몬스터 웨이브 난이도 계속 증가",
   "plugins.newbie_starter.description_page.2": "보스가 희귀 인챈트 책 드롭",
   "plugins.newbie_starter.description_page.3": "왕 등급 달성 시 한정 스킨 획득",
-  "plugins.newbie_starter.enter_command_accept_initial": "명령어 /newbie를 입력하여 이 곳을 시작 지점으로 확정... %s 후 다른 위치 검색",
   "plugins.newbie_starter.enter_command_select": "%s를 입력해 여기를 시작 지점으로 설정하거나, %s로 다른 위치를 검색하세요.",
   "plugins.newbie_starter.home": "집",
   "plugins.newbie_starter.initial_yes_or_no": "확인하려면 %s, 취소하려면 %s 를 입력하세요.",

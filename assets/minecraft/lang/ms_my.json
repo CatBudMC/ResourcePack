@@ -892,7 +892,6 @@
   "plugins.newbie_starter.description_page.1": "เพิ่มความยากของคลื่นมอนสเตอร์อย่างต่อเนื่อง",
   "plugins.newbie_starter.description_page.2": "บอสดรอปหนังสือเอนแชนต์หายาก",
   "plugins.newbie_starter.description_page.3": "ถึงระดับราชาจะได้รับสกินจำกัด",
-  "plugins.newbie_starter.enter_command_accept_initial": "ป้อนคำสั่ง /newbie เพื่อยืนยันเลือกที่นี่เป็นจุดเริ่มต้น... %s หลังจากนั้นจะค้นหาตำแหน่งอื่น",
   "plugins.newbie_starter.enter_command_select": "Masukkan %s untuk tetapkan lokasi ini sebagai titik mula, atau %s untuk cari lokasi lain.",
   "plugins.newbie_starter.home": "บ้าน",
   "plugins.newbie_starter.initial_yes_or_no": "Masukkan %s untuk sahkan atau %s untuk batal.",
