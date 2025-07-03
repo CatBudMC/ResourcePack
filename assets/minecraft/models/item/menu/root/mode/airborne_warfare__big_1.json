@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/menu/root/mode/castle_war__big_1"
+    "layer0": "item/menu/root/mode/airborne_warfare__big_1"
   },
   "display": {
     "gui": {

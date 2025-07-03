@@ -35,7 +35,7 @@
     {"type": "bitmap", "chars": ["\u0034"], "file": "gui/light/log.png", "height": 144, "ascent": 19},
     {"type": "bitmap", "chars": ["\u0035"], "file": "gui/light/wave_difficulty.png", "height": 54, "ascent": 19},
     {"type": "bitmap", "chars": ["\u0036"], "file": "gui/light/world.png", "height": 144, "ascent": 19},
-    {"type": "bitmap", "chars": ["\u0037"], "file": "gui/light/castle_reward.png", "height": 54, "ascent": 19},
+    {"type": "bitmap", "chars": ["\u0037"], "file": "gui/light/warfare_reward.png", "height": 54, "ascent": 19},
     {"type": "bitmap", "chars": ["\u0038"], "file": "gui/light/satellite.png", "height": 54, "ascent": 19},
     {"type": "bitmap", "chars": ["\u1002"], "file": "gui/dark/buff.png", "height": 72, "ascent": 19},
     {"type": "bitmap", "chars": ["\u1003"], "file": "gui/dark/mail.png", "height": 144, "ascent": 19},
@@ -71,7 +71,7 @@
     {"type": "bitmap", "chars": ["\u1034"], "file": "gui/dark/log.png", "height": 144, "ascent": 19},
     {"type": "bitmap", "chars": ["\u1035"], "file": "gui/dark/wave_difficulty.png", "height": 54, "ascent": 19},
     {"type": "bitmap", "chars": ["\u1036"], "file": "gui/dark/world.png", "height": 144, "ascent": 19},
-    {"type": "bitmap", "chars": ["\u1037"], "file": "gui/dark/castle_reward.png", "height": 54, "ascent": 19},
+    {"type": "bitmap", "chars": ["\u1037"], "file": "gui/dark/warfare_reward.png", "height": 54, "ascent": 19},
     {"type": "bitmap", "chars": ["\u1038"], "file": "gui/dark/satellite.png", "height": 54, "ascent": 19}
   ]
 }

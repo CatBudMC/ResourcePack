@@ -11,6 +11,12 @@
       "spawner_agent_use"
     ]
   },
+  "plugins.airborne_warfare.reward_awarded": {
+    "subtitle": "plugins.airborne_warfare.reward_awarded",
+    "sounds": [
+      "reward_awarded"
+    ]
+  },
   "plugins.auto_regenerate.canceling_plan_refresh": {
     "subtitle": "plugins.auto_regenerate.canceling_plan_refresh",
     "sounds": [
@@ -21,18 +27,6 @@
     "subtitle": "plugins.auto_regenerate.regen_current_chunk",
     "sounds": [
       "auto_regenerate/regen_current_chunk"
-    ]
-  },
-  "plugins.castle_warfare.castle_reward": {
-    "subtitle": "plugins.castle_warfare.castle_reward",
-    "sounds": [
-      "castle_reward"
-    ]
-  },
-  "plugins.castle_warfare.time_coming": {
-    "subtitle": "plugins.castle_warfare.time_coming",
-    "sounds": [
-      "time_coming"
     ]
   },
   "plugins.chat_manager.msg_alert": {
