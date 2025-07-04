@@ -562,6 +562,7 @@
   "plugins.airborne_warfare.airborne_warfare.lore.5": "Sehingga 4 pemain setiap pasukan.",
   "plugins.airborne_warfare.airborne_warfare.lore.6": "3 pasukan teratas menerima ganjaran bilangan cabutan bertuah.",
   "plugins.airborne_warfare.airborne_warfare.lore.7": "Pasukan juara menerima cabutan tambahan berdasarkan jumlah ahli (pemain solo tidak layak).",
+  "plugins.airborne_warfare.airborne_warfare.lore.8": "Rekod dan lapor pasukan haram.",
   "plugins.airborne_warfare.border_and_remaining_teams_players": "Sempadan mengecil dalam %s | %s pasukan, %s pemain",
   "plugins.airborne_warfare.lottery_award": "Dapatkan selepas %s cabutan lagi",
   "plugins.airborne_warfare.ready_end_countdown": "Dibubarkan dalam %s...",

@@ -562,6 +562,7 @@
   "plugins.airborne_warfare.airborne_warfare.lore.5": "最大 4 人でチームを組むことができます。",
   "plugins.airborne_warfare.airborne_warfare.lore.6": "上位3チームは指定回数の抽選チャンスを獲得。",
   "plugins.airborne_warfare.airborne_warfare.lore.7": "優勝チームは人数に応じて追加の抽選チャンスあり（ソロは対象外）。",
+  "plugins.airborne_warfare.airborne_warfare.lore.8": "不正なチームは録画して通報できます。",
   "plugins.airborne_warfare.border_and_remaining_teams_players": "ボーダー縮小完了まで %s | %s チーム、残り %s 人",
   "plugins.airborne_warfare.lottery_award": "あと%s回抽選で獲得",
   "plugins.airborne_warfare.ready_end_countdown": "%s 後に解散...",

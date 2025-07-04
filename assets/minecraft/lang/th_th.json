@@ -562,6 +562,7 @@
   "plugins.airborne_warfare.airborne_warfare.lore.5": "สร้างทีมได้สูงสุด 4 คน",
   "plugins.airborne_warfare.airborne_warfare.lore.6": "ทีมอันดับ 1-3 จะได้รับรางวัลเป็นจำนวนครั้งการสุ่มที่กำหนด",
   "plugins.airborne_warfare.airborne_warfare.lore.7": "ทีมชนะเลิศจะได้รับโบนัสการสุ่มตามจำนวนสมาชิก (ผู้เล่นคนเดียวไม่สามารถรับได้)",
+  "plugins.airborne_warfare.airborne_warfare.lore.8": "หากพบการรวมทีมที่ผิดกฎ สามารถบันทึกวิดีโอเพื่อรายงานได้",
   "plugins.airborne_warfare.border_and_remaining_teams_players": "วงบีบใน %s | %s ทีม %s คน",
   "plugins.airborne_warfare.lottery_award": "สุ่มอีก %s ครั้งเพื่อรับ",
   "plugins.airborne_warfare.ready_end_countdown": "ยุบทีมในอีก %s...",

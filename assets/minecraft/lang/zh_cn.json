@@ -562,6 +562,7 @@
   "plugins.airborne_warfare.airborne_warfare.lore.5": "最多 4 人同时组队",
   "plugins.airborne_warfare.airborne_warfare.lore.6": "冠亚季军队伍奖励指定抽奖次数",
   "plugins.airborne_warfare.airborne_warfare.lore.7": "冠军队伍依照人数加码抽奖次数（单人不适用）",
+  "plugins.airborne_warfare.airborne_warfare.lore.8": "遭遇非法组队可录影存证并举报",
   "plugins.airborne_warfare.border_and_remaining_teams_players": "缩圈 %s 结束  |  %s 队伍共 %s 人",
   "plugins.airborne_warfare.lottery_award": "再抽选 %s 次即可获得",
   "plugins.airborne_warfare.ready_end_countdown": "%s 后解散...",
