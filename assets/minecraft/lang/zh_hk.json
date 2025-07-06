@@ -261,7 +261,7 @@
   "commands.raffle.loop_disable": "已結束自動循環抽獎",
   "commands.raffle.loop_enable": "已開始自動循環抽獎",
   "commands.raffle.successful_exchange": "成功消耗一張保底卷交換了 %s",
-  "commands.raffle.total_so_far": "重以前到現在總共抽了 %s 次",
+  "commands.raffle.total_so_far": "從以前到現在總共抽了 %s 次",
   "commands.raffle.unknown_prize": "未知的獎品類型 '%s'",
   "commands.reboot.cannot_type": "未知的重啟操作類型 '%s'",
   "commands.reboot.currently_counting": "當前已經在重啟倒數中",
