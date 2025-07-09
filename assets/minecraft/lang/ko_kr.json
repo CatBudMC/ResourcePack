@@ -946,6 +946,7 @@
   "plugins.paid_store.pass_purchase_description.0": "월정액 구매!",
   "plugins.paid_store.pass_purchase_description.1": "%s일마다 %s",
   "plugins.paid_store.pass_purchase_description.10": "%s /to by 설정하여 모든 사람에게 순간이동 허용",
+  "plugins.paid_store.pass_purchase_description.11": "Discord 스토어에서 빠른 판매 생성",
   "plugins.paid_store.pass_purchase_description.2": "유효 기간 동안 다음 혜택을 누릴 수 있습니다:",
   "plugins.paid_store.pass_purchase_description.3": "영지 내 무한 비행 체력",
   "plugins.paid_store.pass_purchase_description.4": "최대 시야 거리가 %s에서 %s로 증가",

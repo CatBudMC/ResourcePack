@@ -946,6 +946,7 @@
   "plugins.paid_store.pass_purchase_description.0": "Buy a pass!",
   "plugins.paid_store.pass_purchase_description.1": "Every %s days %s",
   "plugins.paid_store.pass_purchase_description.10": "Set %s /to by to allow everyone to teleport",
+  "plugins.paid_store.pass_purchase_description.11": "Create a quick sale in the Discord store",
   "plugins.paid_store.pass_purchase_description.2": "During the effective period, you can enjoy:",
   "plugins.paid_store.pass_purchase_description.3": "Unlimited land flight stamina",
   "plugins.paid_store.pass_purchase_description.4": "View distance increased from %s to %s",

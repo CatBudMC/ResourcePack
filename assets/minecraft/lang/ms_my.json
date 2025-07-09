@@ -946,6 +946,7 @@
   "plugins.paid_store.pass_purchase_description.0": "ซื้อบัตรผ่านรายเดือน!",
   "plugins.paid_store.pass_purchase_description.1": "ทุก %s วัน %s",
   "plugins.paid_store.pass_purchase_description.10": "ตั้งค่า %s /to by เพื่อให้ทุกคนสามารถเทเลพอร์ตได้",
+  "plugins.paid_store.pass_purchase_description.11": "Cipta jualan pantas di kedai Discord",
   "plugins.paid_store.pass_purchase_description.2": "ในช่วงเวลาที่มีผลสามารถเพลิดเพลินกับ:",
   "plugins.paid_store.pass_purchase_description.3": "พลังงานการบินในที่ดินไม่จำกัด",
   "plugins.paid_store.pass_purchase_description.4": "ระยะการมองเห็นสูงสุดเพิ่มขึ้นจาก %s เป็น %s",

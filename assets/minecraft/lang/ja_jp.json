@@ -946,6 +946,7 @@
   "plugins.paid_store.pass_purchase_description.0": "パスを購入！",
   "plugins.paid_store.pass_purchase_description.1": "%s 日ごとに %s",
   "plugins.paid_store.pass_purchase_description.10": "%s /to by を設定して、すべての人がテレポートできるようにする",
+  "plugins.paid_store.pass_purchase_description.11": "Discordストアでクイックセールを作成",
   "plugins.paid_store.pass_purchase_description.2": "有効期間中、以下をお楽しみいただけます：",
   "plugins.paid_store.pass_purchase_description.3": "無制限の土地飛行スタミナ",
   "plugins.paid_store.pass_purchase_description.4": "視界距離が %s から %s に増加",

@@ -946,6 +946,7 @@
   "plugins.paid_store.pass_purchase_description.0": "ซื้อพาสรายเดือน!",
   "plugins.paid_store.pass_purchase_description.1": "ทุก %s วัน %s",
   "plugins.paid_store.pass_purchase_description.10": "เปิดให้ทุกคนใช้ /to %s",
+  "plugins.paid_store.pass_purchase_description.11": "สร้างการขายด่วนในร้านค้า Discord",
   "plugins.paid_store.pass_purchase_description.2": "ในระหว่างที่พาสมีผล คุณจะได้รับสิทธิประโยชน์ดังนี้:",
   "plugins.paid_store.pass_purchase_description.3": "ความแข็งแกร่งการบินในอาณาเขตไม่จำกัด",
   "plugins.paid_store.pass_purchase_description.4": "ระยะการมองเห็นไกลสุดจาก %s เพิ่มเป็น %s",
