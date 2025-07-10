@@ -526,6 +526,8 @@
   "enchantment.addons.steady_sneak.lore.2": "Cannot trigger while having Weakness effect.",
   "enchantment.addons.stubborn": "Stubborn",
   "enchantment.addons.stubborn.lore.0": "Increases attack damage by 2 ~ 5 when chestplate health is below 6.",
+  "enchantment.addons.wind_blast": "Wind Blast",
+  "enchantment.addons.wind_blast.lore.0": "Has a 20-100% chance to create a burst of wind upon a successful block.",
   "enchantment.addons.wisdom": "Wisdom",
   "enchantment.addons.wisdom.lore.0": "Increases XP dropped by mobs by 10 ~ 30% on kill with sword,",
   "enchantment.addons.wisdom.lore.1": "Bosses are not affected.",

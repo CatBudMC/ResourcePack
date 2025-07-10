@@ -526,6 +526,8 @@
   "enchantment.addons.steady_sneak.lore.2": "ไม่ทำงานเมื่ออยู่ในสถานะอ่อนแอ.",
   "enchantment.addons.stubborn": "ดื้อดึง",
   "enchantment.addons.stubborn.lore.0": "เพิ่มพลังโจมตี 2–5 เมื่อใส่เกราะอกและ HP น้อยกว่า 6.",
+  "enchantment.addons.wind_blast": "ลมกระแทก",
+  "enchantment.addons.wind_blast.lore.0": "เมื่อป้องกันการโจมตีด้วยโล่สำเร็จ มีโอกาส 20-100% ที่จะปล่อยคลื่นลมออกไป",
   "enchantment.addons.wisdom": "ปัญญา",
   "enchantment.addons.wisdom.lore.0": "ดาบฆ่าสิ่งมีชีวิตเพิ่ม 10 ~ 30% ประสบการณ์,",
   "enchantment.addons.wisdom.lore.1": "Boss ไม่ได้รับผลกระทบ.",

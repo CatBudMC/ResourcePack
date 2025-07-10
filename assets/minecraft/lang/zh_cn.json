@@ -526,6 +526,8 @@
   "enchantment.addons.steady_sneak.lore.2": "存在虚弱状态时无法触发效果。",
   "enchantment.addons.stubborn": "倔强",
   "enchantment.addons.stubborn.lore.0": "装备在胸甲剩余血量少于 6 时增加 2 ~ 5 攻击伤害。",
+  "enchantment.addons.wind_blast": "风击",
+  "enchantment.addons.wind_blast.lore.0": "使用盾牌成功阻挡攻击时有 20 ~ 100% 产生风暴。",
   "enchantment.addons.wisdom": "智慧",
   "enchantment.addons.wisdom.lore.0": "剑造成生物死亡时增加 10 ~ 30% 掉落经验值，",
   "enchantment.addons.wisdom.lore.1": "Boss 不适用于此效果。",

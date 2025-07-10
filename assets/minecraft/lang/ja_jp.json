@@ -526,6 +526,8 @@
   "enchantment.addons.steady_sneak.lore.2": "弱体化状態では効果が発動しません。",
   "enchantment.addons.stubborn": "頑固",
   "enchantment.addons.stubborn.lore.0": "チェストプレートに装備して残りの体力が6未満の場合、攻撃ダメージが2～5増加します。",
+  "enchantment.addons.wind_blast": "風撃 (Fūgeki)",
+  "enchantment.addons.wind_blast.lore.0": "盾で攻撃をうまく防いだ時、20～100%の確率で突風を巻き起こす。",
   "enchantment.addons.wisdom": "知恵",
   "enchantment.addons.wisdom.lore.0": "剣で生物を倒すと、ドロップする経験値が10～30%増加します。",
   "enchantment.addons.wisdom.lore.1": "ボスにはこの効果は適用されません。",

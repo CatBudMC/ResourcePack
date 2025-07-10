@@ -526,6 +526,8 @@
   "enchantment.addons.steady_sneak.lore.2": "나약함 효과가 있을 때는 발동하지 않습니다.",
   "enchantment.addons.stubborn": "고집",
   "enchantment.addons.stubborn.lore.0": "흉갑을 착용하고 남은 체력이 6 미만일 때 공격력이 2~5 증가합니다.",
+  "enchantment.addons.wind_blast": "풍격 (Pung-gyeok)",
+  "enchantment.addons.wind_blast.lore.0": "방패로 공격을 성공적으로 막았을 시 20~100% 확률로 돌풍을 일으킵니다.",
   "enchantment.addons.wisdom": "지혜",
   "enchantment.addons.wisdom.lore.0": "검으로 몹을 죽이면 드롭되는 경험치가 10~30% 증가합니다.",
   "enchantment.addons.wisdom.lore.1": "보스는 이 효과의 영향을 받지 않습니다.",
