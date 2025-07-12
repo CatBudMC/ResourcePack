@@ -838,6 +838,18 @@
       "energy_saving/entity_detached_join"
     ]
   },
+  "plugins.leisure_parkour.go_location": {
+    "subtitle": "plugins.leisure_parkour.go_location",
+    "sounds": [
+      "leisure_parkour/go_location"
+    ]
+  },
+  "plugins.leisure_parkour.save_location": {
+    "subtitle": "plugins.leisure_parkour.save_location",
+    "sounds": [
+      "leisure_parkour/save_location"
+    ]
+  },
   "plugins.magic_tower.climbing_layer": {
     "subtitle": "plugins.magic_tower.climbing_layer",
     "sounds": [
