@@ -878,6 +878,8 @@
   "plugins.leisure_parkour.save_location": "纪录当前位置",
   "plugins.leisure_parkour.show_player_status": "显示玩家状态",
   "plugins.leisure_parkour.terrains.medium_dungeon": "中型地下城",
+  "plugins.leisure_parkour.terrains.sky_ruins": "天空遗迹",
+  "plugins.leisure_parkour.terrains.spaceship": "太空船",
   "plugins.leisure_parkour.terrains.stone_pillars": "石柱簇",
   "plugins.leisure_parkour.time_spent_at": "跑酷 '%s' 你耗费了 %s",
   "plugins.leisure_parkour.tracking_distance": "距离 %s 格远",

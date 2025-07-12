@@ -878,6 +878,8 @@
   "plugins.leisure_parkour.save_location": "현재 위치 저장",
   "plugins.leisure_parkour.show_player_status": "플레이어 상태 표시",
   "plugins.leisure_parkour.terrains.medium_dungeon": "중형 던전",
+  "plugins.leisure_parkour.terrains.sky_ruins": "하늘 유적",
+  "plugins.leisure_parkour.terrains.spaceship": "우주선",
   "plugins.leisure_parkour.terrains.stone_pillars": "돌기둥 군락",
   "plugins.leisure_parkour.time_spent_at": "파쿠르 '%s'에서 %s 만큼 소요했습니다",
   "plugins.leisure_parkour.tracking_distance": "거리 %s 블록",

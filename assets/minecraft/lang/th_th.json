@@ -878,6 +878,8 @@
   "plugins.leisure_parkour.save_location": "บันทึกตำแหน่งปัจจุบัน",
   "plugins.leisure_parkour.show_player_status": "แสดงสถานะผู้เล่น",
   "plugins.leisure_parkour.terrains.medium_dungeon": "ดันเจี้ยนขนาดกลาง",
+  "plugins.leisure_parkour.terrains.sky_ruins": "ซากปรักหักพังลอยฟ้า",
+  "plugins.leisure_parkour.terrains.spaceship": "ยานอวกาศ",
   "plugins.leisure_parkour.terrains.stone_pillars": "กลุ่มเสาหิน",
   "plugins.leisure_parkour.time_spent_at": "คุณใช้เวลาไป %s ในปาร์กัวร์ '%s'",
   "plugins.leisure_parkour.tracking_distance": "ห่างออกไป %s บล็อก",

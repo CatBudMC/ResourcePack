@@ -878,6 +878,8 @@
   "plugins.leisure_parkour.save_location": "現在位置を記録",
   "plugins.leisure_parkour.show_player_status": "プレイヤーの状態を表示",
   "plugins.leisure_parkour.terrains.medium_dungeon": "中規模ダンジョン",
+  "plugins.leisure_parkour.terrains.sky_ruins": "空の遺跡",
+  "plugins.leisure_parkour.terrains.spaceship": "宇宙船",
   "plugins.leisure_parkour.terrains.stone_pillars": "石柱群",
   "plugins.leisure_parkour.time_spent_at": "パルクール '%s' のクリアタイムは %s です",
   "plugins.leisure_parkour.tracking_distance": "距離 %s ブロック",

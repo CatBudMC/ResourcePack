@@ -878,6 +878,8 @@
   "plugins.leisure_parkour.save_location": "Save Current Location",
   "plugins.leisure_parkour.show_player_status": "Show player status",
   "plugins.leisure_parkour.terrains.medium_dungeon": "Medium Dungeon",
+  "plugins.leisure_parkour.terrains.sky_ruins": "Sky Ruins",
+  "plugins.leisure_parkour.terrains.spaceship": "Spaceship",
   "plugins.leisure_parkour.terrains.stone_pillars": "Stone Pillars",
   "plugins.leisure_parkour.time_spent_at": "You spent %s on parkour '%s'",
   "plugins.leisure_parkour.tracking_distance": "%s blocks away",

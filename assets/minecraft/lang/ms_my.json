@@ -878,6 +878,8 @@
   "plugins.leisure_parkour.save_location": "Simpan Lokasi Semasa",
   "plugins.leisure_parkour.show_player_status": "Tunjuk status pemain",
   "plugins.leisure_parkour.terrains.medium_dungeon": "Dungeon Sederhana",
+  "plugins.leisure_parkour.terrains.sky_ruins": "Runtuhan Langit",
+  "plugins.leisure_parkour.terrains.spaceship": "Kapal Angkasa",
   "plugins.leisure_parkour.terrains.stone_pillars": "Tiang Batu",
   "plugins.leisure_parkour.time_spent_at": "Anda mengambil masa %s untuk parkour '%s'",
   "plugins.leisure_parkour.tracking_distance": "%s blok jauhnya",
