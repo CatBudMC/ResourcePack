@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/menu/root/mode/leisure_parkour__small_1"
+  },
+  "display": {
+    "gui": {
+      "translation": [9, -9, 0],
+      "scale": [2.125, 2.125, 1]
+    }
+  }
+}

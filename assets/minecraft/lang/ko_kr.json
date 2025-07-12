@@ -863,6 +863,7 @@
   "plugins.graphic_interface.distance.seconds": "%s초",
   "plugins.graphic_interface.open_url": "URL 열기",
   "plugins.leisure_parkour.completed_parkour": "파쿠르를 완료했습니다",
+  "plugins.leisure_parkour.completed_parkour_broadcast": "%s님이 %s 만에 '%s' 파쿠르를 완료했습니다",
   "plugins.leisure_parkour.consumption_or_command_exit": "소요 시간 %s. 중간에 나가려면 /parkour quit 을 입력하세요",
   "plugins.leisure_parkour.consumption_or_master_exit": "소요 시간 %s. 방장에 의해 중단되었습니다",
   "plugins.leisure_parkour.end_point": "종점",

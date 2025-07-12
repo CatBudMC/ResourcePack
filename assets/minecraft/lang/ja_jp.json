@@ -863,6 +863,7 @@
   "plugins.graphic_interface.distance.seconds": "%s 秒",
   "plugins.graphic_interface.open_url": "URLを開く",
   "plugins.leisure_parkour.completed_parkour": "パルクールをクリアしました",
+  "plugins.leisure_parkour.completed_parkour_broadcast": "%s が %s で '%s' パルクールをクリアしました",
   "plugins.leisure_parkour.consumption_or_command_exit": "経過時間 %s。/parkour quit を入力して退出",
   "plugins.leisure_parkour.consumption_or_master_exit": "経過時間 %s。ルームマスターにより退出しました",
   "plugins.leisure_parkour.end_point": "ゴール",

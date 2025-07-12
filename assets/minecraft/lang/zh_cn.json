@@ -863,6 +863,7 @@
   "plugins.graphic_interface.distance.seconds": "%s 秒",
   "plugins.graphic_interface.open_url": "打开网址",
   "plugins.leisure_parkour.completed_parkour": "通关了跑酷",
+  "plugins.leisure_parkour.completed_parkour_broadcast": "%s 耗费 %s 通关了 '%s' 跑酷",
   "plugins.leisure_parkour.consumption_or_command_exit": "跑酷耗时 %s, 输入 /parkour quit 中途退出",
   "plugins.leisure_parkour.consumption_or_master_exit": "跑酷耗时 %s, 由房主中途退出",
   "plugins.leisure_parkour.end_point": "终点",

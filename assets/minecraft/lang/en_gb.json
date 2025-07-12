@@ -863,6 +863,7 @@
   "plugins.graphic_interface.distance.seconds": "%s seconds",
   "plugins.graphic_interface.open_url": "Open URL",
   "plugins.leisure_parkour.completed_parkour": "Completed the parkour",
+  "plugins.leisure_parkour.completed_parkour_broadcast": "%s completed the '%s' parkour in %s",
   "plugins.leisure_parkour.consumption_or_command_exit": "Time elapsed: %s. Type /parkour quit to leave.",
   "plugins.leisure_parkour.consumption_or_master_exit": "Time elapsed: %s. The host has ended the game.",
   "plugins.leisure_parkour.end_point": "End Point",

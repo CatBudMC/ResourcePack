@@ -863,6 +863,7 @@
   "plugins.graphic_interface.distance.seconds": "%s วินาที",
   "plugins.graphic_interface.open_url": "เปิด URL",
   "plugins.leisure_parkour.completed_parkour": "ผ่านด่านปาร์กัวร์แล้ว",
+  "plugins.leisure_parkour.completed_parkour_broadcast": "%s เคลียร์ปาร์กัวร์ '%s' ด้วยเวลา %s",
   "plugins.leisure_parkour.consumption_or_command_exit": "เวลาที่ใช้ไป %s, พิมพ์ /parkour quit เพื่อออกกลางคัน",
   "plugins.leisure_parkour.consumption_or_master_exit": "เวลาที่ใช้ไป %s, ออกโดยโฮสต์ของห้อง",
   "plugins.leisure_parkour.end_point": "จุดสิ้นสุด",

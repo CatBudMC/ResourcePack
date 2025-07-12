@@ -863,6 +863,7 @@
   "plugins.graphic_interface.distance.seconds": "%s saat",
   "plugins.graphic_interface.open_url": "Buka URL",
   "plugins.leisure_parkour.completed_parkour": "Telah menyelesaikan parkour",
+  "plugins.leisure_parkour.completed_parkour_broadcast": "%s telah menyelesaikan parkour '%s' dalam masa %s",
   "plugins.leisure_parkour.consumption_or_command_exit": "Masa berlalu: %s. Taip /parkour quit untuk keluar.",
   "plugins.leisure_parkour.consumption_or_master_exit": "Masa berlalu: %s. Dikeluarkan oleh hos.",
   "plugins.leisure_parkour.end_point": "Titik Penamat",
