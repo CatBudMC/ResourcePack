@@ -826,6 +826,12 @@
       "enchant_addons/recovery_break_item"
     ]
   },
+  "plugins.enchant_addons.trigger_critical_chance": {
+    "subtitle": "plugins.enchant_addons.trigger_critical_chance",
+    "sounds": [
+      "enchant_addons/trigger_critical_chance"
+    ]
+  },
   "plugins.energy_saving.entity_detached_exit": {
     "subtitle": "plugins.energy_saving.entity_detached_exit",
     "sounds": [
