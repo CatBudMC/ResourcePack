@@ -599,6 +599,7 @@
   "plugins.airborne_warfare.airborne_warfare.lore.8": "You can record and report illegal teaming.",
   "plugins.airborne_warfare.border_and_remaining_teams_players": "Border closes in %s | %s teams, %s players left",
   "plugins.airborne_warfare.lottery_award": "Obtain after %s more draws",
+  "plugins.airborne_warfare.overall_rankings": "Overall Rankings: %s",
   "plugins.airborne_warfare.ready_end_countdown": "Disbanding in %s...",
   "plugins.airborne_warfare.reward_awarded": "Reward Awarded",
   "plugins.airborne_warfare.team_receives_lottery": "Team receives %s draws",

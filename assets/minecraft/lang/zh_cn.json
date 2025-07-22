@@ -599,6 +599,7 @@
   "plugins.airborne_warfare.airborne_warfare.lore.8": "遭遇非法组队可录影存证并举报",
   "plugins.airborne_warfare.border_and_remaining_teams_players": "缩圈 %s 结束  |  %s 队伍共 %s 人",
   "plugins.airborne_warfare.lottery_award": "再抽选 %s 次即可获得",
+  "plugins.airborne_warfare.overall_rankings": "全场排名一览：%s",
   "plugins.airborne_warfare.ready_end_countdown": "%s 后解散...",
   "plugins.airborne_warfare.reward_awarded": "获得奖品",
   "plugins.airborne_warfare.team_receives_lottery": "队伍获得 %s 次抽奖机会",

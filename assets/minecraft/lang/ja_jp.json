@@ -599,6 +599,7 @@
   "plugins.airborne_warfare.airborne_warfare.lore.8": "不正なチームは録画して通報できます。",
   "plugins.airborne_warfare.border_and_remaining_teams_players": "ボーダー縮小完了まで %s | %s チーム、残り %s 人",
   "plugins.airborne_warfare.lottery_award": "あと%s回抽選で獲得",
+  "plugins.airborne_warfare.overall_rankings": "総合ランキング：%s",
   "plugins.airborne_warfare.ready_end_countdown": "%s 後に解散...",
   "plugins.airborne_warfare.reward_awarded": "報酬を獲得しました",
   "plugins.airborne_warfare.team_receives_lottery": "チームはガチャチャンスを%s回獲得",

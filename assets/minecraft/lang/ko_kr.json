@@ -599,6 +599,7 @@
   "plugins.airborne_warfare.airborne_warfare.lore.8": "불법적인 팀 활동은 녹화하여 신고할 수 있습니다.",
   "plugins.airborne_warfare.border_and_remaining_teams_players": "경계 축소까지 %s | %s팀, %s명 남음",
   "plugins.airborne_warfare.lottery_award": "%s번 더 추첨하면 획득",
+  "plugins.airborne_warfare.overall_rankings": "전체 순위: %s",
   "plugins.airborne_warfare.ready_end_countdown": "%s 후 해산...",
   "plugins.airborne_warfare.reward_awarded": "보상 획득",
   "plugins.airborne_warfare.team_receives_lottery": "팀이 추첨 기회를 %s번 획득했습니다",

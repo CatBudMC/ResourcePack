@@ -599,6 +599,7 @@
   "plugins.airborne_warfare.airborne_warfare.lore.8": "Jika berlaku pasukan haram, boleh rakam video sebagai bukti dan laporkan",
   "plugins.airborne_warfare.border_and_remaining_teams_players": "Pengecilan %s tamat | %s pasukan, %s orang",
   "plugins.airborne_warfare.lottery_award": "Cabutan %s kali lagi untuk mendapatkannya",
+  "plugins.airborne_warfare.overall_rankings": "Kedudukan Keseluruhan: %s",
   "plugins.airborne_warfare.ready_end_countdown": "Bubar selepas %s...",
   "plugins.airborne_warfare.reward_awarded": "Mendapat hadiah",
   "plugins.airborne_warfare.team_receives_lottery": "Pasukan mendapat %s peluang cabutan",

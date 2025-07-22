@@ -599,6 +599,7 @@
   "plugins.airborne_warfare.airborne_warfare.lore.8": "หากพบการรวมทีมที่ผิดกฎ สามารถบันทึกวิดีโอเพื่อรายงานได้",
   "plugins.airborne_warfare.border_and_remaining_teams_players": "วงบีบใน %s | %s ทีม %s คน",
   "plugins.airborne_warfare.lottery_award": "สุ่มอีก %s ครั้งเพื่อรับ",
+  "plugins.airborne_warfare.overall_rankings": "อันดับโดยรวม: %s",
   "plugins.airborne_warfare.ready_end_countdown": "ยุบทีมในอีก %s...",
   "plugins.airborne_warfare.reward_awarded": "ได้รับรางวัล",
   "plugins.airborne_warfare.team_receives_lottery": "ทีมได้รับโอกาสสุ่ม %s ครั้ง",
