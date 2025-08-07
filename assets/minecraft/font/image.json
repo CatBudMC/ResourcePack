@@ -102,7 +102,7 @@
     {"type": "bitmap", "chars": ["\u0101"], "file": "image/newbie_starter/page_0.png", "height": 100, "ascent": 10},
     {"type": "bitmap", "chars": ["\u0102"], "file": "image/newbie_starter/page_1.png", "height": 100, "ascent": 10},
     {"type": "bitmap", "chars": ["\u0103"], "file": "image/newbie_starter/page_2.png", "height": 100, "ascent": 10},
-    {"type": "bitmap", "chars": ["\u0104"], "file": "image/url_line.png", "height": 14, "ascent": 10},
+    {"type": "bitmap", "chars": ["\u0104"], "file": "image/graphic_interface/url_line.png", "height": 14, "ascent": 10},
     {"type": "bitmap", "chars": ["\u0105"], "file": "image/newbie_starter/page_3.png", "height": 100, "ascent": 10},
     {"type": "bitmap", "chars": ["\u0106"], "file": "image/monster_wave/exit.png", "height": 11, "ascent": 8},
     {"type": "bitmap", "chars": ["\u0107"], "file": "image/translation_helper/translate_line.png", "height": 16, "ascent": 12},
@@ -135,6 +135,7 @@
     {"type": "bitmap", "chars": ["\u0134"], "file": "image/chat_manager/resend.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0135"], "file": "image/game_custom/print.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0136"], "file": "image/game_custom/error.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars": ["\u0137"], "file": "image/chat_manager/scope/advertise.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars": ["\u0137"], "file": "image/chat_manager/scope/advertise.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0138"], "file": "image/graphic_interface/copyable_line.png", "height": 14, "ascent": 10}
   ]
 }
