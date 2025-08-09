@@ -1520,6 +1520,7 @@
   "plugins.territorial_director.show_player_status": "Show Player Status",
   "plugins.territorial_director.skull_rotation_left": "Rotate head left",
   "plugins.territorial_director.skull_rotation_right": "Rotate head right",
+  "plugins.territorial_director.stamina_running_out": "Flight Stamina: %s",
   "plugins.territorial_director.start_track_land": "Start Tracking Land",
   "plugins.territorial_director.sure_remove_land": "Confirm Land Removal",
   "plugins.territorial_director.switch_land_group": "Switch Land Group",

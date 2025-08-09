@@ -1520,6 +1520,7 @@
   "plugins.territorial_director.show_player_status": "显示玩家状态",
   "plugins.territorial_director.skull_rotation_left": "头颅向左旋转",
   "plugins.territorial_director.skull_rotation_right": "头颅向右旋转",
+  "plugins.territorial_director.stamina_running_out": "飞行体力剩余 %s",
   "plugins.territorial_director.start_track_land": "开始追踪领地",
   "plugins.territorial_director.sure_remove_land": "确定移除领地",
   "plugins.territorial_director.switch_land_group": "切换领地群组",

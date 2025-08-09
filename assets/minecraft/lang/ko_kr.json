@@ -1520,6 +1520,7 @@
   "plugins.territorial_director.show_player_status": "플레이어 상태 보기",
   "plugins.territorial_director.skull_rotation_left": "머리 왼쪽으로 회전",
   "plugins.territorial_director.skull_rotation_right": "머리 오른쪽으로 회전",
+  "plugins.territorial_director.stamina_running_out": "비행 스태미나: %s",
   "plugins.territorial_director.start_track_land": "영지 추적 시작",
   "plugins.territorial_director.sure_remove_land": "영지 제거 확인",
   "plugins.territorial_director.switch_land_group": "영지 그룹 전환",

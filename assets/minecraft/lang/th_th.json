@@ -1520,6 +1520,7 @@
   "plugins.territorial_director.show_player_status": "แสดงสถานะผู้เล่น",
   "plugins.territorial_director.skull_rotation_left": "หมุนหัวไปทางซ้าย",
   "plugins.territorial_director.skull_rotation_right": "หมุนหัวไปทางขวา",
+  "plugins.territorial_director.stamina_running_out": "พลังการบิน: %s",
   "plugins.territorial_director.start_track_land": "เริ่มติดตามพื้นที่",
   "plugins.territorial_director.sure_remove_land": "แน่ใจที่จะลบพื้นที่",
   "plugins.territorial_director.switch_land_group": "สลับกลุ่มพื้นที่",

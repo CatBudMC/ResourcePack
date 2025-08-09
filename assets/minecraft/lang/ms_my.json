@@ -1520,6 +1520,7 @@
   "plugins.territorial_director.show_player_status": "Papar Status Pemain",
   "plugins.territorial_director.skull_rotation_left": "Putar Tengkorak ke Kiri",
   "plugins.territorial_director.skull_rotation_right": "Putar Tengkorak ke Kanan",
+  "plugins.territorial_director.stamina_running_out": "Stamina Penerbangan: %s",
   "plugins.territorial_director.start_track_land": "Mula Menjejaki Kawasan",
   "plugins.territorial_director.sure_remove_land": "Pasti Padam Kawasan",
   "plugins.territorial_director.switch_land_group": "Tukar Kumpulan Kawasan",

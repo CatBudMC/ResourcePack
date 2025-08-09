@@ -1520,6 +1520,7 @@
   "plugins.territorial_director.show_player_status": "プレイヤーのステータスを表示",
   "plugins.territorial_director.skull_rotation_left": "頭蓋骨を左に回転",
   "plugins.territorial_director.skull_rotation_right": "頭蓋骨を右に回転",
+  "plugins.territorial_director.stamina_running_out": "飛行スタミナ: %s",
   "plugins.territorial_director.start_track_land": "土地の追跡を開始",
   "plugins.territorial_director.sure_remove_land": "土地の削除を確認",
   "plugins.territorial_director.switch_land_group": "土地グループを切り替える",
