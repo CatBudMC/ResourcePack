@@ -989,6 +989,7 @@
   "plugins.paid_store.cancel_this_satellite": "ยกเลิกเอฟเฟกต์นี้",
   "plugins.paid_store.cancel_use_satellite": "ใช้เอฟเฟกต์นี้",
   "plugins.paid_store.change_email_address": "เปลี่ยนที่อยู่อีเมล",
+  "plugins.paid_store.clear_to_location": "ลบตำแหน่งเทเลพอร์ตที่ตั้งไว้",
   "plugins.paid_store.coin_fee.7_11_ibon": "7-11 ibon",
   "plugins.paid_store.coin_fee.atm_transfer": "โอนผ่าน ATM",
   "plugins.paid_store.coin_fee.fami_port": "FamiPort",

@@ -989,6 +989,7 @@
   "plugins.paid_store.cancel_this_satellite": "取消使用此衛星效果",
   "plugins.paid_store.cancel_use_satellite": "使用此衛星效果",
   "plugins.paid_store.change_email_address": "更改電子郵件地址",
+  "plugins.paid_store.clear_to_location": "清除已設置的傳送位置",
   "plugins.paid_store.coin_fee.7_11_ibon": "7-11 ibon",
   "plugins.paid_store.coin_fee.atm_transfer": "ATM 轉帳",
   "plugins.paid_store.coin_fee.fami_port": "FamiPort",

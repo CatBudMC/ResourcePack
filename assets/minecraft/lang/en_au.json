@@ -989,6 +989,7 @@
   "plugins.paid_store.cancel_this_satellite": "Cancel using this satellite effect",
   "plugins.paid_store.cancel_use_satellite": "Use this satellite effect",
   "plugins.paid_store.change_email_address": "Change Email Address",
+  "plugins.paid_store.clear_to_location": "Clear set teleport location",
   "plugins.paid_store.coin_fee.7_11_ibon": "7-11 ibon",
   "plugins.paid_store.coin_fee.atm_transfer": "ATM Transfer",
   "plugins.paid_store.coin_fee.fami_port": "FamiPort",

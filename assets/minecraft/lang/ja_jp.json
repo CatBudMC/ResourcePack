@@ -989,6 +989,7 @@
   "plugins.paid_store.cancel_this_satellite": "この衛星効果の使用をキャンセル",
   "plugins.paid_store.cancel_use_satellite": "この衛星効果を使用",
   "plugins.paid_store.change_email_address": "メールアドレスを変更",
+  "plugins.paid_store.clear_to_location": "設定したテレポート地点を削除",
   "plugins.paid_store.coin_fee.7_11_ibon": "7-11 ibon",
   "plugins.paid_store.coin_fee.atm_transfer": "ATM振込",
   "plugins.paid_store.coin_fee.fami_port": "FamiPort",

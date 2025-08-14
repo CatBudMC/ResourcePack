@@ -989,6 +989,7 @@
   "plugins.paid_store.cancel_this_satellite": "이 위성 효과 사용 취소",
   "plugins.paid_store.cancel_use_satellite": "이 위성 효과 사용",
   "plugins.paid_store.change_email_address": "이메일 주소 변경",
+  "plugins.paid_store.clear_to_location": "설정된 텔레포트 위치 삭제",
   "plugins.paid_store.coin_fee.7_11_ibon": "7-11 ibon",
   "plugins.paid_store.coin_fee.atm_transfer": "ATM 이체",
   "plugins.paid_store.coin_fee.fami_port": "FamiPort",

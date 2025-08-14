@@ -989,6 +989,7 @@
   "plugins.paid_store.cancel_this_satellite": "Batal guna kesan satelit ini",
   "plugins.paid_store.cancel_use_satellite": "Guna kesan satelit ini",
   "plugins.paid_store.change_email_address": "Tukar Alamat E-mel",
+  "plugins.paid_store.clear_to_location": "Padam lokasi teleport yang ditetapkan",
   "plugins.paid_store.coin_fee.7_11_ibon": "7-11 ibon",
   "plugins.paid_store.coin_fee.atm_transfer": "Pindahan ATM",
   "plugins.paid_store.coin_fee.fami_port": "FamiPort",
