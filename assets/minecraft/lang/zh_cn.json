@@ -83,6 +83,7 @@
   "commands.code.invalid_operator": "未知的操作 '%s'",
   "commands.code.is_expired": "代码 '%s' 已经过期了",
   "commands.code.miss_amount": "缺少金额",
+  "commands.code.miss_days": "缺少天数",
   "commands.code.not_exist": "代码 '%s' 不存在",
   "commands.code.rank_insufficient": "牌位至少要达到 %s 才能使用此功能",
   "commands.code.released": "已发放代码 '%s' 奖励 %s！",

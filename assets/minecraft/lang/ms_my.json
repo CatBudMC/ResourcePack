@@ -83,6 +83,7 @@
   "commands.code.invalid_operator": "Operasi tidak diketahui '%s'",
   "commands.code.is_expired": "Kod '%s' telah tamat tempoh",
   "commands.code.miss_amount": "Kekurangan jumlah",
+  "commands.code.miss_days": "Kekurangan hari",
   "commands.code.not_exist": "Kod '%s' tidak wujud",
   "commands.code.rank_insufficient": "Pangkat sekurang-kurangnya %s diperlukan untuk menggunakan fungsi ini",
   "commands.code.released": "Ganjaran kod '%s' sebanyak %s telah dikeluarkan!",

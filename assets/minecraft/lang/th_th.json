@@ -83,6 +83,7 @@
   "commands.code.invalid_operator": "คำสั่งไม่ถูกต้อง '%s'",
   "commands.code.is_expired": "โค้ด '%s' หมดอายุแล้ว",
   "commands.code.miss_amount": "จำนวนไม่เพียงพอ",
+  "commands.code.miss_days": "ขาดวัน",
   "commands.code.not_exist": "โค้ด '%s' ไม่มีอยู่",
   "commands.code.rank_insufficient": "ต้องแรงค์ ≥ %s",
   "commands.code.released": "แจกโค้ด '%s' พร้อมรางวัล %s!",

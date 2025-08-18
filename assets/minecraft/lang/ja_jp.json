@@ -83,6 +83,7 @@
   "commands.code.invalid_operator": "不明な操作 '%s'",
   "commands.code.is_expired": "コード '%s' は期限切れです",
   "commands.code.miss_amount": "金額がありません",
+  "commands.code.miss_days": "日数が不足しています",
   "commands.code.not_exist": "コード '%s' は存在しません",
   "commands.code.rank_insufficient": "この機能を使用するには、ランクが少なくとも %s である必要があります",
   "commands.code.released": "コード '%s' の報酬 %s を配布しました！",

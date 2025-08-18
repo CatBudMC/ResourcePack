@@ -83,6 +83,7 @@
   "commands.code.invalid_operator": "Unknown operation '%s'",
   "commands.code.is_expired": "Code '%s' has expired",
   "commands.code.miss_amount": "Missing amount",
+  "commands.code.miss_days": "Missing days",
   "commands.code.not_exist": "Code '%s' does not exist",
   "commands.code.rank_insufficient": "Rank must be at least %s to use this feature",
   "commands.code.released": "Released code '%s' reward %s!",
