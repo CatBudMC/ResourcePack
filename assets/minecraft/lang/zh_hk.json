@@ -1305,7 +1305,7 @@
   "plugins.primary_menu.land.lore.3": "超過一年未登入會被清除",
   "plugins.primary_menu.log": "紀錄",
   "plugins.primary_menu.log.lore.0": "查看容器／方塊／實體的更改歷史",
-  "plugins.primary_menu.log.lore.1": "只能查到 %d 天內的資料",
+  "plugins.primary_menu.log.lore.1": "可以查到開服至今的所有資料",
   "plugins.primary_menu.mail": "信箱",
   "plugins.primary_menu.mail.lore.0": "寄送或接受含有遊戲幣／物品／指令附件的郵件",
   "plugins.primary_menu.mail.lore.1": "可批量選擇要已讀或刪除的郵件",

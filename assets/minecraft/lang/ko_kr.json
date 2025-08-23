@@ -1305,7 +1305,7 @@
   "plugins.primary_menu.land.lore.3": "1년 이상 미접속 시 삭제",
   "plugins.primary_menu.log": "기록",
   "plugins.primary_menu.log.lore.0": "보관함/블록/개체 변경 내역 보기",
-  "plugins.primary_menu.log.lore.1": "%d일 이내의 데이터만 조회 가능",
+  "plugins.primary_menu.log.lore.1": "서버 오픈 이후의 모든 데이터를 조회할 수 있습니다.",
   "plugins.primary_menu.mail": "우편함",
   "plugins.primary_menu.mail.lore.0": "게임 코인/아이템/명령어 첨부가 포함된 우편 발송 또는 수신",
   "plugins.primary_menu.mail.lore.1": "읽음 또는 삭제할 우편을 일괄 선택 가능",

@@ -1305,7 +1305,7 @@
   "plugins.primary_menu.land.lore.3": "หากไม่เข้าสู่ระบบเกินหนึ่งปีจะถูกลบ",
   "plugins.primary_menu.log": "บันทึก",
   "plugins.primary_menu.log.lore.0": "ดูประวัติการเปลี่ยนแปลงของภาชนะ / บล็อก / สิ่งมีชีวิต",
-  "plugins.primary_menu.log.lore.1": "สามารถดูข้อมูลได้เฉพาะใน %d วันที่ผ่านมา",
+  "plugins.primary_menu.log.lore.1": "สามารถดูข้อมูลทั้งหมดได้ตั้งแต่เซิร์ฟเวอร์เปิด",
   "plugins.primary_menu.mail": "กล่องจดหมาย",
   "plugins.primary_menu.mail.lore.0": "ส่งหรือรับจดหมายที่มีเงินในเกม/ไอเทม/คำสั่งแนบมา",
   "plugins.primary_menu.mail.lore.1": "สามารถเลือกอ่านหรือลบจดหมายได้เป็นจำนวนมาก",

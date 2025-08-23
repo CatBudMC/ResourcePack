@@ -1305,7 +1305,7 @@
   "plugins.primary_menu.land.lore.3": "Akan dipadam jika tidak log masuk lebih dari setahun",
   "plugins.primary_menu.log": "Rekod",
   "plugins.primary_menu.log.lore.0": "Lihat sejarah perubahan bekas / blok / entiti",
-  "plugins.primary_menu.log.lore.1": "Hanya boleh menyemak data dalam tempoh %d hari",
+  "plugins.primary_menu.log.lore.1": "Memaparkan semua data sejak pelayan dilancarkan.",
   "plugins.primary_menu.mail": "Peti Mel",
   "plugins.primary_menu.mail.lore.0": "Hantar atau terima e-mel yang mengandungi syiling permainan / item / lampiran arahan",
   "plugins.primary_menu.mail.lore.1": "Boleh memilih secara pukal e-mel untuk ditandakan sebagai dibaca atau dipadam",

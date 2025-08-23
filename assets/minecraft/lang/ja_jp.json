@@ -1305,7 +1305,7 @@
   "plugins.primary_menu.land.lore.3": "1年以上ログインしないとクリアされます",
   "plugins.primary_menu.log": "ログ",
   "plugins.primary_menu.log.lore.0": "コンテナ / ブロック / エンティティの変更履歴を表示する",
-  "plugins.primary_menu.log.lore.1": "%d 日以内のデータしか照会できません",
+  "plugins.primary_menu.log.lore.1": "サーバー開設以来の全データを確認できます。",
   "plugins.primary_menu.mail": "メールボックス",
   "plugins.primary_menu.mail.lore.0": "ゲームコイン / アイテム / コマンド添付ファイル付きのメールを送受信する",
   "plugins.primary_menu.mail.lore.1": "既読または削除するメールをバッチ選択できます",

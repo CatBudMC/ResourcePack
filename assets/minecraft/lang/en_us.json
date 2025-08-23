@@ -1305,7 +1305,7 @@
   "plugins.primary_menu.land.lore.3": "Will be cleared if not logged in for over a year",
   "plugins.primary_menu.log": "Log",
   "plugins.primary_menu.log.lore.0": "View the change history of containers / blocks / entities",
-  "plugins.primary_menu.log.lore.1": "Can only query data within %d days",
+  "plugins.primary_menu.log.lore.1": "View all data since the server started.",
   "plugins.primary_menu.mail": "Mailbox",
   "plugins.primary_menu.mail.lore.0": "Send or receive mail with game coins / items / command attachments",
   "plugins.primary_menu.mail.lore.1": "Can batch select mail to be read or deleted",
