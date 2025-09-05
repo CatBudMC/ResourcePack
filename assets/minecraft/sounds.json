@@ -844,6 +844,18 @@
       "energy_saving/entity_detached_join"
     ]
   },
+  "plugins.happy_anniversary.time_coming": {
+    "subtitle": "plugins.happy_anniversary.time_coming",
+    "sounds": [
+      "time_coming"
+    ]
+  },
+  "plugins.happy_anniversary.use_surprise_box": {
+    "subtitle": "plugins.happy_anniversary.use_surprise_box",
+    "sounds": [
+      "happy_anniversary/use_surprise_box"
+    ]
+  },
   "plugins.leisure_parkour.go_location": {
     "subtitle": "plugins.leisure_parkour.go_location",
     "sounds": [

@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "item/custom/colored_headband",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": [1.0, 1.0, 1.0]
+      }
+    ]
+  }
+}

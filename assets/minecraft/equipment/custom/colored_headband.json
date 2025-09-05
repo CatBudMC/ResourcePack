@@ -1,0 +1,12 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "dyeable": {
+          "color_when_undyed": [1.0, 1.0, 1.0]
+        },
+        "texture": "custom/colored_headband"
+      }
+    ]
+  }
+}
