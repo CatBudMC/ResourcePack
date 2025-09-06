@@ -35,6 +35,12 @@
       "msg_alert"
     ]
   },
+  "plugins.discord_system.sale_notification": {
+    "subtitle": "plugins.discord_system.sale_notification",
+    "sounds": [
+      "discord_system/sale_notification"
+    ]
+  },
   "plugins.enchant_addons.action_sound.kizuna_akari.attack_big": {
     "subtitle": "plugins.enchant_addons.action_sound.kizuna_akari.attack_big",
     "sounds": [
