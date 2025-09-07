@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/menu/root/mode/king_battle__big_2"
+  },
+  "display": {
+    "gui": {
+      "translation": [0, -9, 0],
+      "scale": [1, 2.125, 1]
+    }
+  }
+}

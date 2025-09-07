@@ -862,6 +862,12 @@
       "happy_anniversary/use_surprise_box"
     ]
   },
+  "plugins.king_battle.time_coming": {
+    "subtitle": "plugins.king_battle.time_coming",
+    "sounds": [
+      "time_coming"
+    ]
+  },
   "plugins.leisure_parkour.go_location": {
     "subtitle": "plugins.leisure_parkour.go_location",
     "sounds": [
