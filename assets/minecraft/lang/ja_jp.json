@@ -976,6 +976,7 @@
   "plugins.king_battle.ready_end_countdown": "%s 後に解散...",
   "plugins.king_battle.ready_start_countdown": "%s 後に開始...",
   "plugins.king_battle.time_coming": "まもなく時間です",
+  "plugins.king_battle.tracking_distance": "距離 %s ブロック",
   "plugins.leisure_parkour.completed_parkour": "パルクールをクリアしました",
   "plugins.leisure_parkour.completed_parkour_broadcast": "%s が %s で '%s' パルクールをクリアしました",
   "plugins.leisure_parkour.consumption_or_command_exit": "経過時間 %s。/parkour quit を入力して退出",

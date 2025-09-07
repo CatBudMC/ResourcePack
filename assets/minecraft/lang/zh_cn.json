@@ -976,6 +976,7 @@
   "plugins.king_battle.ready_end_countdown": "%s 后解散...",
   "plugins.king_battle.ready_start_countdown": "%s 后开始...",
   "plugins.king_battle.time_coming": "时间快到了",
+  "plugins.king_battle.tracking_distance": "距离 %s 格远",
   "plugins.leisure_parkour.completed_parkour": "通关了跑酷",
   "plugins.leisure_parkour.completed_parkour_broadcast": "%s 耗费 %s 通关了 '%s' 跑酷",
   "plugins.leisure_parkour.consumption_or_command_exit": "跑酷耗时 %s, 输入 /parkour quit 中途退出",
