@@ -1025,5 +1025,11 @@
     "sounds": [
       "land_remove_entity"
     ]
+  },
+  "plugins.venue_manager.room_ready": {
+    "subtitle": "plugins.venue_manager.room_ready",
+    "sounds": [
+      "room_ready"
+    ]
   }
 }
