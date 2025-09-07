@@ -633,6 +633,8 @@
   "plugins.action_recorder.search_result_last_page": "Halaman Hasil Carian Sebelumnya",
   "plugins.action_recorder.search_result_next_page": "Halaman Hasil Carian Seterusnya",
   "plugins.admin_control.item_not_spawn_egg": "Item bukan telur penelur",
+  "plugins.admin_control.power_outage": "Gangguan kuasa! Penutupan kecemasan pelayan dimulakan!",
+  "plugins.admin_control.power_restored": "Kuasa dipulihkan. Penutupan kecemasan dibatalkan.",
   "plugins.admin_control.recycle_item": "Kitar Semula Item",
   "plugins.admin_control.recycle_item_with": "'%s' anda telah dihantar kepada pentadbir, mungkin disebabkan oleh kecurian atau pepijat penduaan.",
   "plugins.admin_control.server_reboot_after": "Kiraan detik %s untuk but semula pelayan",

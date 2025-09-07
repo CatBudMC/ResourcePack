@@ -633,6 +633,8 @@
   "plugins.action_recorder.search_result_last_page": "Search Results Previous Page",
   "plugins.action_recorder.search_result_next_page": "Search Results Next Page",
   "plugins.admin_control.item_not_spawn_egg": "Item is not a spawn egg",
+  "plugins.admin_control.power_outage": "Mains power failure! Initiating emergency server shutdown!",
+  "plugins.admin_control.power_restored": "Mains power restored. Emergency shutdown cancelled.",
   "plugins.admin_control.recycle_item": "Recycle Item",
   "plugins.admin_control.recycle_item_with": "Your '%s' has been sent to an administrator, possibly due to theft or duplication glitches.",
   "plugins.admin_control.server_reboot_after": "Server restarting in %s",

@@ -633,6 +633,8 @@
   "plugins.action_recorder.search_result_last_page": "검색 결과 이전 페이지",
   "plugins.action_recorder.search_result_next_page": "검색 결과 다음 페이지",
   "plugins.admin_control.item_not_spawn_egg": "아이템이 생성 알이 아닙니다",
+  "plugins.admin_control.power_outage": "정전 발생! 서버를 긴급 종료합니다!",
+  "plugins.admin_control.power_restored": "전력이 복구되었습니다. 긴급 종료를 취소합니다.",
   "plugins.admin_control.recycle_item": "아이템 회수",
   "plugins.admin_control.recycle_item_with": "보유 중인 '%s'이(가) 도난 또는 복제 버그 등의 사유로 관리자에게 전송되었습니다.",
   "plugins.admin_control.server_reboot_after": "%s 후 서버 재부팅",

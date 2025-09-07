@@ -633,6 +633,8 @@
   "plugins.action_recorder.search_result_last_page": "搜索結果上頁",
   "plugins.action_recorder.search_result_next_page": "搜索結果下頁",
   "plugins.admin_control.item_not_spawn_egg": "物品不是生怪蛋",
+  "plugins.admin_control.power_outage": "市電停止，需要緊急關閉伺服器！",
+  "plugins.admin_control.power_restored": "市電恢復，取消緊急關閉伺服器！",
   "plugins.admin_control.recycle_item": "回收物品",
   "plugins.admin_control.recycle_item_with": "身上的 '%s' 已寄送給管理員，可能因為來自偷竊或複製漏洞等原因。",
   "plugins.admin_control.server_reboot_after": "倒數 %s 重啟伺服器",

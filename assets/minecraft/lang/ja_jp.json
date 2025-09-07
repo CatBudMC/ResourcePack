@@ -633,6 +633,8 @@
   "plugins.action_recorder.search_result_last_page": "検索結果の前のページ",
   "plugins.action_recorder.search_result_next_page": "検索結果の次のページ",
   "plugins.admin_control.item_not_spawn_egg": "アイテムはスポーンエッグではありません",
+  "plugins.admin_control.power_outage": "停電発生！サーバーを緊急停止します！",
+  "plugins.admin_control.power_restored": "電力復旧。緊急停止を中止します。",
   "plugins.admin_control.recycle_item": "アイテムを回収",
   "plugins.admin_control.recycle_item_with": "所持している '%s' は、盗難や複製グリッチの可能性があるため、管理者に送られました。",
   "plugins.admin_control.server_reboot_after": "%s 後にサーバーを再起動します",
