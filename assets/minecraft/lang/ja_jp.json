@@ -1331,6 +1331,8 @@
   "plugins.player_database.teleporting_knowledge.9": "自動補充機能でシュルカーボックスの中身を取り出せます！",
   "plugins.player_database.toggle_only_show_friend": "友達のみ表示を切り替える",
   "plugins.player_database.tracking_distance": "%s ブロック離れています",
+  "plugins.player_database.translate_mail_context": "本文を%sに翻訳",
+  "plugins.player_database.translate_mail_title": "件名を%sに翻訳",
   "plugins.player_database.turned_on_friends_do_not_disturb_mode": "友達の邪魔をしないモードがオンになっています",
   "plugins.primary_menu.adless": "広告ブロック",
   "plugins.primary_menu.beacon": "ビーコン",

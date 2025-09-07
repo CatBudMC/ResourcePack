@@ -1331,6 +1331,8 @@
   "plugins.player_database.teleporting_knowledge.9": "ระบบเติมของอัตโนมัติสามารถนำของออกจากกล่องชัลเกอร์ได้!",
   "plugins.player_database.toggle_only_show_friend": "สลับการแสดงเฉพาะเพื่อน",
   "plugins.player_database.tracking_distance": "ระยะทาง %s บล็อก",
+  "plugins.player_database.translate_mail_context": "แปลเนื้อหาจดหมายเป็น %s",
+  "plugins.player_database.translate_mail_title": "แปลหัวข้อจดหมายเป็น %s",
   "plugins.player_database.turned_on_friends_do_not_disturb_mode": "เปิดโหมดห้ามรบกวนเพื่อน",
   "plugins.primary_menu.adless": "ปิดโฆษณา",
   "plugins.primary_menu.beacon": "บีคอน",

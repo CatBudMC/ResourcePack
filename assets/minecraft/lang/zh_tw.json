@@ -1331,6 +1331,8 @@
   "plugins.player_database.teleporting_knowledge.9": "輔助的自動補貨可以把界伏盒內容取出！",
   "plugins.player_database.toggle_only_show_friend": "切換是否僅顯示朋友",
   "plugins.player_database.tracking_distance": "距離 %s 格遠",
+  "plugins.player_database.translate_mail_context": "翻譯郵件內文成 %s",
+  "plugins.player_database.translate_mail_title": "翻譯郵件標題成 %s",
   "plugins.player_database.turned_on_friends_do_not_disturb_mode": "開啟了朋友勿打擾模式",
   "plugins.primary_menu.adless": "屏蔽廣告",
   "plugins.primary_menu.beacon": "信標",

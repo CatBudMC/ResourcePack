@@ -1331,6 +1331,8 @@
   "plugins.player_database.teleporting_knowledge.9": "자동 보충 기능으로 셜커 상자에서 아이템을 꺼낼 수 있습니다!",
   "plugins.player_database.toggle_only_show_friend": "친구만 보기 전환",
   "plugins.player_database.tracking_distance": "거리 %s 블록",
+  "plugins.player_database.translate_mail_context": "메일 내용을 %s(으)로 번역",
+  "plugins.player_database.translate_mail_title": "메일 제목을 %s(으)로 번역",
   "plugins.player_database.turned_on_friends_do_not_disturb_mode": "친구 방해 금지 모드를 켰습니다",
   "plugins.primary_menu.adless": "광고 차단",
   "plugins.primary_menu.beacon": "신호기",

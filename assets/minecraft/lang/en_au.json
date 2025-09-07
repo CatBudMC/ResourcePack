@@ -1331,6 +1331,8 @@
   "plugins.player_database.teleporting_knowledge.9": "The auto-refill helper can take items from Shulker Boxes!",
   "plugins.player_database.toggle_only_show_friend": "Toggle Show Friends Only",
   "plugins.player_database.tracking_distance": "%s blocks away",
+  "plugins.player_database.translate_mail_context": "Translate mail body to %s",
+  "plugins.player_database.translate_mail_title": "Translate mail subject to %s",
   "plugins.player_database.turned_on_friends_do_not_disturb_mode": "has Friends Do Not Disturb mode on",
   "plugins.primary_menu.adless": "Ad-block",
   "plugins.primary_menu.beacon": "Beacon",

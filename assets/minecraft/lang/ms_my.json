@@ -1331,6 +1331,8 @@
   "plugins.player_database.teleporting_knowledge.9": "Pembantu isi semula auto boleh ambil item dari Kotak Shulker!",
   "plugins.player_database.toggle_only_show_friend": "Tukar sama ada hanya papar rakan",
   "plugins.player_database.tracking_distance": "Jarak %s blok",
+  "plugins.player_database.translate_mail_context": "Terjemah kandungan mel ke %s",
+  "plugins.player_database.translate_mail_title": "Terjemah tajuk mel ke %s",
   "plugins.player_database.turned_on_friends_do_not_disturb_mode": "Telah mengaktifkan mod jangan ganggu rakan",
   "plugins.primary_menu.adless": "Sekat Iklan",
   "plugins.primary_menu.beacon": "Suar",
