@@ -969,6 +969,7 @@
   "plugins.king_battle.king_battle.lore.6": "최대 4명까지 팀을 구성할 수 있습니다",
   "plugins.king_battle.king_battle.lore.7": "동점 1위가 나올 경우 챔피언은 무작위로 선정됩니다",
   "plugins.king_battle.king_battle.lore.8": "매월 마지막 주 일요일에만 개최됩니다",
+  "plugins.king_battle.king_battle.lore.9": "골드는 팀이 아닌 개인에게만 지급됩니다.",
   "plugins.king_battle.king_battle_about_begin": "'킹 배틀'이 곧 시작됩니다. %s를 눌러 게임 모드를 빠르게 변경하세요.",
   "plugins.king_battle.king_battle_champion": "킹 배틀 챔피언",
   "plugins.king_battle.king_battle_limited_item": "킹 배틀 한정 아이템",

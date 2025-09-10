@@ -969,6 +969,7 @@
   "plugins.king_battle.king_battle.lore.6": "最多 4 人同时组队",
   "plugins.king_battle.king_battle.lore.7": "结算时若产生复数第一名则随机抽选冠军",
   "plugins.king_battle.king_battle.lore.8": "仅在每月的最后一个礼拜日举办",
+  "plugins.king_battle.king_battle.lore.9": "金币仅结算在个人而不是队伍",
   "plugins.king_battle.king_battle_about_begin": "「王者战争」即将开始，%s 快速切换游戏模式。",
   "plugins.king_battle.king_battle_champion": "王者战争赢得冠军",
   "plugins.king_battle.king_battle_limited_item": "王者战争限定品",

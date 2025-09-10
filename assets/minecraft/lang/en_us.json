@@ -969,6 +969,7 @@
   "plugins.king_battle.king_battle.lore.6": "Team up with a maximum of 4 players",
   "plugins.king_battle.king_battle.lore.7": "If there's a tie for first place, a champion will be chosen randomly",
   "plugins.king_battle.king_battle.lore.8": "Held only on the last Sunday of each month",
+  "plugins.king_battle.king_battle.lore.9": "Coins are awarded to individuals, not the team.",
   "plugins.king_battle.king_battle_about_begin": "'King Battle' is about to start. %s to quickly switch game modes.",
   "plugins.king_battle.king_battle_champion": "King Battle Champion",
   "plugins.king_battle.king_battle_limited_item": "King Battle Limited Item",

@@ -969,6 +969,7 @@
   "plugins.king_battle.king_battle.lore.6": "Bentuk pasukan dengan maksimum 4 pemain",
   "plugins.king_battle.king_battle.lore.7": "Jika terdapat seri untuk tempat pertama, seorang juara akan dipilih secara rawak",
   "plugins.king_battle.king_battle.lore.8": "Diadakan hanya pada hari Ahad terakhir setiap bulan",
+  "plugins.king_battle.king_battle.lore.9": "Syiling dikira untuk individu, bukan untuk pasukan.",
   "plugins.king_battle.king_battle_about_begin": "'Pertempuran Raja' akan bermula. %s untuk tukar mod permainan.",
   "plugins.king_battle.king_battle_champion": "Juara Pertempuran Raja",
   "plugins.king_battle.king_battle_limited_item": "Item Terhad Pertempuran Raja",

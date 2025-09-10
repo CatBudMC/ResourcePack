@@ -969,6 +969,7 @@
   "plugins.king_battle.king_battle.lore.6": "จัดทีมได้สูงสุด 4 คน",
   "plugins.king_battle.king_battle.lore.7": "หากมีผู้ชนะอันดับหนึ่งหลายคน จะมีการสุ่มเลือกแชมป์เปี้ยนหนึ่งคน",
   "plugins.king_battle.king_battle.lore.8": "จัดขึ้นเฉพาะวันอาทิตย์สุดท้ายของทุกเดือน",
+  "plugins.king_battle.king_battle.lore.9": "เหรียญจะถูกคำนวณเป็นรายบุคคล ไม่ใช่สำหรับทีม",
   "plugins.king_battle.king_battle_about_begin": "'สงครามราชา' กำลังจะเริ่มขึ้น %s เพื่อสลับโหมดเกมอย่างรวดเร็ว",
   "plugins.king_battle.king_battle_champion": "แชมป์เปี้ยนสงครามราชา",
   "plugins.king_battle.king_battle_limited_item": "ไอเทมจำกัดเฉพาะสงครามราชา",

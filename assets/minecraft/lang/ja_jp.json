@@ -969,6 +969,7 @@
   "plugins.king_battle.king_battle.lore.6": "最大4人までチームを組めます",
   "plugins.king_battle.king_battle.lore.7": "複数の1位が生まれた場合、チャンピオンはランダムに選ばれます",
   "plugins.king_battle.king_battle.lore.8": "毎月最終日曜日にのみ開催",
+  "plugins.king_battle.king_battle.lore.9": "コインはチームではなく、個人にのみ加算されます。",
   "plugins.king_battle.king_battle_about_begin": "「キングバトル」がまもなく開始します。%s でゲームモードを切り替え。",
   "plugins.king_battle.king_battle_champion": "キングバトルチャンピオン",
   "plugins.king_battle.king_battle_limited_item": "キングバトル限定品",
