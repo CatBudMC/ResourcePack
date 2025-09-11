@@ -1,0 +1,8 @@
+{
+  "parent": "item/style/curious_cat/_",
+  "texture_size": [34, 34],
+  "textures": {
+    "0": "item/style/curious_cat/siamese",
+    "particle": "item/style/curious_cat/siamese"
+  }
+}
