@@ -1553,7 +1553,7 @@
   "plugins.task_distribution.task_require.monster_wave_play.progress": "%s / %s 场",
   "plugins.task_distribution.task_require.online_accrual": "线上累计时长",
   "plugins.task_distribution.task_require.online_accrual.progress": "还须 %s",
-  "plugins.task_distribution.task_rewards_issued": "已放发完成 '%s' 任务奖励 %s、%s",
+  "plugins.task_distribution.task_rewards_issued": "已发放完成 '%s' 任务奖励 %s、%s",
   "plugins.territorial_director.buy_land": "购买领地",
   "plugins.territorial_director.cancel_remove_land": "取消移除领地",
   "plugins.territorial_director.config.do_explodes": "爆炸",
