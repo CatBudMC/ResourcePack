@@ -291,6 +291,7 @@
   "commands.reboot.cannot_type": "Jenis operasi but semula tidak diketahui '%s'",
   "commands.reboot.currently_counting": "Sedang dalam kiraan detik but semula",
   "commands.reboot.currently_not_counting": "Tidak sedang dalam kiraan detik but semula",
+  "commands.reboot.incorrect_speed": "Kelajuan '%s' tidak betul",
   "commands.reboot.miss_type_arg": "Kekurangan parameter operasi but semula",
   "commands.reboot.start_counting": "Mula kiraan detik but semula",
   "commands.reboot.stop_counting": "Tamat kiraan detik but semula",

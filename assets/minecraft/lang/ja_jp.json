@@ -291,6 +291,7 @@
   "commands.reboot.cannot_type": "不明な再起動操作タイプ '%s'",
   "commands.reboot.currently_counting": "現在、再起動のカウントダウン中です",
   "commands.reboot.currently_not_counting": "現在、再起動のカウントダウン中ではありません",
+  "commands.reboot.incorrect_speed": "速度「%s」は正しくありません",
   "commands.reboot.miss_type_arg": "再起動操作パラメータがありません",
   "commands.reboot.start_counting": "再起動のカウントダウンを開始します",
   "commands.reboot.stop_counting": "再起動のカウントダウンを終了します",

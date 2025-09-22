@@ -291,6 +291,7 @@
   "commands.reboot.cannot_type": "未知的重启操作类型 '%s'",
   "commands.reboot.currently_counting": "当前已经在重启倒数中",
   "commands.reboot.currently_not_counting": "当前没有在重启倒数中",
+  "commands.reboot.incorrect_speed": "速度 '%s' 不正确",
   "commands.reboot.miss_type_arg": "缺少重启操作参数",
   "commands.reboot.start_counting": "开始重启倒数",
   "commands.reboot.stop_counting": "结束重启倒数",

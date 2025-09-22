@@ -291,6 +291,7 @@
   "commands.reboot.cannot_type": "ประเภทการรีสตาร์ทไม่รู้จัก '%s'",
   "commands.reboot.currently_counting": "กำลังนับถอยหลังรีสตาร์ท",
   "commands.reboot.currently_not_counting": "ยังไม่มีการนับถอยหลัง",
+  "commands.reboot.incorrect_speed": "ความเร็ว '%s' ไม่ถูกต้อง",
   "commands.reboot.miss_type_arg": "ขาดประเภทการรีสตาร์ท",
   "commands.reboot.start_counting": "เริ่มนับถอยหลัง",
   "commands.reboot.stop_counting": "ยกเลิกการนับถอยหลัง",

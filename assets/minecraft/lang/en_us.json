@@ -291,6 +291,7 @@
   "commands.reboot.cannot_type": "Unknown reboot action type '%s'",
   "commands.reboot.currently_counting": "Already in reboot countdown",
   "commands.reboot.currently_not_counting": "Not currently in reboot countdown",
+  "commands.reboot.incorrect_speed": "Speed '%s' is incorrect",
   "commands.reboot.miss_type_arg": "Missing reboot action parameter",
   "commands.reboot.start_counting": "Starting reboot countdown",
   "commands.reboot.stop_counting": "Stopping reboot countdown",
