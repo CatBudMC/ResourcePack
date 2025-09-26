@@ -1571,7 +1571,7 @@
   "plugins.task_distribution.task_require.monster_wave_play": "遊玩怪物浪潮",
   "plugins.task_distribution.task_require.monster_wave_play.progress": "%s / %s 場",
   "plugins.task_distribution.task_require.online_accrual": "線上累計時長",
-  "plugins.task_distribution.task_require.online_accrual.progress": "還須 %s",
+  "plugins.task_distribution.task_require.online_accrual.progress": "還需 %s",
   "plugins.task_distribution.task_rewards_issued": "已發放完成 '%s' 任務獎勵 %s、%s",
   "plugins.territorial_director.buy_land": "購買領地",
   "plugins.territorial_director.cancel_remove_land": "取消移除領地",
