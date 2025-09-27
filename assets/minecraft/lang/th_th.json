@@ -828,6 +828,7 @@
   "plugins.creativity_core.prohibit_placement": "ไม่อนุญาตให้วางบล็อกนี้",
   "plugins.discord_system.config.discord_product_sale_notification": "การแจ้งเตือนการขายไอเทม Discord",
   "plugins.discord_system.config.discord_product_sale_notification.on.lore.0": "แสดงข้อความและเสียงเมื่อ %s ของคุณบน Discord ถูกซื้อ",
+  "plugins.discord_system.fly": "บิน",
   "plugins.discord_system.join_group": "เข้าร่วมกลุ่ม Discord",
   "plugins.discord_system.join_or_account_bundle": "เข้าร่วม Discord/ผูกบัญชี Minecraft",
   "plugins.discord_system.restart_server_with": "'%s' รีสตาร์ทเซิร์ฟเวอร์เนื่องจาก '%s'.",

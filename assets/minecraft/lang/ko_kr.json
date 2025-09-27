@@ -828,6 +828,7 @@
   "plugins.creativity_core.prohibit_placement": "이 블록 재질은 설치할 수 없습니다",
   "plugins.discord_system.config.discord_product_sale_notification": "Discord 상품 판매 알림",
   "plugins.discord_system.config.discord_product_sale_notification.on.lore.0": "Discord에 등록된 %s 상품이 판매되면 메시지와 소리로 알립니다",
+  "plugins.discord_system.fly": "비행",
   "plugins.discord_system.join_group": "Discord 그룹",
   "plugins.discord_system.join_or_account_bundle": "Discord 가입 / Minecraft 계정 연동",
   "plugins.discord_system.restart_server_with": "'%s'가 '%s' 때문에 서버를 재시작했습니다.",

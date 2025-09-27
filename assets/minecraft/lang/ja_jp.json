@@ -828,6 +828,7 @@
   "plugins.creativity_core.prohibit_placement": "このブロックマテリアルは配置できません",
   "plugins.discord_system.config.discord_product_sale_notification": "Discord商品販売通知",
   "plugins.discord_system.config.discord_product_sale_notification.on.lore.0": "Discordに出品した%sが購入された際にメッセージと効果音で通知します",
+  "plugins.discord_system.fly": "飛行",
   "plugins.discord_system.join_group": "Discordグループ",
   "plugins.discord_system.join_or_account_bundle": "Discordに参加 / Minecraftアカウントを連携",
   "plugins.discord_system.restart_server_with": "'%s' が '%s' のためにサーバーを再起動しました。",

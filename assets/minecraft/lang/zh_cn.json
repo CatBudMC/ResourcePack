@@ -828,6 +828,7 @@
   "plugins.creativity_core.prohibit_placement": "这个方块材质不允许放置",
   "plugins.discord_system.config.discord_product_sale_notification": "Discord 商品售出通知",
   "plugins.discord_system.config.discord_product_sale_notification.on.lore.0": "当刊登在 Discord 的 %s 被他人购买时提示信息和音效",
+  "plugins.discord_system.fly": "飞行",
   "plugins.discord_system.join_group": "Discord 群组",
   "plugins.discord_system.join_or_account_bundle": "加入 Discord／Minecraft 账号绑定",
   "plugins.discord_system.restart_server_with": "'%s' 因为 '%s' 而重启服务器。",

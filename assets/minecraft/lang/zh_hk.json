@@ -828,6 +828,7 @@
   "plugins.creativity_core.prohibit_placement": "這個方塊材質不允許放置",
   "plugins.discord_system.config.discord_product_sale_notification": "Discord 商品售出通知",
   "plugins.discord_system.config.discord_product_sale_notification.on.lore.0": "當刊登在 Discord 的 %s 被他人購買時提示訊息和音效",
+  "plugins.discord_system.fly": "飛行",
   "plugins.discord_system.join_group": "Discord 群組",
   "plugins.discord_system.join_or_account_bundle": "加入 Discord／Minecraft 帳號綁定",
   "plugins.discord_system.restart_server_with": "'%s' 因為 '%s' 而重啟伺服器。",

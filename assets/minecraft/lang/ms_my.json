@@ -828,6 +828,7 @@
   "plugins.creativity_core.prohibit_placement": "Bahan blok ini tidak dibenarkan untuk diletakkan",
   "plugins.discord_system.config.discord_product_sale_notification": "Notifikasi Jualan Item Discord",
   "plugins.discord_system.config.discord_product_sale_notification.on.lore.0": "Papar mesej dan bunyi apabila %s anda di Discord dibeli",
+  "plugins.discord_system.fly": "Terbang",
   "plugins.discord_system.join_group": "Kumpulan Discord",
   "plugins.discord_system.join_or_account_bundle": "Sertai Discord / Ikat Akaun Minecraft",
   "plugins.discord_system.restart_server_with": "'%s' telah memulakan semula pelayan kerana '%s'.",

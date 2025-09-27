@@ -828,6 +828,7 @@
   "plugins.creativity_core.prohibit_placement": "This block material cannot be placed",
   "plugins.discord_system.config.discord_product_sale_notification": "Discord Item Sale Notification",
   "plugins.discord_system.config.discord_product_sale_notification.on.lore.0": "Shows a message and sound when your listed %s on Discord is purchased",
+  "plugins.discord_system.fly": "Fly",
   "plugins.discord_system.join_group": "Discord Group",
   "plugins.discord_system.join_or_account_bundle": "Join Discord / Link Minecraft Account",
   "plugins.discord_system.restart_server_with": "'%s' restarted the server because '%s'.",
