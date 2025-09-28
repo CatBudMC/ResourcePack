@@ -573,7 +573,7 @@
   "enchantment.addons.sacrifice_experience.lore.1": "ただし、ダメージに応じて経験値を消費する必要があります。",
   "enchantment.addons.sacrifice_experience.lore.2": "経験値が不足している場合は効果が発動しません。",
   "enchantment.addons.sacrifice_experience.lore.3": "フルセットで合計12%のダメージを減少させます。",
-  "enchantment.addons.spear": "槍",
+  "enchantment.addons.spear": "遠撃",
   "enchantment.addons.spear.lore.0": "斧のエンティティインタラクション距離を1～3ブロック増加させます。",
   "enchantment.addons.spear.lore.1": "弱体化状態では効果が発動しません。",
   "enchantment.addons.steady_sneak": "安定した忍び足",
