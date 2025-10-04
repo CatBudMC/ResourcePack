@@ -1,6 +1,12 @@
 {
   "pack": {
-    "pack_format": 64,
-    "description": "catbud.net"
+    "pack_format": 63,
+    "description": "catbud.net",
+    "supported_formats": {
+      "min_inclusive": 63,
+      "max_inclusive": 99
+    },
+    "min_format": [63, 0],
+    "max_format": [99, 0]
   }
 }
