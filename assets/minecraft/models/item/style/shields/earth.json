@@ -1,0 +1,6 @@
+{
+  "parent": "item/style/shields/_",
+  "textures": {
+    "layer0": "item/style/shields/earth"
+  }
+}

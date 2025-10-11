@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "condition",
+    "on_false": {
+      "type": "model",
+      "model": "item/style/shields/large_flower"
+    },
+    "on_true": {
+      "type": "model",
+      "model": "item/style/shields/large_flower_blocking"
+    },
+    "property": "using_item"
+  }
+}
