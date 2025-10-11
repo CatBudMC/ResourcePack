@@ -1878,5 +1878,21 @@
   "styles.shields.no_entry": "禁止通行",
   "styles.shields.strawberry": "草莓盾",
   "styles.tinned_cat_food.black": "罐裝貓糧（黑色）",
-  "styles.tinned_cat_food.white": "罐裝貓糧（白色）"
+  "styles.tinned_cat_food.white": "罐裝貓糧（白色）",
+  "commands.rank.current_point": "當前牌位 %s 點",
+  "commands.rank.miss_point_arg": "缺少牌位點數參數",
+  "commands.rank.incorrect_point": "牌位點數 '%s' 不正確",
+  "commands.rank.balance_insufficient": "餘額不足 %s 因此無法購買 %d 牌位點數",
+  "commands.rank.successful_buy": "成功購買牌位點數，當前牌位 %s 點",
+  "commands.rank.cannot_type": "未知的牌位操作類型 '%s'",
+  "plugins.player_database.how_buy_rank": "要購買多少 %s？",
+  "plugins.player_database.incorrect_rank_point": "牌位點數 '%s' 不正確",
+  "plugins.player_database.sure_buy_rank": "確定購買 %s",
+  "plugins.player_database.cancel_buy_rank": "取消購買 %s",
+  "plugins.player_database.rank_price_is": "價格為 %s",
+  "book.book_framework.error.integer_only": "只能是整數",
+  "book.book_framework.error.double_only": "只能是浮點數",
+  "plugins.primary_menu.buy_rank_point": "購買牌位點數",
+  "plugins.player_database.historical_last_page": "賽季歷史上頁",
+  "plugins.player_database.historical_next_page": "賽季歷史下頁"
 }
