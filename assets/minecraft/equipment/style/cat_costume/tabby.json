@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "style/cat_costume/tabby"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "style/cat_costume/tabby"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "style/cat_costume/persian"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "style/cat_costume/persian"
+      }
+    ]
+  }
+}
