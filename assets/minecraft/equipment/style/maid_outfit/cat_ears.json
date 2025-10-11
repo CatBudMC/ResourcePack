@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "style/maid_outfit/cat_ears"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "style/maid_outfit/cat_ears"
+      }
+    ]
+  }
+}

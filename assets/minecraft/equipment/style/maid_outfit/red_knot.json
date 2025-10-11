@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "style/maid_outfit/red_knot"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "style/maid_outfit/red_knot"
+      }
+    ]
+  }
+}

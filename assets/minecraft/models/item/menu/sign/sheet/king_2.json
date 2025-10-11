@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/menu/sign/sheet/king_2"
+  },
+  "display": {
+    "gui": {
+      "translation": [18, 0, 0],
+      "scale": [3.25, 1, 1]
+    }
+  }
+}
