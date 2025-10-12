@@ -137,6 +137,9 @@
     {"type": "bitmap", "chars": ["\u0136"], "file": "image/game_custom/error.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0137"], "file": "image/chat_manager/scope/advertise.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0138"], "file": "image/graphic_interface/copyable_line.png", "height": 14, "ascent": 10},
-    {"type": "bitmap", "chars": ["\u0139"], "file": "item/custom/coin_of_king.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars": ["\u0139"], "file": "item/custom/coin_of_king.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0140"], "file": "item/menu/mail/selected_entry_command_read.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0141"], "file": "item/menu/mail/selected_entry_command_read_received.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0142"], "file": "item/menu/mail/selected_entry_command_unread.png", "height": 8, "ascent": 7}
   ]
 }
