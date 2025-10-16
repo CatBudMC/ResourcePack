@@ -642,6 +642,7 @@
   "plugins.admin_control.recycle_item": "รีไซเคิลไอเทม",
   "plugins.admin_control.recycle_item_with": "'%s' ของคุณถูกส่งไปยังผู้ดูแลระบบแล้ว อาจเนื่องมาจากการขโมยหรือข้อบกพร่องในการทำซ้ำ",
   "plugins.admin_control.server_reboot_after": "จะรีสตาร์ทเซิร์ฟเวอร์ใน %s",
+  "plugins.admin_control.server_shutdown_after": "เซิร์ฟเวอร์จะปิดในอีก %s",
   "plugins.admin_control.spawner_agent_change": "เปลี่ยนตัวแทนสปอนเนอร์แล้ว",
   "plugins.admin_control.spawner_agent_use": "ใช้ตัวแทนสปอนเนอร์แล้ว",
   "plugins.airborne_warfare.airborne_warfare": "สงครามเวหา",

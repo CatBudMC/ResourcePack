@@ -642,6 +642,7 @@
   "plugins.admin_control.recycle_item": "回收物品",
   "plugins.admin_control.recycle_item_with": "身上的 '%s' 已寄送给管理员，可能因为来自偷窃或复制漏洞等原因。",
   "plugins.admin_control.server_reboot_after": "倒数 %s 重启服务器",
+  "plugins.admin_control.server_shutdown_after": "倒数 %s 关闭服务器",
   "plugins.admin_control.spawner_agent_change": "改变代理生怪砖",
   "plugins.admin_control.spawner_agent_use": "使用代理生怪砖",
   "plugins.airborne_warfare.airborne_warfare": "空降战域",

@@ -642,6 +642,7 @@
   "plugins.admin_control.recycle_item": "아이템 회수",
   "plugins.admin_control.recycle_item_with": "보유 중인 '%s'이(가) 도난 또는 복제 버그 등의 사유로 관리자에게 전송되었습니다.",
   "plugins.admin_control.server_reboot_after": "%s 후 서버 재부팅",
+  "plugins.admin_control.server_shutdown_after": "%s 후에 서버가 종료됩니다",
   "plugins.admin_control.spawner_agent_change": "에이전트 스포너 변경",
   "plugins.admin_control.spawner_agent_use": "에이전트 스포너 사용",
   "plugins.airborne_warfare.airborne_warfare": "공중전",

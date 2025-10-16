@@ -642,6 +642,7 @@
   "plugins.admin_control.recycle_item": "Kitar Semula Item",
   "plugins.admin_control.recycle_item_with": "'%s' anda telah dihantar kepada pentadbir, mungkin disebabkan oleh kecurian atau pepijat penduaan.",
   "plugins.admin_control.server_reboot_after": "Kiraan detik %s untuk but semula pelayan",
+  "plugins.admin_control.server_shutdown_after": "Pelayan akan ditutup dalam %s",
   "plugins.admin_control.spawner_agent_change": "Tukar agen penelur",
   "plugins.admin_control.spawner_agent_use": "Guna agen penelur",
   "plugins.airborne_warfare.airborne_warfare": "Medan Perang Udara",

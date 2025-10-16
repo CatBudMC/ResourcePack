@@ -642,6 +642,7 @@
   "plugins.admin_control.recycle_item": "アイテムを回収",
   "plugins.admin_control.recycle_item_with": "所持している '%s' は、盗難や複製グリッチの可能性があるため、管理者に送られました。",
   "plugins.admin_control.server_reboot_after": "%s 後にサーバーを再起動します",
+  "plugins.admin_control.server_shutdown_after": "サーバーは %s 後にシャットダウンします",
   "plugins.admin_control.spawner_agent_change": "スポナーエージェントを変更",
   "plugins.admin_control.spawner_agent_use": "スポナーエージェントを使用",
   "plugins.airborne_warfare.airborne_warfare": "エアボーンウォーフェア",

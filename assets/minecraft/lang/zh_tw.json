@@ -642,6 +642,7 @@
   "plugins.admin_control.recycle_item": "回收物品",
   "plugins.admin_control.recycle_item_with": "身上的 '%s' 已寄送給管理員，可能因為來自偷竊或複製漏洞等原因。",
   "plugins.admin_control.server_reboot_after": "倒數 %s 重啟伺服器",
+  "plugins.admin_control.server_shutdown_after": "倒數 %s 關閉伺服器",
   "plugins.admin_control.spawner_agent_change": "改變代理生怪磚",
   "plugins.admin_control.spawner_agent_use": "使用代理生怪磚",
   "plugins.airborne_warfare.airborne_warfare": "空降戰域",
