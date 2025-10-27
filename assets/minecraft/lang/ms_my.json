@@ -446,6 +446,7 @@
   "commands.shield.successful_join": "Berjaya menyekat pemain '%s'",
   "commands.shield.successful_modify_note": "Berjaya menukar nota sekat pemain '%s' kepada '%s'",
   "commands.shipment.incorrect_sale": "Jenis kuantiti tidak betul '%s'",
+  "commands.shipment.invalid_email": "E-mel tidak sah '%s'",
   "commands.shipment.miss_player_arg": "Kekurangan parameter pemain sasaran",
   "commands.shipment.miss_sale_arg": "Kekurangan parameter kuantiti sasaran",
   "commands.shipment.player_not_exist": "Pemain '%s' tidak wujud",

@@ -446,6 +446,7 @@
   "commands.shield.successful_join": "プレイヤー '%s' を正常にシールドに参加させました",
   "commands.shield.successful_modify_note": "プレイヤー '%s' のシールドの備考を '%s' に変更しました",
   "commands.shipment.incorrect_sale": "不正な数量タイプ '%s'",
+  "commands.shipment.invalid_email": "無効なメールアドレス '%s'",
   "commands.shipment.miss_player_arg": "ターゲットプレイヤーパラメータがありません",
   "commands.shipment.miss_sale_arg": "ターゲット数量パラメータがありません",
   "commands.shipment.player_not_exist": "プレイヤー '%s' は存在しません",

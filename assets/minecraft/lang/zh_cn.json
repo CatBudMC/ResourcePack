@@ -446,6 +446,7 @@
   "commands.shield.successful_join": "成功将玩家 '%s' 加入屏蔽",
   "commands.shield.successful_modify_note": "成功将玩家 '%s' 的屏蔽备注修改为 '%s'",
   "commands.shipment.incorrect_sale": "不正确的分量类型 '%s'",
+  "commands.shipment.invalid_email": "不正确的 EMail '%s'",
   "commands.shipment.miss_player_arg": "缺少目标玩家参数",
   "commands.shipment.miss_sale_arg": "缺少目标分量参数",
   "commands.shipment.player_not_exist": "玩家 '%s' 不存在",

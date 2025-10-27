@@ -446,6 +446,7 @@
   "commands.shield.successful_join": "เพิ่มผู้เล่น '%s' เข้าบล็อกสำเร็จ",
   "commands.shield.successful_modify_note": "แก้ไขหมายเหตุบล็อกของผู้เล่น '%s' เป็น '%s' สำเร็จ",
   "commands.shipment.incorrect_sale": "ประเภทปริมาณ '%s' ไม่ถูกต้อง",
+  "commands.shipment.invalid_email": "อีเมลไม่ถูกต้อง '%s'",
   "commands.shipment.miss_player_arg": "ขาดพารามิเตอร์เป้าหมายผู้เล่น",
   "commands.shipment.miss_sale_arg": "ขาดพารามิเตอร์ปริมาณเป้าหมาย",
   "commands.shipment.player_not_exist": "ผู้เล่น '%s' ไม่มีอยู่",

@@ -446,6 +446,7 @@
   "commands.shield.successful_join": "플레이어 '%s'을(를) 성공적으로 보호했습니다.",
   "commands.shield.successful_modify_note": "보호 '%s'의 메모를 '%s'(으)로 성공적으로 수정했습니다.",
   "commands.shipment.incorrect_sale": "잘못된 수량 유형 '%s'",
+  "commands.shipment.invalid_email": "잘못된 이메일 '%s'",
   "commands.shipment.miss_player_arg": "대상 플레이어 매개변수가 없습니다.",
   "commands.shipment.miss_sale_arg": "대상 수량 매개변수가 없습니다.",
   "commands.shipment.player_not_exist": "플레이어 '%s'이(가) 존재하지 않습니다.",

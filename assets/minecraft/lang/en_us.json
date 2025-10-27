@@ -446,6 +446,7 @@
   "commands.shield.successful_join": "Successfully shielded player '%s'",
   "commands.shield.successful_modify_note": "Successfully modified note for shield '%s' to '%s'",
   "commands.shipment.incorrect_sale": "Incorrect portion type '%s'",
+  "commands.shipment.invalid_email": "Invalid email '%s'",
   "commands.shipment.miss_player_arg": "Missing target player parameter",
   "commands.shipment.miss_sale_arg": "Missing target portion parameter",
   "commands.shipment.player_not_exist": "Player '%s' does not exist",

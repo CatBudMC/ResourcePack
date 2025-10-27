@@ -446,6 +446,7 @@
   "commands.shield.successful_join": "成功將玩家 '%s' 加入屏蔽",
   "commands.shield.successful_modify_note": "成功將玩家 '%s' 的屏蔽備註修改為 '%s'",
   "commands.shipment.incorrect_sale": "不正確的份量類型 '%s'",
+  "commands.shipment.invalid_email": "不正確的 EMail '%s'",
   "commands.shipment.miss_player_arg": "缺少目標玩家參數",
   "commands.shipment.miss_sale_arg": "缺少目標份量參數",
   "commands.shipment.player_not_exist": "玩家 '%s' 不存在",
