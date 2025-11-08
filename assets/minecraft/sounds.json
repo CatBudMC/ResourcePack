@@ -1031,5 +1031,23 @@
     "sounds": [
       "room_ready"
     ]
+  },
+  "plugins.item_addons.armor_stand_arms_install": {
+    "subtitle": "plugins.item_addons.armor_stand_arms_install",
+    "sounds": [
+      "entity/armorstand/break1",
+      "entity/armorstand/break2",
+      "entity/armorstand/break3",
+      "entity/armorstand/break4"
+    ]
+  },
+  "plugins.item_addons.item_frame_transparent_masking_install": {
+    "subtitle": "plugins.item_addons.item_frame_transparent_masking_install",
+    "sounds": [
+      "entity/itemframe/place1",
+      "entity/itemframe/place2",
+      "entity/itemframe/place3",
+      "entity/itemframe/place4"
+    ]
   }
 }

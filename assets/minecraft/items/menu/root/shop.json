@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "model",
+    "model": "item/menu/root/shop"
+  },
+  "oversized_in_gui": true
+}
