@@ -1484,6 +1484,7 @@
   "plugins.primary_menu.more": "その他",
   "plugins.primary_menu.more.lore.0": "便利で、あまり使わない機能のコレクション",
   "plugins.primary_menu.open_menu": "メニューを開く",
+  "plugins.primary_menu.open_online_map": "オンラインマップを開く",
   "plugins.primary_menu.pass": "パス",
   "plugins.primary_menu.pass.expired": "期限切れ",
   "plugins.primary_menu.pass.lore.0": "無制限の土地飛行スタミナ",

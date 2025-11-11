@@ -1484,6 +1484,7 @@
   "plugins.primary_menu.more": "เพิ่มเติม",
   "plugins.primary_menu.more.lore.0": "ฟังก์ชันที่มีประโยชน์มากมาย แต่ไม่ค่อยได้ใช้บ่อยนัก",
   "plugins.primary_menu.open_menu": "เปิดเมนู",
+  "plugins.primary_menu.open_online_map": "เปิดแผนที่ออนไลน์",
   "plugins.primary_menu.pass": "บัตรรายเดือน",
   "plugins.primary_menu.pass.expired": "หมดอายุแล้ว",
   "plugins.primary_menu.pass.lore.0": "ความแข็งแกร่งการบินในอาณาเขตไม่จำกัด",

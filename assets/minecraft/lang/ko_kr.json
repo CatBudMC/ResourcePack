@@ -1484,6 +1484,7 @@
   "plugins.primary_menu.more": "더보기",
   "plugins.primary_menu.more.lore.0": "유용하지만 자주 사용하지 않는 기능 모음",
   "plugins.primary_menu.open_menu": "메뉴 열기",
+  "plugins.primary_menu.open_online_map": "온라인 맵 열기",
   "plugins.primary_menu.pass": "월정액",
   "plugins.primary_menu.pass.expired": "만료됨",
   "plugins.primary_menu.pass.lore.0": "영지 내 무한 비행 체력",

@@ -1484,6 +1484,7 @@
   "plugins.primary_menu.more": "More",
   "plugins.primary_menu.more.lore.0": "A collection of other useful but less frequently used functions.",
   "plugins.primary_menu.open_menu": "Open Menu",
+  "plugins.primary_menu.open_online_map": "Open Online Map",
   "plugins.primary_menu.pass": "Monthly Pass",
   "plugins.primary_menu.pass.expired": "Expired",
   "plugins.primary_menu.pass.lore.0": "Unlimited flight stamina in your land.",
