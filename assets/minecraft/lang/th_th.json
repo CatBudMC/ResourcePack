@@ -451,6 +451,7 @@
   "commands.shield.successful_delete": "ยกเลิกบล็อกผู้เล่น '%s' สำเร็จ",
   "commands.shield.successful_join": "เพิ่มผู้เล่น '%s' เข้าบล็อกสำเร็จ",
   "commands.shield.successful_modify_note": "แก้ไขหมายเหตุบล็อกของผู้เล่น '%s' เป็น '%s' สำเร็จ",
+  "commands.shop.buy_not_allowed": "สถานะปัจจุบันไม่อนุญาตให้ทำการซื้อ",
   "commands.shop.buy_successful": "ซื้อ '%s' x%s สำเร็จ",
   "commands.shop.cannot_operation": "ไม่รู้จักประเภทการดำเนินการร้านค้า '%s'",
   "commands.shop.incorrect_amount": "จำนวนไอเทมไม่ถูกต้อง '%s'",

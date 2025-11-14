@@ -451,6 +451,7 @@
   "commands.shield.successful_delete": "플레이어 '%s'의 보호를 성공적으로 해제했습니다.",
   "commands.shield.successful_join": "플레이어 '%s'을(를) 성공적으로 보호했습니다.",
   "commands.shield.successful_modify_note": "보호 '%s'의 메모를 '%s'(으)로 성공적으로 수정했습니다.",
+  "commands.shop.buy_not_allowed": "현재 상태에서는 구매할 수 없습니다",
   "commands.shop.buy_successful": "'%s' %s개를 성공적으로 구매했습니다",
   "commands.shop.cannot_operation": "알 수 없는 상점 작업 유형 '%s'",
   "commands.shop.incorrect_amount": "잘못된 아이템 수량 '%s'",

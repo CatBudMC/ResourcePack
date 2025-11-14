@@ -451,6 +451,7 @@
   "commands.shield.successful_delete": "Successfully unshielded player '%s'",
   "commands.shield.successful_join": "Successfully shielded player '%s'",
   "commands.shield.successful_modify_note": "Successfully updated shield note for '%s' to '%s'",
+  "commands.shop.buy_not_allowed": "Purchasing is not allowed in the current state.",
   "commands.shop.buy_successful": "Successfully purchased '%s' x%s",
   "commands.shop.cannot_operation": "Unknown shop operation type '%s'",
   "commands.shop.incorrect_amount": "Invalid item amount '%s'",

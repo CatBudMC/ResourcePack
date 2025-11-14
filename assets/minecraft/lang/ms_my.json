@@ -451,6 +451,7 @@
   "commands.shield.successful_delete": "Berjaya menyahsekat pemain '%s'",
   "commands.shield.successful_join": "Berjaya menyekat pemain '%s'",
   "commands.shield.successful_modify_note": "Berjaya menukar nota sekat pemain '%s' kepada '%s'",
+  "commands.shop.buy_not_allowed": "Pembelian tidak dibenarkan dalam keadaan semasa.",
   "commands.shop.buy_successful": "Berjaya membeli '%s' x%s",
   "commands.shop.cannot_operation": "Jenis operasi kedai tidak diketahui '%s'",
   "commands.shop.incorrect_amount": "Amaun item tidak sah '%s'",

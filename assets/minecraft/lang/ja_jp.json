@@ -451,6 +451,7 @@
   "commands.shield.successful_delete": "プレイヤー '%s' のシールドを正常に解除しました",
   "commands.shield.successful_join": "プレイヤー '%s' を正常にシールドに参加させました",
   "commands.shield.successful_modify_note": "プレイヤー '%s' のシールドの備考を '%s' に変更しました",
+  "commands.shop.buy_not_allowed": "現在の状態では購入できません",
   "commands.shop.buy_successful": "'%s' を %s 個購入しました",
   "commands.shop.cannot_operation": "不明なショップ操作タイプ '%s'",
   "commands.shop.incorrect_amount": "不正な商品数量 '%s'",

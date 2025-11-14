@@ -451,6 +451,7 @@
   "commands.shield.successful_delete": "成功將玩家 '%s' 解除屏蔽",
   "commands.shield.successful_join": "成功將玩家 '%s' 加入屏蔽",
   "commands.shield.successful_modify_note": "成功將玩家 '%s' 的屏蔽備註修改為 '%s'",
+  "commands.shop.buy_not_allowed": "當前狀態不允許進行購買",
   "commands.shop.buy_successful": "成功購買 '%s'× %s",
   "commands.shop.cannot_operation": "未知的商店操作類型 '%s'",
   "commands.shop.incorrect_amount": "不正確的商品數量 '%s'",
