@@ -1,6 +1,6 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "block/custom/spawner_agent__on"
+    "all": "block/custom/command_proxy__on"
   }
 }
