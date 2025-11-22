@@ -620,6 +620,8 @@
   "items.parkour_location": "返回記錄位置",
   "items.parkour_save": "記錄當前位置",
   "items.parkour_teleport": "前往隊友位置",
+  "items.power_disable_alarm": "電源中斷警報器",
+  "items.power_enable_alarm": "電源恢復警報器",
   "items.surprise_box": "驚喜盒",
   "plugins.action_recorder.ago_with": "%s 之前",
   "plugins.action_recorder.caused_by": "經由 %s",

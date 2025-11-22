@@ -620,6 +620,8 @@
   "items.parkour_location": "Return to Saved Location",
   "items.parkour_save": "Save Current Location",
   "items.parkour_teleport": "Teleport to Teammate",
+  "items.power_disable_alarm": "Power Off Alarm",
+  "items.power_enable_alarm": "Power On Alarm",
   "items.surprise_box": "Surprise Box",
   "plugins.action_recorder.ago_with": "%s ago",
   "plugins.action_recorder.caused_by": "Caused by %s",

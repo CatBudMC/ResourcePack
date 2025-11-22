@@ -620,6 +620,8 @@
   "items.parkour_location": "記録地点に戻る",
   "items.parkour_save": "現在位置を記録",
   "items.parkour_teleport": "チームメイトの元へ移動",
+  "items.power_disable_alarm": "電源切断アラーム",
+  "items.power_enable_alarm": "電源復旧アラーム",
   "items.surprise_box": "サプライズボックス",
   "plugins.action_recorder.ago_with": "%s 前",
   "plugins.action_recorder.caused_by": "%sによる",

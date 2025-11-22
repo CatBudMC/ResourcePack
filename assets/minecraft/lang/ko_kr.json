@@ -620,6 +620,8 @@
   "items.parkour_location": "저장된 위치로 돌아가기",
   "items.parkour_save": "현재 위치 저장",
   "items.parkour_teleport": "팀원 위치로 이동",
+  "items.power_disable_alarm": "전원 차단 경보기",
+  "items.power_enable_alarm": "전원 복구 경보기",
   "items.surprise_box": "서프라이즈 상자",
   "plugins.action_recorder.ago_with": "%s 전",
   "plugins.action_recorder.caused_by": "%s에 의해 발생",

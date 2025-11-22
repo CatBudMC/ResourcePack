@@ -620,6 +620,8 @@
   "items.parkour_location": "กลับไปยังตำแหน่งที่บันทึก",
   "items.parkour_save": "บันทึกตำแหน่งปัจจุบัน",
   "items.parkour_teleport": "เทเลพอร์ตไปหาเพื่อนร่วมทีม",
+  "items.power_disable_alarm": "สัญญาณเตือนไฟดับ",
+  "items.power_enable_alarm": "สัญญาณเตือนไฟติด",
   "items.surprise_box": "กล่องเซอร์ไพรส์",
   "plugins.action_recorder.ago_with": "%s ที่ผ่านมา",
   "plugins.action_recorder.caused_by": "โดย %s",

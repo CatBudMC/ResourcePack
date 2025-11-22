@@ -620,6 +620,8 @@
   "items.parkour_location": "Kembali ke Lokasi Disimpan",
   "items.parkour_save": "Simpan Lokasi Semasa",
   "items.parkour_teleport": "Teleport ke Rakan Sepasukan",
+  "items.power_disable_alarm": "Penggera Putus Kuasa",
+  "items.power_enable_alarm": "Penggera Pulih Kuasa",
   "items.surprise_box": "Kotak Kejutan",
   "plugins.action_recorder.ago_with": "%s yang lalu",
   "plugins.action_recorder.caused_by": "Melalui %s",
