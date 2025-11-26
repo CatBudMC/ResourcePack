@@ -220,6 +220,7 @@
   "commands.mail.miss_page": "Missing mail page number",
   "commands.mail.miss_player_arg": "Missing target player parameter",
   "commands.mail.miss_send_amount": "Missing sending amount",
+  "commands.mail.miss_send_title": "Missing mail subject",
   "commands.mail.miss_serial": "Missing mail serial number",
   "commands.mail.player_not_exist": "Player '%s' does not exist",
   "commands.mail.send_amount": "Amount to send",

@@ -220,6 +220,7 @@
   "commands.mail.miss_page": "メールのページ番号がありません",
   "commands.mail.miss_player_arg": "ターゲットプレイヤーパラメータがありません",
   "commands.mail.miss_send_amount": "送信金額がありません",
+  "commands.mail.miss_send_title": "メールの件名がありません",
   "commands.mail.miss_serial": "メールのシリアル番号がありません",
   "commands.mail.player_not_exist": "プレイヤー '%s' は存在しません",
   "commands.mail.send_amount": "送信する金額",

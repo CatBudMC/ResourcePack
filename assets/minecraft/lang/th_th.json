@@ -220,6 +220,7 @@
   "commands.mail.miss_page": "ขาดหมายเลขหน้าอีเมล",
   "commands.mail.miss_player_arg": "ขาดพารามิเตอร์ผู้เล่นเป้าหมาย",
   "commands.mail.miss_send_amount": "ขาดจำนวนเงินที่ส่ง",
+  "commands.mail.miss_send_title": "ไม่มีหัวข้อจดหมาย",
   "commands.mail.miss_serial": "ขาดหมายเลขลำดับอีเมล",
   "commands.mail.player_not_exist": "ผู้เล่น '%s' ไม่มีอยู่",
   "commands.mail.send_amount": "จำนวนเงินที่ต้องการส่ง",

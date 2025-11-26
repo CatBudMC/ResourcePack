@@ -220,6 +220,7 @@
   "commands.mail.miss_page": "缺少郵件頁數",
   "commands.mail.miss_player_arg": "缺少目標玩家參數",
   "commands.mail.miss_send_amount": "缺少發送金額",
+  "commands.mail.miss_send_title": "缺少郵件標題",
   "commands.mail.miss_serial": "缺少郵件序列號",
   "commands.mail.player_not_exist": "玩家 '%s' 不存在",
   "commands.mail.send_amount": "要發送的金額",

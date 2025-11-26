@@ -220,6 +220,7 @@
   "commands.mail.miss_page": "Kekurangan halaman e-mel",
   "commands.mail.miss_player_arg": "Kekurangan parameter pemain sasaran",
   "commands.mail.miss_send_amount": "Kekurangan jumlah hantaran",
+  "commands.mail.miss_send_title": "Tiada tajuk mel",
   "commands.mail.miss_serial": "Kekurangan nombor siri e-mel",
   "commands.mail.player_not_exist": "Pemain '%s' tidak wujud",
   "commands.mail.send_amount": "Jumlah yang akan dihantar",
