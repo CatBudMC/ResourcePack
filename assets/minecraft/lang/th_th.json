@@ -618,6 +618,8 @@
   "items.damaged_surprise_box": "กล่องเซอร์ไพรส์ที่เสียหาย",
   "items.enchantment_extraction_table": "โต๊ะสกัดเวทมนตร์",
   "items.item_frame_transparent_masking": "หน้ากากโปร่งใสกรอบแสดงไอเทม",
+  "items.mimicry_card.creeper": "การ์ดพลังครีปเปอร์",
+  "items.mimicry_card.enderman": "การ์ดพลังเอนเดอร์แมน",
   "items.parkour_location": "กลับไปยังตำแหน่งที่บันทึก",
   "items.parkour_save": "บันทึกตำแหน่งปัจจุบัน",
   "items.parkour_teleport": "เทเลพอร์ตไปหาเพื่อนร่วมทีม",

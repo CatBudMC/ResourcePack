@@ -618,6 +618,8 @@
   "items.damaged_surprise_box": "壊れたサプライズボックス",
   "items.enchantment_extraction_table": "エンチャント抽出テーブル",
   "items.item_frame_transparent_masking": "額縁の透明マスク",
+  "items.mimicry_card.creeper": "クリーパーの能力カード",
+  "items.mimicry_card.enderman": "エンダーマンの能力カード",
   "items.parkour_location": "記録地点に戻る",
   "items.parkour_save": "現在位置を記録",
   "items.parkour_teleport": "チームメイトの元へ移動",

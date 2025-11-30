@@ -618,6 +618,8 @@
   "items.damaged_surprise_box": "Damaged Surprise Box",
   "items.enchantment_extraction_table": "Enchantment Extraction Table",
   "items.item_frame_transparent_masking": "Item Frame Transparent Masking",
+  "items.mimicry_card.creeper": "Creeper Mimicry Card",
+  "items.mimicry_card.enderman": "Enderman Mimicry Card",
   "items.parkour_location": "Return to Saved Location",
   "items.parkour_save": "Save Current Location",
   "items.parkour_teleport": "Teleport to Teammate",
