@@ -105,6 +105,19 @@
     {"type": "bitmap", "chars": ["\u0104"], "file": "emoji/mob/creaking.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0105"], "file": "emoji/rank.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0106"], "file": "emoji/translate.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars": ["\u0107"], "file": "emoji/mob/happy_ghast.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars": ["\u0107"], "file": "emoji/mob/happy_ghast.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0108"], "file": "emoji/mob/cod.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0109"], "file": "emoji/mob/donkey.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0110"], "file": "emoji/mob/goat.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0111"], "file": "emoji/mob/horse.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0112"], "file": "emoji/mob/mule.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0113"], "file": "emoji/mob/pillager.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0114"], "file": "emoji/mob/pufferfish.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0115"], "file": "emoji/mob/salmon.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0116"], "file": "emoji/mob/skeleton_horse.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0117"], "file": "emoji/mob/tropical_fish.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0118"], "file": "emoji/mob/zombie_horse.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0119"], "file": "emoji/mob/trader_llama.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0120"], "file": "emoji/mob/snowgolem_2.png", "height": 8, "ascent": 7}
   ]
 }
