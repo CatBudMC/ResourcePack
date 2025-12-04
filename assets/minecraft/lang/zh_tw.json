@@ -1996,5 +1996,14 @@
   "styles.shields.no_entry": "禁止通行",
   "styles.shields.strawberry": "草莓盾",
   "styles.tinned_cat_food.black": "罐裝貓糧（黑色）",
-  "styles.tinned_cat_food.white": "罐裝貓糧（白色）"
+  "styles.tinned_cat_food.white": "罐裝貓糧（白色）",
+  "items.mimicry_card.evoker": "喚魔者能力卡",
+  "items.mimicry_card.ghast": "地獄幽靈能力卡",
+  "items.mimicry_card.shulker": "界伏蚌能力卡",
+  "items.mimicry_card.magma_cube": "岩漿立方怪能力卡",
+  "items.mimicry_card.slime": "史萊姆能力卡",
+  "items.mimicry_card.silverfish": "蠹魚能力卡",
+  "items.mimicry_card.spider": "蜘蛛能力卡",
+  "items.mimicry_card.cave_spider": "洞穴蜘蛛能力卡",
+  "items.mimicry_card.wither_skeleton": "凋零骷髏能力卡"
 }
