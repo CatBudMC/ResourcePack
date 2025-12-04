@@ -990,6 +990,12 @@
       "magic_tower/pianos/c8_50"
     ]
   },
+  "plugins.mimicry_card.draw_card": {
+    "subtitle": "plugins.mimicry_card.draw_card",
+    "sounds": [
+      "mimicry_card/draw_card"
+    ]
+  },
   "plugins.paid_store.raffle_result": {
     "subtitle": "plugins.paid_store.raffle_result",
     "sounds": [
