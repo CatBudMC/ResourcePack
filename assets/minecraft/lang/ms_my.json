@@ -1685,6 +1685,7 @@
   "plugins.territorial_director.config.mob_spawning.lore.0": "Tidak termasuk penelur / warden",
   "plugins.territorial_director.config.safe_bound": "Sempadan Selamat",
   "plugins.territorial_director.config.safe_bound.lore.0": "Air / lava / piston tidak boleh masuk dari luar",
+  "plugins.territorial_director.config.safe_bound.lore.1": "Namakan semula mob mesra luar di dalam kawasan untuk akses.",
   "plugins.territorial_director.config.trample_farmland": "Memijak Tanah Ladang",
   "plugins.territorial_director.declare_time_is": "Masa isytihar %s yang lalu",
   "plugins.territorial_director.deletion_not_return_land_capacity": "Pemadaman tidak akan mengembalikan kapasiti kawasan yang tersedia",

@@ -1685,6 +1685,7 @@
   "plugins.territorial_director.config.mob_spawning.lore.0": "Does not include spawners / wardens",
   "plugins.territorial_director.config.safe_bound": "Safe Boundary",
   "plugins.territorial_director.config.safe_bound.lore.0": "Water / Lava / Pistons cannot enter from the outside",
+  "plugins.territorial_director.config.safe_bound.lore.1": "Rename external friendly mobs inside to grant permissions.",
   "plugins.territorial_director.config.trample_farmland": "Trample Farmland",
   "plugins.territorial_director.declare_time_is": "Declared %s ago",
   "plugins.territorial_director.deletion_not_return_land_capacity": "Deleting will not return available land capacity",

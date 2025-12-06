@@ -1685,6 +1685,7 @@
   "plugins.territorial_director.config.mob_spawning.lore.0": "不包含生怪砖／伏守者",
   "plugins.territorial_director.config.safe_bound": "安全的边界",
   "plugins.territorial_director.config.safe_bound.lore.0": "水／岩浆／活塞无法从外部进入",
+  "plugins.territorial_director.config.safe_bound.lore.1": "外来友善生物需在领地内重命名才有权限",
   "plugins.territorial_director.config.trample_farmland": "踩踏耕地",
   "plugins.territorial_director.declare_time_is": "宣告时间 %s 之前",
   "plugins.territorial_director.deletion_not_return_land_capacity": "删除后不会返还领地可用容量",

@@ -1685,6 +1685,7 @@
   "plugins.territorial_director.config.mob_spawning.lore.0": "스포너/워든 제외",
   "plugins.territorial_director.config.safe_bound": "안전 경계",
   "plugins.territorial_director.config.safe_bound.lore.0": "물/용암/피스톤이 외부에서 들어올 수 없음",
+  "plugins.territorial_director.config.safe_bound.lore.1": "외부 우호 생물은 영토 내에서 이름을 변경해야 권한을 얻습니다",
   "plugins.territorial_director.config.trample_farmland": "경작지 밟기",
   "plugins.territorial_director.declare_time_is": "선포 시간 %s 전",
   "plugins.territorial_director.deletion_not_return_land_capacity": "삭제 후 영지 사용 가능 용량은 반환되지 않습니다",

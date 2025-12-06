@@ -1685,6 +1685,7 @@
   "plugins.territorial_director.config.mob_spawning.lore.0": "ไม่รวม Spawner / Warden",
   "plugins.territorial_director.config.safe_bound": "ขอบเขตปลอดภัย",
   "plugins.territorial_director.config.safe_bound.lore.0": "น้ำ / ลาวา / ลูกสูบ ไม่สามารถเข้าได้จากภายนอก",
+  "plugins.territorial_director.config.safe_bound.lore.1": "เปลี่ยนชื่อม็อบที่เป็นมิตรในพื้นที่เพื่อรับสิทธิ์",
   "plugins.territorial_director.config.trample_farmland": "เหยียบย่ำพื้นที่เกษตร",
   "plugins.territorial_director.declare_time_is": "ประกาศก่อนเวลา %s",
   "plugins.territorial_director.deletion_not_return_land_capacity": "การลบนี้จะไม่คืนความจุที่ดินที่ใช้ได้",

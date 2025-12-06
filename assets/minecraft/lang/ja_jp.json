@@ -1685,6 +1685,7 @@
   "plugins.territorial_director.config.mob_spawning.lore.0": "スポナー / ウォーデンは含まれません",
   "plugins.territorial_director.config.safe_bound": "安全な境界",
   "plugins.territorial_director.config.safe_bound.lore.0": "水 / 溶岩 / ピストンは外部から侵入できません",
+  "plugins.territorial_director.config.safe_bound.lore.1": "外部の友好モブは領地内で名前を変えて権限を得てください",
   "plugins.territorial_director.config.trample_farmland": "耕地を踏みつける",
   "plugins.territorial_director.declare_time_is": "%s 前に宣言されました",
   "plugins.territorial_director.deletion_not_return_land_capacity": "削除しても利用可能な土地容量は返還されません",
