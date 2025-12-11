@@ -203,7 +203,6 @@
   "commands.land.successful_modify_icon": "Berjaya menukar ikon paparan kawasan '%s' kepada '%s'",
   "commands.land.successful_modify_note": "Berjaya menukar nota paparan kawasan '%s' kepada '%s'",
   "commands.land.track_quantity_limit": "Hanya boleh menjejaki %s lokasi kawasan pada masa yang sama",
-  "commands.log.current_world_unavailable": "Dunia semasa tidak tersedia",
   "commands.log.range_exceeds_limit": "Julat '%s' melebihi had",
   "commands.log.search_radius": "Jejari Carian",
   "commands.mail.been_deleted": "E-mel telah dipadam",

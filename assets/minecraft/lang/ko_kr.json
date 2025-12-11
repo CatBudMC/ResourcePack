@@ -203,7 +203,6 @@
   "commands.land.successful_modify_icon": "땅 '%s'의 아이콘을 '%s'(으)로 성공적으로 변경했습니다.",
   "commands.land.successful_modify_note": "땅 '%s'의 메모를 성공적으로 수정했습니다.",
   "commands.land.track_quantity_limit": "동시에 최대 %s개의 땅만 추적할 수 있습니다.",
-  "commands.log.current_world_unavailable": "현재 월드를 사용할 수 없습니다.",
   "commands.log.range_exceeds_limit": "범위 '%s'이(가) 한도를 초과합니다.",
   "commands.log.search_radius": "검색 반경",
   "commands.mail.been_deleted": "메일이 삭제되었습니다.",

@@ -203,7 +203,6 @@
   "commands.land.successful_modify_icon": "土地 '%s' の表示アイコンを '%s' に変更しました",
   "commands.land.successful_modify_note": "土地 '%s' の表示備考を '%s' に変更しました",
   "commands.land.track_quantity_limit": "同時に追跡できる土地は最大 %s 個です",
-  "commands.log.current_world_unavailable": "現在のワールドは利用できません",
   "commands.log.range_exceeds_limit": "範囲 '%s' が制限を超えています",
   "commands.log.search_radius": "検索半径",
   "commands.mail.been_deleted": "メールは削除されました",

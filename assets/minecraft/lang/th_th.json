@@ -203,7 +203,6 @@
   "commands.land.successful_modify_icon": "แก้ไขไอคอนแสดงของดินแดน '%s' เป็น '%s' สำเร็จ",
   "commands.land.successful_modify_note": "แก้ไขหมายเหตุแสดงของดินแดน '%s' เป็น '%s' สำเร็จ",
   "commands.land.track_quantity_limit": "สามารถติดตามตำแหน่งดินแดนได้สูงสุด %s แห่งเท่านั้น",
-  "commands.log.current_world_unavailable": "โลกปัจจุบันไม่พร้อมใช้งาน",
   "commands.log.range_exceeds_limit": "ขอบเขต '%s' เกินขีดจำกัด",
   "commands.log.search_radius": "รัศมีการค้นหา",
   "commands.mail.been_deleted": "อีเมลถูกลบแล้ว",

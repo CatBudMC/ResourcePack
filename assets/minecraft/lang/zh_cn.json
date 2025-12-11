@@ -203,7 +203,6 @@
   "commands.land.successful_modify_icon": "成功将领地 '%s' 的显示图示修改为 '%s'",
   "commands.land.successful_modify_note": "成功将领地 '%s' 的显示备注修改为 '%s'",
   "commands.land.track_quantity_limit": "最多只能同时追踪 %s 个领地的位置",
-  "commands.log.current_world_unavailable": "当前世界不可用",
   "commands.log.range_exceeds_limit": "范围 '%s' 超出限制",
   "commands.log.search_radius": "搜索半径",
   "commands.mail.been_deleted": "邮件已被删除",
