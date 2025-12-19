@@ -118,6 +118,12 @@
     {"type": "bitmap", "chars": ["\u0117"], "file": "emoji/mob/tropical_fish.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0118"], "file": "emoji/mob/zombie_horse.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0119"], "file": "emoji/mob/trader_llama.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars": ["\u0120"], "file": "emoji/mob/snowgolem_2.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars": ["\u0120"], "file": "emoji/mob/snowgolem_2.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0121"], "file": "emoji/mob/copper_golem.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0122"], "file": "emoji/mob/camel_husk.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0123"], "file": "emoji/mob/nautilus.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0124"], "file": "emoji/mob/parched.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0125"], "file": "emoji/mob/zombie_nautilus.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0126"], "file": "emoji/mob/mannequin.png", "height": 8, "ascent": 7}
   ]
 }
