@@ -850,6 +850,18 @@
       "happy_anniversary/use_surprise_box"
     ]
   },
+  "plugins.item_addons.armor_stand_apply_humanoid": {
+    "subtitle": "plugins.item_addons.armor_stand_apply_humanoid",
+    "sounds": [
+      "item_addons/armor_stand_apply_humanoid"
+    ]
+  },
+  "plugins.item_addons.armor_stand_apply_miniaturize": {
+    "subtitle": "plugins.item_addons.armor_stand_apply_miniaturize",
+    "sounds": [
+      "item_addons/armor_stand_apply_miniaturize"
+    ]
+  },
   "plugins.item_addons.armor_stand_arms_install": {
     "subtitle": "plugins.item_addons.armor_stand_arms_install",
     "sounds": [
