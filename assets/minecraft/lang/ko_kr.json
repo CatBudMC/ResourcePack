@@ -1038,7 +1038,7 @@
   "plugins.happy_anniversary.time_coming": "시간이 얼마 남지 않았습니다!",
   "plugins.happy_anniversary.tracking_distance": "%s 블록 떨어져 있음",
   "plugins.happy_anniversary.use_surprise_box": "서프라이즈 상자 사용",
-  "plugins.item_addons.armor_stand_apply_humanoid": "갑옷 거치대 의인화 적용됨",
+  "plugins.item_addons.armor_stand_apply_humanoid": "갑옷 거치대 의인화",
   "plugins.item_addons.armor_stand_apply_miniaturize": "갑옷 거치대 소형화 적용됨",
   "plugins.item_addons.armor_stand_arms_install": "갑옷 거치대에 팔 설치",
   "plugins.item_addons.armor_stand_forbidden": "이 거치대에는 사용 불가",
