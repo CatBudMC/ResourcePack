@@ -1626,6 +1626,7 @@
   "plugins.sky_island.serial_and_command_exit_nosave": "Island #%s. Type /sky to exit (No Save).",
   "plugins.sky_island.sky_island": "Sky Island",
   "plugins.sky_island.tracking_distance": "%s blocks away",
+  "plugins.sky_island.using_nearby_players_willgo": "Takes nearby players along when used",
   "plugins.tab_information.accrued_days": "Total %s days",
   "plugins.tab_information.and_unfriend_count": "...and %s non-friend players",
   "plugins.tab_information.config.tab_flight_stamina_simplifier": "Simplify land flight remaining time in TAB",

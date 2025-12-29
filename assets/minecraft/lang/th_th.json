@@ -1626,6 +1626,7 @@
   "plugins.sky_island.serial_and_command_exit_nosave": "เกาะ #%s พิมพ์ /sky เพื่อออก(ไม่บันทึก)",
   "plugins.sky_island.sky_island": "เกาะลอยฟ้า",
   "plugins.sky_island.tracking_distance": "ห่าง %s บล็อก",
+  "plugins.sky_island.using_nearby_players_willgo": "พาผู้เล่นใกล้เคียงไปด้วยเมื่อใช้งาน",
   "plugins.tab_information.accrued_days": "สะสม %s วัน",
   "plugins.tab_information.and_unfriend_count": "...และผู้เล่นที่ไม่ใช่เพื่อน %s คน",
   "plugins.tab_information.config.tab_flight_stamina_simplifier": "ทำให้เวลาเหลือของการบินในเขต TAB ง่ายขึ้น",

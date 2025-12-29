@@ -1626,6 +1626,7 @@
   "plugins.sky_island.serial_and_command_exit_nosave": "Pulau #%s, taip /sky keluar tanpa simpan",
   "plugins.sky_island.sky_island": "Pulau Langit",
   "plugins.sky_island.tracking_distance": "Jarak %s blok",
+  "plugins.sky_island.using_nearby_players_willgo": "Bawa pemain berdekatan apabila diguna",
   "plugins.tab_information.accrued_days": "Terkumpul %s hari",
   "plugins.tab_information.and_unfriend_count": "...dan %s pemain yang bukan rakan",
   "plugins.tab_information.config.tab_flight_stamina_simplifier": "Permudahkan baki masa penerbangan kawasan di TAB",

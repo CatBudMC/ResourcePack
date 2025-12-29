@@ -1626,6 +1626,7 @@
   "plugins.sky_island.serial_and_command_exit_nosave": "島No.%s: /sky で保存せず退出",
   "plugins.sky_island.sky_island": "スカイアイランド",
   "plugins.sky_island.tracking_distance": "距離: %s ブロック",
+  "plugins.sky_island.using_nearby_players_willgo": "使用時、近くのプレイヤーも同行します",
   "plugins.tab_information.accrued_days": "累計 %s 日",
   "plugins.tab_information.and_unfriend_count": "...そして %s 人の友達でないプレイヤー",
   "plugins.tab_information.config.tab_flight_stamina_simplifier": "TABの土地飛行残り時間を簡略化",

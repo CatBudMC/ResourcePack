@@ -1626,6 +1626,7 @@
   "plugins.sky_island.serial_and_command_exit_nosave": "空岛编号 %s, 输入 /sky 不保存关闭空岛",
   "plugins.sky_island.sky_island": "天空之岛",
   "plugins.sky_island.tracking_distance": "距离 %s 格远",
+  "plugins.sky_island.using_nearby_players_willgo": "使用时附近玩家会一同前往",
   "plugins.tab_information.accrued_days": "累计 %s 天",
   "plugins.tab_information.and_unfriend_count": "...以及 %s 个不是朋友的玩家",
   "plugins.tab_information.config.tab_flight_stamina_simplifier": "简化 TAB 的领地飞行剩余时间",
