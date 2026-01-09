@@ -877,6 +877,12 @@
       "item_addons/execute_proxy_command"
     ]
   },
+  "plugins.item_addons.growth_inhibitor_needle_install": {
+    "subtitle": "plugins.item_addons.growth_inhibitor_needle_install",
+    "sounds": [
+      "item_addons/growth_inhibitor_needle_install"
+    ]
+  },
   "plugins.item_addons.item_frame_transparent_masking_install": {
     "subtitle": "plugins.item_addons.item_frame_transparent_masking_install",
     "sounds": [
