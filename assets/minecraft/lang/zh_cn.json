@@ -1240,6 +1240,7 @@
   "plugins.paid_store.pass_purchase_description.1": "每 %s 天 %s",
   "plugins.paid_store.pass_purchase_description.10": "设置 %s /to by 开放所有人传送",
   "plugins.paid_store.pass_purchase_description.11": "Discord 商店建立快速销售",
+  "plugins.paid_store.pass_purchase_description.12": "活跃加载距离从 %s 提升至 %s",
   "plugins.paid_store.pass_purchase_description.2": "有效期间内可享受到：",
   "plugins.paid_store.pass_purchase_description.3": "无限的领地飞行体力",
   "plugins.paid_store.pass_purchase_description.4": "最远视野距离从 %s 提升至 %s",

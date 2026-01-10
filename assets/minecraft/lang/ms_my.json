@@ -1240,6 +1240,7 @@
   "plugins.paid_store.pass_purchase_description.1": "Setiap %s hari %s",
   "plugins.paid_store.pass_purchase_description.10": "Tetapkan %s /to by untuk membenarkan semua orang teleport",
   "plugins.paid_store.pass_purchase_description.11": "Buat jualan pantas di kedai Discord",
+  "plugins.paid_store.pass_purchase_description.12": "Jarak muat aktif meningkat dari %s ke %s",
   "plugins.paid_store.pass_purchase_description.2": "Dalam tempoh sah, anda boleh menikmati:",
   "plugins.paid_store.pass_purchase_description.3": "Stamina penerbangan kawasan tanpa had",
   "plugins.paid_store.pass_purchase_description.4": "Jarak pandangan maksimum meningkat dari %s ke %s",
