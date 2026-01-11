@@ -1148,6 +1148,7 @@
   "plugins.mimicry_card.exclusive_self": "ผูกมัดกับคุณ",
   "plugins.mimicry_card.insufficient_durability": "ความทนทานไม่พอ",
   "plugins.mimicry_card.nonallowed_use": "ใช้ไม่ได้ในสถานะนี้",
+  "plugins.mimicry_card.welcome_to_catbud": "ยินดีต้อนรับสู่ CatBud!",
   "plugins.monster_wave.cooling_time_left": "เวลาคูลดาวน์ที่เหลือ %s",
   "plugins.monster_wave.difficulty_change": "ตั้งค่าความยากของคลื่นมอนสเตอร์เป็น '%s' เรียบร้อยแล้ว",
   "plugins.monster_wave.dropping_probability_is": "อัตราการดรอปปัจจุบันคือ %s",

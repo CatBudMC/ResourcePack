@@ -1148,6 +1148,7 @@
   "plugins.mimicry_card.exclusive_self": "본인 귀속됨",
   "plugins.mimicry_card.insufficient_durability": "내구도 부족",
   "plugins.mimicry_card.nonallowed_use": "현재 사용 불가",
+  "plugins.mimicry_card.welcome_to_catbud": "CatBud에 오신 것을 환영합니다!",
   "plugins.monster_wave.cooling_time_left": "남은 쿨타임 %s",
   "plugins.monster_wave.difficulty_change": "몬스터 웨이브 난이도를 '%s'로 설정했습니다",
   "plugins.monster_wave.dropping_probability_is": "현재 드롭 확률은 %s입니다",

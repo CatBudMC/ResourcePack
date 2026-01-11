@@ -1148,6 +1148,7 @@
   "plugins.mimicry_card.exclusive_self": "只有自己能使用",
   "plugins.mimicry_card.insufficient_durability": "耐久度不足",
   "plugins.mimicry_card.nonallowed_use": "當前狀態不允許使用",
+  "plugins.mimicry_card.welcome_to_catbud": "歡迎來到貓芽！",
   "plugins.monster_wave.cooling_time_left": "冷卻時間還剩 %s",
   "plugins.monster_wave.difficulty_change": "已將怪物浪潮難度設置為 '%s'",
   "plugins.monster_wave.dropping_probability_is": "當前掉落機率為 %s",

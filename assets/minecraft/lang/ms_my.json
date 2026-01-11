@@ -1148,6 +1148,7 @@
   "plugins.mimicry_card.exclusive_self": "Khas untuk anda",
   "plugins.mimicry_card.insufficient_durability": "Ketahanan Tidak Cukup",
   "plugins.mimicry_card.nonallowed_use": "Tidak boleh guna sekarang",
+  "plugins.mimicry_card.welcome_to_catbud": "Selamat datang ke CatBud!",
   "plugins.monster_wave.cooling_time_left": "Baki masa bertenang %s",
   "plugins.monster_wave.difficulty_change": "Kesukaran Gelombang Raksasa telah ditetapkan kepada '%s'",
   "plugins.monster_wave.dropping_probability_is": "Kebarangkalian jatuhan semasa ialah %s",

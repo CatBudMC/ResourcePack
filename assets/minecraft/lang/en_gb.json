@@ -1148,6 +1148,7 @@
   "plugins.mimicry_card.exclusive_self": "Soulbound to you",
   "plugins.mimicry_card.insufficient_durability": "Insufficient Durability",
   "plugins.mimicry_card.nonallowed_use": "Unavailable in current state",
+  "plugins.mimicry_card.welcome_to_catbud": "Welcome to CatBud!",
   "plugins.monster_wave.cooling_time_left": "Cooldown time remaining: %s",
   "plugins.monster_wave.difficulty_change": "Monster wave difficulty has been set to '%s'",
   "plugins.monster_wave.dropping_probability_is": "Current drop probability is %s",
