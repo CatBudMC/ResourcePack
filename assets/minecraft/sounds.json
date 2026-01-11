@@ -1050,6 +1050,37 @@
       "player_teleport"
     ]
   },
+  "plugins.style_register.meow_mallet": {
+    "subtitle": "plugins.style_register.meow_mallet",
+    "sounds": [
+      "style_register/meow_mallet_0",
+      "style_register/meow_mallet_1",
+      "style_register/meow_mallet_2",
+      "style_register/meow_mallet_3",
+      "style_register/meow_mallet_4",
+      "style_register/meow_mallet_5",
+      "style_register/meow_mallet_6",
+      "style_register/meow_mallet_7",
+      "style_register/meow_mallet_8",
+      "style_register/meow_mallet_9",
+      "style_register/meow_mallet_10",
+      "style_register/meow_mallet_11",
+      "style_register/meow_mallet_12",
+      "style_register/meow_mallet_13",
+      "style_register/meow_mallet_14",
+      "style_register/meow_mallet_15",
+      "style_register/meow_mallet_16",
+      "style_register/meow_mallet_17",
+      "style_register/meow_mallet_18",
+      "style_register/meow_mallet_19",
+      "style_register/meow_mallet_20",
+      "style_register/meow_mallet_21",
+      "style_register/meow_mallet_22",
+      "style_register/meow_mallet_23",
+      "style_register/meow_mallet_24",
+      "style_register/meow_mallet_25"
+    ]
+  },
   "plugins.territorial_director.land_denied": {
     "subtitle": "plugins.territorial_director.land_denied",
     "sounds": [
