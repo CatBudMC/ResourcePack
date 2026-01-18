@@ -695,6 +695,7 @@
   "plugins.action_recorder.search_in": "검색 중... %s",
   "plugins.action_recorder.search_result_last_page": "검색 결과 이전 페이지",
   "plugins.action_recorder.search_result_next_page": "검색 결과 다음 페이지",
+  "plugins.action_recorder.weapon_by": "무기 %s",
   "plugins.admin_control.power_outage": "정전 발생! 서버를 긴급 종료합니다!",
   "plugins.admin_control.power_restored": "전력이 복구되었습니다. 긴급 종료를 취소합니다.",
   "plugins.admin_control.recycle_item": "아이템 회수",

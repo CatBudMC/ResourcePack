@@ -695,6 +695,7 @@
   "plugins.action_recorder.search_in": "検索中... %s",
   "plugins.action_recorder.search_result_last_page": "検索結果の前のページ",
   "plugins.action_recorder.search_result_next_page": "検索結果の次のページ",
+  "plugins.action_recorder.weapon_by": "武器 %s",
   "plugins.admin_control.power_outage": "停電発生！サーバーを緊急停止します！",
   "plugins.admin_control.power_restored": "電力復旧。緊急停止を中止します。",
   "plugins.admin_control.recycle_item": "アイテムを回収",

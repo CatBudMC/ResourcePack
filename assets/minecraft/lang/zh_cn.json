@@ -695,6 +695,7 @@
   "plugins.action_recorder.search_in": "搜索中... %s",
   "plugins.action_recorder.search_result_last_page": "搜索结果上页",
   "plugins.action_recorder.search_result_next_page": "搜索结果下页",
+  "plugins.action_recorder.weapon_by": "武器 %s",
   "plugins.admin_control.power_outage": "市电停止，需要紧急关闭服务器！",
   "plugins.admin_control.power_restored": "市电恢复，取消紧急关闭服务器！",
   "plugins.admin_control.recycle_item": "回收物品",

@@ -695,6 +695,7 @@
   "plugins.action_recorder.search_in": "Searching... %s",
   "plugins.action_recorder.search_result_last_page": "Search Results Previous Page",
   "plugins.action_recorder.search_result_next_page": "Search Results Next Page",
+  "plugins.action_recorder.weapon_by": "Weapon %s",
   "plugins.admin_control.power_outage": "Power outage! Initiating emergency server shutdown!",
   "plugins.admin_control.power_restored": "Power restored. Emergency shutdown cancelled.",
   "plugins.admin_control.recycle_item": "Recycle Item",

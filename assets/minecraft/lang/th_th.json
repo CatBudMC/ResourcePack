@@ -695,6 +695,7 @@
   "plugins.action_recorder.search_in": "กำลังค้นหา... %s",
   "plugins.action_recorder.search_result_last_page": "ผลการค้นหาหน้าก่อนหน้า",
   "plugins.action_recorder.search_result_next_page": "ผลการค้นหาหน้าถัดไป",
+  "plugins.action_recorder.weapon_by": "อาวุธ %s",
   "plugins.admin_control.power_outage": "ไฟฟ้าดับ! กำลังปิดเซิร์ฟเวอร์ฉุกเฉิน!",
   "plugins.admin_control.power_restored": "ไฟฟ้ากลับมาเป็นปกติ! ยกเลิกการปิดฉุกเฉิน",
   "plugins.admin_control.recycle_item": "รีไซเคิลไอเทม",
