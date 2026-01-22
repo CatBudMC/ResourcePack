@@ -677,6 +677,7 @@
   "plugins.action_recorder.log.entity_capture": "实体捕捉",
   "plugins.action_recorder.log.entity_change": "实体更改",
   "plugins.action_recorder.log.entity_damage": "实体伤害",
+  "plugins.action_recorder.log.entity_drive": "实体推动",
   "plugins.action_recorder.log.entity_lead": "实体拴住",
   "plugins.action_recorder.log.entity_rename": "实体改名",
   "plugins.action_recorder.log.entity_spawn": "实体生成",

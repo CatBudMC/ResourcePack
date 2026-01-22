@@ -677,6 +677,7 @@
   "plugins.action_recorder.log.entity_capture": "개체 포획",
   "plugins.action_recorder.log.entity_change": "개체 변경",
   "plugins.action_recorder.log.entity_damage": "개체 피해",
+  "plugins.action_recorder.log.entity_drive": "개체 운전",
   "plugins.action_recorder.log.entity_lead": "개체 묶기",
   "plugins.action_recorder.log.entity_rename": "개체 이름 변경",
   "plugins.action_recorder.log.entity_spawn": "개체 생성",

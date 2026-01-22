@@ -677,6 +677,7 @@
   "plugins.action_recorder.log.entity_capture": "การจับเอนทิตี้",
   "plugins.action_recorder.log.entity_change": "การเปลี่ยนแปลงเอนทิตี้",
   "plugins.action_recorder.log.entity_damage": "ความเสียหายของเอนทิตี้",
+  "plugins.action_recorder.log.entity_drive": "ขับขี่เอนทิตี",
   "plugins.action_recorder.log.entity_lead": "การนำเอนทิตี้",
   "plugins.action_recorder.log.entity_rename": "การเปลี่ยนชื่อเอนทิตี้",
   "plugins.action_recorder.log.entity_spawn": "การสร้างเอนทิตี้",

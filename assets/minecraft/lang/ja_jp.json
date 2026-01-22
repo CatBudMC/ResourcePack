@@ -677,6 +677,7 @@
   "plugins.action_recorder.log.entity_capture": "エンティティ捕獲",
   "plugins.action_recorder.log.entity_change": "エンティティ変更",
   "plugins.action_recorder.log.entity_damage": "エンティティダメージ",
+  "plugins.action_recorder.log.entity_drive": "エンティティ運転",
   "plugins.action_recorder.log.entity_lead": "エンティティのリード",
   "plugins.action_recorder.log.entity_rename": "エンティティ改名",
   "plugins.action_recorder.log.entity_spawn": "エンティティ生成",

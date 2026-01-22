@@ -677,6 +677,7 @@
   "plugins.action_recorder.log.entity_capture": "Entity Capture",
   "plugins.action_recorder.log.entity_change": "Entity Change",
   "plugins.action_recorder.log.entity_damage": "Entity Damage",
+  "plugins.action_recorder.log.entity_drive": "Entity Drive",
   "plugins.action_recorder.log.entity_lead": "Entity Lead",
   "plugins.action_recorder.log.entity_rename": "Entity Rename",
   "plugins.action_recorder.log.entity_spawn": "Entity Spawn",

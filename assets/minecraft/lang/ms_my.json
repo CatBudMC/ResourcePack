@@ -677,6 +677,7 @@
   "plugins.action_recorder.log.entity_capture": "Penangkapan Entiti",
   "plugins.action_recorder.log.entity_change": "Perubahan Entiti",
   "plugins.action_recorder.log.entity_damage": "Kerosakan Entiti",
+  "plugins.action_recorder.log.entity_drive": "Pandu Entiti",
   "plugins.action_recorder.log.entity_lead": "Pimpinan Entiti",
   "plugins.action_recorder.log.entity_rename": "Penamaan Semula Entiti",
   "plugins.action_recorder.log.entity_spawn": "Peneluran Entiti",
