@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "model",
+    "model": "item/custom/legendary_weapon/void_magic_sword"
+  },
+  "oversized_in_gui": true
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/custom/legendary_weapon/_",
+  "textures": {
+    "layer0": "item/custom/legendary_weapon/flame_magic_sword"
+  }
+}

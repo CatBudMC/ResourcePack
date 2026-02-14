@@ -1098,5 +1098,29 @@
     "sounds": [
       "room_ready"
     ]
+  },
+  "plugins.robot_entity.thrown_weapon_attack": {
+    "subtitle": "plugins.robot_entity.thrown_weapon_attack",
+    "sounds": [
+      "robot_entity/thrown_weapon_attack"
+    ]
+  },
+  "plugins.robot_entity.thrown_weapon_shock": {
+    "subtitle": "plugins.robot_entity.thrown_weapon_shock",
+    "sounds": [
+      "robot_entity/thrown_weapon_shock"
+    ]
+  },
+  "plugins.robot_entity.thrown_weapon_impact": {
+    "subtitle": "plugins.robot_entity.thrown_weapon_impact",
+    "sounds": [
+      "robot_entity/thrown_weapon_impact"
+    ]
+  },
+  "plugins.robot_entity.thrown_weapon_rebound": {
+    "subtitle": "plugins.robot_entity.thrown_weapon_rebound",
+    "sounds": [
+      "robot_entity/thrown_weapon_rebound"
+    ]
   }
 }
