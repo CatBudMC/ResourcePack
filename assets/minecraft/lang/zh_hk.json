@@ -1102,6 +1102,7 @@
   "plugins.king_battle.time_coming": "時間快到了",
   "plugins.king_battle.tracking_distance": "距離 %s 格遠",
   "plugins.legendary_weapon.expiration_date_is": "%s 過期",
+  "plugins.legendary_weapon.expiration_warning": "物品過期後將消失",
   "plugins.leisure_parkour.completed_parkour": "通關了跑酷",
   "plugins.leisure_parkour.completed_parkour_broadcast": "%s 耗費 %s 通關了 '%s' 跑酷",
   "plugins.leisure_parkour.consumption_or_command_exit": "跑酷耗時 %s, 輸入 /parkour quit 中途退出",

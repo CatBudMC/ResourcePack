@@ -1102,6 +1102,7 @@
   "plugins.king_battle.time_coming": "ใกล้หมดเวลาแล้ว",
   "plugins.king_battle.tracking_distance": "ระยะทาง %s บล็อก",
   "plugins.legendary_weapon.expiration_date_is": "หมดอายุ: %s",
+  "plugins.legendary_weapon.expiration_warning": "จะหายไปเมื่อหมดอายุ",
   "plugins.leisure_parkour.completed_parkour": "ผ่านด่านปาร์กัวร์แล้ว",
   "plugins.leisure_parkour.completed_parkour_broadcast": "%s เคลียร์ปาร์กัวร์ '%s' ด้วยเวลา %s",
   "plugins.leisure_parkour.consumption_or_command_exit": "เวลาที่ใช้ไป %s, พิมพ์ /parkour quit เพื่อออกกลางคัน",

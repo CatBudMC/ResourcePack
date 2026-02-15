@@ -1102,6 +1102,7 @@
   "plugins.king_battle.time_coming": "Masa hampir tamat",
   "plugins.king_battle.tracking_distance": "Jarak %s blok",
   "plugins.legendary_weapon.expiration_date_is": "Luput: %s",
+  "plugins.legendary_weapon.expiration_warning": "Hilang selepas tamat tempoh",
   "plugins.leisure_parkour.completed_parkour": "Telah menyelesaikan parkour",
   "plugins.leisure_parkour.completed_parkour_broadcast": "%s telah menyelesaikan parkour '%s' dalam masa %s",
   "plugins.leisure_parkour.consumption_or_command_exit": "Masa berlalu: %s. Taip /parkour quit untuk keluar.",

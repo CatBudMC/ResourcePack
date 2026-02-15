@@ -1102,6 +1102,7 @@
   "plugins.king_battle.time_coming": "まもなく時間です",
   "plugins.king_battle.tracking_distance": "距離 %s ブロック",
   "plugins.legendary_weapon.expiration_date_is": "期限: %s",
+  "plugins.legendary_weapon.expiration_warning": "期限切れで消滅します",
   "plugins.leisure_parkour.completed_parkour": "パルクールをクリアしました",
   "plugins.leisure_parkour.completed_parkour_broadcast": "%s が %s で '%s' パルクールをクリアしました",
   "plugins.leisure_parkour.consumption_or_command_exit": "経過時間 %s。/parkour quit を入力して退出",
