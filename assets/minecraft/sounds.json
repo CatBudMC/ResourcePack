@@ -1053,7 +1053,6 @@
   "plugins.style_register.meow_mallet": {
     "subtitle": "plugins.style_register.meow_mallet",
     "sounds": [
-      "style_register/meow_mallet_0",
       "style_register/meow_mallet_1",
       "style_register/meow_mallet_2",
       "style_register/meow_mallet_3",
