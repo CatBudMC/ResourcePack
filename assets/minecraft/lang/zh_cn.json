@@ -1101,6 +1101,7 @@
   "plugins.king_battle.team_composition": "队伍组成：%s",
   "plugins.king_battle.time_coming": "时间快到了",
   "plugins.king_battle.tracking_distance": "距离 %s 格远",
+  "plugins.legendary_weapon.expiration_date_is": "%s 过期",
   "plugins.leisure_parkour.completed_parkour": "通关了跑酷",
   "plugins.leisure_parkour.completed_parkour_broadcast": "%s 耗费 %s 通关了 '%s' 跑酷",
   "plugins.leisure_parkour.consumption_or_command_exit": "跑酷耗时 %s, 输入 /parkour quit 中途退出",

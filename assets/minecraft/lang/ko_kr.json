@@ -1101,6 +1101,7 @@
   "plugins.king_battle.team_composition": "팀 구성: %s",
   "plugins.king_battle.time_coming": "시간이 거의 다 되었습니다",
   "plugins.king_battle.tracking_distance": "거리 %s 블록",
+  "plugins.legendary_weapon.expiration_date_is": "만료: %s",
   "plugins.leisure_parkour.completed_parkour": "파쿠르를 완료했습니다",
   "plugins.leisure_parkour.completed_parkour_broadcast": "%s님이 %s 만에 '%s' 파쿠르를 완료했습니다",
   "plugins.leisure_parkour.consumption_or_command_exit": "소요 시간 %s. 중간에 나가려면 /parkour quit 을 입력하세요",
