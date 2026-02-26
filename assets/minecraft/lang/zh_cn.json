@@ -1504,7 +1504,7 @@
   "plugins.primary_menu.adless": "屏蔽广告",
   "plugins.primary_menu.beacon": "信标",
   "plugins.primary_menu.beacon.lore.0": "记录当前位置并且能够随时传送回来",
-  "plugins.primary_menu.beacon.lore.1": "传送不会检查目的是否安全",
+  "plugins.primary_menu.beacon.lore.1": "传送不会检查目的地是否安全",
   "plugins.primary_menu.buff": "辅助",
   "plugins.primary_menu.buff.lore.0": "永久夜视／显示血量／灵魂出窍／整理背包／..",
   "plugins.primary_menu.buff.lore.1": "免安装模组即可使用模组功能",
