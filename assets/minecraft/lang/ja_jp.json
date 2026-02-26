@@ -1377,7 +1377,6 @@
   "plugins.player_database.inquiry_sure_add_shield": "'%s' をブロック状態に追加してもよろしいですか？",
   "plugins.player_database.inquiry_sure_ask_friend": "'%s' にフレンド関係を申請してもよろしいですか？",
   "plugins.player_database.inquiry_sure_delete_mail": "'%s' というメールを削除してもよろしいですか？",
-  "plugins.player_database.inquiry_sure_pay_product": "この商品 %s を削除してもよろしいですか？",
   "plugins.player_database.inquiry_sure_remove_friend": "'%s' のフレンド関係を削除してもよろしいですか？",
   "plugins.player_database.inquiry_sure_remove_shield": "'%s' のブロック状態を削除してもよろしいですか？",
   "plugins.player_database.inquiry_sure_room_invite": "'%s' をチームルームに招待してもよろしいですか？",

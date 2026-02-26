@@ -1377,7 +1377,6 @@
   "plugins.player_database.inquiry_sure_add_shield": "แน่ใจหรือว่าต้องการบล็อก '%s'?",
   "plugins.player_database.inquiry_sure_ask_friend": "แน่ใจหรือว่าต้องการขอเป็นเพื่อนกับ '%s'?",
   "plugins.player_database.inquiry_sure_delete_mail": "แน่ใจหรือว่าต้องการลบอีเมล '%s'?",
-  "plugins.player_database.inquiry_sure_pay_product": "แน่ใจหรือว่าต้องการลบสินค้า %s?",
   "plugins.player_database.inquiry_sure_remove_friend": "แน่ใจหรือว่าต้องการลบ '%s' ออกจากรายชื่อเพื่อน?",
   "plugins.player_database.inquiry_sure_remove_shield": "แน่ใจหรือว่าต้องการยกเลิกการบล็อก '%s'?",
   "plugins.player_database.inquiry_sure_room_invite": "แน่ใจหรือว่าต้องการเชิญ '%s' เข้าห้องปาร์ตี้?",

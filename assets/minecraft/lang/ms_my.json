@@ -1377,7 +1377,6 @@
   "plugins.player_database.inquiry_sure_add_shield": "Pasti untuk menyekat '%s'?",
   "plugins.player_database.inquiry_sure_ask_friend": "Pasti untuk memohon menjadi rakan dengan '%s'?",
   "plugins.player_database.inquiry_sure_delete_mail": "Pasti untuk memadam mel '%s'?",
-  "plugins.player_database.inquiry_sure_pay_product": "Pasti untuk memadam produk %s?",
   "plugins.player_database.inquiry_sure_remove_friend": "Pasti untuk membuang hubungan rakan '%s'?",
   "plugins.player_database.inquiry_sure_remove_shield": "Pasti untuk membuang sekatan '%s'?",
   "plugins.player_database.inquiry_sure_room_invite": "Pasti untuk menjemput '%s' ke bilik pasukan?",

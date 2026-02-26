@@ -1377,7 +1377,6 @@
   "plugins.player_database.inquiry_sure_add_shield": "確定要將 '%s' 加入屏蔽狀態?",
   "plugins.player_database.inquiry_sure_ask_friend": "確定要向 '%s' 申請成為朋友關係?",
   "plugins.player_database.inquiry_sure_delete_mail": "確定要刪除 '%s' 這封郵件?",
-  "plugins.player_database.inquiry_sure_pay_product": "確定要刪除 %s 這個商品?",
   "plugins.player_database.inquiry_sure_remove_friend": "確定要移除 '%s' 的朋友關係?",
   "plugins.player_database.inquiry_sure_remove_shield": "確定要移除 '%s' 的屏蔽狀態?",
   "plugins.player_database.inquiry_sure_room_invite": "確定要邀請 '%s' 至組隊房間內?",

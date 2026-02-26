@@ -1377,7 +1377,6 @@
   "plugins.player_database.inquiry_sure_add_shield": "Are you sure you want to add '%s' to the block list?",
   "plugins.player_database.inquiry_sure_ask_friend": "Are you sure you want to send a friend request to '%s'?",
   "plugins.player_database.inquiry_sure_delete_mail": "Are you sure you want to delete the mail '%s'?",
-  "plugins.player_database.inquiry_sure_pay_product": "Are you sure you want to delete product %s?",
   "plugins.player_database.inquiry_sure_remove_friend": "Are you sure you want to remove '%s' as a friend?",
   "plugins.player_database.inquiry_sure_remove_shield": "Are you sure you want to remove '%s' from the block list?",
   "plugins.player_database.inquiry_sure_room_invite": "Are you sure you want to invite '%s' to the team room?",

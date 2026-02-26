@@ -1377,7 +1377,6 @@
   "plugins.player_database.inquiry_sure_add_shield": "'%s'을(를) 차단 목록에 추가하시겠습니까?",
   "plugins.player_database.inquiry_sure_ask_friend": "'%s'에게 친구 신청을 하시겠습니까?",
   "plugins.player_database.inquiry_sure_delete_mail": "'%s' 메일을 삭제하시겠습니까?",
-  "plugins.player_database.inquiry_sure_pay_product": "%s 상품을 삭제하시겠습니까?",
   "plugins.player_database.inquiry_sure_remove_friend": "'%s'의 친구 관계를 제거하시겠습니까?",
   "plugins.player_database.inquiry_sure_remove_shield": "'%s'의 차단을 제거하시겠습니까?",
   "plugins.player_database.inquiry_sure_room_invite": "'%s'을(를) 파티 방에 초대하시겠습니까?",
