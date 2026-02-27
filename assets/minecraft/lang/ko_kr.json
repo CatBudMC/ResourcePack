@@ -930,7 +930,7 @@
   "plugins.emergency_task.emergency_task.lore.5": "최대 4명이 동시에 도전 가능",
   "plugins.emergency_task.emergency_task.lore.6": "총 참가 인원이 체력과 보상에 영향을 줍니다",
   "plugins.emergency_task.emergency_task.lore.7": "대기열에 있어야 시작 시 입장 가능",
-  "plugins.emergency_task.emergency_task.lore.8": "플레이어의 근접 공격만 피해를 줄 수 있습니다",
+  "plugins.emergency_task.emergency_task.lore.8": "피격 후 피해 면역 시간은 공격자에 따라 다릅니다",
   "plugins.emergency_task.emergency_task_about_begin": "「긴급 임무」가 곧 시작됩니다. %s 빠르게 게임 모드를 전환하세요.",
   "plugins.emergency_task.gained_with": "긴급 임무 보상 %s %s, %s %s이(가) 지급되었습니다",
   "plugins.emergency_task.ready_end_countdown": "%s 후 해산...",

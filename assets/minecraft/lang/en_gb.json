@@ -930,7 +930,7 @@
   "plugins.emergency_task.emergency_task.lore.5": "Maximum of 4 players can challenge simultaneously",
   "plugins.emergency_task.emergency_task.lore.6": "Total number of participants affects health and rewards",
   "plugins.emergency_task.emergency_task.lore.7": "Only those queuing will enter when it starts",
-  "plugins.emergency_task.emergency_task.lore.8": "Only player melee attacks can deal damage",
+  "plugins.emergency_task.emergency_task.lore.8": "Damage immunity time after being hit depends on the attacker",
   "plugins.emergency_task.emergency_task_about_begin": "\"Emergency Task\" is about to begin, press %s to quickly switch game mode.",
   "plugins.emergency_task.gained_with": "Emergency Task rewards of %s %s and %s %s have been distributed",
   "plugins.emergency_task.ready_end_countdown": "Disbanding in %s...",

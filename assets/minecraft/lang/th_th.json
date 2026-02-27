@@ -930,7 +930,7 @@
   "plugins.emergency_task.emergency_task.lore.5": "เล่นได้สูงสุด 4 คนพร้อมกัน",
   "plugins.emergency_task.emergency_task.lore.6": "จำนวนผู้เข้าร่วมทั้งหมดส่งผลต่อเลือดและรางวัล",
   "plugins.emergency_task.emergency_task.lore.7": "เข้าร่วมได้เฉพาะเมื่อเข้าคิวอยู่เท่านั้น",
-  "plugins.emergency_task.emergency_task.lore.8": "เฉพาะการโจมตีระยะประชิดของผู้เล่นเท่านั้นที่ทำความเสียหายได้",
+  "plugins.emergency_task.emergency_task.lore.8": "เวลาภูมิคุ้มกันความเสียหายหลังถูกโจมตีขึ้นอยู่กับผู้โจมตี",
   "plugins.emergency_task.emergency_task_about_begin": "'ภารกิจฉุกเฉิน' กำลังจะเริ่ม กด %s เพื่อสลับโหมดเกมอย่างรวดเร็ว",
   "plugins.emergency_task.gained_with": "แจกรางวัลภารกิจฉุกเฉิน %s %s, %s %s แล้ว",
   "plugins.emergency_task.ready_end_countdown": "%s แล้วยุบ...",

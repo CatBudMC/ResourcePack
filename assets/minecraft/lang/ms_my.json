@@ -930,7 +930,7 @@
   "plugins.emergency_task.emergency_task.lore.5": "Maksimum 4 orang serentak menerobos",
   "plugins.emergency_task.emergency_task.lore.6": "Jumlah peserta mempengaruhi nyawa dan hadiah",
   "plugins.emergency_task.emergency_task.lore.7": "Hanya yang beratur akan masuk apabila bermula",
-  "plugins.emergency_task.emergency_task.lore.8": "Hanya serangan jarak dekat pemain boleh menyebabkan kerosakan",
+  "plugins.emergency_task.emergency_task.lore.8": "Masa kekebalan kerosakan selepas diserang bergantung kepada penyerang",
   "plugins.emergency_task.emergency_task_about_begin": "\"Misi Kecemasan\" akan bermula, %s tukar mod permainan dengan cepat.",
   "plugins.emergency_task.gained_with": "Ganjaran misi kecemasan %s %s, %s %s telah diberikan",
   "plugins.emergency_task.ready_end_countdown": "Bubar dalam %s...",

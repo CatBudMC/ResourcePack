@@ -930,7 +930,7 @@
   "plugins.emergency_task.emergency_task.lore.5": "最多 4 人同时闯关",
   "plugins.emergency_task.emergency_task.lore.6": "总参加人数会影响血量及奖励",
   "plugins.emergency_task.emergency_task.lore.7": "只有列队中才会在开始时进场",
-  "plugins.emergency_task.emergency_task.lore.8": "只有玩家近战攻击能造成伤害",
+  "plugins.emergency_task.emergency_task.lore.8": "受击后伤害免疫时间取决于攻击者",
   "plugins.emergency_task.emergency_task_about_begin": "「紧急任务」即将开始，%s 快速切换游戏模式。",
   "plugins.emergency_task.gained_with": "已发放紧急任务奖励 %s %s、%s %s",
   "plugins.emergency_task.ready_end_countdown": "%s 后解散...",

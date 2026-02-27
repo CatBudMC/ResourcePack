@@ -930,7 +930,7 @@
   "plugins.emergency_task.emergency_task.lore.5": "最大 4 人同時で挑戦できます",
   "plugins.emergency_task.emergency_task.lore.6": "総参加人数がボスの体力と報酬に影響します",
   "plugins.emergency_task.emergency_task.lore.7": "キューイング中のみ開始時に入場できます",
-  "plugins.emergency_task.emergency_task.lore.8": "プレイヤーの近接攻撃のみがダメージを与えられます",
+  "plugins.emergency_task.emergency_task.lore.8": "被撃後のダメージ無敵時間は攻撃者によって異なります",
   "plugins.emergency_task.emergency_task_about_begin": "「緊急クエスト」がもうすぐ始まります。%s で素早くゲームモードを切り替えてください。",
   "plugins.emergency_task.gained_with": "緊急クエストの報酬 %s %s、%s %s を付与しました",
   "plugins.emergency_task.ready_end_countdown": "%s 後に解散...",

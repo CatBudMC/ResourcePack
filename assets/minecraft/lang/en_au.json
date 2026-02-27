@@ -930,7 +930,7 @@
   "plugins.emergency_task.emergency_task.lore.5": "Maximum 4 players per attempt",
   "plugins.emergency_task.emergency_task.lore.6": "Total participant count affects Boss health and rewards",
   "plugins.emergency_task.emergency_task.lore.7": "Only players in the queue will enter when the event begins",
-  "plugins.emergency_task.emergency_task.lore.8": "Only player melee attacks can deal damage",
+  "plugins.emergency_task.emergency_task.lore.8": "Damage immunity time after being hit depends on the attacker",
   "plugins.emergency_task.emergency_task_about_begin": "'Emergency Task' is about to begin, %s to quickly switch game mode.",
   "plugins.emergency_task.gained_with": "Emergency Task rewards issued: %s %s and %s %s",
   "plugins.emergency_task.ready_end_countdown": "Disbanding in %s...",
