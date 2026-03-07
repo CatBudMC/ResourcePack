@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "item/menu/advancement/overseer_of_the_tower__side",
+    "up": "item/menu/advancement/overseer_of_the_tower__up",
+    "down": "item/menu/advancement/overseer_of_the_tower__down",
+    "south": "item/menu/advancement/overseer_of_the_tower__side",
+    "west": "item/menu/advancement/overseer_of_the_tower__side",
+    "north": "item/menu/advancement/overseer_of_the_tower__side",
+    "east": "item/menu/advancement/overseer_of_the_tower__side"
+  }
+}
