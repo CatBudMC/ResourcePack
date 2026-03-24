@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "select",
+    "cases": [
+      {
+        "model": {
+          "type": "model",
+          "model": "item/style/cat_puree_treats/orange"
+        },
+        "when": [
+          "gui",
+          "ground",
+          "fixed",
+          "on_shelf"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/style/cat_puree_treats/orange_in_hand"
+    },
+    "property": "display_context"
+  },
+  "swap_animation_scale": 1.95,
+  "oversized_in_gui": true
+}
