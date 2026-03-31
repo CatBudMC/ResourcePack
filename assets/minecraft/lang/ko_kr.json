@@ -927,6 +927,7 @@
   "plugins.celestial_crusade.dropping_probability_is": "현재 드롭 확률: %s",
   "plugins.celestial_crusade.leave": "떠나기",
   "plugins.celestial_crusade.loot_list": "드롭 가능 아이템",
+  "plugins.celestial_crusade.not_met_requirement": "'%s' 위패가 %s에 도달하지 못했습니다",
   "plugins.celestial_crusade.offering_unfinished": "'%s' 제물 \"%s\" 미완료",
   "plugins.celestial_crusade.preparing_to_retreat": "퇴각 준비 중... %s",
   "plugins.celestial_crusade.ready_exit": "퇴장 준비",

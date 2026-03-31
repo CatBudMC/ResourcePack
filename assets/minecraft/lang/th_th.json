@@ -927,6 +927,7 @@
   "plugins.celestial_crusade.dropping_probability_is": "อัตราดรอปปัจจุบันคือ %s",
   "plugins.celestial_crusade.leave": "ออก",
   "plugins.celestial_crusade.loot_list": "ของดรอปที่เป็นไปได้",
+  "plugins.celestial_crusade.not_met_requirement": "'%s' ป้ายวิญญาณยังไม่ถึง %s",
   "plugins.celestial_crusade.offering_unfinished": "'%s' การบูชายัญ \"%s\" ยังไม่สำเร็จ",
   "plugins.celestial_crusade.preparing_to_retreat": "กำลังเตรียมถอยทัพ... %s",
   "plugins.celestial_crusade.ready_exit": "พร้อมออก",

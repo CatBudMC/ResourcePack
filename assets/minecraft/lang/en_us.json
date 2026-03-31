@@ -927,6 +927,7 @@
   "plugins.celestial_crusade.dropping_probability_is": "Current drop probability is %s",
   "plugins.celestial_crusade.leave": "Leave",
   "plugins.celestial_crusade.loot_list": "Possible Loot",
+  "plugins.celestial_crusade.not_met_requirement": "'%s' tablet has not reached %s",
   "plugins.celestial_crusade.offering_unfinished": "'%s' offering \"%s\" not completed",
   "plugins.celestial_crusade.preparing_to_retreat": "Preparing to retreat... %s",
   "plugins.celestial_crusade.ready_exit": "Ready to Exit",

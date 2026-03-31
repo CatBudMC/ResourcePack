@@ -927,6 +927,7 @@
   "plugins.celestial_crusade.dropping_probability_is": "当前掉落机率为 %s",
   "plugins.celestial_crusade.leave": "离开",
   "plugins.celestial_crusade.loot_list": "可能的掉落物",
+  "plugins.celestial_crusade.not_met_requirement": "'%s' 牌位未达 %s",
   "plugins.celestial_crusade.offering_unfinished": "'%s' 献祭「%s」未完成",
   "plugins.celestial_crusade.preparing_to_retreat": "准备撤退中... %s",
   "plugins.celestial_crusade.ready_exit": "准备退出",

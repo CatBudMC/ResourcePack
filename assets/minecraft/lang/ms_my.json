@@ -927,6 +927,7 @@
   "plugins.celestial_crusade.dropping_probability_is": "Kebarangkalian jatuhan semasa ialah %s",
   "plugins.celestial_crusade.leave": "Keluar",
   "plugins.celestial_crusade.loot_list": "Kemungkinan Jarahan",
+  "plugins.celestial_crusade.not_met_requirement": "'%s' tablet belum mencapai %s",
   "plugins.celestial_crusade.offering_unfinished": "'%s' persembahan \"%s\" belum selesai",
   "plugins.celestial_crusade.preparing_to_retreat": "Bersedia untuk berundur... %s",
   "plugins.celestial_crusade.ready_exit": "Sedia Keluar",

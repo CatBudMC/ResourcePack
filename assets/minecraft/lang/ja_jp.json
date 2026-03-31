@@ -927,6 +927,7 @@
   "plugins.celestial_crusade.dropping_probability_is": "現在のドロップ確率は %s",
   "plugins.celestial_crusade.leave": "退出",
   "plugins.celestial_crusade.loot_list": "ドロップ候補",
+  "plugins.celestial_crusade.not_met_requirement": "'%s' の位牌が %s に達していません",
   "plugins.celestial_crusade.offering_unfinished": "'%s' の奉納「%s」が未完了です",
   "plugins.celestial_crusade.preparing_to_retreat": "撤退準備中... %s",
   "plugins.celestial_crusade.ready_exit": "退出準備完了",
