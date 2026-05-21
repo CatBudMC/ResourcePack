@@ -1,0 +1,153 @@
+{
+  "texture_size": [32, 32],
+  "textures": {
+    "water_bucket": "item/style/ornamental_relics/water_bucket",
+    "water": "item/style/ornamental_relics/water_still",
+    "particle": "item/style/ornamental_relics/water_bucket"
+  },
+  "elements": [
+    {
+      "from": [3, 0, 3],
+      "to": [13, 10, 13],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [8, 0, 10]
+      },
+      "faces": {
+        "north": {"uv": [0, 0, 5, 5], "texture": "#water_bucket"},
+        "east": {"uv": [0, 0, 5, 5], "texture": "#water_bucket"},
+        "south": {"uv": [0, 0, 5, 5], "texture": "#water_bucket"},
+        "west": {"uv": [0, 0, 5, 5], "texture": "#water_bucket"},
+        "up": {"uv": [0, 5, 5, 10], "texture": "#water_bucket"},
+        "down": {"uv": [0, 10, 5, 15], "texture": "#water_bucket"}
+      }
+    },
+    {
+      "from": [12, 10, 12],
+      "to": [4, 2, 4],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [9, 0, 11]
+      },
+      "faces": {
+        "north": {"uv": [5, 4, 9, 0], "texture": "#water_bucket"},
+        "east": {"uv": [5, 4, 9, 0], "texture": "#water_bucket"},
+        "south": {"uv": [5, 4, 9, 0], "texture": "#water_bucket"},
+        "west": {"uv": [5, 4, 9, 0], "texture": "#water_bucket"},
+        "up": {"uv": [9, 4, 5, 8], "texture": "#water_bucket"}
+      }
+    },
+    {
+      "from": [4, 8, 4],
+      "to": [12, 8, 12],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [8, -1, 10]
+      },
+      "faces": {
+        "up": {"uv": [0, 5, 5, 10], "texture": "#water"}
+      }
+    },
+    {
+      "from": [2.9, 7.9, 2.9],
+      "to": [13.1, 9.1, 13.1],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [8, 8, 10]
+      },
+      "faces": {
+        "north": {"uv": [0, 15, 5, 15.5], "texture": "#water_bucket"},
+        "east": {"uv": [0, 15, 5, 15.5], "texture": "#water_bucket"},
+        "south": {"uv": [0, 15, 5, 15.5], "texture": "#water_bucket"},
+        "west": {"uv": [0, 15, 5, 15.5], "texture": "#water_bucket"}
+      }
+    },
+    {
+      "from": [13.1, 9.1, 13.1],
+      "to": [2.9, 7.9, 2.9],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [8, 8, 10]
+      },
+      "faces": {
+        "north": {"uv": [0, 15.5, 5, 15], "texture": "#water_bucket"},
+        "east": {"uv": [0, 15.5, 5, 15], "texture": "#water_bucket"},
+        "south": {"uv": [0, 15.5, 5, 15], "texture": "#water_bucket"},
+        "west": {"uv": [0, 15.5, 5, 15], "texture": "#water_bucket"}
+      }
+    },
+    {
+      "from": [7.3, 7.8, 2.8],
+      "to": [15.7, 9.2, 13.2],
+      "rotation": {
+        "angle": -45,
+        "axis": "z",
+        "origin": [8, 8.5, 10]
+      },
+      "faces": {
+        "north": {"uv": [9, 0, 9.5, 4], "rotation": 270, "texture": "#water_bucket"},
+        "east": {"uv": [9, 3.5, 14, 4], "rotation": 180, "texture": "#water_bucket"},
+        "south": {"uv": [9, 0, 9.5, 4], "rotation": 90, "texture": "#water_bucket"}
+      }
+    },
+    {
+      "from": [15.7, 9.2, 13.2],
+      "to": [7.3, 7.8, 2.8],
+      "rotation": {
+        "angle": -45,
+        "axis": "z",
+        "origin": [8, 8.5, 10]
+      },
+      "faces": {
+        "north": {"uv": [9.5, 0, 9, 4], "rotation": 90, "texture": "#water_bucket"},
+        "south": {"uv": [9.5, 0, 9, 4], "rotation": 270, "texture": "#water_bucket"},
+        "west": {"uv": [9, 4, 14, 3.5], "rotation": 180, "texture": "#water_bucket"}
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [50, 45, 0],
+      "translation": [0, 1.5, 1.25],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [50, -45, 0],
+      "translation": [0, 1.5, 1.25],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, 45, 0],
+      "translation": [1.25, 3.75, 0],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 45, 0],
+      "translation": [0.75, 3.75, -0.5],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "ground": {
+      "translation": [0, 3.75, 0],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "gui": {
+      "rotation": [20, 135, 0],
+      "translation": [-0.5, 0, 0],
+      "scale": [0.7, 0.7, 0.7]
+    },
+    "head": {
+      "translation": [0, -4.5, 0],
+      "scale": [0.1, 0.1, 0.1]
+    },
+    "fixed": {
+      "rotation": [-90, 0, 0],
+      "translation": [0, 0, -16.001],
+      "scale": [2, 2, 2]
+    }
+  }
+}
