@@ -1,0 +1,47 @@
+{
+  "texture_size": [32, 32],
+  "textures": {
+    "0": "item/style/decoration_hats/autumn_leaf_ribbon",
+    "particle": "item/style/decoration_hats/autumn_leaf_ribbon"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 8],
+      "to": [16, 16, 8],
+      "faces": {
+        "north": {"uv": [0, 0, 8, 8], "texture": "#0"},
+        "east": {"uv": [0, 0, 0, 8], "texture": "#0"},
+        "south": {"uv": [8, 0, 0, 8], "texture": "#0"},
+        "west": {"uv": [0, 0, 0, 8], "texture": "#0"},
+        "up": {"uv": [8, 0, 0, 0], "texture": "#0"},
+        "down": {"uv": [8, 0, 0, 0], "texture": "#0"}
+      }
+    }
+  ],
+  "gui_light": "front",
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [0, 4.25, -0.25],
+      "scale": [0.6, 0.6, 0.6]
+    },
+    "thirdperson_lefthand": {
+      "translation": [0, 4.25, -0.25],
+      "scale": [0.6, 0.6, 0.6]
+    },
+    "firstperson_righthand": {
+      "translation": [10.75, 0, -11]
+    },
+    "firstperson_lefthand": {
+      "translation": [10.75, 0, -11]
+    },
+    "gui": {
+      "translation": [-0.25, 0, 0],
+      "scale": [0.9, 0.9, 0.9]
+    },
+    "head": {
+      "rotation": [22.04, -33.68, 14.35],
+      "translation": [6, 6.75, -7.25],
+      "scale": [0.75, 0.75, 0.75]
+    }
+  }
+}
