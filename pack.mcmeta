@@ -8,16 +8,5 @@
     },
     "min_format": [63, 0],
     "max_format": [99, 0]
-  },
-  "overlays": {
-    "entries": [
-      {
-        "directory": "overlay_26_1",
-        "formats": {
-          "min_inclusive": 84,
-          "max_inclusive": 99
-        }
-      }
-    ]
   }
 }
