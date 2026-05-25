@@ -1,7 +1,58 @@
 {
-  "parent": "item/generated",
+  "gui_light": "front",
+  "display": {
+    "ground": {
+      "rotation": [0, 0, 0],
+      "translation": [0, 2, 0],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "head": {
+      "rotation": [0, 180, 0],
+      "translation": [0, 13, 7],
+      "scale": [1, 1, 1]
+    },
+    "thirdperson_righthand": {
+      "rotation": [0, -90, 55],
+      "translation": [0, 4, 0.5],
+      "scale": [0.85, 0.85, 0.85]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, 90, -55],
+      "translation": [0, 4, 0.5],
+      "scale": [0.85, 0.85, 0.85]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -90, 25],
+      "translation": [1.13, 3.2, 1.13],
+      "scale": [0.68, 0.68, 0.68]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 90, -25],
+      "translation": [1.13, 3.2, 1.13],
+      "scale": [0.68, 0.68, 0.68]
+    },
+    "fixed": {
+      "rotation": [0, 180, 0],
+      "translation": [0, 0, 0],
+      "scale": [1, 1, 1]
+    }
+  },
   "texture_size": [18, 18],
   "textures": {
     "layer0": "item/canvas"
-  }
+  },
+  "elements": [
+    {
+      "from": [0, 17, 7.5],
+      "to": [1, 18, 8.5],
+      "faces": {
+        "north": {"uv": [0, 0, 1, 1], "texture": "#layer0", "tintindex": 0},
+        "south": {"uv": [0, 0, 1, 1], "texture": "#layer0", "tintindex": 0},
+        "east": {"uv": [0, 0, 1, 1], "texture": "#layer0", "tintindex": 0},
+        "west": {"uv": [0, 0, 1, 1], "texture": "#layer0", "tintindex": 0},
+        "up": {"uv": [0, 0, 1, 1], "texture": "#layer0", "tintindex": 0},
+        "down": {"uv": [0, 0, 1, 1], "texture": "#layer0", "tintindex": 0}
+      }
+    }
+  ]
 }
