@@ -723,6 +723,7 @@
   "items.sky_island_crystal_fragment": "空島水晶碎片",
   "items.surprise_box": "驚喜盒",
   "items.unactivated_sky_island_crystal": "未激活的空島水晶",
+  "menu.game": "catbud.net 伺服器",
   "plugins.action_recorder.ago_with": "%s 之前",
   "plugins.action_recorder.caused_by": "經由 %s",
   "plugins.action_recorder.damage_is": "傷害 %s",

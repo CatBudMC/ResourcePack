@@ -723,6 +723,7 @@
   "items.sky_island_crystal_fragment": "스카이아일랜드 수정 파편",
   "items.surprise_box": "서프라이즈 박스",
   "items.unactivated_sky_island_crystal": "미활성화된 스카이아일랜드 수정",
+  "menu.game": "catbud.net 서버",
   "plugins.action_recorder.ago_with": "%s 전",
   "plugins.action_recorder.caused_by": "%s을(를) 통해",
   "plugins.action_recorder.damage_is": "피해 %s",

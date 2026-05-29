@@ -723,6 +723,7 @@
   "items.sky_island_crystal_fragment": "Sky Island Crystal Fragment",
   "items.surprise_box": "Surprise Box",
   "items.unactivated_sky_island_crystal": "Unactivated Sky Island Crystal",
+  "menu.game": "catbud.net Server",
   "plugins.action_recorder.ago_with": "%s ago",
   "plugins.action_recorder.caused_by": "via %s",
   "plugins.action_recorder.damage_is": "Damage: %s",
