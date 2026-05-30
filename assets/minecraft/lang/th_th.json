@@ -1182,6 +1182,7 @@
   "plugins.king_battle.ready_start_countdown": "%s แล้วเริ่ม...",
   "plugins.king_battle.team_composition": "องค์ประกอบทีม: %s",
   "plugins.king_battle.time_coming": "ใกล้หมดเวลาแล้ว",
+  "plugins.king_battle.top_coins_glow": "ผู้เล่นที่มีเหรียญมากที่สุดจะเปล่งแสง!",
   "plugins.king_battle.tracking_distance": "ห่าง %s บล็อก",
   "plugins.legendary_weapon.expiration_date_is": "หมดอายุ %s",
   "plugins.legendary_weapon.expiration_warning": "ไอเทมนี้จะหายไปหลังหมดอายุ",

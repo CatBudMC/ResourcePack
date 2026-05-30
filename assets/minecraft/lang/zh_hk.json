@@ -1182,6 +1182,7 @@
   "plugins.king_battle.ready_start_countdown": "%s 後開始...",
   "plugins.king_battle.team_composition": "隊伍組成：%s",
   "plugins.king_battle.time_coming": "時間快到了",
+  "plugins.king_battle.top_coins_glow": "持有最多金幣的人會發光！",
   "plugins.king_battle.tracking_distance": "距離 %s 格遠",
   "plugins.legendary_weapon.expiration_date_is": "%s 過期",
   "plugins.legendary_weapon.expiration_warning": "此物品在過期後會消失",
