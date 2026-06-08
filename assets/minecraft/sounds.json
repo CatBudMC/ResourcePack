@@ -877,6 +877,12 @@
       "item_addons/execute_proxy_command"
     ]
   },
+  "plugins.item_addons.humanoid_armor_stand_apply_catnip": {
+    "subtitle": "plugins.item_addons.humanoid_armor_stand_apply_catnip",
+    "sounds": [
+      "item_addons/humanoid_armor_stand_apply_catnip"
+    ]
+  },
   "plugins.item_addons.item_frame_transparent_masking_install": {
     "subtitle": "plugins.item_addons.item_frame_transparent_masking_install",
     "sounds": [
