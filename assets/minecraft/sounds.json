@@ -871,6 +871,12 @@
       "entity/armorstand/break4"
     ]
   },
+  "plugins.item_addons.enderman_exile_core_call": {
+    "subtitle": "plugins.item_addons.enderman_exile_core_call",
+    "sounds": [
+      "item_addons/enderman_exile_core_call"
+    ]
+  },
   "plugins.item_addons.execute_proxy_command": {
     "subtitle": "plugins.item_addons.execute_proxy_command",
     "sounds": [
