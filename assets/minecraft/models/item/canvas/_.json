@@ -39,6 +39,7 @@
   },
   "texture_size": [18, 18],
   "textures": {
+    "particle": "#layer0",
     "layer0": "item/canvas"
   },
   "elements": [

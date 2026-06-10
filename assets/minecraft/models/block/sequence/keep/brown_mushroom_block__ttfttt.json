@@ -1,5 +1,6 @@
 {
   "textures": {
+    "particle": "#t",
     "f": "block/mushroom_block_inside",
     "t": "block/brown_mushroom_block"
   },
