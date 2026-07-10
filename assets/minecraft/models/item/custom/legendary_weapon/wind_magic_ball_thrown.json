@@ -1,0 +1,6 @@
+{
+  "parent": "item/custom/legendary_weapon/_magic_ball_thrown",
+  "textures": {
+    "layer0": "item/custom/legendary_weapon/wind_magic_ball_thrown"
+  }
+}

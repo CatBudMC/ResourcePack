@@ -910,6 +910,12 @@
       "time_coming"
     ]
   },
+  "plugins.legendary_weapon.magic_ball_bounce": {
+    "subtitle": "plugins.legendary_weapon.magic_ball_bounce",
+    "sounds": [
+      "legendary_weapon/magic_ball_bounce"
+    ]
+  },
   "plugins.leisure_parkour.go_location": {
     "subtitle": "plugins.leisure_parkour.go_location",
     "sounds": [

@@ -1,5 +1,5 @@
 {
-  "parent": "item/custom/legendary_weapon/_",
+  "parent": "item/custom/legendary_weapon/_magic_sword",
   "textures": {
     "layer0": "item/custom/legendary_weapon/void_magic_sword"
   }
