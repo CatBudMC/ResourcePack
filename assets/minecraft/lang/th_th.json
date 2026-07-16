@@ -584,6 +584,7 @@
   "commands.vitality.no_players_online": "ไม่มีผู้เล่นออนไลน์",
   "commands.vitality.results": "ค่าพลังชีวิตผู้เล่นออนไลน์: %s",
   "death.attack.explosion.item": "%1$s ระเบิดตัวเอง",
+  "death.attack.outOfWorld.item": "%1$s ตกออกมานอกโลก",
   "enchantment.addons.action_sound.kizuna_akari": "เสียงแอ็คชัน Kizuna Akari",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "เมื่อสวมใส่บนหมวกกันน็อค การกระทำหลายอย่างจะมีเสียงน่ารัก!",
   "enchantment.addons.action_sound.kotonoha_akane": "เสียงแอ็คชัน Kotonoha Akane",
