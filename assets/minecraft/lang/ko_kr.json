@@ -584,6 +584,7 @@
   "commands.vitality.no_players_online": "온라인 플레이어가 없습니다",
   "commands.vitality.results": "온라인 플레이어 활력값: %s",
   "death.attack.explosion.item": "%1$s 이(가) 폭발했습니다",
+  "death.attack.outOfWorld.item": "%1$s이(가) 세계 밖으로 떨어졌습니다",
   "enchantment.addons.action_sound.kizuna_akari": "동작 음효 키즈나 아카리",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "헬멧 착용 시 많은 행동이 귀여운 음효를 냅니다!",
   "enchantment.addons.action_sound.kotonoha_akane": "동작 음효 코토노하 아카네",

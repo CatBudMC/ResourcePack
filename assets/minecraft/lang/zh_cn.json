@@ -584,6 +584,7 @@
   "commands.vitality.no_players_online": "没有任何玩家在线上",
   "commands.vitality.results": "在线玩家活力值：%s",
   "death.attack.explosion.item": "%1$s 自爆了",
+  "death.attack.outOfWorld.item": "%1$s掉出了这个世界",
   "enchantment.addons.action_sound.kizuna_akari": "动作音效 纲星灯",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "装备在头盔时许多行为发出可爱的音效！",
   "enchantment.addons.action_sound.kotonoha_akane": "动作音效 琴叶茜",

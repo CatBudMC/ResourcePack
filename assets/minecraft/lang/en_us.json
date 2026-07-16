@@ -584,6 +584,7 @@
   "commands.vitality.no_players_online": "No players are online",
   "commands.vitality.results": "Online player vitality values: %s",
   "death.attack.explosion.item": "%1$s self-destructed",
+  "death.attack.outOfWorld.item": "%1$s fell out of the world",
   "enchantment.addons.action_sound.kizuna_akari": "Voice: Kizuna Akari",
   "enchantment.addons.action_sound.kizuna_akari.lore.0": "Many actions play cute sounds when equipped on a helmet!",
   "enchantment.addons.action_sound.kotonoha_akane": "Voice: Kotonoha Akane",
