@@ -749,6 +749,7 @@
   "plugins.action_recorder.log.block_execute": "Block Execute",
   "plugins.action_recorder.log.block_place": "Block Place",
   "plugins.action_recorder.log.block_update": "Block Update",
+  "plugins.action_recorder.log.chunk_override": "Chunk Data Override",
   "plugins.action_recorder.log.chunk_regen": "Chunk Regen",
   "plugins.action_recorder.log.entity_capture": "Entity Capture",
   "plugins.action_recorder.log.entity_change": "Entity Change",

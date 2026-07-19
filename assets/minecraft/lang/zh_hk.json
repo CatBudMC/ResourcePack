@@ -749,6 +749,7 @@
   "plugins.action_recorder.log.block_execute": "方塊執行",
   "plugins.action_recorder.log.block_place": "方塊放置",
   "plugins.action_recorder.log.block_update": "方塊更新",
+  "plugins.action_recorder.log.chunk_override": "區塊資料覆蓋",
   "plugins.action_recorder.log.chunk_regen": "區塊重新生成",
   "plugins.action_recorder.log.entity_capture": "實體捕捉",
   "plugins.action_recorder.log.entity_change": "實體更改",

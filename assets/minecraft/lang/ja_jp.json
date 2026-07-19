@@ -749,6 +749,7 @@
   "plugins.action_recorder.log.block_execute": "ブロック実行",
   "plugins.action_recorder.log.block_place": "ブロック設置",
   "plugins.action_recorder.log.block_update": "ブロック更新",
+  "plugins.action_recorder.log.chunk_override": "チャンクデータ上書き",
   "plugins.action_recorder.log.chunk_regen": "チャンク再生成",
   "plugins.action_recorder.log.entity_capture": "エンティティ捕獲",
   "plugins.action_recorder.log.entity_change": "エンティティ変更",

@@ -749,6 +749,7 @@
   "plugins.action_recorder.log.block_execute": "블록 실행",
   "plugins.action_recorder.log.block_place": "블록 설치",
   "plugins.action_recorder.log.block_update": "블록 업데이트",
+  "plugins.action_recorder.log.chunk_override": "청크 데이터 덮어쓰기",
   "plugins.action_recorder.log.chunk_regen": "청크 재생성",
   "plugins.action_recorder.log.entity_capture": "엔티티 포획",
   "plugins.action_recorder.log.entity_change": "엔티티 변경",

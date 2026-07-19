@@ -749,6 +749,7 @@
   "plugins.action_recorder.log.block_execute": "Pelaksanaan Blok",
   "plugins.action_recorder.log.block_place": "Penempatan Blok",
   "plugins.action_recorder.log.block_update": "Kemaskini Blok",
+  "plugins.action_recorder.log.chunk_override": "Tulis Ganti Data Chunk",
   "plugins.action_recorder.log.chunk_regen": "Penjanaan Semula Chunk",
   "plugins.action_recorder.log.entity_capture": "Penangkapan Entiti",
   "plugins.action_recorder.log.entity_change": "Perubahan Entiti",

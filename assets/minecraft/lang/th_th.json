@@ -749,6 +749,7 @@
   "plugins.action_recorder.log.block_execute": "รันบล็อก",
   "plugins.action_recorder.log.block_place": "วางบล็อก",
   "plugins.action_recorder.log.block_update": "อัปเดตบล็อก",
+  "plugins.action_recorder.log.chunk_override": "เขียนทับข้อมูลชังค์",
   "plugins.action_recorder.log.chunk_regen": "รีเจนชังค์",
   "plugins.action_recorder.log.entity_capture": "จับเอนทิตี",
   "plugins.action_recorder.log.entity_change": "เปลี่ยนเอนทิตี",
