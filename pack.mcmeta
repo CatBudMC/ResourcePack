@@ -8,5 +8,18 @@
     },
     "min_format": [63, 0],
     "max_format": [99, 0]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 63,
+          "max_inclusive": 75
+        },
+        "min_format": [63, 0],
+        "max_format": 75,
+        "directory": "legacy_player_doll"
+      }
+    ]
   }
 }
