@@ -18,7 +18,7 @@
         },
         "min_format": [63, 0],
         "max_format": 75,
-        "directory": "legacy_player_doll"
+        "directory": "overlay_1_21_11_to_1_21_6"
       }
     ]
   }

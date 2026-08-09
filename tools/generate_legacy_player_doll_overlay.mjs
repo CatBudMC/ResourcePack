@@ -3,7 +3,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const repoRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const overlayName = "legacy_player_doll";
+const overlayName = "overlay_1_21_11_to_1_21_6";
 const overlayRoot = path.join(repoRoot, overlayName);
 const itemRoot = path.join(repoRoot, "assets", "minecraft", "items", "custom");
 const modelRoot = path.join(repoRoot, "assets", "minecraft", "models");
