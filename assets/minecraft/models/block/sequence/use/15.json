@@ -1,1 +1,3 @@
-{"textures": {"particle": "block/mushroom_block_inside"}}
+{
+  "parent": "block/custom/landmark__off"
+}
