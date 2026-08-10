@@ -1,1 +1,3 @@
-{"textures": {"particle": "block/mushroom_block_inside"}}
+{
+  "parent": "block/custom/arrow__south__on"
+}
