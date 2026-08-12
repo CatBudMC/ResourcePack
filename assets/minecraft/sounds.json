@@ -17,6 +17,31 @@
       "auto_regenerate/regen_current_chunk"
     ]
   },
+  "plugins.blessing_shrine.coin_throw": {
+    "subtitle": "plugins.blessing_shrine.coin_throw",
+    "sounds": [
+      "blessing_shrine/coin_throw"
+    ]
+  },
+  "plugins.blessing_shrine.meteorite_collision": {
+    "subtitle": "plugins.blessing_shrine.meteorite_collision",
+    "sounds": [
+      "blessing_shrine/meteorite_collision"
+    ]
+  },
+  "plugins.blessing_shrine.shrine_prizes": {
+    "subtitle": "plugins.blessing_shrine.shrine_prizes",
+    "sounds": [
+      "blessing_shrine/shrine_prizes_0",
+      "blessing_shrine/shrine_prizes_1"
+    ]
+  },
+  "plugins.blessing_shrine.star_collision": {
+    "subtitle": "plugins.blessing_shrine.star_collision",
+    "sounds": [
+      "blessing_shrine/star_collision"
+    ]
+  },
   "plugins.chat_manager.msg_alert": {
     "subtitle": "plugins.chat_manager.msg_alert",
     "sounds": [

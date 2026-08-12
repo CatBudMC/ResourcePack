@@ -1,0 +1,38 @@
+{
+  "textures": {
+    "particle": "item/custom/blessing_shrine/falling_meteorite",
+    "all": "item/custom/blessing_shrine/falling_meteorite"
+  },
+  "elements": [
+    {
+      "from": [6, 6, 6],
+      "to": [10, 10, 10],
+      "faces": {
+        "down": {
+          "uv": [0, 0, 4, 4],
+          "texture": "#all"
+        },
+        "up": {
+          "uv": [4, 0, 8, 4],
+          "texture": "#all"
+        },
+        "north": {
+          "uv": [8, 0, 12, 4],
+          "texture": "#all"
+        },
+        "south": {
+          "uv": [12, 0, 16, 4],
+          "texture": "#all"
+        },
+        "west": {
+          "uv": [0, 4, 4, 8],
+          "texture": "#all"
+        },
+        "east": {
+          "uv": [4, 4, 8, 8],
+          "texture": "#all"
+        }
+      }
+    }
+  ]
+}

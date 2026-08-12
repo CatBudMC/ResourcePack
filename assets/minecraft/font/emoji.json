@@ -126,6 +126,7 @@
     {"type": "bitmap", "chars": ["\u0125"], "file": "emoji/mob/zombie_nautilus.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0126"], "file": "emoji/mob/mannequin.png", "height": 8, "ascent": 7},
     {"type": "bitmap", "chars": ["\u0127"], "file": "emoji/mob/humanoid_armor_stand.png", "height": 8, "ascent": 7},
-    {"type": "bitmap", "chars": ["\u0128"], "file": "emoji/mob/sulfur_cube.png", "height": 8, "ascent": 7}
+    {"type": "bitmap", "chars": ["\u0128"], "file": "emoji/mob/sulfur_cube.png", "height": 8, "ascent": 7},
+    {"type": "bitmap", "chars": ["\u0129"], "file": "emoji/amulet.png", "height": 8, "ascent": 7}
   ]
 }
