@@ -1170,5 +1170,29 @@
     "sounds": [
       "room_ready"
     ]
+  },
+  "plugins.infernal_calamity.lucifer.energy_ball_storage": {
+    "subtitle": "plugins.infernal_calamity.lucifer.energy_ball_storage",
+    "sounds": [
+      "infernal_calamity/lucifer/energy_ball_storage"
+    ]
+  },
+  "plugins.infernal_calamity.lucifer.energy_ball_shoot": {
+    "subtitle": "plugins.infernal_calamity.lucifer.energy_ball_shoot",
+    "sounds": [
+      "infernal_calamity/lucifer/energy_ball_shoot"
+    ]
+  },
+  "plugins.infernal_calamity.lucifer.energy_ball_hit": {
+    "subtitle": "plugins.infernal_calamity.lucifer.energy_ball_hit",
+    "sounds": [
+      "infernal_calamity/lucifer/energy_ball_hit"
+    ]
+  },
+  "plugins.infernal_calamity.lucifer.ground_impact_explosion": {
+    "subtitle": "plugins.infernal_calamity.lucifer.ground_impact_explosion",
+    "sounds": [
+      "infernal_calamity/lucifer/ground_impact_explosion"
+    ]
   }
 }
