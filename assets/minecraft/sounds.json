@@ -1194,5 +1194,56 @@
     "sounds": [
       "infernal_calamity/lucifer/ground_impact_explosion"
     ]
+  },
+  "plugins.infernal_calamity.lucifer.flame_throw": {
+    "subtitle": "plugins.infernal_calamity.lucifer.flame_throw",
+    "sounds": [
+      "infernal_calamity/lucifer/flame_throw"
+    ]
+  },
+  "plugins.infernal_calamity.lucifer.sword_energy": {
+    "subtitle": "plugins.infernal_calamity.lucifer.sword_energy",
+    "sounds": [
+      "infernal_calamity/lucifer/sword_energy"
+    ]
+  },
+  "plugins.infernal_calamity.lucifer.axe_hit": {
+    "subtitle": "plugins.infernal_calamity.lucifer.axe_hit",
+    "sounds": [
+      "infernal_calamity/lucifer/axe_hit"
+    ]
+  },
+  "plugins.infernal_calamity.lucifer.sword_hit": {
+    "subtitle": "plugins.infernal_calamity.lucifer.sword_hit",
+    "sounds": [
+      "infernal_calamity/lucifer/sword_hit"
+    ]
+  },
+  "plugins.infernal_calamity.lucifer.wings_flapping": {
+    "subtitle": "plugins.infernal_calamity.lucifer.wings_flapping",
+    "sounds": [
+      "infernal_calamity/lucifer/wings_flapping_0",
+      "infernal_calamity/lucifer/wings_flapping_1",
+      "infernal_calamity/lucifer/wings_flapping_2",
+      "infernal_calamity/lucifer/wings_flapping_3"
+    ]
+  },
+  "plugins.infernal_calamity.lucifer.trident_dash": {
+    "subtitle": "plugins.infernal_calamity.lucifer.trident_dash",
+    "sounds": [
+      "infernal_calamity/lucifer/trident_dash"
+    ]
+  },
+  "plugins.infernal_calamity.lucifer.sword_plant": {
+    "subtitle": "plugins.infernal_calamity.lucifer.sword_plant",
+    "sounds": [
+      "infernal_calamity/lucifer/sword_plant"
+    ]
+  },
+  "plugins.infernal_calamity.lucifer.sword_wiper": {
+    "subtitle": "plugins.infernal_calamity.lucifer.sword_wiper",
+    "sounds": [
+      "infernal_calamity/lucifer/sword_wiper"
+    ]
   }
 }
