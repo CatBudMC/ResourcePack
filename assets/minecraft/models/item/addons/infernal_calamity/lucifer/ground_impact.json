@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/addons/infernal_calamity/lucifer/ground_impact"
+  }
+}
