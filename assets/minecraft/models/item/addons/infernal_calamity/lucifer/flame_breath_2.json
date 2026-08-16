@@ -1,5 +1,5 @@
 {
-  "parent": "block/cross",
+  "parent": "item/addons/infernal_calamity/lucifer/flame_breath_cross",
   "textures": {
     "cross": "item/addons/infernal_calamity/lucifer/flame_breath_2"
   }
