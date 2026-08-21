@@ -1,8 +1,0 @@
-{
-  "parent": "block/custom/arrow/template_north",
-  "textures": {
-    "self": "block/custom/arrow/arrow_self__off",
-    "bloom_forward": "block/custom/arrow/arrow_bloom__off",
-    "bloom_reverse": "block/custom/arrow/arrow_bloom__off"
-  }
-}

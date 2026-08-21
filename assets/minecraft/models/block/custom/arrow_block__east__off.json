@@ -1,0 +1,8 @@
+{
+  "parent": "block/custom/arrow_block/template_east",
+  "textures": {
+    "self": "block/custom/arrow_block/arrow_block_self__off",
+    "bloom_forward": "block/custom/arrow_block/arrow_block_bloom__off",
+    "bloom_reverse": "block/custom/arrow_block/arrow_block_bloom__off"
+  }
+}
