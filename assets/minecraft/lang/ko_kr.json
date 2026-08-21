@@ -1767,6 +1767,7 @@
   "plugins.primary_menu.mail.lore.0": "게임 코인 / 아이템 / 명령어 첨부 파일이 포함된 메일 보내기 또는 받기",
   "plugins.primary_menu.mail.lore.1": "메일을 일괄 선택하여 읽음 또는 삭제 가능",
   "plugins.primary_menu.mail.lore.2": "차단된 플레이어가 보낸 메일은 즉시 삭제됩니다",
+  "plugins.primary_menu.mail.unread": "읽지 않음 %s %s",
   "plugins.primary_menu.mode_last_page": "모드 이전 페이지",
   "plugins.primary_menu.mode_next_page": "모드 다음 페이지",
   "plugins.primary_menu.more": "더 보기",

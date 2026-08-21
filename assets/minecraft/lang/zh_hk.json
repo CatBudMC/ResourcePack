@@ -1767,6 +1767,7 @@
   "plugins.primary_menu.mail.lore.0": "寄送或接收含有遊戲幣／物品／指令附件的郵件",
   "plugins.primary_menu.mail.lore.1": "可批量選擇要已讀或刪除的郵件",
   "plugins.primary_menu.mail.lore.2": "被屏蔽玩家寄來的郵件將直接被銷毀",
+  "plugins.primary_menu.mail.unread": "未讀 %s %s",
   "plugins.primary_menu.mode_last_page": "模式上頁",
   "plugins.primary_menu.mode_next_page": "模式下頁",
   "plugins.primary_menu.more": "更多",

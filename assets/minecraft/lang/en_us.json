@@ -1767,6 +1767,7 @@
   "plugins.primary_menu.mail.lore.0": "Send or receive mails with coins / items / command attachments",
   "plugins.primary_menu.mail.lore.1": "Bulk select mails to mark as read or delete",
   "plugins.primary_menu.mail.lore.2": "Mails from blocked players will be destroyed immediately",
+  "plugins.primary_menu.mail.unread": "Unread %s %s",
   "plugins.primary_menu.mode_last_page": "Mode previous page",
   "plugins.primary_menu.mode_next_page": "Mode next page",
   "plugins.primary_menu.more": "More",

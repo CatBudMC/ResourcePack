@@ -1767,6 +1767,7 @@
   "plugins.primary_menu.mail.lore.0": "Hantar atau terima mel dengan lampiran mata wang permainan / item / arahan",
   "plugins.primary_menu.mail.lore.1": "Boleh pilih secara berkelompok mel untuk ditandai baca atau dipadam",
   "plugins.primary_menu.mail.lore.2": "Mel dari pemain yang disekat akan terus dimusnahkan",
+  "plugins.primary_menu.mail.unread": "Belum dibaca %s %s",
   "plugins.primary_menu.mode_last_page": "Halaman Sebelumnya Mod",
   "plugins.primary_menu.mode_next_page": "Halaman Seterusnya Mod",
   "plugins.primary_menu.more": "Lagi",

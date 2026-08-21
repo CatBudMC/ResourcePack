@@ -1767,6 +1767,7 @@
   "plugins.primary_menu.mail.lore.0": "ゲームコイン／アイテム／コマンド添付のメールを送受信",
   "plugins.primary_menu.mail.lore.1": "既読または削除するメールを一括選択できます",
   "plugins.primary_menu.mail.lore.2": "ブロックしたプレイヤーから届いたメールは直接破棄されます",
+  "plugins.primary_menu.mail.unread": "未読 %s %s",
   "plugins.primary_menu.mode_last_page": "モードの前のページ",
   "plugins.primary_menu.mode_next_page": "モードの次のページ",
   "plugins.primary_menu.more": "その他",

@@ -1767,6 +1767,7 @@
   "plugins.primary_menu.mail.lore.0": "ส่งหรือรับอีเมลที่มีเหรียญในเกม/ไอเทม/ไฟล์แนบคำสั่ง",
   "plugins.primary_menu.mail.lore.1": "สามารถเลือกหลายฉบับเพื่ออ่านหรือลบได้",
   "plugins.primary_menu.mail.lore.2": "อีเมลจากผู้เล่นที่ถูกบล็อกจะถูกทำลายทันที",
+  "plugins.primary_menu.mail.unread": "ยังไม่ได้อ่าน %s %s",
   "plugins.primary_menu.mode_last_page": "หน้าก่อนหน้าของโหมด",
   "plugins.primary_menu.mode_next_page": "หน้าถัดไปของโหมด",
   "plugins.primary_menu.more": "เพิ่มเติม",
