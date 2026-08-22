@@ -1172,6 +1172,7 @@
   "plugins.enchant_addons.conflict_with_others": "ขัดแย้งกับอีก %s รายการ",
   "plugins.enchant_addons.max_level_is": "เลเวลสูงสุด %s",
   "plugins.enchant_addons.multiple_access_options": "มีวิธีรับทั้งหมด %s วิธี",
+  "plugins.enchant_addons.multi_jump_use": "ผู้เล่นกระโดดกลางอากาศ",
   "plugins.enchant_addons.recovery_break_item": "กู้คืนไอเทมที่เสียหาย",
   "plugins.enchant_addons.trigger_critical_chance": "กระตุ้นโอกาสคริติคัล",
   "plugins.energy_saving.entity_detached_exit": "เอนทิตีออกจากพื้นที่แยก",

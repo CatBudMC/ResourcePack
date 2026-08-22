@@ -1172,6 +1172,7 @@
   "plugins.enchant_addons.conflict_with_others": "与另外 %s 个冲突",
   "plugins.enchant_addons.max_level_is": "最大等级 %s",
   "plugins.enchant_addons.multiple_access_options": "共 %s 种获取方式",
+  "plugins.enchant_addons.multi_jump_use": "玩家空中跳跃",
   "plugins.enchant_addons.recovery_break_item": "救援损坏物品",
   "plugins.enchant_addons.trigger_critical_chance": "触发爆击可能",
   "plugins.energy_saving.entity_detached_exit": "实体离开分离空间",

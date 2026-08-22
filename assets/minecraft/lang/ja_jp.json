@@ -1172,6 +1172,7 @@
   "plugins.enchant_addons.conflict_with_others": "他の %s 個と競合しています",
   "plugins.enchant_addons.max_level_is": "最大レベル %s",
   "plugins.enchant_addons.multiple_access_options": "合計 %s 種類の入手方法",
+  "plugins.enchant_addons.multi_jump_use": "プレイヤーが空中でジャンプ",
   "plugins.enchant_addons.recovery_break_item": "破損アイテムを救援",
   "plugins.enchant_addons.trigger_critical_chance": "クリティカルチャンスを発動",
   "plugins.energy_saving.entity_detached_exit": "エンティティが分離空間を退出しました",

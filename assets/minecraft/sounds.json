@@ -839,6 +839,12 @@
       "action_sound/yuzuki_yukari/upgrade_success_1"
     ]
   },
+  "plugins.enchant_addons.multi_jump_use": {
+    "subtitle": "plugins.enchant_addons.multi_jump_use",
+    "sounds": [
+      "enchant_addons/multi_jump_use"
+    ]
+  },
   "plugins.enchant_addons.recovery_break_item": {
     "subtitle": "plugins.enchant_addons.recovery_break_item",
     "sounds": [

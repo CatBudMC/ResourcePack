@@ -1172,6 +1172,7 @@
   "plugins.enchant_addons.conflict_with_others": "다른 %s개와 충돌",
   "plugins.enchant_addons.max_level_is": "최대 레벨 %s",
   "plugins.enchant_addons.multiple_access_options": "총 %s가지 획득 방법",
+  "plugins.enchant_addons.multi_jump_use": "플레이어가 공중에서 점프함",
   "plugins.enchant_addons.recovery_break_item": "파손 아이템 구제",
   "plugins.enchant_addons.trigger_critical_chance": "치명타 확률 발동",
   "plugins.energy_saving.entity_detached_exit": "엔티티가 분리 공간에서 나갔습니다",

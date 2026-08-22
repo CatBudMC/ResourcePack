@@ -1172,6 +1172,7 @@
   "plugins.enchant_addons.conflict_with_others": "Conflicts with %s other(s)",
   "plugins.enchant_addons.max_level_is": "Max level: %s",
   "plugins.enchant_addons.multiple_access_options": "%s acquisition method(s) available",
+  "plugins.enchant_addons.multi_jump_use": "Player jumps in midair",
   "plugins.enchant_addons.recovery_break_item": "Recover Broken Item",
   "plugins.enchant_addons.trigger_critical_chance": "Trigger Critical Chance",
   "plugins.energy_saving.entity_detached_exit": "Entity left detached space",
